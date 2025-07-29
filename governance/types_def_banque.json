@@ -1,0 +1,42 @@
+{
+  "entityDefs": [
+    {
+      "name": "table_column",
+      "superTypes": ["Referenceable"],
+      "typeVersion": "1.0",
+      "attributeDefs": [
+        { "name": "name", "typeName": "string", "isOptional": false },
+        { "name": "data_type", "typeName": "string", "isOptional": true },
+        { "name": "nullable", "typeName": "boolean", "isOptional": true }
+      ]
+    },
+    {
+      "name": "postgres_table",
+      "superTypes": ["DataSet"],
+      "typeVersion": "1.0",
+      "serviceType": "postgres",
+      "attributeDefs": [
+        { "name": "level", "typeName": "string", "isOptional": true }
+      ]
+    }
+  ],
+  "relationshipDefs": [
+    {
+      "name": "table_has_columns",
+      "relationshipCategory": "ASSOCIATION",
+      "propagateTags": "NONE",
+      "endDef1": {
+        "type": "postgres_table",
+        "name": "table",
+        "isContainer": false,
+        "cardinality": "SINGLE"
+      },
+      "endDef2": {
+        "type": "table_column",
+        "name": "columns",
+        "isContainer": false,
+        "cardinality": "SET"
+      }
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+id_souscription,client_id,produit_id,date_souscription,statut,mode_paiement,frequence_paiement,montant_total
+1,248,409,2024-12-03,annule,virement,annuelle,39459.66
+2,25,60,2025-01-17,termine,carte bancaire,trimestrielle,40045.17
+3,308,377,2023-08-07,suspendue,virement,mensuelle,4041.94
+4,453,132,2022-08-23,active,prlvement,mensuelle,17781.17
+5,323,276,2023-08-30,active,prlvement,annuelle,24198.38
+6,293,37,2023-09-27,annule,prlvement,trimestrielle,18287.85
+7,266,132,2023-01-27,active,virement,mensuelle,2489.91
+8,151,20,2024-09-29,active,prlvement,annuelle,20911.02
+9,435,184,2024-12-05,annule,carte bancaire,trimestrielle,19559.68
+10,406,109,2022-12-25,annule,carte bancaire,annuelle,40581.57
+11,180,88,2024-04-08,annule,prlvement,mensuelle,14461.67
+12,459,283,2024-04-07,suspendue,prlvement,trimestrielle,21537.45
+13,162,228,2024-04-22,termine,virement,mensuelle,48326.37
+14,272,21,2025-03-10,termine,carte bancaire,trimestrielle,37054.72
+15,46,260,2024-03-27,active,virement,annuelle,44676.34
+16,406,417,2022-09-07,termine,prlvement,mensuelle,34222.57
+17,191,31,2023-02-11,active,prlvement,annuelle,16830.11
+18,12,158,2023-11-17,suspendue,virement,trimestrielle,47034.12
+19,225,445,2024-07-28,active,prlvement,trimestrielle,4022.23
+20,222,351,2024-12-06,annule,prlvement,trimestrielle,42909.45
+21,497,370,2024-11-16,termine,virement,mensuelle,31479.25
+22,354,493,2025-01-21,suspendue,virement,annuelle,12751.49
+23,299,235,2024-01-21,termine,prlvement,mensuelle,8526.99
+24,158,494,2022-10-21,termine,virement,trimestrielle,25739.84
+25,472,150,2023-12-22,annule,prlvement,annuelle,21261.31
+26,188,390,2022-05-28,suspendue,prlvement,annuelle,15761.38
+27,483,341,2022-07-21,suspendue,virement,annuelle,44789.23
+28,35,444,2022-08-25,active,virement,trimestrielle,31819.4
+29,140,483,2023-03-06,annule,prlvement,annuelle,29986.99
+30,364,81,2022-10-01,termine,carte bancaire,annuelle,16568.43
+31,295,48,2022-10-20,annule,prlvement,annuelle,45519.7
+32,295,157,2023-05-03,active,virement,annuelle,33197.2
+33,197,174,2025-03-02,annule,prlvement,mensuelle,44157.48
+34,408,297,2024-12-18,suspendue,carte bancaire,annuelle,14815.21
+35,380,432,2024-05-26,termine,carte bancaire,mensuelle,32378.98
+36,245,385,2024-06-09,suspendue,prlvement,trimestrielle,33470.93
+37,345,413,2024-03-13,termine,prlvement,trimestrielle,42758.18
+38,241,474,2022-08-04,suspendue,prlvement,annuelle,2741.69
+39,128,141,2024-08-09,suspendue,prlvement,mensuelle,28363.69
+40,438,276,2024-04-23,termine,virement,trimestrielle,6776.44
+41,276,293,2025-02-07,termine,prlvement,trimestrielle,22043.25
+42,235,222,2024-11-17,termine,carte bancaire,trimestrielle,37800.7
+43,355,313,2024-04-07,active,carte bancaire,mensuelle,30268.72
+44,458,187,2025-02-19,suspendue,prlvement,trimestrielle,6745.89
+45,296,337,2024-07-14,suspendue,virement,trimestrielle,22043.81
+46,297,255,2025-01-11,active,carte bancaire,trimestrielle,21312.78
+47,439,230,2024-10-07,annule,carte bancaire,mensuelle,1794.82
+48,192,434,2023-01-04,termine,carte bancaire,mensuelle,39926.93
+49,376,303,2024-09-25,termine,prlvement,mensuelle,33247.91
+50,439,143,2023-05-02,termine,prlvement,trimestrielle,45876.75
+51,57,140,2022-07-21,active,prlvement,trimestrielle,42370.58
+52,240,484,2024-09-30,active,virement,trimestrielle,49803.09
+53,384,10,2022-07-20,active,prlvement,trimestrielle,48154.2
+54,132,317,2024-03-22,annule,virement,annuelle,41620.83
+55,318,355,2024-04-24,annule,prlvement,trimestrielle,7043.18
+56,200,323,2022-11-26,suspendue,prlvement,trimestrielle,47513.99
+57,137,479,2023-08-31,annule,prlvement,trimestrielle,36761.86
+58,364,343,2024-08-29,termine,prlvement,annuelle,20795.02
+59,124,424,2023-07-30,annule,carte bancaire,trimestrielle,48592.19
+60,2,363,2022-07-06,annule,virement,annuelle,44975.6
+61,488,111,2022-07-11,active,carte bancaire,trimestrielle,8447.15
+62,476,376,2024-11-18,termine,virement,annuelle,31438.86
+63,357,397,2025-01-12,suspendue,prlvement,trimestrielle,28803.34
+64,345,260,2022-04-30,termine,virement,annuelle,27988.47
+65,140,431,2024-01-26,suspendue,carte bancaire,annuelle,49134.44
+66,419,207,2023-02-06,active,virement,trimestrielle,46293.69
+67,416,313,2024-12-30,active,carte bancaire,mensuelle,39004.47
+68,223,349,2023-09-18,annule,prlvement,annuelle,9037.73
+69,464,395,2022-06-01,annule,virement,annuelle,18337.76
+70,29,492,2024-10-17,termine,carte bancaire,trimestrielle,40197.41
+71,222,182,2023-06-18,suspendue,prlvement,trimestrielle,43598.16
+72,240,349,2024-01-16,annule,virement,trimestrielle,24803.14
+73,216,148,2025-04-20,active,carte bancaire,mensuelle,19784.76
+74,484,349,2023-12-09,termine,carte bancaire,trimestrielle,1574.49
+75,429,352,2025-02-20,termine,virement,trimestrielle,30565.54
+76,177,19,2023-12-26,active,prlvement,annuelle,4160.91
+77,219,314,2022-04-27,termine,carte bancaire,mensuelle,24277.73
+78,261,73,2023-09-23,suspendue,virement,trimestrielle,33659.59
+79,11,269,2022-04-24,active,virement,mensuelle,37833.61
+80,384,158,2024-01-28,active,virement,mensuelle,47373.62
+81,246,154,2024-07-02,suspendue,virement,trimestrielle,28923.8
+82,367,90,2024-09-18,annule,carte bancaire,trimestrielle,5334.62
+83,2,47,2022-06-01,termine,carte bancaire,annuelle,32116.07
+84,465,313,2023-01-30,active,virement,annuelle,34866.13
+85,294,434,2023-11-07,annule,prlvement,trimestrielle,2451.61
+86,35,55,2023-11-17,suspendue,carte bancaire,trimestrielle,49678.08
+87,464,49,2022-12-21,annule,prlvement,trimestrielle,29711.11
+88,50,43,2024-06-15,suspendue,virement,mensuelle,41406.78
+89,289,417,2024-07-09,active,prlvement,annuelle,47626.5
+90,222,349,2024-11-04,termine,carte bancaire,annuelle,13063.5
+91,112,294,2024-03-29,annule,virement,annuelle,33945.41
+92,370,247,2023-02-22,annule,carte bancaire,annuelle,44314.4
+93,147,454,2024-04-05,suspendue,carte bancaire,annuelle,15345.53
+94,125,243,2025-01-07,termine,virement,trimestrielle,31576.51
+95,323,399,2024-09-05,annule,virement,annuelle,12560.2
+96,418,375,2023-06-05,suspendue,prlvement,trimestrielle,39621.94
+97,351,406,2022-05-31,active,prlvement,annuelle,10615.26
+98,39,206,2024-03-08,suspendue,prlvement,mensuelle,47465.09
+99,169,181,2025-02-08,suspendue,virement,trimestrielle,22453.96
+100,311,75,2022-05-09,annule,carte bancaire,annuelle,15609.01
+101,397,360,2023-06-04,suspendue,carte bancaire,trimestrielle,7607.36
+102,489,286,2022-10-17,termine,carte bancaire,trimestrielle,29664.59
+103,124,376,2024-10-11,annule,carte bancaire,mensuelle,40166.17
+104,438,270,2022-06-02,termine,prlvement,mensuelle,25568.06
+105,246,132,2023-01-16,termine,carte bancaire,trimestrielle,46006.51
+106,43,27,2023-06-12,annule,virement,trimestrielle,19280.29
+107,447,439,2022-10-26,suspendue,carte bancaire,trimestrielle,43376.9
+108,491,407,2024-01-19,termine,prlvement,mensuelle,41825.1
+109,145,52,2025-03-11,annule,prlvement,mensuelle,4178.28
+110,264,26,2022-09-30,suspendue,virement,trimestrielle,1499.29
+111,40,361,2024-05-31,active,prlvement,mensuelle,28555.55
+112,69,305,2024-03-17,annule,virement,annuelle,12800.44
+113,29,475,2022-11-20,suspendue,prlvement,trimestrielle,22171.24
+114,473,52,2023-02-12,annule,carte bancaire,trimestrielle,11489.87
+115,184,163,2024-06-04,active,virement,annuelle,10870.91
+116,108,463,2024-09-23,active,carte bancaire,mensuelle,2002.35
+117,59,369,2024-12-30,annule,carte bancaire,trimestrielle,18784.24
+118,227,432,2024-03-06,suspendue,virement,mensuelle,24118.9
+119,356,24,2023-04-12,active,carte bancaire,annuelle,23328.08
+120,291,98,2022-06-10,active,prlvement,trimestrielle,21035.22
+121,15,411,2024-09-20,termine,virement,mensuelle,9651.82
+122,54,362,2022-05-15,termine,virement,trimestrielle,11047.19
+123,427,305,2023-09-14,termine,carte bancaire,annuelle,2692.31
+124,431,454,2023-04-05,active,virement,annuelle,44116.19
+125,149,290,2023-02-18,suspendue,prlvement,mensuelle,4299.08
+126,410,283,2022-07-18,suspendue,virement,annuelle,34024.73
+127,134,8,2022-10-19,active,prlvement,mensuelle,10831.45
+128,196,172,2025-03-05,annule,carte bancaire,annuelle,21604.63
+129,207,28,2024-10-25,suspendue,carte bancaire,trimestrielle,42831.04
+130,500,487,2022-12-26,annule,virement,trimestrielle,27353.03
+131,22,428,2023-09-16,annule,prlvement,mensuelle,3675.15
+132,286,365,2022-11-01,active,virement,trimestrielle,17278.61
+133,43,458,2024-07-18,annule,carte bancaire,mensuelle,46174.84
+134,363,58,2024-02-15,annule,carte bancaire,annuelle,20619.0
+135,426,494,2023-07-04,suspendue,prlvement,trimestrielle,30221.05
+136,98,410,2024-03-18,annule,prlvement,trimestrielle,30544.1
+137,214,26,2022-05-22,annule,prlvement,annuelle,42212.64
+138,171,193,2023-05-28,suspendue,prlvement,trimestrielle,17821.91
+139,429,140,2024-07-20,suspendue,virement,trimestrielle,20335.21
+140,134,388,2023-11-21,active,prlvement,annuelle,43898.0
+141,340,383,2023-08-28,termine,virement,annuelle,38124.03
+142,173,437,2022-07-02,annule,virement,annuelle,26152.03
+143,256,398,2023-01-11,termine,virement,mensuelle,15355.41
+144,286,424,2023-03-05,active,prlvement,mensuelle,18770.15
+145,285,11,2022-08-27,active,carte bancaire,trimestrielle,33722.63
+146,442,170,2023-05-12,annule,prlvement,mensuelle,28054.56
+147,206,252,2024-03-20,termine,prlvement,mensuelle,13501.33
+148,376,149,2023-07-22,active,prlvement,trimestrielle,37456.66
+149,320,499,2023-06-16,annule,virement,annuelle,20518.03
+150,405,323,2024-05-19,active,carte bancaire,annuelle,3498.96
+151,178,435,2022-10-25,active,virement,trimestrielle,41047.4
+152,117,225,2023-10-09,termine,virement,trimestrielle,25737.47
+153,450,317,2023-11-30,termine,virement,trimestrielle,7577.49
+154,33,211,2023-10-30,active,prlvement,mensuelle,43767.83
+155,475,3,2022-07-11,termine,prlvement,annuelle,27179.18
+156,225,335,2023-03-27,active,virement,trimestrielle,26976.3
+157,462,136,2024-04-26,suspendue,prlvement,trimestrielle,29050.68
+158,79,344,2022-09-22,suspendue,carte bancaire,annuelle,32702.58
+159,240,201,2023-09-06,termine,carte bancaire,mensuelle,34316.94
+160,161,129,2022-06-09,active,prlvement,mensuelle,16461.08
+161,15,408,2022-05-08,termine,prlvement,mensuelle,4476.23
+162,426,446,2024-05-13,termine,prlvement,mensuelle,35662.76
+163,275,451,2023-05-25,active,virement,trimestrielle,45673.18
+164,284,129,2024-08-30,suspendue,carte bancaire,trimestrielle,48708.97
+165,186,234,2024-06-29,termine,virement,annuelle,31444.04
+166,472,248,2023-04-01,termine,virement,trimestrielle,21679.54
+167,68,353,2024-06-23,active,carte bancaire,annuelle,8386.44
+168,424,91,2022-12-09,suspendue,prlvement,annuelle,43274.67
+169,133,106,2024-02-28,active,carte bancaire,annuelle,39879.75
+170,57,186,2024-08-04,suspendue,prlvement,mensuelle,37393.44
+171,319,249,2022-12-02,suspendue,virement,trimestrielle,47709.93
+172,238,467,2022-07-16,annule,carte bancaire,mensuelle,44817.71
+173,348,296,2022-08-27,active,virement,annuelle,38632.82
+174,177,304,2022-11-30,annule,prlvement,annuelle,23533.55
+175,450,396,2022-06-14,termine,carte bancaire,annuelle,42444.65
+176,441,277,2022-12-02,active,virement,mensuelle,33723.06
+177,85,176,2022-10-06,termine,virement,mensuelle,26839.79
+178,213,50,2023-08-30,active,carte bancaire,annuelle,2395.94
+179,184,252,2022-11-30,active,virement,trimestrielle,43812.23
+180,87,368,2024-01-10,active,carte bancaire,annuelle,20211.75
+181,124,235,2023-01-16,active,virement,trimestrielle,46390.36
+182,317,181,2022-07-05,active,prlvement,mensuelle,19875.54
+183,461,194,2024-05-12,active,prlvement,annuelle,20960.83
+184,294,208,2025-02-09,annule,carte bancaire,trimestrielle,46222.75
+185,383,99,2025-03-12,termine,virement,mensuelle,39137.14
+186,125,442,2024-02-12,termine,carte bancaire,trimestrielle,9806.37
+187,74,415,2025-03-21,active,carte bancaire,mensuelle,9300.55
+188,448,142,2024-04-23,annule,virement,annuelle,49711.42
+189,468,11,2024-09-27,termine,carte bancaire,trimestrielle,1407.9
+190,225,287,2023-11-09,termine,virement,annuelle,43173.62
+191,255,467,2024-05-25,active,carte bancaire,mensuelle,31981.97
+192,148,457,2023-08-21,active,virement,mensuelle,32166.23
+193,224,200,2025-03-12,annule,carte bancaire,trimestrielle,26006.07
+194,492,496,2024-04-09,suspendue,carte bancaire,annuelle,11956.2
+195,14,388,2022-09-30,active,prlvement,trimestrielle,3567.89
+196,360,416,2024-06-15,annule,carte bancaire,annuelle,20997.39
+197,363,274,2024-02-24,termine,virement,trimestrielle,14158.02
+198,442,435,2024-11-08,suspendue,prlvement,trimestrielle,31379.03
+199,3,146,2024-03-18,annule,prlvement,annuelle,48887.61
+200,326,426,2022-11-26,annule,carte bancaire,annuelle,41161.05
+201,30,135,2023-11-13,termine,virement,mensuelle,24684.38
+202,272,296,2022-05-16,active,virement,trimestrielle,21559.92
+203,189,59,2022-06-03,suspendue,virement,annuelle,47230.47
+204,25,165,2024-02-28,active,virement,annuelle,27498.24
+205,487,168,2024-11-01,termine,prlvement,trimestrielle,24368.75
+206,463,278,2024-04-15,active,carte bancaire,trimestrielle,9407.51
+207,158,13,2023-05-07,termine,virement,annuelle,8648.19
+208,167,402,2024-02-09,active,prlvement,mensuelle,17551.48
+209,115,95,2023-10-06,active,prlvement,annuelle,7431.75
+210,275,185,2024-06-29,active,prlvement,trimestrielle,44969.05
+211,60,97,2024-03-18,annule,virement,trimestrielle,23671.69
+212,48,411,2025-01-15,termine,carte bancaire,annuelle,23962.18
+213,390,397,2024-10-13,annule,virement,annuelle,18391.46
+214,107,444,2023-06-01,active,carte bancaire,annuelle,13728.04
+215,263,13,2024-10-23,annule,carte bancaire,mensuelle,41175.05
+216,53,66,2025-04-07,active,carte bancaire,mensuelle,24884.36
+217,324,474,2022-12-07,active,prlvement,annuelle,48882.07
+218,35,170,2025-02-08,termine,carte bancaire,annuelle,45752.88
+219,109,111,2023-03-15,suspendue,prlvement,trimestrielle,35157.79
+220,75,402,2022-10-24,termine,carte bancaire,annuelle,44717.83
+221,299,136,2024-12-29,termine,virement,annuelle,23540.66
+222,314,104,2023-10-12,active,carte bancaire,mensuelle,33882.07
+223,92,436,2022-10-07,suspendue,carte bancaire,mensuelle,19085.96
+224,27,188,2022-10-10,termine,virement,trimestrielle,40654.33
+225,225,42,2022-05-04,suspendue,prlvement,mensuelle,10577.49
+226,106,313,2024-12-30,annule,carte bancaire,mensuelle,7276.72
+227,161,275,2024-09-04,active,carte bancaire,mensuelle,44732.53
+228,200,297,2022-08-21,annule,virement,trimestrielle,15225.28
+229,496,219,2024-05-27,annule,carte bancaire,annuelle,10150.46
+230,337,157,2024-06-26,annule,carte bancaire,annuelle,48760.07
+231,144,191,2023-02-23,termine,carte bancaire,mensuelle,18723.91
+232,387,279,2022-08-21,annule,virement,trimestrielle,19382.97
+233,120,405,2023-04-11,active,carte bancaire,trimestrielle,31059.78
+234,297,246,2023-09-16,termine,virement,mensuelle,48798.68
+235,389,24,2024-04-03,suspendue,virement,mensuelle,14418.96
+236,415,423,2022-08-10,suspendue,virement,mensuelle,34729.34
+237,269,324,2024-12-08,suspendue,virement,annuelle,28714.87
+238,3,394,2022-07-22,suspendue,prlvement,mensuelle,30723.83
+239,366,338,2024-10-26,suspendue,prlvement,mensuelle,13296.03
+240,13,399,2025-03-26,annule,virement,annuelle,45886.89
+241,476,195,2023-02-22,termine,carte bancaire,trimestrielle,23631.45
+242,416,256,2025-04-01,suspendue,prlvement,mensuelle,37041.99
+243,238,162,2024-01-18,termine,carte bancaire,annuelle,30495.76
+244,488,219,2024-02-11,suspendue,prlvement,annuelle,1932.71
+245,106,498,2022-10-10,termine,virement,annuelle,3365.25
+246,285,397,2024-05-12,suspendue,virement,mensuelle,44204.93
+247,23,289,2024-01-18,termine,virement,mensuelle,30630.94
+248,298,278,2023-11-03,suspendue,prlvement,trimestrielle,25249.27
+249,324,352,2024-06-17,termine,prlvement,mensuelle,26420.08
+250,473,203,2024-06-17,suspendue,virement,mensuelle,28390.45
+251,339,321,2022-09-02,termine,virement,trimestrielle,23289.51
+252,479,352,2024-07-16,suspendue,carte bancaire,annuelle,32683.48
+253,451,217,2024-06-22,termine,virement,mensuelle,19230.88
+254,453,461,2023-04-29,termine,carte bancaire,annuelle,45449.61
+255,33,449,2024-04-13,suspendue,prlvement,annuelle,2824.01
+256,373,444,2023-11-29,suspendue,prlvement,mensuelle,27442.77
+257,137,194,2022-05-25,annule,carte bancaire,mensuelle,21403.34
+258,398,39,2024-02-04,termine,carte bancaire,mensuelle,8260.75
+259,147,52,2022-08-05,termine,carte bancaire,trimestrielle,915.21
+260,64,22,2025-01-25,active,carte bancaire,mensuelle,13587.99
+261,372,3,2025-04-17,annule,carte bancaire,trimestrielle,13241.88
+262,272,234,2024-03-22,active,prlvement,annuelle,12710.84
+263,131,214,2022-08-20,annule,carte bancaire,trimestrielle,45937.92
+264,235,469,2022-11-13,suspendue,prlvement,mensuelle,9548.5
+265,111,36,2023-10-26,active,prlvement,annuelle,21413.63
+266,373,213,2023-10-04,annule,virement,trimestrielle,46134.05
+267,311,453,2025-03-27,termine,carte bancaire,annuelle,15532.79
+268,328,13,2022-07-16,termine,carte bancaire,annuelle,926.4
+269,360,109,2024-03-22,termine,carte bancaire,mensuelle,46156.14
+270,329,398,2023-10-08,annule,carte bancaire,mensuelle,22221.35
+271,65,215,2024-08-09,termine,virement,trimestrielle,49651.22
+272,42,171,2023-06-08,annule,prlvement,annuelle,47547.6
+273,51,121,2024-09-29,termine,virement,annuelle,4352.42
+274,420,86,2023-02-20,active,prlvement,annuelle,17241.93
+275,71,139,2024-11-23,termine,carte bancaire,annuelle,14139.39
+276,370,130,2022-10-20,suspendue,virement,mensuelle,25090.64
+277,279,82,2025-02-25,termine,virement,annuelle,40456.41
+278,181,333,2024-05-04,termine,prlvement,trimestrielle,7175.69
+279,271,159,2024-08-01,active,prlvement,annuelle,14074.97
+280,469,206,2022-12-25,annule,virement,mensuelle,16936.63
+281,230,151,2024-02-01,termine,prlvement,mensuelle,6283.79
+282,315,358,2023-06-09,termine,carte bancaire,annuelle,16172.27
+283,219,176,2022-07-21,suspendue,prlvement,trimestrielle,33367.44
+284,154,77,2024-08-18,annule,prlvement,annuelle,39518.29
+285,206,233,2023-02-22,suspendue,carte bancaire,mensuelle,28841.41
+286,29,238,2023-06-14,suspendue,virement,annuelle,21291.16
+287,316,139,2025-02-12,active,prlvement,annuelle,1661.81
+288,161,397,2023-06-20,annule,virement,mensuelle,26079.82
+289,225,368,2023-08-11,suspendue,carte bancaire,trimestrielle,33710.52
+290,270,112,2023-03-09,suspendue,carte bancaire,mensuelle,40272.5
+291,428,275,2023-06-22,termine,virement,mensuelle,18228.5
+292,452,130,2022-07-26,termine,carte bancaire,annuelle,37112.21
+293,96,289,2023-01-31,termine,prlvement,mensuelle,3489.58
+294,185,206,2024-07-03,annule,prlvement,trimestrielle,32250.54
+295,27,287,2024-07-10,annule,virement,trimestrielle,32765.25
+296,41,362,2023-09-24,annule,carte bancaire,mensuelle,20815.72
+297,247,119,2025-03-25,annule,virement,annuelle,20240.04
+298,27,374,2023-08-20,active,virement,trimestrielle,20923.24
+299,147,438,2024-10-30,termine,carte bancaire,mensuelle,29480.83
+300,223,39,2024-10-31,annule,carte bancaire,mensuelle,28545.04
+301,439,43,2022-08-31,active,virement,annuelle,5765.79
+302,201,183,2022-07-18,annule,prlvement,trimestrielle,47166.99
+303,479,369,2024-06-24,suspendue,virement,mensuelle,5256.26
+304,454,266,2024-03-31,annule,prlvement,mensuelle,32898.97
+305,446,252,2024-03-24,annule,carte bancaire,annuelle,8235.41
+306,421,3,2022-10-07,annule,virement,annuelle,6961.42
+307,341,346,2024-05-19,termine,carte bancaire,mensuelle,3296.69
+308,397,491,2023-08-22,suspendue,virement,mensuelle,20877.48
+309,204,192,2024-02-29,termine,carte bancaire,mensuelle,2769.53
+310,230,31,2023-11-30,termine,virement,mensuelle,40781.34
+311,48,110,2025-03-16,annule,virement,annuelle,7767.75
+312,18,487,2023-05-10,active,prlvement,trimestrielle,9219.11
+313,235,216,2023-08-21,annule,virement,trimestrielle,41686.41
+314,331,157,2024-05-21,termine,prlvement,mensuelle,45921.88
+315,345,352,2024-10-11,annule,virement,trimestrielle,48671.18
+316,146,256,2022-04-23,termine,carte bancaire,trimestrielle,4436.83
+317,211,8,2023-02-18,suspendue,carte bancaire,trimestrielle,35205.4
+318,450,181,2024-06-18,suspendue,carte bancaire,annuelle,27105.49
+319,256,176,2022-08-06,annule,carte bancaire,annuelle,45062.96
+320,253,473,2024-08-06,annule,carte bancaire,annuelle,9771.1
+321,134,371,2024-02-09,active,carte bancaire,trimestrielle,44139.39
+322,84,493,2024-07-07,suspendue,virement,mensuelle,40388.26
+323,51,205,2023-03-01,annule,carte bancaire,mensuelle,1513.29
+324,338,127,2022-12-28,suspendue,carte bancaire,trimestrielle,23170.24
+325,143,151,2022-07-25,annule,virement,mensuelle,38897.45
+326,500,75,2022-05-06,annule,prlvement,annuelle,23099.19
+327,220,486,2024-04-17,termine,carte bancaire,annuelle,36707.33
+328,450,363,2023-03-04,active,prlvement,trimestrielle,47183.04
+329,67,135,2024-08-28,termine,carte bancaire,trimestrielle,45718.8
+330,247,77,2025-03-20,suspendue,carte bancaire,trimestrielle,5587.34
+331,408,6,2023-12-23,termine,prlvement,annuelle,44945.56
+332,338,446,2023-09-14,active,virement,mensuelle,30023.61
+333,227,287,2023-07-16,annule,prlvement,mensuelle,30873.63
+334,85,297,2023-04-19,suspendue,virement,trimestrielle,31984.71
+335,68,63,2024-03-13,suspendue,carte bancaire,mensuelle,21471.72
+336,260,179,2022-04-27,termine,virement,mensuelle,14567.2
+337,304,37,2022-10-02,active,prlvement,annuelle,18504.51
+338,289,294,2022-10-29,active,prlvement,annuelle,37297.28
+339,118,136,2022-11-13,annule,prlvement,trimestrielle,48082.3
+340,334,76,2023-12-24,suspendue,prlvement,mensuelle,45996.69
+341,141,29,2024-11-01,termine,carte bancaire,mensuelle,25948.57
+342,11,213,2024-10-16,suspendue,virement,annuelle,12347.35
+343,169,313,2023-01-24,annule,virement,trimestrielle,46681.37
+344,277,384,2024-07-15,annule,prlvement,annuelle,1517.21
+345,242,108,2024-11-23,active,virement,annuelle,8595.13
+346,327,52,2024-04-04,active,virement,trimestrielle,15774.09
+347,78,49,2025-01-22,active,prlvement,trimestrielle,13497.5
+348,254,500,2022-11-19,suspendue,prlvement,annuelle,48593.59
+349,27,250,2022-11-15,active,prlvement,mensuelle,22475.45
+350,319,190,2023-06-03,active,carte bancaire,trimestrielle,46665.82
+351,198,343,2024-09-26,suspendue,virement,trimestrielle,20530.88
+352,478,131,2024-03-13,suspendue,virement,trimestrielle,17068.16
+353,79,2,2024-01-14,termine,carte bancaire,annuelle,3102.55
+354,379,252,2022-09-08,active,prlvement,annuelle,31264.84
+355,406,381,2024-11-25,suspendue,prlvement,annuelle,46268.19
+356,256,254,2025-03-12,annule,virement,annuelle,48540.9
+357,98,318,2023-03-28,termine,virement,trimestrielle,28502.76
+358,56,416,2023-08-17,annule,prlvement,trimestrielle,13751.45
+359,444,348,2024-07-31,suspendue,carte bancaire,trimestrielle,22892.52
+360,368,456,2024-05-29,suspendue,carte bancaire,mensuelle,20288.64
+361,76,381,2024-04-27,active,virement,trimestrielle,40261.97
+362,181,54,2025-01-15,annule,carte bancaire,annuelle,29075.83
+363,85,247,2025-03-14,annule,prlvement,annuelle,41643.13
+364,253,491,2023-12-05,active,prlvement,annuelle,16908.89
+365,115,99,2022-06-28,suspendue,virement,annuelle,22575.55
+366,482,397,2022-09-19,suspendue,virement,annuelle,11051.63
+367,153,419,2023-04-01,termine,prlvement,trimestrielle,44053.01
+368,316,426,2022-09-27,termine,carte bancaire,mensuelle,43038.83
+369,195,185,2022-05-26,active,virement,mensuelle,40230.09
+370,411,11,2024-12-17,active,virement,trimestrielle,26653.02
+371,158,340,2024-07-28,annule,carte bancaire,annuelle,45804.69
+372,445,450,2024-02-15,termine,virement,mensuelle,17876.23
+373,326,65,2022-11-12,annule,virement,annuelle,44925.01
+374,28,448,2023-06-01,termine,virement,mensuelle,30896.29
+375,2,170,2023-11-07,suspendue,prlvement,trimestrielle,49320.72
+376,107,88,2023-02-22,termine,carte bancaire,annuelle,45389.75
+377,351,86,2022-08-23,termine,prlvement,annuelle,42205.94
+378,198,397,2022-10-30,suspendue,virement,trimestrielle,45585.98
+379,347,313,2023-08-22,termine,prlvement,mensuelle,4897.98
+380,383,452,2024-05-25,annule,virement,annuelle,13377.3
+381,407,106,2022-10-04,termine,virement,annuelle,1801.23
+382,167,229,2024-08-15,suspendue,carte bancaire,mensuelle,15868.81
+383,334,154,2022-11-24,annule,carte bancaire,annuelle,13748.95
+384,401,410,2023-12-19,active,carte bancaire,annuelle,28442.02
+385,338,139,2023-09-25,annule,carte bancaire,annuelle,48574.28
+386,389,391,2022-11-16,termine,virement,annuelle,13503.69
+387,104,284,2023-01-27,annule,virement,annuelle,47418.82
+388,367,425,2024-03-30,suspendue,prlvement,trimestrielle,47092.03
+389,39,433,2022-10-20,annule,prlvement,mensuelle,33455.31
+390,212,271,2025-03-31,annule,virement,annuelle,22512.58
+391,165,346,2022-05-06,active,carte bancaire,mensuelle,17803.95
+392,331,465,2024-01-07,active,virement,mensuelle,4937.53
+393,273,223,2024-07-23,termine,virement,mensuelle,24104.67
+394,297,54,2023-05-30,annule,prlvement,annuelle,18977.62
+395,220,488,2024-01-17,active,carte bancaire,trimestrielle,40397.99
+396,373,236,2024-02-08,termine,virement,mensuelle,36136.06
+397,28,367,2024-02-28,annule,virement,trimestrielle,49742.89
+398,394,42,2023-10-29,active,virement,trimestrielle,32875.31
+399,176,233,2024-01-30,termine,carte bancaire,trimestrielle,23341.18
+400,215,433,2023-11-11,termine,prlvement,annuelle,23170.09
+401,99,372,2024-08-10,suspendue,carte bancaire,annuelle,24092.06
+402,499,155,2023-05-15,active,virement,trimestrielle,634.38
+403,267,167,2022-06-11,active,carte bancaire,mensuelle,12444.49
+404,28,314,2023-07-06,annule,prlvement,annuelle,9698.04
+405,160,360,2023-02-01,termine,carte bancaire,mensuelle,43258.82
+406,429,51,2025-01-04,termine,prlvement,mensuelle,42563.33
+407,460,237,2024-10-07,suspendue,virement,trimestrielle,10590.08
+408,449,448,2022-08-30,annule,virement,annuelle,30022.34
+409,487,252,2025-01-17,active,carte bancaire,trimestrielle,7872.18
+410,104,32,2022-07-27,termine,virement,trimestrielle,43448.96
+411,246,58,2023-03-22,active,prlvement,trimestrielle,6526.99
+412,310,28,2024-03-09,suspendue,prlvement,trimestrielle,3355.13
+413,296,31,2023-06-10,annule,virement,mensuelle,23276.0
+414,431,294,2024-10-13,termine,prlvement,annuelle,21821.72
+415,104,54,2024-03-22,annule,prlvement,trimestrielle,2097.83
+416,477,319,2023-02-16,termine,carte bancaire,mensuelle,27700.46
+417,139,316,2024-02-10,termine,virement,mensuelle,7903.94
+418,442,477,2023-07-31,suspendue,virement,annuelle,33641.81
+419,251,278,2023-11-07,annule,carte bancaire,trimestrielle,22889.77
+420,289,277,2024-01-26,suspendue,prlvement,mensuelle,23035.83
+421,319,207,2024-05-31,termine,carte bancaire,annuelle,21824.85
+422,91,229,2022-08-14,annule,carte bancaire,mensuelle,46971.22
+423,120,7,2022-12-25,active,carte bancaire,annuelle,22293.59
+424,461,167,2022-08-22,annule,prlvement,trimestrielle,29725.27
+425,182,9,2025-04-17,active,virement,mensuelle,19539.9
+426,440,78,2022-12-29,active,virement,trimestrielle,19401.97
+427,392,375,2023-07-31,active,prlvement,mensuelle,27017.23
+428,465,274,2024-11-21,suspendue,prlvement,trimestrielle,15774.98
+429,312,329,2024-08-26,active,carte bancaire,mensuelle,22744.33
+430,216,406,2024-03-14,annule,virement,annuelle,14288.47
+431,328,86,2024-02-23,suspendue,carte bancaire,mensuelle,18998.16
+432,292,210,2025-01-10,suspendue,prlvement,annuelle,4746.73
+433,115,61,2023-08-02,active,prlvement,mensuelle,25876.54
+434,39,364,2022-08-16,suspendue,prlvement,annuelle,40264.79
+435,14,142,2023-09-03,termine,carte bancaire,mensuelle,15541.26
+436,376,157,2023-10-20,annule,carte bancaire,trimestrielle,3469.17
+437,178,350,2024-04-27,active,prlvement,mensuelle,30439.98
+438,115,316,2025-02-24,annule,virement,trimestrielle,28206.37
+439,454,48,2022-11-19,active,carte bancaire,annuelle,8446.45
+440,405,432,2022-10-27,active,virement,annuelle,25276.38
+441,219,491,2025-03-10,active,carte bancaire,trimestrielle,41429.82
+442,268,38,2023-05-12,annule,prlvement,mensuelle,21730.52
+443,328,219,2022-08-01,termine,virement,mensuelle,24106.91
+444,239,351,2025-04-06,suspendue,carte bancaire,trimestrielle,8578.02
+445,2,210,2024-12-11,termine,virement,annuelle,48469.01
+446,176,380,2022-08-28,annule,carte bancaire,mensuelle,14366.46
+447,348,6,2023-05-11,annule,carte bancaire,annuelle,24241.17
+448,365,351,2024-10-13,annule,carte bancaire,trimestrielle,9243.66
+449,4,18,2023-11-30,suspendue,virement,mensuelle,4633.89
+450,34,383,2024-07-16,termine,virement,trimestrielle,17703.68
+451,286,312,2023-05-02,termine,virement,mensuelle,34469.85
+452,313,156,2024-10-25,termine,prlvement,trimestrielle,32440.76
+453,52,313,2025-04-15,annule,carte bancaire,trimestrielle,43260.33
+454,478,109,2022-07-05,suspendue,prlvement,mensuelle,30154.64
+455,20,43,2023-01-09,active,virement,trimestrielle,12004.07
+456,135,478,2024-06-09,suspendue,virement,trimestrielle,46007.54
+457,249,358,2022-12-26,termine,virement,annuelle,16705.01
+458,157,436,2024-10-03,suspendue,prlvement,annuelle,9029.02
+459,316,338,2024-03-22,annule,carte bancaire,trimestrielle,13564.01
+460,356,143,2024-02-23,annule,carte bancaire,mensuelle,5024.47
+461,268,325,2024-05-15,active,virement,mensuelle,16010.8
+462,440,174,2023-01-21,termine,prlvement,annuelle,14184.98
+463,52,345,2023-01-24,annule,virement,mensuelle,31316.93
+464,391,458,2022-05-17,annule,prlvement,mensuelle,8276.16
+465,479,105,2024-05-30,termine,prlvement,mensuelle,25459.89
+466,111,313,2022-08-30,termine,virement,mensuelle,23410.85
+467,460,86,2025-01-15,annule,virement,annuelle,49042.06
+468,113,76,2022-08-19,annule,virement,trimestrielle,35084.12
+469,50,379,2023-03-22,suspendue,carte bancaire,trimestrielle,39985.19
+470,248,406,2023-11-11,termine,prlvement,trimestrielle,8706.13
+471,4,252,2022-06-04,suspendue,virement,trimestrielle,1440.75
+472,216,364,2025-01-12,annule,carte bancaire,trimestrielle,38679.2
+473,369,268,2023-04-10,active,prlvement,annuelle,8949.21
+474,457,150,2023-02-09,active,prlvement,annuelle,27282.17
+475,266,195,2024-01-13,suspendue,prlvement,annuelle,17691.3
+476,226,384,2024-01-23,suspendue,carte bancaire,mensuelle,43430.9
+477,384,232,2024-07-06,active,prlvement,mensuelle,31686.81
+478,185,445,2024-10-25,termine,carte bancaire,mensuelle,19336.2
+479,269,31,2023-07-12,annule,prlvement,annuelle,7082.46
+480,347,70,2024-11-21,termine,virement,mensuelle,46885.46
+481,341,43,2023-07-13,termine,prlvement,trimestrielle,42534.89
+482,33,44,2024-11-16,annule,virement,mensuelle,31977.58
+483,231,383,2022-11-26,active,virement,trimestrielle,38465.39
+484,425,464,2024-05-29,annule,prlvement,trimestrielle,46281.23
+485,388,195,2024-09-08,termine,virement,annuelle,24633.9
+486,122,226,2023-03-07,termine,virement,annuelle,2035.72
+487,415,354,2024-02-13,annule,virement,annuelle,9623.4
+488,479,299,2024-04-29,active,virement,annuelle,7926.74
+489,401,398,2024-05-08,suspendue,carte bancaire,annuelle,19822.14
+490,424,170,2023-06-29,termine,carte bancaire,annuelle,18506.48
+491,100,389,2023-07-26,termine,prlvement,trimestrielle,40418.58
+492,171,59,2024-05-22,suspendue,carte bancaire,trimestrielle,46374.7
+493,80,481,2023-02-07,suspendue,virement,mensuelle,27311.79
+494,449,337,2023-01-09,suspendue,prlvement,trimestrielle,41640.51
+495,347,138,2023-07-16,suspendue,carte bancaire,annuelle,34517.3
+496,198,63,2023-09-19,suspendue,carte bancaire,mensuelle,22654.62
+497,287,348,2024-03-23,termine,virement,annuelle,21909.88
+498,304,409,2022-10-16,suspendue,carte bancaire,annuelle,13518.16
+499,39,19,2024-09-27,termine,carte bancaire,annuelle,10384.21
+500,369,78,2023-09-16,suspendue,virement,trimestrielle,7712.3

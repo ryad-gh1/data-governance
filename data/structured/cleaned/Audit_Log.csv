@@ -1,0 +1,501 @@
+id_log,utilisateur_id,action,timestamp,entite_affectee,valeur_avant,valeur_apres
+1,375,creation,2025-04-22 14:16:47,client,,Creation d'un nouvel(le) client
+2,262,suppression,2025-04-22 14:16:27,compte,Compte existant(e),Compte supprime(e)
+3,311,creation,2025-04-22 14:16:13,utilisateur,,Creation d'un nouvel(le) utilisateur
+4,234,suppression,2025-04-22 14:17:11,client,Client existant(e),Client supprime(e)
+5,347,consultation,2025-04-22 14:21:05,transaction,N/A,Consultation des donnees de transaction
+6,59,suppression,2025-04-22 14:18:25,client,Client existant(e),Client supprime(e)
+7,453,creation,2025-04-22 14:18:58,client,,Creation d'un nouvel(le) client
+8,191,suppression,2025-04-22 14:15:57,role,Role existant(e),Role supprime(e)
+9,253,suppression,2025-04-22 14:15:51,reclamation,Reclamation existant(e),Reclamation supprime(e)
+10,49,creation,2025-04-22 14:16:46,compte,,Creation d'un nouvel(le) compte
+11,248,suppression,2025-04-22 14:16:17,role,Role existant(e),Role supprime(e)
+12,500,connexion,2025-04-22 14:16:08,produit,N/A,Connexion reussie
+13,235,modification,2025-04-22 14:16:35,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+14,179,modification,2025-04-22 14:16:31,client,Ancienne valeur de client,Nouvelle valeur de client
+15,263,suppression,2025-04-22 14:16:18,compte,Compte existant(e),Compte supprime(e)
+16,480,creation,2025-04-22 14:20:39,transaction,,Creation d'un nouvel(le) transaction
+17,85,consultation,2025-04-22 14:20:00,utilisateur,N/A,Consultation des donnees de utilisateur
+18,111,suppression,2025-04-22 14:17:29,compte,Compte existant(e),Compte supprime(e)
+19,342,suppression,2025-04-22 14:16:39,produit,Produit existant(e),Produit supprime(e)
+20,217,suppression,2025-04-22 14:18:12,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+21,56,consultation,2025-04-22 14:16:25,transaction,N/A,Consultation des donnees de transaction
+22,79,modification,2025-04-22 14:18:49,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+23,434,consultation,2025-04-22 14:20:49,client,N/A,Consultation des donnees de client
+24,422,creation,2025-04-22 14:20:17,transaction,,Creation d'un nouvel(le) transaction
+25,206,suppression,2025-04-22 14:16:53,client,Client existant(e),Client supprime(e)
+26,291,creation,2025-04-22 14:16:00,reclamation,,Creation d'un nouvel(le) reclamation
+27,210,suppression,2025-04-22 14:19:19,role,Role existant(e),Role supprime(e)
+28,344,creation,2025-04-22 14:20:06,utilisateur,,Creation d'un nouvel(le) utilisateur
+29,43,suppression,2025-04-22 14:19:57,compte,Compte existant(e),Compte supprime(e)
+30,290,modification,2025-04-22 14:15:59,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+31,118,suppression,2025-04-22 14:17:49,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+32,133,suppression,2025-04-22 14:19:57,client,Client existant(e),Client supprime(e)
+33,196,consultation,2025-04-22 14:17:16,reclamation,N/A,Consultation des donnees de reclamation
+34,432,consultation,2025-04-22 14:19:25,reclamation,N/A,Consultation des donnees de reclamation
+35,375,modification,2025-04-22 14:18:53,role,Ancienne valeur de role,Nouvelle valeur de role
+36,261,modification,2025-04-22 14:20:25,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+37,191,modification,2025-04-22 14:17:02,role,Ancienne valeur de role,Nouvelle valeur de role
+38,435,connexion,2025-04-22 14:15:54,produit,N/A,Connexion reussie
+39,414,consultation,2025-04-22 14:16:48,transaction,N/A,Consultation des donnees de transaction
+40,115,modification,2025-04-22 14:17:20,reclamation,Ancienne valeur de reclamation,Nouvelle valeur de reclamation
+41,386,modification,2025-04-22 14:21:19,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+42,314,consultation,2025-04-22 14:20:09,client,N/A,Consultation des donnees de client
+43,479,connexion,2025-04-22 14:19:17,compte,N/A,Connexion reussie
+44,390,connexion,2025-04-22 14:20:08,role,N/A,Connexion reussie
+45,360,consultation,2025-04-22 14:20:04,reclamation,N/A,Consultation des donnees de reclamation
+46,216,suppression,2025-04-22 14:19:23,reclamation,Reclamation existant(e),Reclamation supprime(e)
+47,454,suppression,2025-04-22 14:20:47,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+48,399,creation,2025-04-22 14:21:05,utilisateur,,Creation d'un nouvel(le) utilisateur
+49,269,consultation,2025-04-22 14:17:17,reclamation,N/A,Consultation des donnees de reclamation
+50,470,modification,2025-04-22 14:16:06,reclamation,Ancienne valeur de reclamation,Nouvelle valeur de reclamation
+51,68,creation,2025-04-22 14:15:48,client,,Creation d'un nouvel(le) client
+52,33,connexion,2025-04-22 14:17:22,produit,N/A,Connexion reussie
+53,500,creation,2025-04-22 14:20:22,client,,Creation d'un nouvel(le) client
+54,316,suppression,2025-04-22 14:17:54,transaction,Transaction existant(e),Transaction supprime(e)
+55,429,consultation,2025-04-22 14:21:33,client,N/A,Consultation des donnees de client
+56,74,consultation,2025-04-22 14:16:42,reclamation,N/A,Consultation des donnees de reclamation
+57,256,connexion,2025-04-22 14:16:28,role,N/A,Connexion reussie
+58,259,creation,2025-04-22 14:21:13,role,,Creation d'un nouvel(le) role
+59,352,connexion,2025-04-22 14:18:35,client,N/A,Connexion reussie
+60,176,consultation,2025-04-22 14:18:46,compte,N/A,Consultation des donnees de compte
+61,285,creation,2025-04-22 14:17:41,role,,Creation d'un nouvel(le) role
+62,138,connexion,2025-04-22 14:17:15,utilisateur,N/A,Connexion reussie
+63,180,suppression,2025-04-22 14:18:53,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+64,40,connexion,2025-04-22 14:16:38,produit,N/A,Connexion reussie
+65,299,consultation,2025-04-22 14:18:50,utilisateur,N/A,Consultation des donnees de utilisateur
+66,299,consultation,2025-04-22 14:20:54,transaction,N/A,Consultation des donnees de transaction
+67,274,suppression,2025-04-22 14:19:45,role,Role existant(e),Role supprime(e)
+68,337,connexion,2025-04-22 14:16:28,utilisateur,N/A,Connexion reussie
+69,434,creation,2025-04-22 14:17:08,client,,Creation d'un nouvel(le) client
+70,148,creation,2025-04-22 14:17:45,compte,,Creation d'un nouvel(le) compte
+71,41,modification,2025-04-22 14:19:37,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+72,73,suppression,2025-04-22 14:19:46,reclamation,Reclamation existant(e),Reclamation supprime(e)
+73,15,suppression,2025-04-22 14:16:58,transaction,Transaction existant(e),Transaction supprime(e)
+74,42,modification,2025-04-22 14:20:38,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+75,269,suppression,2025-04-22 14:19:13,role,Role existant(e),Role supprime(e)
+76,437,consultation,2025-04-22 14:19:05,utilisateur,N/A,Consultation des donnees de utilisateur
+77,290,modification,2025-04-22 14:20:10,role,Ancienne valeur de role,Nouvelle valeur de role
+78,333,connexion,2025-04-22 14:15:59,reclamation,N/A,Connexion reussie
+79,287,connexion,2025-04-22 14:19:26,client,N/A,Connexion reussie
+80,381,suppression,2025-04-22 14:18:52,compte,Compte existant(e),Compte supprime(e)
+81,232,suppression,2025-04-22 14:21:19,role,Role existant(e),Role supprime(e)
+82,115,consultation,2025-04-22 14:19:26,client,N/A,Consultation des donnees de client
+83,291,connexion,2025-04-22 14:17:47,client,N/A,Connexion reussie
+84,16,consultation,2025-04-22 14:15:43,transaction,N/A,Consultation des donnees de transaction
+85,476,suppression,2025-04-22 14:19:19,compte,Compte existant(e),Compte supprime(e)
+86,206,connexion,2025-04-22 14:20:09,client,N/A,Connexion reussie
+87,456,modification,2025-04-22 14:15:52,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+88,278,suppression,2025-04-22 14:19:47,role,Role existant(e),Role supprime(e)
+89,133,consultation,2025-04-22 14:18:07,role,N/A,Consultation des donnees de role
+90,295,creation,2025-04-22 14:20:12,role,,Creation d'un nouvel(le) role
+91,462,creation,2025-04-22 14:16:10,compte,,Creation d'un nouvel(le) compte
+92,397,modification,2025-04-22 14:16:39,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+93,52,suppression,2025-04-22 14:17:06,role,Role existant(e),Role supprime(e)
+94,27,connexion,2025-04-22 14:17:37,produit,N/A,Connexion reussie
+95,5,creation,2025-04-22 14:17:03,produit,,Creation d'un nouvel(le) produit
+96,224,connexion,2025-04-22 14:21:31,reclamation,N/A,Connexion reussie
+97,138,modification,2025-04-22 14:17:31,role,Ancienne valeur de role,Nouvelle valeur de role
+98,378,suppression,2025-04-22 14:15:37,produit,Produit existant(e),Produit supprime(e)
+99,423,creation,2025-04-22 14:20:59,role,,Creation d'un nouvel(le) role
+100,307,modification,2025-04-22 14:17:11,client,Ancienne valeur de client,Nouvelle valeur de client
+101,165,connexion,2025-04-22 14:19:14,transaction,N/A,Connexion reussie
+102,426,creation,2025-04-22 14:21:06,utilisateur,,Creation d'un nouvel(le) utilisateur
+103,139,consultation,2025-04-22 14:16:59,compte,N/A,Consultation des donnees de compte
+104,82,suppression,2025-04-22 14:15:57,compte,Compte existant(e),Compte supprime(e)
+105,292,consultation,2025-04-22 14:19:36,utilisateur,N/A,Consultation des donnees de utilisateur
+106,144,consultation,2025-04-22 14:20:36,utilisateur,N/A,Consultation des donnees de utilisateur
+107,258,creation,2025-04-22 14:19:03,reclamation,,Creation d'un nouvel(le) reclamation
+108,486,connexion,2025-04-22 14:16:15,produit,N/A,Connexion reussie
+109,276,creation,2025-04-22 14:19:53,role,,Creation d'un nouvel(le) role
+110,145,consultation,2025-04-22 14:17:17,utilisateur,N/A,Consultation des donnees de utilisateur
+111,356,connexion,2025-04-22 14:17:14,transaction,N/A,Connexion reussie
+112,90,modification,2025-04-22 14:18:32,client,Ancienne valeur de client,Nouvelle valeur de client
+113,122,consultation,2025-04-22 14:15:38,transaction,N/A,Consultation des donnees de transaction
+114,195,suppression,2025-04-22 14:17:57,client,Client existant(e),Client supprime(e)
+115,309,modification,2025-04-22 14:19:57,role,Ancienne valeur de role,Nouvelle valeur de role
+116,388,connexion,2025-04-22 14:20:59,reclamation,N/A,Connexion reussie
+117,362,modification,2025-04-22 14:21:31,reclamation,Ancienne valeur de reclamation,Nouvelle valeur de reclamation
+118,238,modification,2025-04-22 14:15:39,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+119,172,creation,2025-04-22 14:21:02,compte,,Creation d'un nouvel(le) compte
+120,139,modification,2025-04-22 14:16:26,role,Ancienne valeur de role,Nouvelle valeur de role
+121,196,connexion,2025-04-22 14:18:56,client,N/A,Connexion reussie
+122,126,consultation,2025-04-22 14:20:53,utilisateur,N/A,Consultation des donnees de utilisateur
+123,408,creation,2025-04-22 14:16:28,produit,,Creation d'un nouvel(le) produit
+124,30,suppression,2025-04-22 14:21:05,role,Role existant(e),Role supprime(e)
+125,241,creation,2025-04-22 14:19:16,client,,Creation d'un nouvel(le) client
+126,83,consultation,2025-04-22 14:19:29,utilisateur,N/A,Consultation des donnees de utilisateur
+127,260,creation,2025-04-22 14:19:03,transaction,,Creation d'un nouvel(le) transaction
+128,376,suppression,2025-04-22 14:18:07,transaction,Transaction existant(e),Transaction supprime(e)
+129,258,connexion,2025-04-22 14:20:10,reclamation,N/A,Connexion reussie
+130,379,connexion,2025-04-22 14:16:20,utilisateur,N/A,Connexion reussie
+131,292,suppression,2025-04-22 14:21:12,reclamation,Reclamation existant(e),Reclamation supprime(e)
+132,211,suppression,2025-04-22 14:18:32,client,Client existant(e),Client supprime(e)
+133,193,consultation,2025-04-22 14:19:08,produit,N/A,Consultation des donnees de produit
+134,144,modification,2025-04-22 14:19:34,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+135,413,consultation,2025-04-22 14:21:17,utilisateur,N/A,Consultation des donnees de utilisateur
+136,446,suppression,2025-04-22 14:18:40,role,Role existant(e),Role supprime(e)
+137,208,connexion,2025-04-22 14:16:46,role,N/A,Connexion reussie
+138,63,creation,2025-04-22 14:18:44,reclamation,,Creation d'un nouvel(le) reclamation
+139,258,consultation,2025-04-22 14:20:05,transaction,N/A,Consultation des donnees de transaction
+140,471,creation,2025-04-22 14:18:19,utilisateur,,Creation d'un nouvel(le) utilisateur
+141,233,creation,2025-04-22 14:17:53,utilisateur,,Creation d'un nouvel(le) utilisateur
+142,270,suppression,2025-04-22 14:17:05,produit,Produit existant(e),Produit supprime(e)
+143,119,modification,2025-04-22 14:16:56,role,Ancienne valeur de role,Nouvelle valeur de role
+144,158,creation,2025-04-22 14:21:02,produit,,Creation d'un nouvel(le) produit
+145,393,modification,2025-04-22 14:17:18,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+146,314,connexion,2025-04-22 14:21:11,compte,N/A,Connexion reussie
+147,117,creation,2025-04-22 14:20:58,role,,Creation d'un nouvel(le) role
+148,478,consultation,2025-04-22 14:20:00,client,N/A,Consultation des donnees de client
+149,293,modification,2025-04-22 14:18:31,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+150,65,connexion,2025-04-22 14:21:03,reclamation,N/A,Connexion reussie
+151,127,consultation,2025-04-22 14:19:23,utilisateur,N/A,Consultation des donnees de utilisateur
+152,474,creation,2025-04-22 14:18:05,role,,Creation d'un nouvel(le) role
+153,58,suppression,2025-04-22 14:20:25,role,Role existant(e),Role supprime(e)
+154,370,suppression,2025-04-22 14:17:33,reclamation,Reclamation existant(e),Reclamation supprime(e)
+155,68,modification,2025-04-22 14:16:37,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+156,443,consultation,2025-04-22 14:20:48,reclamation,N/A,Consultation des donnees de reclamation
+157,103,consultation,2025-04-22 14:19:00,reclamation,N/A,Consultation des donnees de reclamation
+158,5,modification,2025-04-22 14:16:17,role,Ancienne valeur de role,Nouvelle valeur de role
+159,232,creation,2025-04-22 14:17:00,client,,Creation d'un nouvel(le) client
+160,38,creation,2025-04-22 14:16:30,produit,,Creation d'un nouvel(le) produit
+161,165,consultation,2025-04-22 14:17:07,produit,N/A,Consultation des donnees de produit
+162,11,suppression,2025-04-22 14:19:31,reclamation,Reclamation existant(e),Reclamation supprime(e)
+163,490,connexion,2025-04-22 14:17:52,reclamation,N/A,Connexion reussie
+164,354,connexion,2025-04-22 14:21:29,compte,N/A,Connexion reussie
+165,129,creation,2025-04-22 14:16:46,utilisateur,,Creation d'un nouvel(le) utilisateur
+166,173,suppression,2025-04-22 14:21:01,transaction,Transaction existant(e),Transaction supprime(e)
+167,194,creation,2025-04-22 14:20:27,transaction,,Creation d'un nouvel(le) transaction
+168,200,creation,2025-04-22 14:18:25,compte,,Creation d'un nouvel(le) compte
+169,384,modification,2025-04-22 14:17:45,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+170,201,consultation,2025-04-22 14:17:52,compte,N/A,Consultation des donnees de compte
+171,342,connexion,2025-04-22 14:17:47,utilisateur,N/A,Connexion reussie
+172,107,modification,2025-04-22 14:16:24,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+173,408,modification,2025-04-22 14:20:37,role,Ancienne valeur de role,Nouvelle valeur de role
+174,453,modification,2025-04-22 14:17:57,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+175,441,suppression,2025-04-22 14:16:09,client,Client existant(e),Client supprime(e)
+176,496,modification,2025-04-22 14:17:27,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+177,50,modification,2025-04-22 14:20:10,client,Ancienne valeur de client,Nouvelle valeur de client
+178,252,consultation,2025-04-22 14:20:17,produit,N/A,Consultation des donnees de produit
+179,282,modification,2025-04-22 14:20:33,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+180,463,suppression,2025-04-22 14:20:38,client,Client existant(e),Client supprime(e)
+181,330,creation,2025-04-22 14:19:09,produit,,Creation d'un nouvel(le) produit
+182,289,modification,2025-04-22 14:19:07,role,Ancienne valeur de role,Nouvelle valeur de role
+183,256,connexion,2025-04-22 14:15:54,role,N/A,Connexion reussie
+184,469,connexion,2025-04-22 14:19:38,utilisateur,N/A,Connexion reussie
+185,90,modification,2025-04-22 14:21:13,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+186,172,creation,2025-04-22 14:16:34,utilisateur,,Creation d'un nouvel(le) utilisateur
+187,427,consultation,2025-04-22 14:17:55,role,N/A,Consultation des donnees de role
+188,416,modification,2025-04-22 14:18:53,role,Ancienne valeur de role,Nouvelle valeur de role
+189,379,creation,2025-04-22 14:20:10,reclamation,,Creation d'un nouvel(le) reclamation
+190,363,suppression,2025-04-22 14:19:37,role,Role existant(e),Role supprime(e)
+191,306,connexion,2025-04-22 14:15:42,client,N/A,Connexion reussie
+192,92,modification,2025-04-22 14:20:17,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+193,302,consultation,2025-04-22 14:17:20,utilisateur,N/A,Consultation des donnees de utilisateur
+194,67,modification,2025-04-22 14:19:45,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+195,455,connexion,2025-04-22 14:16:29,client,N/A,Connexion reussie
+196,120,creation,2025-04-22 14:16:08,compte,,Creation d'un nouvel(le) compte
+197,8,suppression,2025-04-22 14:18:34,role,Role existant(e),Role supprime(e)
+198,165,suppression,2025-04-22 14:21:18,reclamation,Reclamation existant(e),Reclamation supprime(e)
+199,366,consultation,2025-04-22 14:16:07,client,N/A,Consultation des donnees de client
+200,456,connexion,2025-04-22 14:20:16,transaction,N/A,Connexion reussie
+201,474,creation,2025-04-22 14:16:06,role,,Creation d'un nouvel(le) role
+202,362,consultation,2025-04-22 14:16:21,transaction,N/A,Consultation des donnees de transaction
+203,327,connexion,2025-04-22 14:19:11,client,N/A,Connexion reussie
+204,116,modification,2025-04-22 14:19:28,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+205,276,modification,2025-04-22 14:17:15,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+206,448,consultation,2025-04-22 14:20:37,reclamation,N/A,Consultation des donnees de reclamation
+207,217,suppression,2025-04-22 14:18:47,role,Role existant(e),Role supprime(e)
+208,320,consultation,2025-04-22 14:20:51,compte,N/A,Consultation des donnees de compte
+209,431,creation,2025-04-22 14:20:07,compte,,Creation d'un nouvel(le) compte
+210,288,connexion,2025-04-22 14:18:13,compte,N/A,Connexion reussie
+211,123,connexion,2025-04-22 14:16:04,produit,N/A,Connexion reussie
+212,353,modification,2025-04-22 14:16:25,client,Ancienne valeur de client,Nouvelle valeur de client
+213,482,consultation,2025-04-22 14:20:42,compte,N/A,Consultation des donnees de compte
+214,102,modification,2025-04-22 14:19:26,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+215,470,creation,2025-04-22 14:18:55,reclamation,,Creation d'un nouvel(le) reclamation
+216,383,modification,2025-04-22 14:17:52,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+217,484,creation,2025-04-22 14:19:35,role,,Creation d'un nouvel(le) role
+218,36,connexion,2025-04-22 14:21:07,transaction,N/A,Connexion reussie
+219,146,creation,2025-04-22 14:16:54,reclamation,,Creation d'un nouvel(le) reclamation
+220,40,suppression,2025-04-22 14:20:32,produit,Produit existant(e),Produit supprime(e)
+221,454,creation,2025-04-22 14:17:36,transaction,,Creation d'un nouvel(le) transaction
+222,45,suppression,2025-04-22 14:15:55,role,Role existant(e),Role supprime(e)
+223,275,consultation,2025-04-22 14:18:46,client,N/A,Consultation des donnees de client
+224,57,connexion,2025-04-22 14:21:16,role,N/A,Connexion reussie
+225,6,consultation,2025-04-22 14:20:54,reclamation,N/A,Consultation des donnees de reclamation
+226,309,modification,2025-04-22 14:18:02,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+227,409,consultation,2025-04-22 14:20:01,utilisateur,N/A,Consultation des donnees de utilisateur
+228,95,modification,2025-04-22 14:16:01,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+229,33,consultation,2025-04-22 14:18:13,role,N/A,Consultation des donnees de role
+230,252,consultation,2025-04-22 14:19:54,role,N/A,Consultation des donnees de role
+231,297,suppression,2025-04-22 14:16:30,role,Role existant(e),Role supprime(e)
+232,366,consultation,2025-04-22 14:17:05,role,N/A,Consultation des donnees de role
+233,298,modification,2025-04-22 14:19:33,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+234,22,connexion,2025-04-22 14:20:42,client,N/A,Connexion reussie
+235,349,consultation,2025-04-22 14:18:35,produit,N/A,Consultation des donnees de produit
+236,407,connexion,2025-04-22 14:17:54,produit,N/A,Connexion reussie
+237,471,creation,2025-04-22 14:16:14,client,,Creation d'un nouvel(le) client
+238,82,modification,2025-04-22 14:21:10,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+239,373,modification,2025-04-22 14:20:06,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+240,335,creation,2025-04-22 14:20:27,utilisateur,,Creation d'un nouvel(le) utilisateur
+241,154,creation,2025-04-22 14:19:36,role,,Creation d'un nouvel(le) role
+242,266,connexion,2025-04-22 14:15:50,compte,N/A,Connexion reussie
+243,47,suppression,2025-04-22 14:16:18,produit,Produit existant(e),Produit supprime(e)
+244,137,connexion,2025-04-22 14:15:46,client,N/A,Connexion reussie
+245,261,modification,2025-04-22 14:18:52,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+246,158,suppression,2025-04-22 14:19:59,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+247,129,suppression,2025-04-22 14:20:50,compte,Compte existant(e),Compte supprime(e)
+248,128,suppression,2025-04-22 14:18:01,reclamation,Reclamation existant(e),Reclamation supprime(e)
+249,71,consultation,2025-04-22 14:19:38,transaction,N/A,Consultation des donnees de transaction
+250,389,connexion,2025-04-22 14:17:55,transaction,N/A,Connexion reussie
+251,414,consultation,2025-04-22 14:18:26,reclamation,N/A,Consultation des donnees de reclamation
+252,170,suppression,2025-04-22 14:21:06,produit,Produit existant(e),Produit supprime(e)
+253,244,creation,2025-04-22 14:16:06,role,,Creation d'un nouvel(le) role
+254,23,modification,2025-04-22 14:18:29,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+255,299,consultation,2025-04-22 14:16:06,compte,N/A,Consultation des donnees de compte
+256,344,modification,2025-04-22 14:16:56,role,Ancienne valeur de role,Nouvelle valeur de role
+257,42,consultation,2025-04-22 14:20:19,client,N/A,Consultation des donnees de client
+258,34,creation,2025-04-22 14:18:23,transaction,,Creation d'un nouvel(le) transaction
+259,468,consultation,2025-04-22 14:15:41,client,N/A,Consultation des donnees de client
+260,444,connexion,2025-04-22 14:21:33,client,N/A,Connexion reussie
+261,150,modification,2025-04-22 14:21:13,role,Ancienne valeur de role,Nouvelle valeur de role
+262,379,creation,2025-04-22 14:20:51,produit,,Creation d'un nouvel(le) produit
+263,394,modification,2025-04-22 14:18:30,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+264,476,suppression,2025-04-22 14:16:33,compte,Compte existant(e),Compte supprime(e)
+265,461,connexion,2025-04-22 14:18:00,client,N/A,Connexion reussie
+266,343,modification,2025-04-22 14:17:03,role,Ancienne valeur de role,Nouvelle valeur de role
+267,436,modification,2025-04-22 14:18:20,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+268,179,suppression,2025-04-22 14:20:16,client,Client existant(e),Client supprime(e)
+269,311,creation,2025-04-22 14:18:59,role,,Creation d'un nouvel(le) role
+270,105,connexion,2025-04-22 14:17:36,client,N/A,Connexion reussie
+271,470,modification,2025-04-22 14:18:42,reclamation,Ancienne valeur de reclamation,Nouvelle valeur de reclamation
+272,217,consultation,2025-04-22 14:17:24,utilisateur,N/A,Consultation des donnees de utilisateur
+273,151,connexion,2025-04-22 14:15:38,transaction,N/A,Connexion reussie
+274,485,creation,2025-04-22 14:17:37,produit,,Creation d'un nouvel(le) produit
+275,407,creation,2025-04-22 14:15:54,utilisateur,,Creation d'un nouvel(le) utilisateur
+276,404,consultation,2025-04-22 14:16:46,reclamation,N/A,Consultation des donnees de reclamation
+277,313,connexion,2025-04-22 14:18:32,reclamation,N/A,Connexion reussie
+278,354,creation,2025-04-22 14:18:10,reclamation,,Creation d'un nouvel(le) reclamation
+279,325,creation,2025-04-22 14:17:52,produit,,Creation d'un nouvel(le) produit
+280,360,consultation,2025-04-22 14:19:53,compte,N/A,Consultation des donnees de compte
+281,491,modification,2025-04-22 14:16:15,reclamation,Ancienne valeur de reclamation,Nouvelle valeur de reclamation
+282,371,connexion,2025-04-22 14:17:53,utilisateur,N/A,Connexion reussie
+283,155,consultation,2025-04-22 14:16:26,compte,N/A,Consultation des donnees de compte
+284,253,consultation,2025-04-22 14:19:38,transaction,N/A,Consultation des donnees de transaction
+285,322,connexion,2025-04-22 14:18:30,client,N/A,Connexion reussie
+286,486,suppression,2025-04-22 14:16:01,client,Client existant(e),Client supprime(e)
+287,33,connexion,2025-04-22 14:16:30,client,N/A,Connexion reussie
+288,270,modification,2025-04-22 14:21:21,role,Ancienne valeur de role,Nouvelle valeur de role
+289,177,modification,2025-04-22 14:19:41,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+290,109,creation,2025-04-22 14:17:44,client,,Creation d'un nouvel(le) client
+291,177,connexion,2025-04-22 14:19:47,client,N/A,Connexion reussie
+292,246,consultation,2025-04-22 14:15:44,reclamation,N/A,Consultation des donnees de reclamation
+293,83,suppression,2025-04-22 14:16:32,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+294,459,suppression,2025-04-22 14:18:07,client,Client existant(e),Client supprime(e)
+295,455,consultation,2025-04-22 14:20:36,compte,N/A,Consultation des donnees de compte
+296,264,connexion,2025-04-22 14:20:37,client,N/A,Connexion reussie
+297,159,creation,2025-04-22 14:17:49,produit,,Creation d'un nouvel(le) produit
+298,483,suppression,2025-04-22 14:20:37,client,Client existant(e),Client supprime(e)
+299,141,consultation,2025-04-22 14:17:22,reclamation,N/A,Consultation des donnees de reclamation
+300,13,connexion,2025-04-22 14:20:01,transaction,N/A,Connexion reussie
+301,260,consultation,2025-04-22 14:17:27,transaction,N/A,Consultation des donnees de transaction
+302,380,connexion,2025-04-22 14:17:45,transaction,N/A,Connexion reussie
+303,244,connexion,2025-04-22 14:21:34,role,N/A,Connexion reussie
+304,469,modification,2025-04-22 14:19:25,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+305,414,suppression,2025-04-22 14:18:22,client,Client existant(e),Client supprime(e)
+306,246,connexion,2025-04-22 14:16:32,compte,N/A,Connexion reussie
+307,456,creation,2025-04-22 14:17:24,produit,,Creation d'un nouvel(le) produit
+308,287,creation,2025-04-22 14:19:04,produit,,Creation d'un nouvel(le) produit
+309,170,creation,2025-04-22 14:20:39,compte,,Creation d'un nouvel(le) compte
+310,115,modification,2025-04-22 14:15:49,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+311,447,consultation,2025-04-22 14:16:10,role,N/A,Consultation des donnees de role
+312,447,suppression,2025-04-22 14:19:35,transaction,Transaction existant(e),Transaction supprime(e)
+313,60,modification,2025-04-22 14:20:56,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+314,348,suppression,2025-04-22 14:21:15,compte,Compte existant(e),Compte supprime(e)
+315,283,connexion,2025-04-22 14:17:01,role,N/A,Connexion reussie
+316,442,connexion,2025-04-22 14:17:24,compte,N/A,Connexion reussie
+317,31,creation,2025-04-22 14:19:42,compte,,Creation d'un nouvel(le) compte
+318,384,connexion,2025-04-22 14:19:23,reclamation,N/A,Connexion reussie
+319,15,modification,2025-04-22 14:20:59,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+320,423,suppression,2025-04-22 14:19:48,compte,Compte existant(e),Compte supprime(e)
+321,278,modification,2025-04-22 14:18:11,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+322,170,connexion,2025-04-22 14:16:41,utilisateur,N/A,Connexion reussie
+323,224,creation,2025-04-22 14:17:42,compte,,Creation d'un nouvel(le) compte
+324,159,connexion,2025-04-22 14:17:53,role,N/A,Connexion reussie
+325,380,suppression,2025-04-22 14:19:05,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+326,243,consultation,2025-04-22 14:17:53,client,N/A,Consultation des donnees de client
+327,481,consultation,2025-04-22 14:21:01,utilisateur,N/A,Consultation des donnees de utilisateur
+328,104,consultation,2025-04-22 14:18:05,compte,N/A,Consultation des donnees de compte
+329,202,connexion,2025-04-22 14:21:04,utilisateur,N/A,Connexion reussie
+330,136,creation,2025-04-22 14:21:26,client,,Creation d'un nouvel(le) client
+331,52,modification,2025-04-22 14:19:29,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+332,175,suppression,2025-04-22 14:20:37,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+333,113,suppression,2025-04-22 14:16:46,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+334,300,consultation,2025-04-22 14:20:20,client,N/A,Consultation des donnees de client
+335,294,suppression,2025-04-22 14:16:02,compte,Compte existant(e),Compte supprime(e)
+336,423,suppression,2025-04-22 14:21:14,transaction,Transaction existant(e),Transaction supprime(e)
+337,232,suppression,2025-04-22 14:19:23,role,Role existant(e),Role supprime(e)
+338,334,suppression,2025-04-22 14:21:08,reclamation,Reclamation existant(e),Reclamation supprime(e)
+339,371,modification,2025-04-22 14:18:22,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+340,119,suppression,2025-04-22 14:19:42,client,Client existant(e),Client supprime(e)
+341,419,modification,2025-04-22 14:16:13,client,Ancienne valeur de client,Nouvelle valeur de client
+342,462,suppression,2025-04-22 14:20:51,client,Client existant(e),Client supprime(e)
+343,281,connexion,2025-04-22 14:20:25,utilisateur,N/A,Connexion reussie
+344,257,suppression,2025-04-22 14:18:43,client,Client existant(e),Client supprime(e)
+345,340,suppression,2025-04-22 14:19:00,produit,Produit existant(e),Produit supprime(e)
+346,121,connexion,2025-04-22 14:16:54,transaction,N/A,Connexion reussie
+347,438,creation,2025-04-22 14:18:37,utilisateur,,Creation d'un nouvel(le) utilisateur
+348,65,modification,2025-04-22 14:16:31,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+349,185,consultation,2025-04-22 14:20:15,utilisateur,N/A,Consultation des donnees de utilisateur
+350,340,consultation,2025-04-22 14:17:36,client,N/A,Consultation des donnees de client
+351,412,suppression,2025-04-22 14:15:42,produit,Produit existant(e),Produit supprime(e)
+352,314,consultation,2025-04-22 14:19:48,client,N/A,Consultation des donnees de client
+353,336,suppression,2025-04-22 14:17:25,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+354,397,creation,2025-04-22 14:20:08,compte,,Creation d'un nouvel(le) compte
+355,479,modification,2025-04-22 14:19:13,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+356,110,modification,2025-04-22 14:18:47,client,Ancienne valeur de client,Nouvelle valeur de client
+357,417,consultation,2025-04-22 14:18:22,utilisateur,N/A,Consultation des donnees de utilisateur
+358,447,consultation,2025-04-22 14:19:01,compte,N/A,Consultation des donnees de compte
+359,196,suppression,2025-04-22 14:19:22,role,Role existant(e),Role supprime(e)
+360,173,consultation,2025-04-22 14:17:53,reclamation,N/A,Consultation des donnees de reclamation
+361,175,connexion,2025-04-22 14:20:18,utilisateur,N/A,Connexion reussie
+362,439,modification,2025-04-22 14:16:38,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+363,5,consultation,2025-04-22 14:16:58,role,N/A,Consultation des donnees de role
+364,10,modification,2025-04-22 14:15:37,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+365,279,suppression,2025-04-22 14:16:31,role,Role existant(e),Role supprime(e)
+366,387,consultation,2025-04-22 14:21:16,reclamation,N/A,Consultation des donnees de reclamation
+367,449,modification,2025-04-22 14:20:52,role,Ancienne valeur de role,Nouvelle valeur de role
+368,231,suppression,2025-04-22 14:18:41,produit,Produit existant(e),Produit supprime(e)
+369,34,modification,2025-04-22 14:20:39,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+370,490,suppression,2025-04-22 14:17:42,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+371,203,connexion,2025-04-22 14:21:24,transaction,N/A,Connexion reussie
+372,280,suppression,2025-04-22 14:16:24,compte,Compte existant(e),Compte supprime(e)
+373,450,connexion,2025-04-22 14:17:48,produit,N/A,Connexion reussie
+374,131,connexion,2025-04-22 14:15:57,reclamation,N/A,Connexion reussie
+375,323,connexion,2025-04-22 14:19:55,compte,N/A,Connexion reussie
+376,59,suppression,2025-04-22 14:16:34,role,Role existant(e),Role supprime(e)
+377,21,creation,2025-04-22 14:19:37,role,,Creation d'un nouvel(le) role
+378,302,modification,2025-04-22 14:21:25,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+379,141,connexion,2025-04-22 14:18:01,client,N/A,Connexion reussie
+380,231,creation,2025-04-22 14:18:04,utilisateur,,Creation d'un nouvel(le) utilisateur
+381,404,creation,2025-04-22 14:17:58,client,,Creation d'un nouvel(le) client
+382,324,connexion,2025-04-22 14:20:48,client,N/A,Connexion reussie
+383,377,consultation,2025-04-22 14:19:35,client,N/A,Consultation des donnees de client
+384,372,modification,2025-04-22 14:21:15,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+385,398,creation,2025-04-22 14:18:42,client,,Creation d'un nouvel(le) client
+386,413,suppression,2025-04-22 14:19:58,compte,Compte existant(e),Compte supprime(e)
+387,427,consultation,2025-04-22 14:16:17,produit,N/A,Consultation des donnees de produit
+388,221,modification,2025-04-22 14:17:22,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+389,49,suppression,2025-04-22 14:16:43,transaction,Transaction existant(e),Transaction supprime(e)
+390,114,modification,2025-04-22 14:15:53,role,Ancienne valeur de role,Nouvelle valeur de role
+391,436,creation,2025-04-22 14:18:32,produit,,Creation d'un nouvel(le) produit
+392,443,modification,2025-04-22 14:16:06,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+393,53,suppression,2025-04-22 14:18:51,reclamation,Reclamation existant(e),Reclamation supprime(e)
+394,68,consultation,2025-04-22 14:20:59,utilisateur,N/A,Consultation des donnees de utilisateur
+395,193,modification,2025-04-22 14:17:05,client,Ancienne valeur de client,Nouvelle valeur de client
+396,479,modification,2025-04-22 14:17:52,role,Ancienne valeur de role,Nouvelle valeur de role
+397,131,connexion,2025-04-22 14:16:17,client,N/A,Connexion reussie
+398,17,suppression,2025-04-22 14:17:33,compte,Compte existant(e),Compte supprime(e)
+399,294,creation,2025-04-22 14:21:34,compte,,Creation d'un nouvel(le) compte
+400,430,suppression,2025-04-22 14:18:28,role,Role existant(e),Role supprime(e)
+401,439,connexion,2025-04-22 14:20:40,produit,N/A,Connexion reussie
+402,273,suppression,2025-04-22 14:18:47,compte,Compte existant(e),Compte supprime(e)
+403,20,connexion,2025-04-22 14:20:31,role,N/A,Connexion reussie
+404,95,consultation,2025-04-22 14:17:35,compte,N/A,Consultation des donnees de compte
+405,243,suppression,2025-04-22 14:15:35,role,Role existant(e),Role supprime(e)
+406,7,consultation,2025-04-22 14:20:20,role,N/A,Consultation des donnees de role
+407,303,suppression,2025-04-22 14:16:25,reclamation,Reclamation existant(e),Reclamation supprime(e)
+408,331,consultation,2025-04-22 14:16:20,reclamation,N/A,Consultation des donnees de reclamation
+409,370,modification,2025-04-22 14:20:28,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+410,469,suppression,2025-04-22 14:17:25,compte,Compte existant(e),Compte supprime(e)
+411,42,consultation,2025-04-22 14:19:19,role,N/A,Consultation des donnees de role
+412,480,connexion,2025-04-22 14:15:53,role,N/A,Connexion reussie
+413,363,modification,2025-04-22 14:15:55,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+414,412,suppression,2025-04-22 14:16:04,reclamation,Reclamation existant(e),Reclamation supprime(e)
+415,93,suppression,2025-04-22 14:19:42,client,Client existant(e),Client supprime(e)
+416,300,consultation,2025-04-22 14:16:40,compte,N/A,Consultation des donnees de compte
+417,364,suppression,2025-04-22 14:21:27,produit,Produit existant(e),Produit supprime(e)
+418,38,modification,2025-04-22 14:17:22,reclamation,Ancienne valeur de reclamation,Nouvelle valeur de reclamation
+419,482,suppression,2025-04-22 14:17:28,role,Role existant(e),Role supprime(e)
+420,449,creation,2025-04-22 14:19:26,transaction,,Creation d'un nouvel(le) transaction
+421,240,consultation,2025-04-22 14:21:02,role,N/A,Consultation des donnees de role
+422,477,creation,2025-04-22 14:17:01,compte,,Creation d'un nouvel(le) compte
+423,330,creation,2025-04-22 14:21:28,produit,,Creation d'un nouvel(le) produit
+424,314,modification,2025-04-22 14:18:47,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+425,317,modification,2025-04-22 14:21:05,role,Ancienne valeur de role,Nouvelle valeur de role
+426,3,suppression,2025-04-22 14:21:09,transaction,Transaction existant(e),Transaction supprime(e)
+427,425,suppression,2025-04-22 14:16:42,client,Client existant(e),Client supprime(e)
+428,380,creation,2025-04-22 14:16:39,role,,Creation d'un nouvel(le) role
+429,3,suppression,2025-04-22 14:16:29,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+430,417,modification,2025-04-22 14:17:12,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+431,378,modification,2025-04-22 14:18:36,role,Ancienne valeur de role,Nouvelle valeur de role
+432,6,modification,2025-04-22 14:16:22,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+433,129,suppression,2025-04-22 14:15:39,produit,Produit existant(e),Produit supprime(e)
+434,285,suppression,2025-04-22 14:16:50,client,Client existant(e),Client supprime(e)
+435,463,consultation,2025-04-22 14:17:08,produit,N/A,Consultation des donnees de produit
+436,470,modification,2025-04-22 14:20:00,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+437,354,consultation,2025-04-22 14:16:38,reclamation,N/A,Consultation des donnees de reclamation
+438,241,suppression,2025-04-22 14:21:21,transaction,Transaction existant(e),Transaction supprime(e)
+439,113,creation,2025-04-22 14:18:37,compte,,Creation d'un nouvel(le) compte
+440,465,connexion,2025-04-22 14:17:07,compte,N/A,Connexion reussie
+441,500,connexion,2025-04-22 14:19:16,transaction,N/A,Connexion reussie
+442,74,connexion,2025-04-22 14:21:10,produit,N/A,Connexion reussie
+443,117,connexion,2025-04-22 14:20:31,client,N/A,Connexion reussie
+444,280,connexion,2025-04-22 14:20:55,client,N/A,Connexion reussie
+445,114,connexion,2025-04-22 14:19:26,produit,N/A,Connexion reussie
+446,36,suppression,2025-04-22 14:21:28,client,Client existant(e),Client supprime(e)
+447,7,suppression,2025-04-22 14:15:36,reclamation,Reclamation existant(e),Reclamation supprime(e)
+448,192,creation,2025-04-22 14:19:18,produit,,Creation d'un nouvel(le) produit
+449,276,creation,2025-04-22 14:16:04,utilisateur,,Creation d'un nouvel(le) utilisateur
+450,87,creation,2025-04-22 14:20:46,client,,Creation d'un nouvel(le) client
+451,465,suppression,2025-04-22 14:15:49,compte,Compte existant(e),Compte supprime(e)
+452,260,suppression,2025-04-22 14:20:18,transaction,Transaction existant(e),Transaction supprime(e)
+453,120,suppression,2025-04-22 14:21:03,client,Client existant(e),Client supprime(e)
+454,110,suppression,2025-04-22 14:18:04,transaction,Transaction existant(e),Transaction supprime(e)
+455,477,creation,2025-04-22 14:19:11,utilisateur,,Creation d'un nouvel(le) utilisateur
+456,498,suppression,2025-04-22 14:19:58,transaction,Transaction existant(e),Transaction supprime(e)
+457,11,consultation,2025-04-22 14:19:26,utilisateur,N/A,Consultation des donnees de utilisateur
+458,76,consultation,2025-04-22 14:21:35,compte,N/A,Consultation des donnees de compte
+459,75,consultation,2025-04-22 14:21:11,produit,N/A,Consultation des donnees de produit
+460,286,creation,2025-04-22 14:17:14,client,,Creation d'un nouvel(le) client
+461,42,creation,2025-04-22 14:17:46,compte,,Creation d'un nouvel(le) compte
+462,335,consultation,2025-04-22 14:21:07,client,N/A,Consultation des donnees de client
+463,453,consultation,2025-04-22 14:15:58,transaction,N/A,Consultation des donnees de transaction
+464,275,connexion,2025-04-22 14:16:17,utilisateur,N/A,Connexion reussie
+465,252,modification,2025-04-22 14:17:46,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+466,466,connexion,2025-04-22 14:16:13,reclamation,N/A,Connexion reussie
+467,158,modification,2025-04-22 14:21:29,reclamation,Ancienne valeur de reclamation,Nouvelle valeur de reclamation
+468,179,suppression,2025-04-22 14:15:44,transaction,Transaction existant(e),Transaction supprime(e)
+469,73,suppression,2025-04-22 14:16:51,produit,Produit existant(e),Produit supprime(e)
+470,223,consultation,2025-04-22 14:19:49,utilisateur,N/A,Consultation des donnees de utilisateur
+471,419,modification,2025-04-22 14:19:00,reclamation,Ancienne valeur de reclamation,Nouvelle valeur de reclamation
+472,390,consultation,2025-04-22 14:20:48,role,N/A,Consultation des donnees de role
+473,228,connexion,2025-04-22 14:18:27,compte,N/A,Connexion reussie
+474,108,modification,2025-04-22 14:19:00,utilisateur,Ancienne valeur de utilisateur,Nouvelle valeur de utilisateur
+475,103,modification,2025-04-22 14:19:23,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+476,392,modification,2025-04-22 14:16:25,compte,Ancienne valeur de compte,Nouvelle valeur de compte
+477,247,suppression,2025-04-22 14:20:40,client,Client existant(e),Client supprime(e)
+478,313,modification,2025-04-22 14:16:22,transaction,Ancienne valeur de transaction,Nouvelle valeur de transaction
+479,449,creation,2025-04-22 14:20:43,compte,,Creation d'un nouvel(le) compte
+480,496,suppression,2025-04-22 14:20:05,role,Role existant(e),Role supprime(e)
+481,15,creation,2025-04-22 14:20:38,compte,,Creation d'un nouvel(le) compte
+482,181,consultation,2025-04-22 14:21:35,transaction,N/A,Consultation des donnees de transaction
+483,166,modification,2025-04-22 14:16:25,produit,Ancienne valeur de produit,Nouvelle valeur de produit
+484,135,consultation,2025-04-22 14:17:43,transaction,N/A,Consultation des donnees de transaction
+485,475,modification,2025-04-22 14:17:24,client,Ancienne valeur de client,Nouvelle valeur de client
+486,121,modification,2025-04-22 14:21:03,role,Ancienne valeur de role,Nouvelle valeur de role
+487,62,consultation,2025-04-22 14:18:24,client,N/A,Consultation des donnees de client
+488,51,suppression,2025-04-22 14:18:13,produit,Produit existant(e),Produit supprime(e)
+489,332,consultation,2025-04-22 14:17:25,transaction,N/A,Consultation des donnees de transaction
+490,374,suppression,2025-04-22 14:21:02,client,Client existant(e),Client supprime(e)
+491,383,connexion,2025-04-22 14:16:07,role,N/A,Connexion reussie
+492,130,consultation,2025-04-22 14:19:16,compte,N/A,Consultation des donnees de compte
+493,268,modification,2025-04-22 14:20:25,role,Ancienne valeur de role,Nouvelle valeur de role
+494,243,creation,2025-04-22 14:19:34,compte,,Creation d'un nouvel(le) compte
+495,326,suppression,2025-04-22 14:20:56,utilisateur,Utilisateur existant(e),Utilisateur supprime(e)
+496,463,connexion,2025-04-22 14:21:06,produit,N/A,Connexion reussie
+497,301,suppression,2025-04-22 14:16:25,produit,Produit existant(e),Produit supprime(e)
+498,337,creation,2025-04-22 14:20:25,transaction,,Creation d'un nouvel(le) transaction
+499,47,connexion,2025-04-22 14:20:46,produit,N/A,Connexion reussie
+500,370,modification,2025-04-22 14:19:03,compte,Ancienne valeur de compte,Nouvelle valeur de compte

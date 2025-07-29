@@ -1,0 +1,501 @@
+id_client,nom,prenom,cin,telephone,email,adresse,date_naissance,created_at
+1,baroudi,siham,cd809570,683197857,sihambaroudigmailcom,141 rue maaroufi mabella casablanca maroc,1997-10-26,1970-01-01
+2,amrani,ikram,cd688508,636687537,ikramamranigmailcom,16 rue amrani maarif oujda maroc,1956-01-03,1970-01-01
+3,lahlou,adil,ef832052,666722344,adillahlouhotmailfr,230 rue ouzzani hay riad oujda maroc,1970-12-20,1970-01-01
+4,bakkali,tarik,ab476417,756164955,tarikbakkaligmailcom,173 rue fassi hay riad fes maroc,1963-10-20,1970-01-01
+5,bennis,zineb,ab678856,749349722,zinebbennisgmailcom,236 rue elidrissi mabella casablanca maroc,2000-05-09,1970-01-01
+6,zerouali,malak,ab910620,648840994,malakzeroualihotmailfr,99 rue lahlou sidi moumen tanger maroc,1960-03-21,1970-01-01
+7,amrani,mehdi,lm488162,757683626,mehdiamranihotmailfr,143 rue chouaib oasis rabat maroc,1956-06-19,1970-01-01
+8,touil,tarik,lm584714,660929647,tariktouilhotmailfr,88 rue elidrissi sidi moumen rabat maroc,1960-09-05,1970-01-01
+9,boukhriss,hiba,no961722,614308421,hibaboukhrisshotmailfr,167 rue zerouali tachfine marrakech maroc,1970-02-19,1970-01-01
+10,naciri,salma,ik322955,597971488,salmanaciriinwima,34 rue touil belvdre oujda maroc,1995-04-10,1970-01-01
+11,bensaid,ayoub,cd883300,588461803,ayoubbensaidinwima,136 rue chakiri gueliz kenitra maroc,1992-06-30,1970-01-01
+12,rguig,ikram,ik892495,716323852,ikramrguiggmailcom,113 rue chakiri mdina oujda maroc,2003-01-11,1970-01-01
+13,sekkat,siham,lm503457,761220073,sihamsekkatgmailcom,82 rue naciri tachfine fes maroc,1982-11-08,1970-01-01
+14,bennis,reda,ab814825,582070937,redabennisgmailcom,284 rue sekkat belvdre temara maroc,1984-11-15,1970-01-01
+15,chraibi,tarik,cd857168,745351479,tarikchraibigmailcom,151 rue rguig agdal tanger maroc,1954-09-30,1970-01-01
+16,elmansouri,imane,lm260263,760185867,imaneelmansourihotmailfr,55 rue sekkat bourgogne temara maroc,2001-10-24,1970-01-01
+17,chraibi,saad,ab612340,512614124,saadchraibiinwima,272 rue alaoui tabriquet temara maroc,1977-06-16,1970-01-01
+18,fassi,abdelhak,ik867460,675228535,abdelhakfassigmailcom,30 rue maaroufi hay riad agadir maroc,1964-11-19,1970-01-01
+19,zerouali,youssef,lm377932,780823176,youssefzeroualihotmailfr,65 rue chakiri tabriquet temara maroc,2006-04-05,1970-01-01
+20,sekkat,othmane,lm847581,551837852,othmanesekkathotmailfr,277 rue chraibi hay riad oujda maroc,1961-04-05,1970-01-01
+21,elalami,abdelhak,ab167136,655377076,abdelhakelalamihotmailfr,265 rue chouaib bourgogne kenitra maroc,1980-02-28,1970-01-01
+22,elkhatib,ikram,ab340062,519046318,ikramelkhatibgmailcom,113 rue elkhatib hay riad temara maroc,1978-09-25,1970-01-01
+23,fadili,hassan,ef324643,582374753,hassanfadiliiamnetma,264 rue maaroufi agdal tanger maroc,1995-05-22,1970-01-01
+24,chakiri,rayan,gh198907,723009833,rayanchakirihotmailfr,125 rue naciri yacoub el mansour ttouan maroc,1957-04-05,1970-01-01
+25,hariri,abdelaziz,no806073,597705310,abdelazizharirigmailcom,211 rue chouaib oasis tanger maroc,1990-10-18,1970-01-01
+26,baroudi,rachid,no300896,635529407,rachidbaroudihotmailfr,174 rue naciri oasis casablanca maroc,1980-01-24,1970-01-01
+27,elidrissi,bouchra,gh564656,683863413,bouchraelidrissigmailcom,94 rue boukhriss oasis fes maroc,1991-11-15,1970-01-01
+28,fassi,amina,no526156,675181648,aminafassihotmailfr,8 rue amrani sidi marouf temara maroc,1997-01-30,1970-01-01
+29,bensaid,ibrahim,gh378085,671070189,ibrahimbensaidiamnetma,31 rue zahiri bourgogne oujda maroc,1993-08-05,1970-01-01
+30,jebari,abdelaziz,cd161324,787736262,abdelazizjebarihotmailfr,250 rue chakiri tachfine temara maroc,2002-04-02,1970-01-01
+31,tahiri,adil,ab627276,581286543,adiltahiriiamnetma,161 rue bennani mabella casablanca maroc,1957-06-03,1970-01-01
+32,zahiri,amina,ik523389,626090908,aminazahirihotmailfr,96 rue amrani agdal temara maroc,2006-11-29,1970-01-01
+33,fadili,rayan,ab373432,737415205,rayanfadiliinwima,21 rue bennis sidi moumen marrakech maroc,1959-09-26,1970-01-01
+34,hariri,salma,lm579434,552436584,salmahaririinwima,203 rue chakiri belvdre marrakech maroc,1961-03-06,1970-01-01
+35,alaoui,youssef,ab630458,545594597,youssefalaouihotmailfr,289 rue fassi yacoub el mansour casablanca maroc,1973-03-22,1970-01-01
+36,chakiri,houda,ef974244,682909480,houdachakiriiamnetma,126 rue moutawakil bourgogne rabat maroc,1997-07-25,1970-01-01
+37,lahlou,karim,lm795613,523903144,karimlahlouinwima,271 rue elkhatib tabriquet ttouan maroc,1965-05-16,1970-01-01
+38,fadili,omar,ik395442,691178885,omarfadiliinwima,55 rue tahiri agdal agadir maroc,1978-06-25,1970-01-01
+39,touil,yassine,gh196781,795132217,yassinetouilgmailcom,136 rue elmansouri tachfine marrakech maroc,1999-11-29,1970-01-01
+40,rguig,tarik,cd269430,569302158,tarikrguiginwima,171 rue chraibi maarif casablanca maroc,2002-01-23,1970-01-01
+41,elidrissi,abdelaziz,lm975136,659555330,abdelazizelidrissigmailcom,58 rue amrani maarif temara maroc,1995-10-04,1970-01-01
+42,ouzzani,hiba,ef475190,738195995,hibaouzzanigmailcom,66 rue bennani oasis fes maroc,1990-08-27,1970-01-01
+43,hariri,mouna,no348237,731810617,mounaharirihotmailfr,287 rue fadili mdina rabat maroc,1965-06-04,1970-01-01
+44,naciri,imane,ef379766,731367172,imanenacirihotmailfr,92 rue tahiri maarif oujda maroc,1980-02-16,1970-01-01
+45,naciri,rachid,gh956253,671780854,rachidnacirihotmailfr,20 rue sekkat sidi marouf oujda maroc,1997-11-09,1970-01-01
+46,moutawakil,karim,cd392136,719317495,karimmoutawakilinwima,13 rue hariri hay riad marrakech maroc,1969-04-01,1970-01-01
+47,chraibi,tarik,lm128941,525480907,tarikchraibiinwima,261 rue elalami tachfine tanger maroc,2006-08-03,1970-01-01
+48,fadili,zineb,ab462479,552101056,zinebfadiliiamnetma,136 rue bennani sidi moumen fes maroc,1969-11-22,1970-01-01
+49,rguig,othmane,ik146542,668526649,othmanerguiginwima,198 rue fadili agdal temara maroc,1975-10-09,1970-01-01
+50,elkhatib,ilham,gh753425,652133044,ilhamelkhatibinwima,101 rue moutawakil tachfine temara maroc,1972-07-10,1970-01-01
+51,hariri,siham,gh831076,749682169,sihamhaririiamnetma,159 rue hariri ain sebaa agadir maroc,1968-08-30,1970-01-01
+52,elidrissi,omar,lm525800,683542887,omarelidrissiinwima,195 rue hariri oasis marrakech maroc,2003-02-27,1970-01-01
+53,zerouali,mohamed,no587575,569295515,mohamedzeroualiinwima,108 rue rguig belvdre agadir maroc,1968-10-09,1970-01-01
+54,chouaib,ibrahim,ab197923,741523529,ibrahimchouaibinwima,87 rue hariri yacoub el mansour temara maroc,1981-03-24,1970-01-01
+55,hariri,karim,ab598216,692043803,karimharirihotmailfr,102 rue chakiri tabriquet marrakech maroc,1964-01-11,1970-01-01
+56,sekkat,youssef,lm618392,563640499,youssefsekkatiamnetma,295 rue touil oasis kenitra maroc,1963-10-22,1970-01-01
+57,maaroufi,laila,gh943170,679519112,lailamaaroufihotmailfr,55 rue chraibi bourgogne casablanca maroc,2004-12-31,1970-01-01
+58,chouaib,amina,cd891937,769401199,aminachouaibinwima,63 rue chouaib hay riad temara maroc,1990-12-25,1970-01-01
+59,bennis,zakaria,cd571932,544788100,zakariabennisiamnetma,281 rue chouaib sidi marouf oujda maroc,2005-02-20,1970-01-01
+60,chraibi,mouna,lm561239,620399639,mounachraibiinwima,267 rue bensaid tabriquet agadir maroc,1983-06-17,1970-01-01
+61,lahlou,soukaina,ik258157,641039390,soukainalahlouhotmailfr,172 rue bakkali belvdre marrakech maroc,1981-06-26,1970-01-01
+62,elalami,laila,ef535970,518357162,lailaelalamiiamnetma,213 rue rguig agdal marrakech maroc,1969-03-25,1970-01-01
+63,touil,nadia,ab600149,510791358,nadiatouiliamnetma,300 rue lahlou bourgogne oujda maroc,1988-12-23,1970-01-01
+64,moutawakil,karim,lm611945,539450273,karimmoutawakilhotmailfr,215 rue elidrissi sidi marouf oujda maroc,1960-06-28,1970-01-01
+65,boukhriss,abdelaziz,lm859359,532151928,abdelazizboukhrissiamnetma,200 rue bakkali maarif kenitra maroc,1961-10-07,1970-01-01
+66,zerouali,reda,gh188025,596268397,redazeroualigmailcom,274 rue elkhatib sidi moumen fes maroc,1997-01-01,1970-01-01
+67,rguig,omar,gh576786,753868501,omarrguighotmailfr,26 rue boukhriss gueliz kenitra maroc,2000-08-11,1970-01-01
+68,bakkali,samira,no120324,682399599,samirabakkaliiamnetma,216 rue boukhriss tabriquet agadir maroc,1994-11-21,1970-01-01
+69,bennani,houda,lm359295,636757737,houdabennanigmailcom,36 rue chraibi tachfine marrakech maroc,1980-06-27,1970-01-01
+70,zerouali,fatima,gh691364,539254705,fatimazeroualigmailcom,123 rue chakiri gueliz ttouan maroc,1994-11-08,1970-01-01
+71,chouaib,zineb,no213349,687669750,zinebchouaibinwima,59 rue chraibi gueliz tanger maroc,1990-04-24,1970-01-01
+72,elkhatib,karim,lm720859,694187049,karimelkhatibgmailcom,193 rue elalami tachfine ttouan maroc,1991-12-14,1970-01-01
+73,maaroufi,rachid,ik658623,667495923,rachidmaaroufiinwima,62 rue naciri sidi marouf agadir maroc,2000-08-06,1970-01-01
+74,hariri,abdelhak,no210665,768186525,abdelhakhaririiamnetma,175 rue elkhatib ain sebaa rabat maroc,2000-09-11,1970-01-01
+75,moutawakil,reda,ik745830,582232344,redamoutawakilinwima,91 rue tahiri oasis fes maroc,2005-05-27,1970-01-01
+76,chraibi,anass,no392477,670505620,anasschraibigmailcom,138 rue bakkali oasis kenitra maroc,2006-08-10,1970-01-01
+77,maaroufi,reda,ab290672,775437844,redamaaroufiinwima,195 rue bakkali sidi moumen ttouan maroc,1961-11-23,1970-01-01
+78,touil,houda,ik682789,511362459,houdatouilinwima,144 rue fadili mdina agadir maroc,1983-11-22,1970-01-01
+79,elmansouri,nour,ik777278,675876924,nourelmansouriiamnetma,209 rue bensaid hay riad rabat maroc,1985-03-07,1970-01-01
+80,chouaib,fatima,lm796212,688055069,fatimachouaibinwima,114 rue elalami belvdre rabat maroc,2003-06-11,1970-01-01
+81,moutawakil,anass,lm468900,570900658,anassmoutawakilinwima,177 rue rguig ain sebaa temara maroc,1988-05-15,1970-01-01
+82,boukhriss,karim,cd878967,781922443,karimboukhrissgmailcom,62 rue tahiri hay riad agadir maroc,1988-11-07,1970-01-01
+83,chraibi,imane,lm205409,536054020,imanechraibiinwima,248 rue boukhriss hay riad marrakech maroc,1996-11-08,1970-01-01
+84,jebari,mehdi,lm387636,516109013,mehdijebarihotmailfr,155 rue elkhatib gueliz tanger maroc,1997-10-14,1970-01-01
+85,bennani,hiba,no112861,787049595,hibabennanigmailcom,65 rue baroudi mabella agadir maroc,1995-09-30,1970-01-01
+86,jebari,anass,ab219629,718770247,anassjebariiamnetma,175 rue zahiri yacoub el mansour kenitra maroc,1964-09-14,1970-01-01
+87,elalami,rim,cd189318,543311626,rimelalamiinwima,28 rue chakiri sidi moumen rabat maroc,2006-03-12,1970-01-01
+88,fassi,hiba,ik564226,749910061,hibafassiiamnetma,116 rue chraibi sidi moumen oujda maroc,1991-01-04,1970-01-01
+89,sekkat,ikram,ab899787,537888820,ikramsekkatgmailcom,292 rue bennis belvdre oujda maroc,1954-05-06,1970-01-01
+90,baroudi,ibrahim,cd264136,610359129,ibrahimbaroudigmailcom,42 rue zahiri tachfine agadir maroc,1987-07-22,1970-01-01
+91,rguig,bouchra,cd837135,770939053,bouchrarguiginwima,150 rue bennani yacoub el mansour ttouan maroc,1961-12-01,1970-01-01
+92,amrani,mehdi,ab779094,529997018,mehdiamranihotmailfr,102 rue rguig tabriquet agadir maroc,1975-03-26,1970-01-01
+93,alaoui,tarik,no560485,726690465,tarikalaouiinwima,31 rue zahiri agdal fes maroc,1958-03-31,1970-01-01
+94,chouaib,karim,gh727086,715350023,karimchouaibgmailcom,257 rue elidrissi belvdre oujda maroc,1992-11-29,1970-01-01
+95,fadili,abdelaziz,ab901909,646173157,abdelazizfadiligmailcom,129 rue elkhatib sidi moumen tanger maroc,1960-02-18,1970-01-01
+96,ouzzani,hassan,gh713762,768503492,hassanouzzanihotmailfr,266 rue baroudi yacoub el mansour fes maroc,1959-01-06,1970-01-01
+97,baroudi,rim,ef999398,731585546,rimbaroudigmailcom,179 rue rguig yacoub el mansour rabat maroc,2006-06-02,1970-01-01
+98,bakkali,nadia,no576919,521819185,nadiabakkaligmailcom,206 rue zerouali belvdre kenitra maroc,1963-01-16,1970-01-01
+99,bakkali,zineb,ik533321,617275149,zinebbakkaliiamnetma,207 rue sekkat agdal tanger maroc,1991-09-20,1970-01-01
+100,touil,ilham,gh380028,683715012,ilhamtouilhotmailfr,256 rue baroudi sidi moumen tanger maroc,1972-05-05,1970-01-01
+101,chakiri,soukaina,ab844261,531257157,soukainachakirihotmailfr,249 rue fassi bourgogne kenitra maroc,1995-08-01,1970-01-01
+102,jebari,hiba,cd223172,696934122,hibajebariiamnetma,209 rue amrani ain sebaa casablanca maroc,1968-09-19,1970-01-01
+103,zerouali,laila,lm975271,774759996,lailazeroualiiamnetma,150 rue elmansouri bourgogne kenitra maroc,2005-09-13,1970-01-01
+104,bensaid,mouna,cd173201,547077298,mounabensaidhotmailfr,75 rue elalami ain sebaa kenitra maroc,2002-10-27,1970-01-01
+105,chraibi,nadia,no861319,650071487,nadiachraibiinwima,260 rue boukhriss bourgogne tanger maroc,1981-06-16,1970-01-01
+106,zerouali,ikram,cd461888,754619335,ikramzeroualiiamnetma,251 rue sekkat tachfine ttouan maroc,1984-02-13,1970-01-01
+107,elidrissi,adil,cd699573,561401477,adilelidrissihotmailfr,165 rue sekkat yacoub el mansour oujda maroc,1985-01-10,1970-01-01
+108,maaroufi,nadia,no795928,797512508,nadiamaaroufiiamnetma,243 rue lahlou mdina casablanca maroc,1971-03-05,1970-01-01
+109,chakiri,rim,ef204555,680591959,rimchakiriiamnetma,258 rue ouzzani gueliz casablanca maroc,1958-08-30,1970-01-01
+110,alaoui,reda,no178463,573013961,redaalaouihotmailfr,74 rue rguig mabella casablanca maroc,1955-09-26,1970-01-01
+111,naciri,zineb,ab432043,794127561,zinebnaciriiamnetma,204 rue baroudi sidi moumen tanger maroc,1969-12-18,1970-01-01
+112,lahlou,rim,lm338536,522130508,rimlahlouinwima,36 rue maaroufi maarif temara maroc,1954-10-17,1970-01-01
+113,rguig,rachid,ef440131,617532195,rachidrguiggmailcom,86 rue lahlou yacoub el mansour rabat maroc,2002-06-22,1970-01-01
+114,jebari,houda,ik278240,733497411,houdajebarihotmailfr,75 rue maaroufi oasis tanger maroc,1969-11-19,1970-01-01
+115,amrani,malak,ik583550,695618110,malakamranihotmailfr,124 rue bensaid sidi moumen oujda maroc,1956-06-10,1970-01-01
+116,boukhriss,reda,no810526,783363160,redaboukhrissinwima,5 rue fadili tachfine agadir maroc,1959-02-16,1970-01-01
+117,zahiri,youssef,gh579027,550550084,youssefzahiriinwima,154 rue baroudi mdina kenitra maroc,1970-07-02,1970-01-01
+118,touil,samira,ik833247,749625201,samiratouilinwima,122 rue elalami agdal kenitra maroc,1999-10-30,1970-01-01
+119,elkhatib,ayoub,lm735863,576669607,ayoubelkhatibgmailcom,290 rue sekkat maarif agadir maroc,1968-11-18,1970-01-01
+120,zerouali,soukaina,lm810687,698473848,soukainazeroualiinwima,181 rue maaroufi sidi moumen marrakech maroc,1963-04-23,1970-01-01
+121,hariri,omar,no707727,758970845,omarharirigmailcom,21 rue jebari bourgogne rabat maroc,1993-07-07,1970-01-01
+122,tahiri,omar,lm310548,727738187,omartahirihotmailfr,152 rue bakkali bourgogne rabat maroc,1970-11-03,1970-01-01
+123,naciri,adil,ef964749,674672520,adilnaciriinwima,257 rue alaoui ain sebaa tanger maroc,1982-01-02,1970-01-01
+124,naciri,soukaina,ab809176,663339667,soukainanacirihotmailfr,59 rue chouaib tabriquet tanger maroc,1960-09-21,1970-01-01
+125,sekkat,hiba,ef576877,559470729,hibasekkatgmailcom,203 rue elkhatib agdal tanger maroc,1999-02-24,1970-01-01
+126,hariri,zineb,lm126240,693154172,zinebhaririiamnetma,191 rue fassi oasis ttouan maroc,1978-06-01,1970-01-01
+127,fadili,hiba,ab835132,550559278,hibafadiliiamnetma,114 rue baroudi bourgogne tanger maroc,1982-04-13,1970-01-01
+128,baroudi,nadia,ef201913,741514326,nadiabaroudigmailcom,24 rue bennani gueliz rabat maroc,2003-12-02,1970-01-01
+129,fadili,adil,lm715870,530739712,adilfadiliiamnetma,233 rue moutawakil oasis fes maroc,2000-02-16,1970-01-01
+130,fadili,nadia,gh823811,759731689,nadiafadiligmailcom,251 rue bennis sidi marouf rabat maroc,1958-06-06,1970-01-01
+131,touil,bouchra,lm163491,763437398,bouchratouilinwima,186 rue fassi hay riad kenitra maroc,2003-11-10,1970-01-01
+132,boukhriss,nour,lm153035,654762841,nourboukhrissgmailcom,233 rue amrani sidi marouf rabat maroc,1961-09-27,1970-01-01
+133,maaroufi,omar,no714867,538984499,omarmaaroufihotmailfr,36 rue zerouali hay riad ttouan maroc,1967-05-05,1970-01-01
+134,zerouali,mehdi,ik251716,627447248,mehdizeroualiinwima,76 rue naciri tabriquet tanger maroc,1990-10-19,1970-01-01
+135,elidrissi,zineb,ab717457,753455870,zinebelidrissihotmailfr,14 rue chakiri agdal fes maroc,1963-11-05,1970-01-01
+136,elkhatib,imane,gh881886,518530615,imaneelkhatibgmailcom,65 rue tahiri maarif agadir maroc,1966-10-16,1970-01-01
+137,bensaid,bouchra,ik862569,698436473,bouchrabensaidgmailcom,56 rue chouaib ain sebaa tanger maroc,1985-10-14,1970-01-01
+138,elmansouri,karim,gh819425,724490391,karimelmansouriiamnetma,16 rue bennani tachfine kenitra maroc,1959-06-08,1970-01-01
+139,bensaid,bouchra,ik232321,646912022,bouchrabensaidgmailcom,42 rue bakkali bourgogne rabat maroc,1991-10-03,1970-01-01
+140,bennis,ikram,ik575755,577853916,ikrambennisinwima,167 rue elalami mabella temara maroc,1957-09-30,1970-01-01
+141,bennis,abdelaziz,lm550961,570606674,abdelazizbennishotmailfr,59 rue sekkat tabriquet rabat maroc,1955-04-23,1970-01-01
+142,fadili,mehdi,gh427730,567279295,mehdifadiligmailcom,233 rue elalami mdina oujda maroc,2005-08-01,1970-01-01
+143,bakkali,zineb,ab552855,622960658,zinebbakkaligmailcom,243 rue amrani gueliz tanger maroc,1965-08-15,1970-01-01
+144,tahiri,abdelhak,ik802559,526405605,abdelhaktahiriinwima,31 rue ouzzani ain sebaa fes maroc,1987-05-09,1970-01-01
+145,rguig,houda,ik208633,787566910,houdarguiginwima,27 rue jebari sidi marouf oujda maroc,1968-11-06,1970-01-01
+146,elmansouri,ibrahim,no986438,684660688,ibrahimelmansouriinwima,247 rue maaroufi tachfine fes maroc,1958-04-18,1970-01-01
+147,moutawakil,siham,gh738577,598292612,sihammoutawakilgmailcom,116 rue naciri sidi moumen agadir maroc,1980-02-04,1970-01-01
+148,zerouali,tarik,no468074,710819505,tarikzeroualiinwima,140 rue lahlou gueliz casablanca maroc,1980-11-14,1970-01-01
+149,zahiri,laila,cd196214,581200181,lailazahirigmailcom,206 rue amrani tachfine ttouan maroc,1985-04-08,1970-01-01
+150,touil,samira,ef914571,786181117,samiratouilinwima,175 rue zahiri yacoub el mansour oujda maroc,1983-02-02,1970-01-01
+151,bennis,khadija,ik385320,669473616,khadijabennisgmailcom,81 rue chraibi gueliz casablanca maroc,1999-05-06,1970-01-01
+152,hariri,abdelaziz,ef461939,667702031,abdelazizharirigmailcom,227 rue rguig sidi moumen kenitra maroc,1964-11-02,1970-01-01
+153,fassi,soukaina,ef514463,690440034,soukainafassihotmailfr,270 rue hariri yacoub el mansour ttouan maroc,1974-06-30,1970-01-01
+154,bennani,mohamed,cd444061,726104026,mohamedbennaniinwima,109 rue chraibi belvdre marrakech maroc,1958-04-14,1970-01-01
+155,elkhatib,rim,ik624563,584990607,rimelkhatibhotmailfr,67 rue elalami gueliz oujda maroc,2004-05-15,1970-01-01
+156,zerouali,houda,ab428267,787277086,houdazeroualigmailcom,22 rue rguig oasis rabat maroc,1958-06-15,1970-01-01
+157,rguig,rayan,ab440544,733068427,rayanrguiggmailcom,214 rue jebari mabella oujda maroc,1958-03-12,1970-01-01
+158,naciri,malak,gh556839,689036966,malaknacirihotmailfr,186 rue amrani sidi marouf kenitra maroc,1994-01-21,1970-01-01
+159,elalami,ilham,ef916964,632566390,ilhamelalamiinwima,159 rue tahiri oasis rabat maroc,1988-07-10,1970-01-01
+160,amrani,zakaria,no862712,796629889,zakariaamraniinwima,262 rue touil ain sebaa rabat maroc,1965-01-07,1970-01-01
+161,zerouali,laila,cd897143,697980930,lailazeroualihotmailfr,75 rue boukhriss agdal marrakech maroc,1988-11-11,1970-01-01
+162,amrani,imane,ik757685,752431444,imaneamraniinwima,289 rue chraibi yacoub el mansour kenitra maroc,1966-12-13,1970-01-01
+163,chakiri,bouchra,ef469038,778093604,bouchrachakirigmailcom,227 rue baroudi yacoub el mansour rabat maroc,1994-10-18,1970-01-01
+164,amrani,karim,ef775981,722119391,karimamranigmailcom,20 rue bennani yacoub el mansour kenitra maroc,2000-04-02,1970-01-01
+165,bennis,othmane,ik571579,586726461,othmanebennisgmailcom,237 rue ouzzani oasis temara maroc,1981-10-12,1970-01-01
+166,baroudi,nour,cd208529,656095437,nourbaroudiiamnetma,244 rue elmansouri sidi moumen tanger maroc,1993-01-26,1970-01-01
+167,lahlou,khadija,cd560767,580339290,khadijalahlouiamnetma,89 rue bennani tachfine temara maroc,1993-09-13,1970-01-01
+168,elmansouri,malak,ef912085,755414869,malakelmansouriiamnetma,191 rue alaoui mdina fes maroc,1996-06-14,1970-01-01
+169,hariri,othmane,ef397949,643822301,othmanehaririiamnetma,172 rue amrani tabriquet casablanca maroc,1982-10-31,1970-01-01
+170,tahiri,othmane,lm425301,698054173,othmanetahiriinwima,42 rue ouzzani mdina fes maroc,1992-10-07,1970-01-01
+171,lahlou,ayoub,ik952686,727152188,ayoublahlouinwima,44 rue jebari sidi moumen fes maroc,1975-11-01,1970-01-01
+172,hariri,ilham,ef423869,634194479,ilhamhaririinwima,217 rue elmansouri tachfine rabat maroc,1968-03-15,1970-01-01
+173,touil,yassine,cd985447,623574883,yassinetouilinwima,116 rue chakiri hay riad kenitra maroc,1970-07-19,1970-01-01
+174,elmansouri,adil,no726258,560562485,adilelmansourihotmailfr,173 rue fadili maarif temara maroc,1981-03-28,1970-01-01
+175,chakiri,saad,gh481995,641880763,saadchakiriiamnetma,85 rue tahiri sidi marouf fes maroc,2000-01-05,1970-01-01
+176,chouaib,malak,ik947903,672950208,malakchouaibinwima,230 rue maaroufi tabriquet agadir maroc,1985-06-02,1970-01-01
+177,fadili,nour,gh627335,780794454,nourfadiliiamnetma,293 rue chouaib tachfine tanger maroc,2005-06-20,1970-01-01
+178,rguig,saad,ef489244,684429198,saadrguigiamnetma,71 rue sekkat tabriquet marrakech maroc,1954-12-09,1970-01-01
+179,alaoui,rachid,ab571145,678901038,rachidalaouiinwima,64 rue jebari sidi marouf temara maroc,1996-07-28,1970-01-01
+180,chakiri,abdelaziz,gh535050,717148018,abdelazizchakirigmailcom,114 rue zerouali bourgogne rabat maroc,1961-02-09,1970-01-01
+181,elalami,zakaria,ef434165,623298711,zakariaelalamigmailcom,198 rue amrani hay riad tanger maroc,1990-11-21,1970-01-01
+182,zerouali,yassine,no895702,772962895,yassinezeroualihotmailfr,20 rue jebari gueliz fes maroc,1988-09-23,1970-01-01
+183,chouaib,malak,ef675462,691722503,malakchouaibhotmailfr,41 rue elkhatib bourgogne casablanca maroc,1963-04-27,1970-01-01
+184,elmansouri,abdelaziz,ef350021,666348030,abdelazizelmansourigmailcom,148 rue maaroufi tabriquet rabat maroc,1958-12-26,1970-01-01
+185,baroudi,malak,gh762652,579172559,malakbaroudigmailcom,57 rue zerouali agdal kenitra maroc,1979-06-14,1970-01-01
+186,ouzzani,mouna,ik698384,765910756,mounaouzzanihotmailfr,220 rue elkhatib belvdre fes maroc,1965-01-14,1970-01-01
+187,zahiri,khadija,ik509420,573100462,khadijazahirigmailcom,35 rue elmansouri mdina temara maroc,1991-04-09,1970-01-01
+188,bennani,samira,no352838,698195059,samirabennaniinwima,9 rue moutawakil belvdre tanger maroc,1995-12-06,1970-01-01
+189,baroudi,rachid,ab953025,796274567,rachidbaroudiinwima,171 rue chakiri mabella ttouan maroc,1954-11-02,1970-01-01
+190,zahiri,reda,cd138780,649385195,redazahiriiamnetma,94 rue naciri tachfine kenitra maroc,1974-09-05,1970-01-01
+191,touil,hassan,ef955015,582884346,hassantouiliamnetma,22 rue bakkali bourgogne marrakech maroc,1963-06-11,1970-01-01
+192,bensaid,zineb,ef386488,626706752,zinebbensaidinwima,98 rue jebari tabriquet casablanca maroc,1962-02-27,1970-01-01
+193,naciri,abdelhak,gh295892,776599269,abdelhaknaciriinwima,205 rue tahiri bourgogne oujda maroc,2004-10-28,1970-01-01
+194,lahlou,rim,no182760,667795113,rimlahlouiamnetma,266 rue boukhriss bourgogne tanger maroc,1964-11-18,1970-01-01
+195,bennis,imane,ab421384,769849800,imanebennisinwima,165 rue fassi belvdre temara maroc,1973-06-24,1970-01-01
+196,bennis,abdelaziz,gh744718,668376726,abdelazizbennisinwima,228 rue moutawakil mabella fes maroc,2003-02-20,1970-01-01
+197,boukhriss,amina,ik132653,529163535,aminaboukhrisshotmailfr,208 rue moutawakil tachfine rabat maroc,1968-02-28,1970-01-01
+198,sekkat,othmane,cd479742,561385847,othmanesekkatinwima,65 rue amrani maarif kenitra maroc,1988-09-12,1970-01-01
+199,ouzzani,hassan,ef701800,728481124,hassanouzzanigmailcom,231 rue moutawakil gueliz ttouan maroc,1971-05-24,1970-01-01
+200,elmansouri,abdelhak,ab623285,679490594,abdelhakelmansourihotmailfr,143 rue maaroufi mdina oujda maroc,1960-08-02,1970-01-01
+201,elalami,hiba,gh827691,675927774,hibaelalamiinwima,134 rue lahlou belvdre rabat maroc,1973-02-17,1970-01-01
+202,touil,siham,cd192055,552894344,sihamtouiliamnetma,38 rue chouaib sidi marouf fes maroc,1954-07-19,1970-01-01
+203,hariri,houda,ef932250,658518659,houdaharirihotmailfr,278 rue jebari ain sebaa rabat maroc,2006-10-12,1970-01-01
+204,elmansouri,mehdi,no478427,784359498,mehdielmansourigmailcom,72 rue maaroufi hay riad rabat maroc,1997-08-29,1970-01-01
+205,ouzzani,abdelhak,ik424314,663440127,abdelhakouzzanigmailcom,283 rue chakiri tabriquet kenitra maroc,1965-04-20,1970-01-01
+206,lahlou,anass,ik432427,696213226,anasslahlouhotmailfr,210 rue zerouali oasis temara maroc,1991-11-06,1970-01-01
+207,amrani,bouchra,cd905077,527318510,bouchraamranihotmailfr,265 rue moutawakil tachfine kenitra maroc,1992-06-22,1970-01-01
+208,rguig,zakaria,cd269834,753306792,zakariarguighotmailfr,64 rue elmansouri sidi marouf casablanca maroc,1961-12-01,1970-01-01
+209,alaoui,mehdi,ab765905,783932683,mehdialaouihotmailfr,146 rue sekkat ain sebaa tanger maroc,2001-04-30,1970-01-01
+210,boukhriss,omar,ik720556,587933054,omarboukhrisshotmailfr,274 rue amrani sidi moumen agadir maroc,1991-06-07,1970-01-01
+211,chakiri,saad,ik185168,616101779,saadchakirigmailcom,173 rue zerouali mabella ttouan maroc,1979-06-06,1970-01-01
+212,baroudi,rayan,ik622230,794176528,rayanbaroudigmailcom,108 rue chraibi tachfine agadir maroc,1991-11-27,1970-01-01
+213,elidrissi,soukaina,no411882,570873663,soukainaelidrissiiamnetma,126 rue naciri yacoub el mansour agadir maroc,1983-07-21,1970-01-01
+214,amrani,amina,gh736129,629282885,aminaamraniinwima,213 rue bensaid yacoub el mansour fes maroc,1957-02-24,1970-01-01
+215,bakkali,salma,ef434617,542445506,salmabakkaligmailcom,67 rue chraibi oasis tanger maroc,1979-02-13,1970-01-01
+216,chouaib,siham,ab502810,692594562,sihamchouaibinwima,127 rue chakiri yacoub el mansour agadir maroc,1978-08-27,1970-01-01
+217,rguig,mouna,ik299055,531386576,mounarguiginwima,168 rue alaoui sidi marouf fes maroc,2000-09-19,1970-01-01
+218,bensaid,zakaria,ab629996,671368457,zakariabensaidiamnetma,158 rue bensaid yacoub el mansour kenitra maroc,1999-09-09,1970-01-01
+219,maaroufi,ibrahim,ef399628,782033413,ibrahimmaaroufiiamnetma,25 rue bennani mdina ttouan maroc,1978-05-16,1970-01-01
+220,elkhatib,rachid,ef147440,763765155,rachidelkhatibinwima,136 rue tahiri gueliz oujda maroc,1981-12-16,1970-01-01
+221,bennani,rayan,ef628750,670445541,rayanbennaniiamnetma,186 rue elidrissi hay riad temara maroc,1970-06-01,1970-01-01
+222,chraibi,hiba,ab933510,755511258,hibachraibiinwima,61 rue chakiri sidi marouf agadir maroc,1966-05-09,1970-01-01
+223,elidrissi,abdelhak,ik140804,628392710,abdelhakelidrissigmailcom,261 rue elalami hay riad fes maroc,1955-12-29,1970-01-01
+224,lahlou,yassine,ik443897,592284610,yassinelahlouhotmailfr,234 rue chakiri ain sebaa kenitra maroc,2004-06-05,1970-01-01
+225,bakkali,saad,ef843167,585554415,saadbakkaliiamnetma,154 rue ouzzani sidi moumen oujda maroc,1982-04-28,1970-01-01
+226,jebari,anass,ab935457,794457912,anassjebariinwima,170 rue hariri mdina casablanca maroc,1972-06-17,1970-01-01
+227,elkhatib,othmane,cd711868,574484744,othmaneelkhatibgmailcom,297 rue ouzzani belvdre kenitra maroc,2002-01-10,1970-01-01
+228,zahiri,ilham,no133104,586849080,ilhamzahirihotmailfr,195 rue chakiri tabriquet ttouan maroc,1980-05-03,1970-01-01
+229,lahlou,siham,gh824042,637365878,sihamlahlouiamnetma,226 rue bakkali maarif marrakech maroc,1986-05-03,1970-01-01
+230,rguig,zakaria,no840058,528533117,zakariarguiggmailcom,242 rue sekkat bourgogne ttouan maroc,1967-11-20,1970-01-01
+231,elmansouri,ibrahim,gh581992,781555103,ibrahimelmansourihotmailfr,245 rue elmansouri mdina temara maroc,1978-02-05,1970-01-01
+232,bakkali,adil,gh392559,684905122,adilbakkalihotmailfr,136 rue bennis tachfine tanger maroc,1969-10-16,1970-01-01
+233,jebari,mehdi,cd432441,574398125,mehdijebariiamnetma,148 rue lahlou tabriquet agadir maroc,1955-12-01,1970-01-01
+234,moutawakil,hiba,lm513697,556323191,hibamoutawakiliamnetma,63 rue ouzzani belvdre agadir maroc,1981-06-02,1970-01-01
+235,chraibi,laila,ab787836,744419327,lailachraibiiamnetma,148 rue lahlou maarif agadir maroc,1973-04-06,1970-01-01
+236,tahiri,anass,ik243941,524660143,anasstahiriinwima,276 rue boukhriss hay riad marrakech maroc,2006-12-06,1970-01-01
+237,bennis,ikram,ik155040,623448342,ikrambennishotmailfr,26 rue hariri hay riad marrakech maroc,1978-03-14,1970-01-01
+238,rguig,yassine,ik784607,673847325,yassinerguigiamnetma,71 rue elkhatib agdal kenitra maroc,1981-07-03,1970-01-01
+239,bensaid,nour,ab661147,615006085,nourbensaidhotmailfr,147 rue baroudi mdina agadir maroc,1976-11-02,1970-01-01
+240,alaoui,imane,ab295361,748851599,imanealaouiiamnetma,91 rue alaoui bourgogne oujda maroc,1962-02-25,1970-01-01
+241,fadili,hassan,ab576419,796075494,hassanfadiliinwima,291 rue bennis belvdre casablanca maroc,1966-06-16,1970-01-01
+242,elidrissi,ilham,ik302177,725119192,ilhamelidrissiinwima,69 rue sekkat bourgogne kenitra maroc,1972-05-15,1970-01-01
+243,bakkali,saad,cd929179,649597485,saadbakkaliinwima,132 rue lahlou tachfine kenitra maroc,1961-09-06,1970-01-01
+244,ouzzani,nour,gh190951,563798927,nourouzzaniinwima,208 rue zerouali sidi moumen fes maroc,1977-10-30,1970-01-01
+245,hariri,rachid,cd502206,641611127,rachidhaririinwima,245 rue bakkali gueliz fes maroc,1984-01-01,1970-01-01
+246,chouaib,tarik,ik785436,658258264,tarikchouaibinwima,299 rue tahiri belvdre tanger maroc,1962-03-05,1970-01-01
+247,lahlou,mouna,ef819400,677447155,mounalahlouiamnetma,61 rue chouaib tachfine casablanca maroc,1993-07-17,1970-01-01
+248,alaoui,karim,ik240057,674180488,karimalaouihotmailfr,152 rue moutawakil tachfine rabat maroc,1971-08-22,1970-01-01
+249,chakiri,reda,ik898867,743214247,redachakirihotmailfr,213 rue lahlou mdina ttouan maroc,2002-07-15,1970-01-01
+250,hariri,othmane,lm691573,725060409,othmaneharirigmailcom,229 rue elmansouri ain sebaa rabat maroc,1954-06-03,1970-01-01
+251,bennani,hiba,cd995993,679839059,hibabennaniinwima,294 rue elidrissi hay riad temara maroc,1990-12-12,1970-01-01
+252,chouaib,siham,ab947975,517467311,sihamchouaibiamnetma,299 rue bensaid mabella marrakech maroc,1979-02-02,1970-01-01
+253,chouaib,omar,ab805448,551361818,omarchouaibiamnetma,234 rue ouzzani oasis temara maroc,1959-01-25,1970-01-01
+254,tahiri,fatima,cd147489,566867700,fatimatahirigmailcom,2 rue tahiri belvdre oujda maroc,1996-09-16,1970-01-01
+255,moutawakil,youssef,gh528728,634156684,youssefmoutawakilinwima,36 rue alaoui maarif temara maroc,1999-06-13,1970-01-01
+256,chraibi,omar,no184148,798824290,omarchraibiiamnetma,196 rue chouaib mdina oujda maroc,2003-04-14,1970-01-01
+257,sekkat,adil,cd654531,527092236,adilsekkatiamnetma,179 rue fassi tachfine fes maroc,1988-10-24,1970-01-01
+258,tahiri,mehdi,gh657772,560905625,mehditahiriiamnetma,12 rue jebari tabriquet casablanca maroc,1999-09-08,1970-01-01
+259,zerouali,mehdi,ef133782,698610233,mehdizeroualigmailcom,178 rue chakiri yacoub el mansour marrakech maroc,1976-07-02,1970-01-01
+260,rguig,malak,ab568127,590233330,malakrguiggmailcom,106 rue amrani hay riad casablanca maroc,2001-10-01,1970-01-01
+261,hariri,amina,gh891030,617575790,aminaharirihotmailfr,23 rue elalami mabella marrakech maroc,1992-01-12,1970-01-01
+262,chakiri,zakaria,ik348411,550502136,zakariachakiriinwima,295 rue bakkali hay riad agadir maroc,1967-05-12,1970-01-01
+263,fadili,laila,ef756401,667337891,lailafadilihotmailfr,212 rue jebari hay riad temara maroc,1999-07-21,1970-01-01
+264,elidrissi,rim,ik528090,730027648,rimelidrissiiamnetma,196 rue naciri mdina casablanca maroc,2000-05-24,1970-01-01
+265,jebari,samira,cd999197,629374563,samirajebariinwima,276 rue bensaid tabriquet fes maroc,1996-03-10,1970-01-01
+266,naciri,reda,ik507286,542595918,redanacirihotmailfr,212 rue rguig ain sebaa casablanca maroc,1974-10-14,1970-01-01
+267,boukhriss,ibrahim,gh661654,735566010,ibrahimboukhrissgmailcom,41 rue alaoui tachfine tanger maroc,1991-08-05,1970-01-01
+268,bennani,tarik,ab602681,638036618,tarikbennanihotmailfr,21 rue sekkat tachfine oujda maroc,1974-12-25,1970-01-01
+269,sekkat,yassine,cd883159,574279671,yassinesekkatgmailcom,8 rue touil bourgogne agadir maroc,1968-08-10,1970-01-01
+270,alaoui,mouna,cd913185,547991562,mounaalaouiinwima,105 rue elalami mabella ttouan maroc,1993-10-09,1970-01-01
+271,elalami,reda,ef588640,723234972,redaelalamiiamnetma,184 rue jebari tachfine temara maroc,1985-12-12,1970-01-01
+272,naciri,anass,ef689849,739698906,anassnacirigmailcom,105 rue moutawakil bourgogne tanger maroc,1984-05-23,1970-01-01
+273,tahiri,laila,ik409531,530456313,lailatahiriiamnetma,284 rue alaoui belvdre casablanca maroc,1989-02-02,1970-01-01
+274,touil,yassine,cd369826,775581613,yassinetouilinwima,292 rue zerouali oasis marrakech maroc,2004-05-21,1970-01-01
+275,tahiri,rim,cd292988,582764376,rimtahiriiamnetma,181 rue zahiri gueliz kenitra maroc,1999-02-20,1970-01-01
+276,baroudi,amina,lm532424,628453800,aminabaroudigmailcom,39 rue zerouali maarif temara maroc,1973-08-13,1970-01-01
+277,zerouali,mehdi,cd491329,518113477,mehdizeroualiiamnetma,78 rue elkhatib mabella rabat maroc,1999-06-25,1970-01-01
+278,bennis,malak,ab112426,512244945,malakbennisiamnetma,250 rue elkhatib tachfine kenitra maroc,1960-08-29,1970-01-01
+279,elmansouri,tarik,no945328,534060788,tarikelmansouriiamnetma,9 rue elmansouri belvdre temara maroc,2000-02-02,1970-01-01
+280,fassi,rachid,ik954814,557572279,rachidfassiinwima,124 rue touil gueliz temara maroc,1969-08-04,1970-01-01
+281,boukhriss,ayoub,ik414546,620820219,ayoubboukhrisshotmailfr,208 rue chouaib mdina rabat maroc,1964-05-01,1970-01-01
+282,baroudi,hassan,ik767678,711268380,hassanbaroudigmailcom,195 rue elalami oasis rabat maroc,1957-06-13,1970-01-01
+283,lahlou,saad,no653815,715711200,saadlahlougmailcom,223 rue baroudi yacoub el mansour rabat maroc,1986-08-21,1970-01-01
+284,maaroufi,ibrahim,ab669408,585633013,ibrahimmaaroufiinwima,139 rue bennani yacoub el mansour ttouan maroc,1985-04-18,1970-01-01
+285,hariri,hassan,cd888795,563458386,hassanharirihotmailfr,162 rue elkhatib bourgogne fes maroc,1997-02-27,1970-01-01
+286,alaoui,youssef,ik502491,728783850,youssefalaouiinwima,289 rue maaroufi gueliz agadir maroc,1967-07-15,1970-01-01
+287,naciri,khadija,ab979414,720202996,khadijanacirihotmailfr,178 rue bennani mabella temara maroc,1987-12-12,1970-01-01
+288,bakkali,othmane,ef921609,670471823,othmanebakkaliinwima,204 rue chraibi sidi moumen ttouan maroc,1970-11-28,1970-01-01
+289,bensaid,mehdi,cd189856,593029219,mehdibensaidiamnetma,193 rue rguig ain sebaa tanger maroc,1998-12-13,1970-01-01
+290,jebari,mouna,gh875584,562294176,mounajebarihotmailfr,138 rue chakiri agdal rabat maroc,2005-05-29,1970-01-01
+291,bakkali,abdelhak,gh207197,727784789,abdelhakbakkaliinwima,3 rue jebari agdal rabat maroc,2007-04-11,1970-01-01
+292,amrani,imane,ik127537,722028437,imaneamranigmailcom,286 rue elidrissi yacoub el mansour oujda maroc,1969-03-13,1970-01-01
+293,moutawakil,hiba,gh533911,662049575,hibamoutawakilinwima,167 rue sekkat sidi moumen rabat maroc,2001-08-29,1970-01-01
+294,chraibi,khadija,ik277735,628634797,khadijachraibiiamnetma,125 rue ouzzani bourgogne temara maroc,1985-12-01,1970-01-01
+295,boukhriss,karim,cd541557,750232066,karimboukhrissinwima,75 rue amrani yacoub el mansour agadir maroc,1992-03-27,1970-01-01
+296,bensaid,youssef,lm580102,724357588,youssefbensaidhotmailfr,127 rue tahiri belvdre tanger maroc,1962-07-25,1970-01-01
+297,chakiri,karim,ik561607,754927535,karimchakiriinwima,171 rue zerouali oasis casablanca maroc,1963-05-19,1970-01-01
+298,rguig,othmane,lm429445,633842070,othmanerguigiamnetma,165 rue bennis belvdre fes maroc,1999-09-25,1970-01-01
+299,elalami,salma,no494322,647621248,salmaelalamiinwima,252 rue ouzzani mabella agadir maroc,1992-05-04,1970-01-01
+300,zerouali,ayoub,ik814827,583833059,ayoubzeroualihotmailfr,289 rue touil agdal tanger maroc,2005-09-12,1970-01-01
+301,elkhatib,reda,lm805668,677015343,redaelkhatibiamnetma,150 rue zerouali yacoub el mansour marrakech maroc,1995-12-30,1970-01-01
+302,chakiri,karim,gh570880,790253323,karimchakirigmailcom,79 rue lahlou belvdre marrakech maroc,1983-05-06,1970-01-01
+303,bensaid,ikram,no670053,514934536,ikrambensaidiamnetma,260 rue alaoui ain sebaa oujda maroc,1984-08-25,1970-01-01
+304,naciri,abdelhak,no274418,696838849,abdelhaknaciriinwima,44 rue fassi sidi moumen temara maroc,2004-11-28,1970-01-01
+305,bennis,hassan,ef111060,723234748,hassanbennisgmailcom,205 rue chraibi tachfine ttouan maroc,1984-12-06,1970-01-01
+306,boukhriss,mehdi,ik567432,560213478,mehdiboukhrisshotmailfr,266 rue elidrissi mabella temara maroc,2005-06-18,1970-01-01
+307,elalami,reda,ef209627,649652241,redaelalamiiamnetma,257 rue chakiri mabella ttouan maroc,1997-09-12,1970-01-01
+308,rguig,khadija,ef922366,737765262,khadijarguigiamnetma,73 rue moutawakil sidi marouf rabat maroc,2006-06-02,1970-01-01
+309,elmansouri,anass,lm434400,519015987,anasselmansouriiamnetma,50 rue chouaib yacoub el mansour tanger maroc,1987-04-13,1970-01-01
+310,jebari,hassan,ab876459,542737441,hassanjebarihotmailfr,176 rue baroudi maarif rabat maroc,1972-12-28,1970-01-01
+311,elmansouri,imane,gh936507,764364546,imaneelmansourihotmailfr,170 rue elidrissi gueliz temara maroc,1959-07-30,1970-01-01
+312,baroudi,imane,ab571413,589484162,imanebaroudihotmailfr,222 rue elalami tachfine fes maroc,1970-04-06,1970-01-01
+313,rguig,samira,ef705393,523656928,samirarguiggmailcom,110 rue touil mabella casablanca maroc,1977-02-27,1970-01-01
+314,naciri,adil,gh803281,675697427,adilnaciriinwima,167 rue touil mdina fes maroc,1991-01-23,1970-01-01
+315,elmansouri,salma,ab986589,771453007,salmaelmansouriinwima,201 rue ouzzani oasis ttouan maroc,1963-09-21,1970-01-01
+316,bennis,imane,cd350161,750987410,imanebennisgmailcom,44 rue hariri bourgogne agadir maroc,1970-01-16,1970-01-01
+317,fassi,imane,gh702727,761500679,imanefassihotmailfr,73 rue elmansouri mabella tanger maroc,2001-07-12,1970-01-01
+318,rguig,imane,lm613426,648766747,imanerguighotmailfr,276 rue lahlou tachfine kenitra maroc,2002-05-18,1970-01-01
+319,chakiri,imane,ab608149,728325379,imanechakirigmailcom,231 rue bennis sidi marouf tanger maroc,1958-09-04,1970-01-01
+320,touil,samira,lm844638,769572772,samiratouiliamnetma,254 rue rguig ain sebaa temara maroc,1982-01-15,1970-01-01
+321,bensaid,saad,no134283,646890134,saadbensaidinwima,16 rue naciri sidi moumen rabat maroc,1991-03-25,1970-01-01
+322,maaroufi,adil,lm700534,725328557,adilmaaroufigmailcom,235 rue ouzzani gueliz agadir maroc,1982-08-07,1970-01-01
+323,boukhriss,adil,lm545807,723746101,adilboukhrisshotmailfr,22 rue chraibi ain sebaa tanger maroc,1968-05-18,1970-01-01
+324,tahiri,mouna,ef560398,725755285,mounatahirigmailcom,17 rue chouaib sidi marouf agadir maroc,1980-10-22,1970-01-01
+325,chraibi,mouna,lm274044,592698414,mounachraibiiamnetma,180 rue sekkat tabriquet marrakech maroc,2001-08-20,1970-01-01
+326,chakiri,ibrahim,ef725850,582312290,ibrahimchakiriinwima,31 rue ouzzani tabriquet marrakech maroc,2006-05-27,1970-01-01
+327,zahiri,salma,no242175,565243509,salmazahirigmailcom,294 rue boukhriss belvdre agadir maroc,1980-03-10,1970-01-01
+328,alaoui,amina,no253347,653231088,aminaalaouihotmailfr,65 rue lahlou sidi marouf agadir maroc,1954-09-15,1970-01-01
+329,zerouali,mouna,lm493396,770665302,mounazeroualiiamnetma,73 rue ouzzani yacoub el mansour oujda maroc,1974-08-17,1970-01-01
+330,amrani,khadija,ef443187,788108751,khadijaamraniiamnetma,143 rue lahlou ain sebaa oujda maroc,1982-10-26,1970-01-01
+331,elkhatib,khadija,ab328411,567665720,khadijaelkhatibiamnetma,184 rue sekkat tachfine kenitra maroc,2005-03-04,1970-01-01
+332,zerouali,ibrahim,ef693643,775140950,ibrahimzeroualihotmailfr,166 rue zerouali belvdre kenitra maroc,1995-05-10,1970-01-01
+333,naciri,yassine,no230272,731204188,yassinenacirigmailcom,51 rue baroudi maarif casablanca maroc,1987-07-13,1970-01-01
+334,chouaib,reda,cd266699,546778269,redachouaibinwima,104 rue lahlou oasis casablanca maroc,1972-11-16,1970-01-01
+335,amrani,abdelhak,lm515594,693967184,abdelhakamranigmailcom,191 rue hariri agdal agadir maroc,1987-05-09,1970-01-01
+336,jebari,mehdi,ab599968,620460758,mehdijebarihotmailfr,47 rue lahlou tachfine oujda maroc,1980-10-07,1970-01-01
+337,chakiri,ikram,ab956800,526185823,ikramchakiriinwima,228 rue elkhatib ain sebaa marrakech maroc,1999-10-27,1970-01-01
+338,sekkat,abdelaziz,gh208214,652057323,abdelazizsekkatgmailcom,37 rue maaroufi yacoub el mansour fes maroc,2003-08-02,1970-01-01
+339,moutawakil,karim,lm656278,685603667,karimmoutawakilgmailcom,69 rue baroudi oasis fes maroc,1986-02-10,1970-01-01
+340,elkhatib,malak,cd531709,592688322,malakelkhatibhotmailfr,180 rue tahiri yacoub el mansour fes maroc,1996-08-25,1970-01-01
+341,hariri,bouchra,no468611,667631581,bouchrahaririiamnetma,52 rue chakiri agdal marrakech maroc,1956-02-21,1970-01-01
+342,bakkali,omar,ik916808,513600310,omarbakkaliinwima,44 rue maaroufi belvdre marrakech maroc,1994-08-01,1970-01-01
+343,sekkat,karim,lm777558,717324144,karimsekkatinwima,261 rue touil ain sebaa marrakech maroc,1999-06-03,1970-01-01
+344,naciri,mouna,gh653948,511619606,mounanacirigmailcom,58 rue maaroufi oasis kenitra maroc,1960-01-07,1970-01-01
+345,moutawakil,salma,ef899776,573218512,salmamoutawakilhotmailfr,292 rue rguig oasis fes maroc,1963-07-16,1970-01-01
+346,chraibi,youssef,ef163406,663415303,youssefchraibigmailcom,35 rue elkhatib sidi moumen casablanca maroc,1966-09-02,1970-01-01
+347,elmansouri,soukaina,lm771652,782016510,soukainaelmansourigmailcom,213 rue rguig tabriquet temara maroc,1972-01-04,1970-01-01
+348,elidrissi,malak,ab947312,530854365,malakelidrissihotmailfr,43 rue jebari belvdre fes maroc,1976-07-31,1970-01-01
+349,elidrissi,salma,lm160718,742813517,salmaelidrissihotmailfr,34 rue jebari sidi moumen oujda maroc,1985-03-31,1970-01-01
+350,amrani,abdelaziz,lm225245,511699863,abdelazizamranihotmailfr,29 rue jebari yacoub el mansour rabat maroc,1977-04-09,1970-01-01
+351,lahlou,omar,ik275073,559911470,omarlahlouinwima,255 rue moutawakil gueliz casablanca maroc,1973-03-29,1970-01-01
+352,chakiri,tarik,no649300,718572753,tarikchakiriinwima,16 rue bakkali tabriquet rabat maroc,1971-06-22,1970-01-01
+353,boukhriss,rayan,ef694423,632398441,rayanboukhrissiamnetma,234 rue elmansouri yacoub el mansour rabat maroc,1986-04-23,1970-01-01
+354,moutawakil,saad,ik339499,578293320,saadmoutawakilgmailcom,53 rue fadili tabriquet agadir maroc,2005-04-11,1970-01-01
+355,elkhatib,hassan,ef287654,714746418,hassanelkhatibhotmailfr,24 rue bensaid hay riad casablanca maroc,1957-11-06,1970-01-01
+356,elidrissi,nadia,lm966120,720453825,nadiaelidrissiinwima,128 rue rguig mdina marrakech maroc,1969-07-25,1970-01-01
+357,ouzzani,abdelhak,cd520400,519251149,abdelhakouzzanigmailcom,27 rue zahiri ain sebaa rabat maroc,1998-08-28,1970-01-01
+358,fadili,reda,ab108356,559515518,redafadiliiamnetma,160 rue bakkali tabriquet agadir maroc,2005-08-18,1970-01-01
+359,touil,soukaina,ik486162,689415412,soukainatouiliamnetma,156 rue tahiri tabriquet ttouan maroc,1971-02-18,1970-01-01
+360,bensaid,nour,ab344315,782684966,nourbensaidgmailcom,126 rue chakiri tabriquet temara maroc,1955-09-10,1970-01-01
+361,moutawakil,mohamed,lm208998,537540722,mohamedmoutawakilinwima,193 rue sekkat maarif tanger maroc,1970-07-16,1970-01-01
+362,elmansouri,mouna,lm146032,741067722,mounaelmansourigmailcom,31 rue chakiri yacoub el mansour oujda maroc,1986-07-13,1970-01-01
+363,fadili,ilham,lm629979,627919925,ilhamfadiligmailcom,191 rue chouaib mabella oujda maroc,1992-09-06,1970-01-01
+364,baroudi,ayoub,gh348273,549148093,ayoubbaroudihotmailfr,291 rue bennani sidi moumen rabat maroc,1985-12-13,1970-01-01
+365,boukhriss,salma,gh178315,737207628,salmaboukhrisshotmailfr,168 rue bakkali mabella oujda maroc,2006-06-29,1970-01-01
+366,chakiri,ikram,gh526259,726205010,ikramchakiriinwima,55 rue zahiri gueliz rabat maroc,1965-09-21,1970-01-01
+367,elidrissi,houda,ef265271,650831043,houdaelidrissigmailcom,158 rue chouaib yacoub el mansour marrakech maroc,2007-03-27,1970-01-01
+368,zerouali,othmane,ab473023,563183031,othmanezeroualihotmailfr,168 rue chakiri hay riad casablanca maroc,1975-06-21,1970-01-01
+369,elmansouri,amina,gh199326,772014395,aminaelmansourihotmailfr,90 rue elkhatib belvdre agadir maroc,1993-09-07,1970-01-01
+370,fassi,omar,no307757,663765180,omarfassihotmailfr,32 rue zerouali maarif rabat maroc,1975-07-14,1970-01-01
+371,moutawakil,khadija,no167603,636541600,khadijamoutawakilgmailcom,133 rue alaoui sidi moumen ttouan maroc,2000-05-25,1970-01-01
+372,fadili,bouchra,ab276149,787025433,bouchrafadiligmailcom,170 rue fassi agdal fes maroc,1981-04-18,1970-01-01
+373,rguig,ayoub,gh325146,635118997,ayoubrguiginwima,196 rue hariri maarif kenitra maroc,1959-06-23,1970-01-01
+374,boukhriss,tarik,ik778720,549608344,tarikboukhrisshotmailfr,77 rue bennani bourgogne kenitra maroc,1961-03-28,1970-01-01
+375,bensaid,nadia,ef539599,736770773,nadiabensaidhotmailfr,32 rue amrani yacoub el mansour temara maroc,2000-11-13,1970-01-01
+376,baroudi,ilham,ab602985,783083942,ilhambaroudiinwima,279 rue naciri tachfine marrakech maroc,1992-10-25,1970-01-01
+377,naciri,rim,ef288550,713498112,rimnaciriinwima,290 rue elmansouri bourgogne tanger maroc,1977-12-06,1970-01-01
+378,bakkali,othmane,no904092,788381665,othmanebakkaliinwima,144 rue bennani maarif marrakech maroc,1983-06-16,1970-01-01
+379,maaroufi,saad,ik901164,539448924,saadmaaroufigmailcom,124 rue boukhriss hay riad rabat maroc,1958-12-30,1970-01-01
+380,ouzzani,samira,cd945372,558155056,samiraouzzaniinwima,89 rue zahiri bourgogne tanger maroc,1998-05-15,1970-01-01
+381,alaoui,ikram,ik977340,676065552,ikramalaouihotmailfr,181 rue ouzzani mabella casablanca maroc,1955-03-02,1970-01-01
+382,elidrissi,karim,ab120896,680658723,karimelidrissihotmailfr,20 rue amrani yacoub el mansour fes maroc,1987-08-31,1970-01-01
+383,bensaid,mohamed,cd941403,753431355,mohamedbensaidhotmailfr,104 rue naciri bourgogne tanger maroc,1983-10-22,1970-01-01
+384,bennani,fatima,ab176054,560142505,fatimabennaniinwima,73 rue chraibi sidi moumen fes maroc,1997-07-22,1970-01-01
+385,lahlou,ayoub,ef867926,668635481,ayoublahlouhotmailfr,173 rue jebari agdal ttouan maroc,2002-06-09,1970-01-01
+386,naciri,rim,ik797860,789047551,rimnacirihotmailfr,288 rue lahlou gueliz tanger maroc,1983-12-10,1970-01-01
+387,zerouali,imane,cd836109,586884584,imanezeroualigmailcom,151 rue chakiri belvdre oujda maroc,2004-03-28,1970-01-01
+388,elalami,rayan,no770718,585906869,rayanelalamihotmailfr,163 rue alaoui gueliz casablanca maroc,1998-07-27,1970-01-01
+389,fassi,rim,ef767090,721908603,rimfassihotmailfr,40 rue maaroufi mdina fes maroc,1996-03-20,1970-01-01
+390,zerouali,yassine,cd467506,544448045,yassinezeroualigmailcom,136 rue touil maarif kenitra maroc,2007-01-07,1970-01-01
+391,naciri,rachid,lm534130,776180344,rachidnacirihotmailfr,198 rue chouaib maarif casablanca maroc,1985-12-09,1970-01-01
+392,fadili,samira,no270557,770570772,samirafadilihotmailfr,193 rue fassi ain sebaa tanger maroc,2004-01-19,1970-01-01
+393,amrani,hassan,ab278368,660393104,hassanamraniinwima,164 rue boukhriss maarif agadir maroc,1976-03-27,1970-01-01
+394,zahiri,youssef,ik838726,514159837,youssefzahiriiamnetma,48 rue bakkali bourgogne temara maroc,1960-03-15,1970-01-01
+395,rguig,saad,ab315535,635499255,saadrguiginwima,223 rue zahiri bourgogne ttouan maroc,1984-12-24,1970-01-01
+396,rguig,hiba,cd511987,686741644,hibarguiggmailcom,145 rue jebari belvdre temara maroc,2005-05-17,1970-01-01
+397,elidrissi,rim,gh963918,698854850,rimelidrissiinwima,185 rue elkhatib maarif fes maroc,1993-01-30,1970-01-01
+398,baroudi,othmane,cd185916,673561576,othmanebaroudiinwima,50 rue elkhatib hay riad kenitra maroc,1977-03-13,1970-01-01
+399,sekkat,siham,gh195563,596149847,sihamsekkatinwima,204 rue bensaid tabriquet agadir maroc,1987-12-11,1970-01-01
+400,elidrissi,samira,cd376085,769020960,samiraelidrissigmailcom,196 rue moutawakil mdina fes maroc,1966-09-05,1970-01-01
+401,chouaib,zineb,ab189870,699676390,zinebchouaibgmailcom,138 rue ouzzani sidi marouf marrakech maroc,1968-09-27,1970-01-01
+402,moutawakil,adil,ab661527,773729850,adilmoutawakiliamnetma,117 rue elidrissi tabriquet oujda maroc,1971-11-20,1970-01-01
+403,ouzzani,mouna,no626491,586667841,mounaouzzanigmailcom,41 rue elalami belvdre kenitra maroc,1973-05-02,1970-01-01
+404,fadili,ilham,no275284,738439415,ilhamfadilihotmailfr,76 rue fassi tachfine ttouan maroc,1992-02-16,1970-01-01
+405,naciri,nour,lm962520,794184877,nournacirihotmailfr,217 rue amrani maarif fes maroc,1989-06-17,1970-01-01
+406,chakiri,othmane,gh678870,553771998,othmanechakiriiamnetma,35 rue amrani mdina agadir maroc,1960-02-17,1970-01-01
+407,sekkat,tarik,lm217984,565625517,tariksekkatiamnetma,7 rue naciri yacoub el mansour temara maroc,2003-04-22,1970-01-01
+408,chakiri,laila,ab923914,648398732,lailachakirigmailcom,299 rue chraibi sidi moumen ttouan maroc,1987-07-21,1970-01-01
+409,sekkat,adil,gh699809,591733516,adilsekkatiamnetma,211 rue boukhriss bourgogne tanger maroc,2005-11-24,1970-01-01
+410,bensaid,hassan,ik140666,563122402,hassanbensaidiamnetma,207 rue chakiri belvdre fes maroc,2001-04-20,1970-01-01
+411,fadili,yassine,ef454278,750675347,yassinefadiligmailcom,244 rue alaoui maarif marrakech maroc,1998-04-05,1970-01-01
+412,jebari,tarik,cd879850,669473299,tarikjebariinwima,51 rue sekkat sidi marouf kenitra maroc,1984-10-20,1970-01-01
+413,chraibi,salma,lm563173,638372352,salmachraibihotmailfr,214 rue bennis mabella agadir maroc,1960-08-20,1970-01-01
+414,alaoui,nadia,ef168804,651758234,nadiaalaouihotmailfr,265 rue sekkat tabriquet kenitra maroc,1969-05-20,1970-01-01
+415,lahlou,zakaria,ik302127,636941091,zakarialahlouhotmailfr,269 rue fadili gueliz oujda maroc,2001-05-19,1970-01-01
+416,zerouali,amina,ef387286,559439358,aminazeroualihotmailfr,234 rue bennani maarif marrakech maroc,1975-02-21,1970-01-01
+417,zerouali,reda,ab612530,689731181,redazeroualiinwima,64 rue hariri oasis temara maroc,1979-06-02,1970-01-01
+418,chouaib,imane,ef885342,622132198,imanechouaibinwima,283 rue moutawakil sidi moumen kenitra maroc,1991-12-20,1970-01-01
+419,jebari,fatima,ik778827,640214026,fatimajebarihotmailfr,84 rue sekkat maarif oujda maroc,1977-09-12,1970-01-01
+420,hariri,ibrahim,ab597126,527758896,ibrahimharirigmailcom,210 rue elmansouri tachfine agadir maroc,2005-01-24,1970-01-01
+421,baroudi,imane,ef847362,596267144,imanebaroudiinwima,5 rue maaroufi tabriquet ttouan maroc,1976-10-24,1970-01-01
+422,boukhriss,abdelaziz,ef416822,679878835,abdelazizboukhrissiamnetma,179 rue chouaib sidi marouf oujda maroc,2002-02-18,1970-01-01
+423,zerouali,malak,ik688730,596884788,malakzeroualiinwima,53 rue elkhatib sidi moumen oujda maroc,1972-09-27,1970-01-01
+424,bennis,othmane,ab771712,753639158,othmanebennisinwima,56 rue bensaid belvdre agadir maroc,1971-05-31,1970-01-01
+425,sekkat,tarik,cd159532,590535106,tariksekkathotmailfr,153 rue touil tachfine agadir maroc,1962-07-07,1970-01-01
+426,elalami,salma,gh538897,764304344,salmaelalamiinwima,14 rue baroudi mabella fes maroc,1975-10-11,1970-01-01
+427,elalami,hassan,cd819656,781757508,hassanelalamihotmailfr,293 rue zerouali mabella ttouan maroc,2004-11-09,1970-01-01
+428,baroudi,anass,cd408054,523100061,anassbaroudihotmailfr,154 rue sekkat ain sebaa tanger maroc,2006-03-04,1970-01-01
+429,bensaid,omar,cd786224,521985619,omarbensaidinwima,287 rue chraibi mabella agadir maroc,1967-05-04,1970-01-01
+430,maaroufi,houda,no373216,788593968,houdamaaroufiinwima,158 rue rguig mabella marrakech maroc,2004-07-26,1970-01-01
+431,jebari,reda,lm595158,536111227,redajebarigmailcom,28 rue sekkat yacoub el mansour rabat maroc,1973-02-13,1970-01-01
+432,elmansouri,siham,ab310026,655992373,sihamelmansourihotmailfr,153 rue rguig ain sebaa oujda maroc,1994-12-01,1970-01-01
+433,rguig,rayan,lm611265,654644768,rayanrguiggmailcom,162 rue sekkat gueliz kenitra maroc,1961-02-22,1970-01-01
+434,baroudi,imane,gh898169,732629881,imanebaroudihotmailfr,30 rue elkhatib tachfine tanger maroc,1974-06-19,1970-01-01
+435,ouzzani,saad,ik522988,767582820,saadouzzaniiamnetma,46 rue chakiri tabriquet kenitra maroc,1978-11-11,1970-01-01
+436,bensaid,samira,lm437864,781274148,samirabensaidgmailcom,274 rue touil maarif casablanca maroc,1974-11-15,1970-01-01
+437,touil,fatima,lm235193,723785264,fatimatouilinwima,128 rue maaroufi tachfine casablanca maroc,2002-06-26,1970-01-01
+438,elalami,zakaria,no404955,671193393,zakariaelalamiinwima,86 rue amrani belvdre ttouan maroc,1962-12-02,1970-01-01
+439,tahiri,ilham,lm613989,658217837,ilhamtahiriinwima,173 rue rguig ain sebaa ttouan maroc,1957-05-27,1970-01-01
+440,chraibi,nour,cd321449,612941149,nourchraibihotmailfr,207 rue elkhatib bourgogne fes maroc,1991-12-17,1970-01-01
+441,ouzzani,zakaria,lm771425,644331441,zakariaouzzaniiamnetma,188 rue lahlou agdal fes maroc,2001-10-06,1970-01-01
+442,chraibi,adil,ab150578,525541047,adilchraibigmailcom,25 rue hariri maarif ttouan maroc,1997-09-17,1970-01-01
+443,rguig,bouchra,gh315477,594598956,bouchrarguighotmailfr,281 rue boukhriss agdal oujda maroc,1961-04-14,1970-01-01
+444,elkhatib,karim,ik539170,724081350,karimelkhatibhotmailfr,52 rue hariri tachfine oujda maroc,1993-05-15,1970-01-01
+445,elmansouri,malak,ab738584,736809908,malakelmansourihotmailfr,59 rue naciri belvdre rabat maroc,1986-03-31,1970-01-01
+446,chraibi,zineb,gh141319,783569939,zinebchraibihotmailfr,184 rue lahlou hay riad temara maroc,1984-04-11,1970-01-01
+447,bensaid,ibrahim,ab215795,587061479,ibrahimbensaidgmailcom,121 rue elkhatib mdina kenitra maroc,1966-11-07,1970-01-01
+448,hariri,rim,lm368322,596481420,rimharirigmailcom,262 rue amrani agdal fes maroc,1971-06-27,1970-01-01
+449,maaroufi,reda,ab993647,648999266,redamaaroufigmailcom,238 rue bennani belvdre agadir maroc,1962-01-25,1970-01-01
+450,moutawakil,salma,no993385,628574987,salmamoutawakilgmailcom,60 rue fassi mabella oujda maroc,1981-07-28,1970-01-01
+451,hariri,saad,ef490722,555999465,saadharirigmailcom,225 rue bennis mdina tanger maroc,1959-05-07,1970-01-01
+452,zahiri,siham,no938754,766604960,sihamzahiriiamnetma,234 rue boukhriss oasis oujda maroc,1997-02-19,1970-01-01
+453,baroudi,saad,cd719446,674783521,saadbaroudiiamnetma,31 rue sekkat gueliz rabat maroc,1964-08-18,1970-01-01
+454,naciri,rayan,ef817712,527536261,rayannacirigmailcom,195 rue chraibi gueliz kenitra maroc,1992-08-09,1970-01-01
+455,bensaid,rim,ab786789,652176303,rimbensaidinwima,211 rue chouaib bourgogne rabat maroc,1960-02-07,1970-01-01
+456,elkhatib,ilham,lm553873,798813650,ilhamelkhatibgmailcom,290 rue maaroufi mabella ttouan maroc,1962-05-14,1970-01-01
+457,tahiri,mouna,no112210,596355513,mounatahirigmailcom,198 rue chakiri mdina kenitra maroc,2006-04-29,1970-01-01
+458,alaoui,saad,gh887931,675987872,saadalaouigmailcom,241 rue sekkat sidi marouf temara maroc,1995-07-26,1970-01-01
+459,bakkali,mouna,cd522866,541541166,mounabakkaliiamnetma,26 rue elmansouri belvdre tanger maroc,2007-02-02,1970-01-01
+460,amrani,reda,ab431414,725932563,redaamraniiamnetma,294 rue chouaib tabriquet kenitra maroc,1980-03-10,1970-01-01
+461,bensaid,fatima,ik966028,522199793,fatimabensaidgmailcom,212 rue bennani oasis rabat maroc,1984-06-06,1970-01-01
+462,naciri,othmane,ik786393,571231190,othmanenacirihotmailfr,156 rue fadili tachfine ttouan maroc,1994-05-09,1970-01-01
+463,bakkali,abdelhak,gh851470,798203489,abdelhakbakkaliiamnetma,115 rue sekkat sidi marouf casablanca maroc,1975-02-01,1970-01-01
+464,moutawakil,bouchra,ef674295,780059652,bouchramoutawakilinwima,114 rue elkhatib agdal rabat maroc,1996-07-25,1970-01-01
+465,moutawakil,rachid,cd212157,544130133,rachidmoutawakiliamnetma,85 rue bensaid bourgogne casablanca maroc,1995-10-16,1970-01-01
+466,bennis,nour,gh213000,665629268,nourbennisinwima,202 rue touil agdal marrakech maroc,2006-03-17,1970-01-01
+467,bennani,ikram,lm623059,510582186,ikrambennanihotmailfr,231 rue chouaib tabriquet rabat maroc,1996-11-14,1970-01-01
+468,elmansouri,amina,ik825423,787652255,aminaelmansourihotmailfr,222 rue zerouali bourgogne temara maroc,1972-04-24,1970-01-01
+469,zahiri,omar,gh386886,763401206,omarzahirihotmailfr,165 rue elmansouri oasis rabat maroc,1964-12-28,1970-01-01
+470,bakkali,soukaina,gh984027,583525272,soukainabakkaliinwima,69 rue chakiri tabriquet kenitra maroc,1966-02-18,1970-01-01
+471,sekkat,salma,cd819964,556344519,salmasekkatinwima,112 rue touil tachfine temara maroc,1959-05-31,1970-01-01
+472,alaoui,omar,lm897730,757276557,omaralaouigmailcom,278 rue lahlou ain sebaa fes maroc,1954-06-27,1970-01-01
+473,elidrissi,anass,lm988459,566691738,anasselidrissiinwima,214 rue hariri sidi moumen ttouan maroc,1984-12-17,1970-01-01
+474,naciri,mohamed,cd309612,645833216,mohamednacirigmailcom,13 rue elalami agdal temara maroc,1974-02-15,1970-01-01
+475,chraibi,saad,no313910,682634888,saadchraibiinwima,129 rue chakiri tachfine agadir maroc,1970-01-21,1970-01-01
+476,bennani,houda,cd349136,578574830,houdabennaniiamnetma,288 rue sekkat agdal kenitra maroc,2002-05-31,1970-01-01
+477,naciri,soukaina,gh678944,517221208,soukainanaciriinwima,196 rue elalami bourgogne casablanca maroc,2002-02-21,1970-01-01
+478,elkhatib,zineb,cd891787,588971743,zinebelkhatibinwima,227 rue zerouali sidi moumen marrakech maroc,1959-02-24,1970-01-01
+479,elidrissi,othmane,gh296059,633326387,othmaneelidrissigmailcom,100 rue jebari tabriquet marrakech maroc,1972-04-22,1970-01-01
+480,tahiri,zakaria,ef236384,531599504,zakariatahiriinwima,21 rue rguig oasis rabat maroc,1983-03-27,1970-01-01
+481,ouzzani,zineb,cd438302,690111922,zinebouzzanihotmailfr,239 rue lahlou mdina casablanca maroc,1991-05-13,1970-01-01
+482,bennani,malak,ef650916,639522801,malakbennaniinwima,294 rue elidrissi yacoub el mansour agadir maroc,1998-05-18,1970-01-01
+483,zahiri,ilham,gh196411,556896070,ilhamzahiriiamnetma,259 rue zahiri tabriquet rabat maroc,1972-05-19,1970-01-01
+484,maaroufi,ibrahim,cd688602,597147586,ibrahimmaaroufiiamnetma,185 rue jebari mdina tanger maroc,1959-03-01,1970-01-01
+485,elkhatib,siham,lm141814,553075436,sihamelkhatibhotmailfr,124 rue fadili yacoub el mansour tanger maroc,1965-08-06,1970-01-01
+486,elalami,siham,ef639292,678281335,sihamelalamiinwima,277 rue tahiri belvdre oujda maroc,1994-10-18,1970-01-01
+487,chouaib,rim,ik275526,682205759,rimchouaibgmailcom,99 rue bakkali belvdre casablanca maroc,1973-12-11,1970-01-01
+488,elidrissi,mohamed,lm315565,782176148,mohamedelidrissigmailcom,110 rue sekkat hay riad rabat maroc,1962-10-07,1970-01-01
+489,zerouali,abdelaziz,gh139726,521746856,abdelazizzeroualiinwima,79 rue elkhatib mabella rabat maroc,2001-03-03,1970-01-01
+490,amrani,amina,ab371212,564711545,aminaamranihotmailfr,129 rue elidrissi tabriquet fes maroc,2001-12-02,1970-01-01
+491,elalami,bouchra,gh660814,510791740,bouchraelalamigmailcom,162 rue elkhatib oasis oujda maroc,1972-10-30,1970-01-01
+492,baroudi,malak,lm627262,624245271,malakbaroudiinwima,300 rue bennani tabriquet rabat maroc,1991-01-19,1970-01-01
+493,jebari,karim,gh962057,798680762,karimjebariiamnetma,145 rue chraibi agdal ttouan maroc,1984-02-04,1970-01-01
+494,elkhatib,anass,lm764845,729337491,anasselkhatibinwima,113 rue chakiri ain sebaa fes maroc,1995-01-01,1970-01-01
+495,jebari,abdelhak,ab700538,690081663,abdelhakjebarigmailcom,285 rue chakiri ain sebaa casablanca maroc,1983-09-15,1970-01-01
+496,elalami,adil,lm322022,565385548,adilelalamiinwima,157 rue touil agdal temara maroc,1995-05-22,1970-01-01
+497,fadili,zakaria,ik220190,734341456,zakariafadilihotmailfr,95 rue maaroufi gueliz fes maroc,1956-01-24,1970-01-01
+498,hariri,rayan,lm404771,519041276,rayanharirigmailcom,282 rue chouaib sidi marouf casablanca maroc,1969-11-18,1970-01-01
+499,boukhriss,rachid,ef803904,797976094,rachidboukhrisshotmailfr,298 rue bensaid mabella marrakech maroc,1994-04-05,1970-01-01
+500,maaroufi,rachid,cd572536,754069864,rachidmaaroufiiamnetma,36 rue fadili sidi moumen agadir maroc,2006-05-07,1970-01-01

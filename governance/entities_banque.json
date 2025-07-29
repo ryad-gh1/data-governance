@@ -1,0 +1,34 @@
+{
+  "entities": [
+    {
+      "typeName": "postgres_table",
+      "attributes": {
+        "name": "ma_table",
+        "qualifiedName": "ma_base.ma_schema.ma_table",
+        "level": "niveau1"
+      },
+      "relationshipAttributes": {
+        "columns": [
+          {
+            "typeName": "table_column",
+            "attributes": {
+              "name": "id",
+              "data_type": "integer",
+              "nullable": false,
+              "qualifiedName": "ma_base.ma_schema.ma_table.id"
+            }
+          },
+          {
+            "typeName": "table_column",
+            "attributes": {
+              "name": "nom",
+              "data_type": "varchar",
+              "nullable": true,
+              "qualifiedName": "ma_base.ma_schema.ma_table.nom"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

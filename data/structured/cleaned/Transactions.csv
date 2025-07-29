@@ -1,0 +1,501 @@
+id_transaction,id_compte,montant,type_transaction,canal,devise,date_transaction,statut,description
+1,1,9956.53,versement,virementauto,mad,2017-11-26,refusee,Depot d'argent liquide sur un compte bancaire.
+2,2,39662.46,retrait,enligne,mad,2022-04-09,validee,Retrait d'especes depuis un distributeur ou au guichet.
+3,3,16516.15,frais,guichet,mad,2020-05-27,validee,Operation bancaire realisee sur le compte.
+4,4,43891.96,versement,guichet,mad,2017-12-24,validee,Depot d'argent liquide sur un compte bancaire.
+5,5,12689.41,virement,distributeur,mad,2024-11-14,refusee,Transfert de fonds entre comptes bancaires.
+6,6,34615.98,virement,distributeur,eur,2022-12-05,validee,Transfert de fonds entre comptes bancaires.
+7,7,21882.6,virement,enligne,eur,2024-02-21,refusee,Transfert de fonds entre comptes bancaires.
+8,8,30501.96,paiement,enligne,usd,2024-03-10,validee,Paiement effectue par carte ou moyen numerique.
+9,9,8686.3,paiement,enligne,mad,2024-08-20,validee,Paiement effectue par carte ou moyen numerique.
+10,10,47078.69,versement,enligne,usd,2017-11-26,refusee,Depot d'argent liquide sur un compte bancaire.
+11,11,27810.87,paiement,distributeur,mad,2021-11-01,validee,Paiement effectue par carte ou moyen numerique.
+12,12,1461.88,paiement,enligne,mad,2025-01-27,validee,Paiement effectue par carte ou moyen numerique.
+13,13,27013.79,virement,guichet,usd,2019-10-17,refusee,Transfert de fonds entre comptes bancaires.
+14,14,39860.19,retrait,guichet,eur,2020-10-30,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+15,15,8160.58,versement,enligne,eur,2024-11-23,validee,Depot d'argent liquide sur un compte bancaire.
+16,16,44055.19,retrait,distributeur,usd,2023-01-27,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+17,17,45815.43,paiement,virementauto,eur,2020-02-03,refusee,Paiement effectue par carte ou moyen numerique.
+18,18,38811.63,retrait,distributeur,usd,2023-06-16,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+19,19,34552.28,paiement,applicationmobile,eur,2022-03-01,validee,Paiement effectue par carte ou moyen numerique.
+20,20,31118.71,frais,enligne,eur,2023-12-16,validee,Operation bancaire realisee sur le compte.
+21,21,19322.0,frais,enligne,usd,2020-04-17,enattente,Operation bancaire realisee sur le compte.
+22,22,7712.77,virement,enligne,eur,2025-02-18,refusee,Transfert de fonds entre comptes bancaires.
+23,23,43611.77,retrait,enligne,mad,2022-10-11,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+24,24,29943.87,frais,applicationmobile,eur,2025-04-21,enattente,Operation bancaire realisee sur le compte.
+25,25,37914.89,paiement,applicationmobile,usd,2019-07-22,refusee,Paiement effectue par carte ou moyen numerique.
+26,26,36977.48,versement,distributeur,mad,2021-03-24,refusee,Depot d'argent liquide sur un compte bancaire.
+27,27,9389.45,frais,guichet,mad,2023-12-25,validee,Operation bancaire realisee sur le compte.
+28,28,6508.24,retrait,guichet,mad,2022-04-06,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+29,29,22899.9,frais,guichet,mad,2020-04-07,refusee,Operation bancaire realisee sur le compte.
+30,30,17339.31,frais,distributeur,usd,2023-04-16,refusee,Operation bancaire realisee sur le compte.
+31,31,2509.33,retrait,distributeur,mad,2022-02-09,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+32,32,14574.49,retrait,enligne,usd,2024-04-23,validee,Retrait d'especes depuis un distributeur ou au guichet.
+33,33,17632.56,frais,virementauto,usd,2020-11-07,enattente,Operation bancaire realisee sur le compte.
+34,34,34725.3,versement,virementauto,eur,2023-08-06,refusee,Depot d'argent liquide sur un compte bancaire.
+35,35,44288.62,retrait,distributeur,mad,2023-10-27,validee,Retrait d'especes depuis un distributeur ou au guichet.
+36,36,8783.39,virement,distributeur,usd,2022-05-11,enattente,Transfert de fonds entre comptes bancaires.
+37,37,12496.17,frais,distributeur,mad,2022-08-02,validee,Operation bancaire realisee sur le compte.
+38,38,1082.99,paiement,enligne,mad,2021-02-26,validee,Paiement effectue par carte ou moyen numerique.
+39,39,18790.27,virement,applicationmobile,usd,2020-04-14,enattente,Transfert de fonds entre comptes bancaires.
+40,40,29559.22,virement,enligne,mad,2022-09-14,refusee,Transfert de fonds entre comptes bancaires.
+41,41,36799.67,frais,enligne,mad,2024-07-09,enattente,Operation bancaire realisee sur le compte.
+42,42,14728.44,virement,guichet,eur,2020-03-18,refusee,Transfert de fonds entre comptes bancaires.
+43,43,42032.49,virement,virementauto,usd,2023-12-23,refusee,Transfert de fonds entre comptes bancaires.
+44,44,46123.21,retrait,applicationmobile,eur,2023-12-06,validee,Retrait d'especes depuis un distributeur ou au guichet.
+45,45,40223.93,retrait,applicationmobile,usd,2025-04-02,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+46,46,18882.38,frais,applicationmobile,mad,2025-02-08,refusee,Operation bancaire realisee sur le compte.
+47,47,38306.77,paiement,enligne,usd,2021-03-07,enattente,Paiement effectue par carte ou moyen numerique.
+48,48,24846.79,frais,enligne,eur,2019-01-31,enattente,Operation bancaire realisee sur le compte.
+49,49,31736.7,versement,enligne,usd,2024-07-08,refusee,Depot d'argent liquide sur un compte bancaire.
+50,50,15833.45,versement,applicationmobile,mad,2025-02-25,enattente,Depot d'argent liquide sur un compte bancaire.
+51,51,46064.88,virement,applicationmobile,mad,2025-01-26,validee,Transfert de fonds entre comptes bancaires.
+52,52,45603.31,frais,enligne,mad,2023-01-07,enattente,Operation bancaire realisee sur le compte.
+53,53,4036.87,virement,applicationmobile,usd,2024-03-30,validee,Transfert de fonds entre comptes bancaires.
+54,54,7096.58,frais,enligne,mad,2024-03-26,refusee,Operation bancaire realisee sur le compte.
+55,55,18450.58,versement,enligne,usd,2019-11-24,enattente,Depot d'argent liquide sur un compte bancaire.
+56,56,5860.11,paiement,distributeur,mad,2024-06-17,validee,Paiement effectue par carte ou moyen numerique.
+57,57,7590.22,paiement,applicationmobile,usd,2025-03-09,refusee,Paiement effectue par carte ou moyen numerique.
+58,58,29082.47,versement,distributeur,mad,2021-09-28,enattente,Depot d'argent liquide sur un compte bancaire.
+59,59,33422.07,versement,distributeur,mad,2025-04-05,refusee,Depot d'argent liquide sur un compte bancaire.
+60,60,36138.77,versement,guichet,eur,2025-04-03,enattente,Depot d'argent liquide sur un compte bancaire.
+61,61,3809.13,paiement,virementauto,usd,2023-03-05,validee,Paiement effectue par carte ou moyen numerique.
+62,62,32318.89,frais,applicationmobile,mad,2018-07-03,validee,Operation bancaire realisee sur le compte.
+63,63,10246.09,retrait,enligne,usd,2023-11-16,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+64,64,38016.55,retrait,guichet,eur,2017-11-29,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+65,65,26726.29,versement,enligne,mad,2019-04-16,refusee,Depot d'argent liquide sur un compte bancaire.
+66,66,4194.56,versement,guichet,mad,2019-01-27,validee,Depot d'argent liquide sur un compte bancaire.
+67,67,18611.94,paiement,virementauto,usd,2024-08-29,validee,Paiement effectue par carte ou moyen numerique.
+68,68,35564.33,frais,enligne,eur,2020-03-23,refusee,Operation bancaire realisee sur le compte.
+69,69,20863.65,virement,distributeur,eur,2022-12-29,validee,Transfert de fonds entre comptes bancaires.
+70,70,5208.02,frais,guichet,usd,2023-08-03,enattente,Operation bancaire realisee sur le compte.
+71,71,13114.57,frais,guichet,eur,2025-04-04,enattente,Operation bancaire realisee sur le compte.
+72,72,49441.2,versement,guichet,mad,2021-10-11,enattente,Depot d'argent liquide sur un compte bancaire.
+73,73,8891.29,frais,distributeur,eur,2018-07-07,refusee,Operation bancaire realisee sur le compte.
+74,74,26225.63,versement,applicationmobile,usd,2024-12-11,enattente,Depot d'argent liquide sur un compte bancaire.
+75,75,38799.16,virement,distributeur,eur,2022-08-03,enattente,Transfert de fonds entre comptes bancaires.
+76,76,37449.23,retrait,virementauto,eur,2024-01-15,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+77,77,6473.77,paiement,enligne,mad,2024-12-19,refusee,Paiement effectue par carte ou moyen numerique.
+78,78,7054.06,virement,enligne,mad,2024-08-06,validee,Transfert de fonds entre comptes bancaires.
+79,79,9673.46,retrait,applicationmobile,usd,2024-11-09,validee,Retrait d'especes depuis un distributeur ou au guichet.
+80,80,2283.15,versement,virementauto,eur,2022-04-16,refusee,Depot d'argent liquide sur un compte bancaire.
+81,81,10855.74,retrait,applicationmobile,usd,2019-07-08,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+82,82,46883.67,frais,guichet,mad,2020-09-22,enattente,Operation bancaire realisee sur le compte.
+83,83,43136.42,virement,enligne,eur,2021-08-18,refusee,Transfert de fonds entre comptes bancaires.
+84,84,30474.42,frais,applicationmobile,usd,2024-12-08,refusee,Operation bancaire realisee sur le compte.
+85,85,26347.03,versement,virementauto,usd,2021-07-22,validee,Depot d'argent liquide sur un compte bancaire.
+86,86,5553.57,frais,guichet,mad,2024-11-09,validee,Operation bancaire realisee sur le compte.
+87,87,43760.42,virement,distributeur,mad,2021-11-30,refusee,Transfert de fonds entre comptes bancaires.
+88,88,34412.56,versement,guichet,mad,2024-06-03,validee,Depot d'argent liquide sur un compte bancaire.
+89,89,17398.3,versement,enligne,usd,2021-06-22,enattente,Depot d'argent liquide sur un compte bancaire.
+90,90,9677.66,virement,enligne,mad,2020-03-24,validee,Transfert de fonds entre comptes bancaires.
+91,91,16095.06,retrait,applicationmobile,mad,2022-07-01,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+92,92,12221.15,frais,enligne,usd,2020-12-21,refusee,Operation bancaire realisee sur le compte.
+93,93,105.53,paiement,virementauto,usd,2023-07-08,validee,Paiement effectue par carte ou moyen numerique.
+94,94,46245.99,frais,enligne,usd,2022-09-17,refusee,Operation bancaire realisee sur le compte.
+95,95,38367.65,retrait,guichet,eur,2023-11-05,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+96,96,26703.75,virement,enligne,eur,2025-03-11,enattente,Transfert de fonds entre comptes bancaires.
+97,97,46678.78,versement,enligne,usd,2017-10-05,validee,Depot d'argent liquide sur un compte bancaire.
+98,98,44101.89,frais,virementauto,eur,2023-11-18,refusee,Operation bancaire realisee sur le compte.
+99,99,39482.29,versement,enligne,eur,2022-07-04,enattente,Depot d'argent liquide sur un compte bancaire.
+100,100,45007.41,retrait,virementauto,eur,2025-03-23,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+101,101,5711.1,frais,distributeur,mad,2022-12-01,enattente,Operation bancaire realisee sur le compte.
+102,102,22749.24,versement,distributeur,usd,2024-07-27,enattente,Depot d'argent liquide sur un compte bancaire.
+103,103,48256.96,retrait,guichet,mad,2020-03-31,validee,Retrait d'especes depuis un distributeur ou au guichet.
+104,104,7761.08,frais,enligne,mad,2024-10-03,validee,Operation bancaire realisee sur le compte.
+105,105,35847.64,versement,guichet,usd,2024-04-16,refusee,Depot d'argent liquide sur un compte bancaire.
+106,106,42458.94,versement,applicationmobile,mad,2024-04-14,enattente,Depot d'argent liquide sur un compte bancaire.
+107,107,36861.28,retrait,virementauto,eur,2023-08-31,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+108,108,35415.27,retrait,distributeur,eur,2023-12-23,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+109,109,19288.28,retrait,distributeur,usd,2023-05-01,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+110,110,18518.0,frais,enligne,mad,2024-10-17,refusee,Operation bancaire realisee sur le compte.
+111,111,44943.71,frais,virementauto,mad,2023-09-08,refusee,Operation bancaire realisee sur le compte.
+112,112,40662.8,versement,guichet,usd,2022-12-25,validee,Depot d'argent liquide sur un compte bancaire.
+113,113,23359.77,virement,distributeur,mad,2017-03-23,enattente,Transfert de fonds entre comptes bancaires.
+114,114,45911.86,retrait,applicationmobile,usd,2017-11-14,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+115,115,28981.97,frais,enligne,usd,2024-06-30,refusee,Operation bancaire realisee sur le compte.
+116,116,14952.44,virement,enligne,usd,2024-09-05,refusee,Transfert de fonds entre comptes bancaires.
+117,117,841.65,versement,distributeur,eur,2021-05-29,enattente,Depot d'argent liquide sur un compte bancaire.
+118,118,34799.6,virement,virementauto,eur,2023-09-23,validee,Transfert de fonds entre comptes bancaires.
+119,119,30585.66,paiement,virementauto,mad,2024-12-18,validee,Paiement effectue par carte ou moyen numerique.
+120,120,16190.4,versement,applicationmobile,usd,2025-02-27,refusee,Depot d'argent liquide sur un compte bancaire.
+121,121,29662.9,versement,applicationmobile,eur,2023-06-04,validee,Depot d'argent liquide sur un compte bancaire.
+122,122,30121.18,virement,guichet,eur,2023-10-22,refusee,Transfert de fonds entre comptes bancaires.
+123,123,14900.1,versement,virementauto,usd,2021-02-10,validee,Depot d'argent liquide sur un compte bancaire.
+124,124,22258.14,virement,enligne,usd,2020-06-11,enattente,Transfert de fonds entre comptes bancaires.
+125,125,21158.34,paiement,guichet,eur,2024-06-16,refusee,Paiement effectue par carte ou moyen numerique.
+126,126,30940.61,virement,guichet,usd,2024-05-15,validee,Transfert de fonds entre comptes bancaires.
+127,127,27666.76,frais,distributeur,eur,2025-01-10,refusee,Operation bancaire realisee sur le compte.
+128,128,33988.99,paiement,virementauto,eur,2017-12-02,refusee,Paiement effectue par carte ou moyen numerique.
+129,129,30894.17,frais,applicationmobile,eur,2021-09-01,enattente,Operation bancaire realisee sur le compte.
+130,130,3772.65,frais,enligne,usd,2024-11-22,refusee,Operation bancaire realisee sur le compte.
+131,131,42350.52,retrait,distributeur,eur,2024-08-22,validee,Retrait d'especes depuis un distributeur ou au guichet.
+132,132,14455.87,virement,virementauto,usd,2023-12-13,enattente,Transfert de fonds entre comptes bancaires.
+133,133,10320.83,frais,virementauto,usd,2018-12-23,validee,Operation bancaire realisee sur le compte.
+134,134,49862.1,paiement,virementauto,usd,2023-12-01,validee,Paiement effectue par carte ou moyen numerique.
+135,135,13268.4,paiement,guichet,usd,2024-02-23,validee,Paiement effectue par carte ou moyen numerique.
+136,136,33147.44,frais,distributeur,mad,2021-05-05,enattente,Operation bancaire realisee sur le compte.
+137,137,48242.98,retrait,guichet,mad,2024-06-01,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+138,138,6985.65,virement,guichet,eur,2023-10-14,enattente,Transfert de fonds entre comptes bancaires.
+139,139,14501.0,frais,guichet,mad,2019-03-09,refusee,Operation bancaire realisee sur le compte.
+140,140,8965.28,frais,applicationmobile,eur,2025-03-06,refusee,Operation bancaire realisee sur le compte.
+141,141,5227.69,versement,guichet,usd,2024-01-28,refusee,Depot d'argent liquide sur un compte bancaire.
+142,142,28660.99,versement,guichet,eur,2024-08-23,enattente,Depot d'argent liquide sur un compte bancaire.
+143,143,15263.01,frais,virementauto,mad,2024-02-19,refusee,Operation bancaire realisee sur le compte.
+144,144,29754.27,virement,applicationmobile,usd,2024-10-13,validee,Transfert de fonds entre comptes bancaires.
+145,145,27671.08,virement,enligne,mad,2024-09-25,validee,Transfert de fonds entre comptes bancaires.
+146,146,46273.46,virement,applicationmobile,mad,2019-05-27,validee,Transfert de fonds entre comptes bancaires.
+147,147,41.59,retrait,applicationmobile,usd,2017-06-29,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+148,148,37991.02,virement,guichet,usd,2023-10-15,refusee,Transfert de fonds entre comptes bancaires.
+149,149,17800.99,versement,guichet,eur,2023-07-01,enattente,Depot d'argent liquide sur un compte bancaire.
+150,150,14646.26,frais,applicationmobile,usd,2025-04-11,validee,Operation bancaire realisee sur le compte.
+151,151,41275.15,frais,applicationmobile,eur,2024-06-30,enattente,Operation bancaire realisee sur le compte.
+152,152,28478.42,frais,distributeur,usd,2018-10-26,validee,Operation bancaire realisee sur le compte.
+153,153,32684.85,frais,distributeur,mad,2019-12-25,enattente,Operation bancaire realisee sur le compte.
+154,154,43910.56,retrait,guichet,mad,2025-03-18,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+155,155,37508.51,virement,applicationmobile,usd,2025-01-08,validee,Transfert de fonds entre comptes bancaires.
+156,156,2389.8,paiement,applicationmobile,eur,2023-01-01,enattente,Paiement effectue par carte ou moyen numerique.
+157,157,6585.02,frais,guichet,eur,2019-07-12,enattente,Operation bancaire realisee sur le compte.
+158,158,13720.19,paiement,distributeur,usd,2024-05-17,enattente,Paiement effectue par carte ou moyen numerique.
+159,159,40926.83,paiement,enligne,eur,2024-05-10,validee,Paiement effectue par carte ou moyen numerique.
+160,160,18897.71,versement,guichet,eur,2016-12-08,enattente,Depot d'argent liquide sur un compte bancaire.
+161,161,30567.98,virement,distributeur,mad,2022-07-19,enattente,Transfert de fonds entre comptes bancaires.
+162,162,46622.62,versement,enligne,mad,2024-11-10,validee,Depot d'argent liquide sur un compte bancaire.
+163,163,30453.33,paiement,enligne,mad,2016-08-20,refusee,Paiement effectue par carte ou moyen numerique.
+164,164,32379.34,paiement,distributeur,mad,2020-10-01,enattente,Paiement effectue par carte ou moyen numerique.
+165,165,24950.21,virement,distributeur,eur,2017-05-20,refusee,Transfert de fonds entre comptes bancaires.
+166,166,14435.8,paiement,applicationmobile,usd,2022-01-29,validee,Paiement effectue par carte ou moyen numerique.
+167,167,30043.11,paiement,enligne,mad,2018-11-16,validee,Paiement effectue par carte ou moyen numerique.
+168,168,26723.53,paiement,guichet,eur,2023-09-24,validee,Paiement effectue par carte ou moyen numerique.
+169,169,48472.76,paiement,applicationmobile,usd,2025-04-18,enattente,Paiement effectue par carte ou moyen numerique.
+170,170,10915.89,versement,virementauto,mad,2024-09-17,validee,Depot d'argent liquide sur un compte bancaire.
+171,171,37053.71,virement,enligne,usd,2023-09-21,validee,Transfert de fonds entre comptes bancaires.
+172,172,47325.78,retrait,distributeur,mad,2023-04-20,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+173,173,7167.89,virement,distributeur,mad,2025-02-05,enattente,Transfert de fonds entre comptes bancaires.
+174,174,38622.32,frais,virementauto,usd,2018-05-26,validee,Operation bancaire realisee sur le compte.
+175,175,30878.1,frais,applicationmobile,usd,2024-04-29,refusee,Operation bancaire realisee sur le compte.
+176,176,16068.23,paiement,enligne,mad,2021-09-08,refusee,Paiement effectue par carte ou moyen numerique.
+177,177,33432.98,versement,applicationmobile,mad,2018-03-14,refusee,Depot d'argent liquide sur un compte bancaire.
+178,178,42962.27,retrait,distributeur,mad,2024-05-07,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+179,179,16391.31,paiement,virementauto,mad,2025-03-30,enattente,Paiement effectue par carte ou moyen numerique.
+180,180,3337.34,paiement,guichet,usd,2017-06-15,refusee,Paiement effectue par carte ou moyen numerique.
+181,181,2367.71,paiement,virementauto,mad,2021-04-09,enattente,Paiement effectue par carte ou moyen numerique.
+182,182,22417.36,paiement,applicationmobile,eur,2022-02-04,validee,Paiement effectue par carte ou moyen numerique.
+183,183,38236.64,versement,applicationmobile,mad,2023-05-19,enattente,Depot d'argent liquide sur un compte bancaire.
+184,184,21923.64,frais,applicationmobile,mad,2020-08-30,enattente,Operation bancaire realisee sur le compte.
+185,185,5962.93,frais,applicationmobile,usd,2022-05-24,refusee,Operation bancaire realisee sur le compte.
+186,186,22978.52,paiement,applicationmobile,usd,2024-10-09,validee,Paiement effectue par carte ou moyen numerique.
+187,187,1841.98,versement,distributeur,usd,2024-09-23,refusee,Depot d'argent liquide sur un compte bancaire.
+188,188,1523.96,versement,guichet,usd,2024-08-28,validee,Depot d'argent liquide sur un compte bancaire.
+189,189,21070.05,retrait,enligne,mad,2025-01-21,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+190,190,26063.07,frais,enligne,eur,2022-11-24,validee,Operation bancaire realisee sur le compte.
+191,191,25653.86,frais,virementauto,mad,2021-11-18,refusee,Operation bancaire realisee sur le compte.
+192,192,3425.19,versement,distributeur,usd,2019-06-16,enattente,Depot d'argent liquide sur un compte bancaire.
+193,193,9823.0,paiement,virementauto,eur,2025-02-16,validee,Paiement effectue par carte ou moyen numerique.
+194,194,15805.33,retrait,applicationmobile,mad,2023-10-22,validee,Retrait d'especes depuis un distributeur ou au guichet.
+195,195,22264.07,paiement,distributeur,eur,2020-02-29,refusee,Paiement effectue par carte ou moyen numerique.
+196,196,10643.22,paiement,enligne,eur,2021-04-23,refusee,Paiement effectue par carte ou moyen numerique.
+197,197,2509.63,frais,virementauto,mad,2019-10-19,enattente,Operation bancaire realisee sur le compte.
+198,198,21248.54,virement,enligne,eur,2024-09-05,enattente,Transfert de fonds entre comptes bancaires.
+199,199,43469.13,virement,guichet,usd,2019-11-21,enattente,Transfert de fonds entre comptes bancaires.
+200,200,22140.23,virement,enligne,usd,2025-03-21,enattente,Transfert de fonds entre comptes bancaires.
+201,201,29446.63,retrait,applicationmobile,mad,2023-06-20,validee,Retrait d'especes depuis un distributeur ou au guichet.
+202,202,40683.5,versement,virementauto,usd,2023-07-28,refusee,Depot d'argent liquide sur un compte bancaire.
+203,203,12855.06,virement,distributeur,eur,2024-03-07,enattente,Transfert de fonds entre comptes bancaires.
+204,204,2642.39,frais,virementauto,usd,2022-10-09,validee,Operation bancaire realisee sur le compte.
+205,205,34477.79,retrait,guichet,usd,2023-03-13,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+206,206,27709.64,virement,enligne,usd,2023-02-13,validee,Transfert de fonds entre comptes bancaires.
+207,207,26569.27,versement,applicationmobile,mad,2024-04-12,validee,Depot d'argent liquide sur un compte bancaire.
+208,208,35216.54,frais,virementauto,eur,2024-10-09,refusee,Operation bancaire realisee sur le compte.
+209,209,26108.14,paiement,enligne,usd,2022-03-25,enattente,Paiement effectue par carte ou moyen numerique.
+210,210,19499.22,frais,virementauto,eur,2018-07-19,refusee,Operation bancaire realisee sur le compte.
+211,211,37556.62,frais,distributeur,usd,2025-03-28,enattente,Operation bancaire realisee sur le compte.
+212,212,21907.64,frais,applicationmobile,eur,2019-12-05,enattente,Operation bancaire realisee sur le compte.
+213,213,31759.12,frais,applicationmobile,usd,2020-01-08,validee,Operation bancaire realisee sur le compte.
+214,214,47272.94,retrait,virementauto,mad,2024-04-13,validee,Retrait d'especes depuis un distributeur ou au guichet.
+215,215,7181.53,virement,virementauto,eur,2019-05-22,refusee,Transfert de fonds entre comptes bancaires.
+216,216,26945.27,retrait,enligne,eur,2019-10-16,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+217,217,27026.99,frais,distributeur,mad,2025-01-13,enattente,Operation bancaire realisee sur le compte.
+218,218,729.29,paiement,virementauto,usd,2021-04-23,enattente,Paiement effectue par carte ou moyen numerique.
+219,219,45796.05,paiement,applicationmobile,mad,2025-02-15,enattente,Paiement effectue par carte ou moyen numerique.
+220,220,39742.3,versement,distributeur,eur,2018-07-06,validee,Depot d'argent liquide sur un compte bancaire.
+221,221,26158.38,virement,virementauto,mad,2019-03-03,validee,Transfert de fonds entre comptes bancaires.
+222,222,9119.44,versement,guichet,mad,2022-12-29,refusee,Depot d'argent liquide sur un compte bancaire.
+223,223,25143.85,virement,virementauto,mad,2024-12-01,validee,Transfert de fonds entre comptes bancaires.
+224,224,28910.33,frais,distributeur,usd,2021-07-02,validee,Operation bancaire realisee sur le compte.
+225,225,13762.36,paiement,virementauto,mad,2022-09-16,validee,Paiement effectue par carte ou moyen numerique.
+226,226,36897.05,frais,virementauto,usd,2019-09-05,validee,Operation bancaire realisee sur le compte.
+227,227,41671.39,virement,distributeur,usd,2021-08-21,validee,Transfert de fonds entre comptes bancaires.
+228,228,18526.62,versement,virementauto,eur,2018-05-09,enattente,Depot d'argent liquide sur un compte bancaire.
+229,229,29264.2,versement,applicationmobile,mad,2019-09-13,refusee,Depot d'argent liquide sur un compte bancaire.
+230,230,41454.66,paiement,virementauto,usd,2025-02-23,validee,Paiement effectue par carte ou moyen numerique.
+231,231,37729.66,virement,guichet,usd,2021-02-05,enattente,Transfert de fonds entre comptes bancaires.
+232,232,9765.99,virement,guichet,usd,2021-01-01,refusee,Transfert de fonds entre comptes bancaires.
+233,233,6085.68,frais,enligne,usd,2021-01-14,validee,Operation bancaire realisee sur le compte.
+234,234,531.66,frais,enligne,usd,2023-07-18,enattente,Operation bancaire realisee sur le compte.
+235,235,15375.61,paiement,applicationmobile,mad,2016-12-29,validee,Paiement effectue par carte ou moyen numerique.
+236,236,36178.11,retrait,virementauto,mad,2020-07-22,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+237,237,26560.63,frais,guichet,usd,2024-02-07,refusee,Operation bancaire realisee sur le compte.
+238,238,6159.62,paiement,applicationmobile,mad,2025-04-13,validee,Paiement effectue par carte ou moyen numerique.
+239,239,14973.85,virement,enligne,eur,2017-02-21,validee,Transfert de fonds entre comptes bancaires.
+240,240,45289.79,frais,distributeur,mad,2023-10-23,enattente,Operation bancaire realisee sur le compte.
+241,241,37878.72,versement,distributeur,mad,2025-04-13,validee,Depot d'argent liquide sur un compte bancaire.
+242,242,34513.45,frais,virementauto,eur,2016-11-02,refusee,Operation bancaire realisee sur le compte.
+243,243,12274.85,paiement,enligne,usd,2024-04-05,validee,Paiement effectue par carte ou moyen numerique.
+244,244,35218.68,paiement,virementauto,eur,2025-03-14,enattente,Paiement effectue par carte ou moyen numerique.
+245,245,4526.48,paiement,distributeur,usd,2024-08-08,validee,Paiement effectue par carte ou moyen numerique.
+246,246,4306.55,paiement,distributeur,eur,2023-02-06,validee,Paiement effectue par carte ou moyen numerique.
+247,247,29243.31,frais,enligne,eur,2020-08-31,enattente,Operation bancaire realisee sur le compte.
+248,248,39494.8,retrait,guichet,eur,2022-04-20,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+249,249,12312.51,frais,guichet,usd,2024-06-20,validee,Operation bancaire realisee sur le compte.
+250,250,41917.57,versement,distributeur,eur,2024-06-13,validee,Depot d'argent liquide sur un compte bancaire.
+251,251,22852.22,versement,virementauto,usd,2022-07-07,enattente,Depot d'argent liquide sur un compte bancaire.
+252,252,49838.46,virement,distributeur,mad,2023-12-01,enattente,Transfert de fonds entre comptes bancaires.
+253,253,45706.49,paiement,enligne,usd,2024-03-04,validee,Paiement effectue par carte ou moyen numerique.
+254,254,18891.77,paiement,applicationmobile,mad,2020-11-28,refusee,Paiement effectue par carte ou moyen numerique.
+255,255,34151.05,retrait,guichet,mad,2023-10-31,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+256,256,49958.81,virement,applicationmobile,usd,2021-05-05,validee,Transfert de fonds entre comptes bancaires.
+257,257,16744.76,paiement,distributeur,eur,2024-12-23,validee,Paiement effectue par carte ou moyen numerique.
+258,258,48765.89,retrait,guichet,mad,2022-04-25,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+259,259,28015.22,retrait,enligne,eur,2023-08-02,validee,Retrait d'especes depuis un distributeur ou au guichet.
+260,260,423.55,versement,distributeur,eur,2021-05-23,validee,Depot d'argent liquide sur un compte bancaire.
+261,261,21116.81,frais,guichet,eur,2021-03-17,refusee,Operation bancaire realisee sur le compte.
+262,262,12965.56,paiement,distributeur,mad,2024-10-27,refusee,Paiement effectue par carte ou moyen numerique.
+263,263,37751.34,versement,virementauto,eur,2022-01-09,validee,Depot d'argent liquide sur un compte bancaire.
+264,264,46328.98,frais,distributeur,usd,2019-07-07,validee,Operation bancaire realisee sur le compte.
+265,265,20925.27,virement,applicationmobile,usd,2025-02-08,refusee,Transfert de fonds entre comptes bancaires.
+266,266,43014.75,retrait,virementauto,mad,2023-09-18,validee,Retrait d'especes depuis un distributeur ou au guichet.
+267,267,25287.76,paiement,virementauto,usd,2020-11-07,enattente,Paiement effectue par carte ou moyen numerique.
+268,268,38265.39,paiement,applicationmobile,mad,2023-04-01,refusee,Paiement effectue par carte ou moyen numerique.
+269,269,11864.1,paiement,virementauto,usd,2024-03-08,enattente,Paiement effectue par carte ou moyen numerique.
+270,270,6797.88,virement,guichet,eur,2021-09-09,enattente,Transfert de fonds entre comptes bancaires.
+271,271,44414.42,retrait,distributeur,usd,2025-04-19,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+272,272,49256.11,retrait,distributeur,eur,2024-06-17,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+273,273,38285.67,retrait,enligne,eur,2024-07-29,validee,Retrait d'especes depuis un distributeur ou au guichet.
+274,274,29536.47,frais,guichet,usd,2021-12-10,enattente,Operation bancaire realisee sur le compte.
+275,275,10285.27,virement,distributeur,usd,2022-11-26,refusee,Transfert de fonds entre comptes bancaires.
+276,276,17963.62,frais,enligne,usd,2024-12-10,validee,Operation bancaire realisee sur le compte.
+277,277,10730.31,paiement,distributeur,eur,2024-07-26,validee,Paiement effectue par carte ou moyen numerique.
+278,278,41471.71,retrait,enligne,usd,2022-10-07,validee,Retrait d'especes depuis un distributeur ou au guichet.
+279,279,30256.09,frais,guichet,eur,2024-10-14,validee,Operation bancaire realisee sur le compte.
+280,280,25637.43,virement,guichet,mad,2022-09-08,refusee,Transfert de fonds entre comptes bancaires.
+281,281,6394.54,versement,applicationmobile,eur,2016-12-16,validee,Depot d'argent liquide sur un compte bancaire.
+282,282,48494.72,paiement,guichet,usd,2020-07-20,validee,Paiement effectue par carte ou moyen numerique.
+283,283,43119.2,versement,guichet,usd,2018-05-17,validee,Depot d'argent liquide sur un compte bancaire.
+284,284,36210.82,paiement,distributeur,eur,2024-02-04,validee,Paiement effectue par carte ou moyen numerique.
+285,285,376.07,paiement,guichet,mad,2025-03-26,validee,Paiement effectue par carte ou moyen numerique.
+286,286,35366.73,virement,virementauto,usd,2023-10-06,enattente,Transfert de fonds entre comptes bancaires.
+287,287,4994.24,versement,enligne,eur,2024-03-14,enattente,Depot d'argent liquide sur un compte bancaire.
+288,288,49891.55,versement,virementauto,usd,2021-01-29,validee,Depot d'argent liquide sur un compte bancaire.
+289,289,2984.27,virement,virementauto,eur,2022-09-21,validee,Transfert de fonds entre comptes bancaires.
+290,290,47738.03,versement,enligne,eur,2019-01-07,refusee,Depot d'argent liquide sur un compte bancaire.
+291,291,47606.38,retrait,virementauto,usd,2023-07-09,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+292,292,27905.47,versement,distributeur,eur,2018-08-19,refusee,Depot d'argent liquide sur un compte bancaire.
+293,293,20349.62,versement,enligne,eur,2025-01-08,validee,Depot d'argent liquide sur un compte bancaire.
+294,294,49592.87,paiement,enligne,mad,2023-09-20,enattente,Paiement effectue par carte ou moyen numerique.
+295,295,709.3,versement,enligne,eur,2020-03-19,validee,Depot d'argent liquide sur un compte bancaire.
+296,296,5403.04,frais,guichet,mad,2025-04-01,validee,Operation bancaire realisee sur le compte.
+297,297,15280.88,frais,distributeur,mad,2025-03-11,refusee,Operation bancaire realisee sur le compte.
+298,298,19080.31,retrait,distributeur,mad,2024-06-26,validee,Retrait d'especes depuis un distributeur ou au guichet.
+299,299,27312.31,virement,enligne,mad,2022-05-22,validee,Transfert de fonds entre comptes bancaires.
+300,300,38954.01,retrait,virementauto,eur,2023-02-13,validee,Retrait d'especes depuis un distributeur ou au guichet.
+301,301,19552.28,virement,enligne,mad,2025-03-31,refusee,Transfert de fonds entre comptes bancaires.
+302,302,18025.94,virement,virementauto,usd,2025-02-20,validee,Transfert de fonds entre comptes bancaires.
+303,303,508.72,virement,distributeur,usd,2024-06-06,enattente,Transfert de fonds entre comptes bancaires.
+304,304,1510.95,retrait,distributeur,mad,2024-01-21,validee,Retrait d'especes depuis un distributeur ou au guichet.
+305,305,16683.58,frais,guichet,mad,2023-11-15,enattente,Operation bancaire realisee sur le compte.
+306,306,10817.23,virement,guichet,mad,2021-09-25,validee,Transfert de fonds entre comptes bancaires.
+307,307,32720.88,versement,enligne,mad,2021-11-19,validee,Depot d'argent liquide sur un compte bancaire.
+308,308,10217.65,virement,virementauto,mad,2024-05-28,refusee,Transfert de fonds entre comptes bancaires.
+309,309,25470.71,retrait,distributeur,eur,2022-05-16,validee,Retrait d'especes depuis un distributeur ou au guichet.
+310,310,9290.04,retrait,applicationmobile,eur,2023-10-06,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+311,311,38675.96,virement,guichet,eur,2020-04-12,validee,Transfert de fonds entre comptes bancaires.
+312,312,28478.28,frais,guichet,eur,2024-03-11,validee,Operation bancaire realisee sur le compte.
+313,313,22744.86,paiement,enligne,eur,2021-01-10,validee,Paiement effectue par carte ou moyen numerique.
+314,314,49162.69,versement,enligne,eur,2021-04-07,enattente,Depot d'argent liquide sur un compte bancaire.
+315,315,42842.86,versement,enligne,eur,2018-01-15,validee,Depot d'argent liquide sur un compte bancaire.
+316,316,4651.22,virement,guichet,mad,2022-03-24,enattente,Transfert de fonds entre comptes bancaires.
+317,317,9062.38,frais,applicationmobile,mad,2019-08-17,validee,Operation bancaire realisee sur le compte.
+318,318,47717.95,retrait,virementauto,eur,2019-09-26,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+319,319,37097.97,virement,distributeur,mad,2023-05-26,enattente,Transfert de fonds entre comptes bancaires.
+320,320,30855.03,versement,enligne,eur,2022-11-03,refusee,Depot d'argent liquide sur un compte bancaire.
+321,321,31279.24,paiement,guichet,mad,2024-12-13,validee,Paiement effectue par carte ou moyen numerique.
+322,322,23521.53,retrait,distributeur,usd,2024-06-01,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+323,323,36012.8,retrait,enligne,eur,2023-02-02,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+324,324,41359.79,paiement,virementauto,usd,2025-03-29,enattente,Paiement effectue par carte ou moyen numerique.
+325,325,5606.22,retrait,enligne,mad,2019-08-24,validee,Retrait d'especes depuis un distributeur ou au guichet.
+326,326,28752.87,retrait,applicationmobile,usd,2025-03-18,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+327,327,46110.15,retrait,enligne,eur,2023-10-09,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+328,328,44043.3,paiement,virementauto,usd,2024-09-13,enattente,Paiement effectue par carte ou moyen numerique.
+329,329,12772.41,frais,distributeur,usd,2024-10-25,refusee,Operation bancaire realisee sur le compte.
+330,330,21070.84,versement,distributeur,eur,2025-01-06,validee,Depot d'argent liquide sur un compte bancaire.
+331,331,45393.65,frais,virementauto,eur,2024-10-25,enattente,Operation bancaire realisee sur le compte.
+332,332,22814.76,retrait,virementauto,usd,2019-02-20,validee,Retrait d'especes depuis un distributeur ou au guichet.
+333,333,21921.72,frais,guichet,usd,2024-12-09,validee,Operation bancaire realisee sur le compte.
+334,334,28598.63,virement,applicationmobile,usd,2023-05-21,refusee,Transfert de fonds entre comptes bancaires.
+335,335,6540.17,virement,applicationmobile,mad,2019-01-28,validee,Transfert de fonds entre comptes bancaires.
+336,336,20189.16,frais,enligne,eur,2024-06-13,refusee,Operation bancaire realisee sur le compte.
+337,337,48097.77,versement,enligne,eur,2023-02-07,validee,Depot d'argent liquide sur un compte bancaire.
+338,338,13937.34,paiement,virementauto,eur,2021-05-14,enattente,Paiement effectue par carte ou moyen numerique.
+339,339,22457.88,retrait,virementauto,mad,2025-03-17,validee,Retrait d'especes depuis un distributeur ou au guichet.
+340,340,11207.83,frais,distributeur,eur,2024-11-22,enattente,Operation bancaire realisee sur le compte.
+341,341,21590.36,versement,guichet,mad,2024-03-07,validee,Depot d'argent liquide sur un compte bancaire.
+342,342,49893.57,versement,distributeur,usd,2025-02-09,refusee,Depot d'argent liquide sur un compte bancaire.
+343,343,7427.74,retrait,applicationmobile,eur,2020-06-27,validee,Retrait d'especes depuis un distributeur ou au guichet.
+344,344,43933.67,versement,guichet,mad,2023-02-08,validee,Depot d'argent liquide sur un compte bancaire.
+345,345,918.5,frais,distributeur,mad,2024-12-16,enattente,Operation bancaire realisee sur le compte.
+346,346,37191.4,virement,distributeur,mad,2016-05-04,refusee,Transfert de fonds entre comptes bancaires.
+347,347,5570.38,retrait,guichet,usd,2023-04-28,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+348,348,28591.15,frais,guichet,mad,2022-04-17,enattente,Operation bancaire realisee sur le compte.
+349,349,5964.36,retrait,guichet,usd,2021-05-07,validee,Retrait d'especes depuis un distributeur ou au guichet.
+350,350,19230.31,versement,enligne,mad,2024-07-03,refusee,Depot d'argent liquide sur un compte bancaire.
+351,351,24728.66,virement,virementauto,usd,2023-01-13,refusee,Transfert de fonds entre comptes bancaires.
+352,352,47254.1,frais,distributeur,usd,2017-10-03,refusee,Operation bancaire realisee sur le compte.
+353,353,30892.62,virement,guichet,usd,2021-01-06,refusee,Transfert de fonds entre comptes bancaires.
+354,354,16848.55,frais,guichet,usd,2025-03-09,enattente,Operation bancaire realisee sur le compte.
+355,355,24006.64,paiement,distributeur,mad,2022-05-23,validee,Paiement effectue par carte ou moyen numerique.
+356,356,2542.6,frais,virementauto,usd,2023-06-08,enattente,Operation bancaire realisee sur le compte.
+357,357,34218.0,versement,distributeur,mad,2021-12-15,validee,Depot d'argent liquide sur un compte bancaire.
+358,358,36153.4,versement,distributeur,mad,2023-09-16,validee,Depot d'argent liquide sur un compte bancaire.
+359,359,26174.33,retrait,applicationmobile,mad,2023-09-21,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+360,360,30210.41,paiement,applicationmobile,eur,2025-01-06,refusee,Paiement effectue par carte ou moyen numerique.
+361,361,7084.67,frais,applicationmobile,mad,2019-10-28,validee,Operation bancaire realisee sur le compte.
+362,362,9463.74,paiement,guichet,mad,2018-12-10,enattente,Paiement effectue par carte ou moyen numerique.
+363,363,10180.63,versement,applicationmobile,eur,2022-01-12,enattente,Depot d'argent liquide sur un compte bancaire.
+364,364,1508.27,paiement,distributeur,usd,2020-12-26,refusee,Paiement effectue par carte ou moyen numerique.
+365,365,29865.55,paiement,virementauto,usd,2023-09-21,enattente,Paiement effectue par carte ou moyen numerique.
+366,366,43162.88,virement,distributeur,mad,2018-03-26,refusee,Transfert de fonds entre comptes bancaires.
+367,367,2692.89,retrait,virementauto,mad,2018-05-18,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+368,368,44062.92,retrait,enligne,usd,2022-08-26,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+369,369,45513.39,frais,enligne,mad,2016-02-10,refusee,Operation bancaire realisee sur le compte.
+370,370,11132.39,virement,virementauto,eur,2025-03-01,validee,Transfert de fonds entre comptes bancaires.
+371,371,7473.1,virement,enligne,mad,2023-11-05,refusee,Transfert de fonds entre comptes bancaires.
+372,372,17339.06,retrait,distributeur,eur,2018-12-02,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+373,373,16244.84,versement,distributeur,mad,2023-11-23,enattente,Depot d'argent liquide sur un compte bancaire.
+374,374,31862.3,versement,distributeur,eur,2020-11-21,validee,Depot d'argent liquide sur un compte bancaire.
+375,375,47552.24,versement,applicationmobile,eur,2018-10-08,validee,Depot d'argent liquide sur un compte bancaire.
+376,376,430.98,retrait,enligne,usd,2017-07-15,validee,Retrait d'especes depuis un distributeur ou au guichet.
+377,377,49624.59,frais,enligne,usd,2024-06-21,refusee,Operation bancaire realisee sur le compte.
+378,378,16607.46,frais,guichet,usd,2022-01-05,enattente,Operation bancaire realisee sur le compte.
+379,379,46914.02,versement,applicationmobile,eur,2024-10-23,refusee,Depot d'argent liquide sur un compte bancaire.
+380,380,904.77,virement,guichet,mad,2022-09-05,validee,Transfert de fonds entre comptes bancaires.
+381,381,23237.77,versement,enligne,mad,2023-01-14,enattente,Depot d'argent liquide sur un compte bancaire.
+382,382,21329.26,retrait,guichet,mad,2020-05-21,validee,Retrait d'especes depuis un distributeur ou au guichet.
+383,383,28082.26,frais,enligne,eur,2021-10-25,validee,Operation bancaire realisee sur le compte.
+384,384,1490.94,versement,enligne,mad,2025-04-12,refusee,Depot d'argent liquide sur un compte bancaire.
+385,385,36753.05,virement,guichet,eur,2021-07-09,validee,Transfert de fonds entre comptes bancaires.
+386,386,6263.42,paiement,virementauto,usd,2024-12-10,enattente,Paiement effectue par carte ou moyen numerique.
+387,387,586.3,virement,distributeur,eur,2024-05-08,validee,Transfert de fonds entre comptes bancaires.
+388,388,47786.46,paiement,applicationmobile,eur,2024-04-11,refusee,Paiement effectue par carte ou moyen numerique.
+389,389,2309.71,paiement,enligne,mad,2025-03-10,enattente,Paiement effectue par carte ou moyen numerique.
+390,390,20953.91,versement,applicationmobile,eur,2024-04-15,validee,Depot d'argent liquide sur un compte bancaire.
+391,391,5362.48,retrait,applicationmobile,mad,2024-05-25,validee,Retrait d'especes depuis un distributeur ou au guichet.
+392,392,18303.89,versement,applicationmobile,eur,2022-03-16,validee,Depot d'argent liquide sur un compte bancaire.
+393,393,12981.05,paiement,virementauto,eur,2023-12-07,validee,Paiement effectue par carte ou moyen numerique.
+394,394,24563.54,virement,virementauto,mad,2023-04-19,validee,Transfert de fonds entre comptes bancaires.
+395,395,47010.66,retrait,enligne,eur,2021-08-21,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+396,396,47636.18,virement,distributeur,mad,2023-10-06,refusee,Transfert de fonds entre comptes bancaires.
+397,397,19605.31,virement,distributeur,eur,2024-03-09,refusee,Transfert de fonds entre comptes bancaires.
+398,398,39160.75,versement,enligne,eur,2022-07-29,validee,Depot d'argent liquide sur un compte bancaire.
+399,399,47820.07,frais,distributeur,eur,2024-05-10,refusee,Operation bancaire realisee sur le compte.
+400,400,22105.47,paiement,virementauto,eur,2023-10-21,enattente,Paiement effectue par carte ou moyen numerique.
+401,401,23359.41,retrait,enligne,usd,2023-12-06,validee,Retrait d'especes depuis un distributeur ou au guichet.
+402,402,31959.21,paiement,guichet,mad,2022-07-26,enattente,Paiement effectue par carte ou moyen numerique.
+403,403,48748.61,retrait,virementauto,eur,2023-06-06,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+404,404,28285.61,paiement,enligne,mad,2023-10-03,validee,Paiement effectue par carte ou moyen numerique.
+405,405,15667.22,paiement,enligne,eur,2022-07-13,validee,Paiement effectue par carte ou moyen numerique.
+406,406,15368.86,virement,distributeur,usd,2024-03-19,validee,Transfert de fonds entre comptes bancaires.
+407,407,47374.24,versement,guichet,eur,2023-10-24,refusee,Depot d'argent liquide sur un compte bancaire.
+408,408,21646.85,paiement,virementauto,usd,2024-12-08,enattente,Paiement effectue par carte ou moyen numerique.
+409,409,8189.71,paiement,virementauto,mad,2022-05-21,validee,Paiement effectue par carte ou moyen numerique.
+410,410,48495.13,paiement,applicationmobile,usd,2025-04-14,validee,Paiement effectue par carte ou moyen numerique.
+411,411,38323.08,retrait,virementauto,eur,2024-08-10,validee,Retrait d'especes depuis un distributeur ou au guichet.
+412,412,27339.63,retrait,virementauto,mad,2021-04-12,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+413,413,12461.39,virement,enligne,eur,2020-07-22,validee,Transfert de fonds entre comptes bancaires.
+414,414,16874.79,frais,applicationmobile,usd,2022-11-21,refusee,Operation bancaire realisee sur le compte.
+415,415,40316.51,retrait,virementauto,usd,2023-10-16,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+416,416,29338.46,virement,virementauto,mad,2025-04-16,enattente,Transfert de fonds entre comptes bancaires.
+417,417,20263.53,retrait,applicationmobile,mad,2023-11-16,validee,Retrait d'especes depuis un distributeur ou au guichet.
+418,418,49648.24,versement,guichet,mad,2025-04-20,enattente,Depot d'argent liquide sur un compte bancaire.
+419,419,15556.99,paiement,guichet,usd,2024-04-08,validee,Paiement effectue par carte ou moyen numerique.
+420,420,12364.26,retrait,guichet,usd,2025-03-26,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+421,421,2557.38,frais,virementauto,eur,2024-09-27,validee,Operation bancaire realisee sur le compte.
+422,422,41191.54,versement,distributeur,mad,2024-11-22,validee,Depot d'argent liquide sur un compte bancaire.
+423,423,35679.36,frais,distributeur,mad,2021-12-15,validee,Operation bancaire realisee sur le compte.
+424,424,10139.76,retrait,enligne,mad,2024-09-07,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+425,425,22341.62,frais,virementauto,usd,2021-06-28,validee,Operation bancaire realisee sur le compte.
+426,426,4018.29,paiement,guichet,mad,2017-08-22,validee,Paiement effectue par carte ou moyen numerique.
+427,427,14897.72,virement,guichet,mad,2024-10-20,validee,Transfert de fonds entre comptes bancaires.
+428,428,37513.12,virement,guichet,usd,2024-03-06,enattente,Transfert de fonds entre comptes bancaires.
+429,429,38098.76,frais,distributeur,mad,2021-03-04,refusee,Operation bancaire realisee sur le compte.
+430,430,5257.06,virement,enligne,eur,2025-01-27,refusee,Transfert de fonds entre comptes bancaires.
+431,431,35767.3,retrait,virementauto,eur,2025-04-17,validee,Retrait d'especes depuis un distributeur ou au guichet.
+432,432,29095.9,paiement,distributeur,usd,2024-03-26,enattente,Paiement effectue par carte ou moyen numerique.
+433,433,43368.11,retrait,guichet,mad,2025-03-23,validee,Retrait d'especes depuis un distributeur ou au guichet.
+434,434,47910.64,paiement,enligne,eur,2019-04-11,refusee,Paiement effectue par carte ou moyen numerique.
+435,435,8290.77,retrait,guichet,eur,2020-08-31,validee,Retrait d'especes depuis un distributeur ou au guichet.
+436,436,27910.0,virement,virementauto,usd,2019-09-15,validee,Transfert de fonds entre comptes bancaires.
+437,437,23588.98,virement,virementauto,mad,2025-02-24,refusee,Transfert de fonds entre comptes bancaires.
+438,438,11342.61,retrait,distributeur,mad,2021-02-04,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+439,439,1384.24,frais,guichet,usd,2017-02-05,enattente,Operation bancaire realisee sur le compte.
+440,440,48797.64,versement,enligne,mad,2025-04-15,refusee,Depot d'argent liquide sur un compte bancaire.
+441,441,29790.14,frais,distributeur,eur,2023-07-29,enattente,Operation bancaire realisee sur le compte.
+442,442,24525.6,retrait,virementauto,mad,2025-04-05,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+443,443,16949.01,versement,guichet,eur,2020-08-10,enattente,Depot d'argent liquide sur un compte bancaire.
+444,444,27987.31,retrait,guichet,mad,2023-11-19,enattente,Retrait d'especes depuis un distributeur ou au guichet.
+445,445,27356.02,frais,applicationmobile,eur,2024-07-12,enattente,Operation bancaire realisee sur le compte.
+446,446,43357.91,frais,guichet,mad,2024-01-09,validee,Operation bancaire realisee sur le compte.
+447,447,32570.08,paiement,enligne,mad,2024-03-16,validee,Paiement effectue par carte ou moyen numerique.
+448,448,43818.18,versement,enligne,mad,2024-02-13,enattente,Depot d'argent liquide sur un compte bancaire.
+449,449,29258.16,virement,virementauto,usd,2019-02-02,enattente,Transfert de fonds entre comptes bancaires.
+450,450,27578.79,virement,applicationmobile,eur,2024-03-24,refusee,Transfert de fonds entre comptes bancaires.
+451,451,23613.27,virement,distributeur,usd,2025-03-14,refusee,Transfert de fonds entre comptes bancaires.
+452,452,17831.8,virement,virementauto,usd,2018-08-06,validee,Transfert de fonds entre comptes bancaires.
+453,453,12302.93,paiement,enligne,mad,2020-07-30,enattente,Paiement effectue par carte ou moyen numerique.
+454,454,2755.39,retrait,distributeur,eur,2022-10-20,validee,Retrait d'especes depuis un distributeur ou au guichet.
+455,455,19425.88,retrait,distributeur,mad,2024-07-27,validee,Retrait d'especes depuis un distributeur ou au guichet.
+456,456,9889.27,retrait,virementauto,eur,2025-02-12,validee,Retrait d'especes depuis un distributeur ou au guichet.
+457,457,14110.64,versement,guichet,usd,2022-09-12,refusee,Depot d'argent liquide sur un compte bancaire.
+458,458,43286.47,frais,enligne,eur,2023-12-03,refusee,Operation bancaire realisee sur le compte.
+459,459,42765.42,frais,guichet,mad,2024-10-24,validee,Operation bancaire realisee sur le compte.
+460,460,520.84,retrait,distributeur,usd,2024-04-20,validee,Retrait d'especes depuis un distributeur ou au guichet.
+461,461,40704.23,paiement,enligne,mad,2023-03-12,validee,Paiement effectue par carte ou moyen numerique.
+462,462,5055.69,retrait,distributeur,eur,2023-02-08,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+463,463,18242.77,frais,distributeur,usd,2025-03-05,enattente,Operation bancaire realisee sur le compte.
+464,464,20219.95,versement,enligne,usd,2021-11-22,refusee,Depot d'argent liquide sur un compte bancaire.
+465,465,43126.46,versement,applicationmobile,usd,2021-07-07,validee,Depot d'argent liquide sur un compte bancaire.
+466,466,4682.69,paiement,guichet,mad,2024-01-11,enattente,Paiement effectue par carte ou moyen numerique.
+467,467,45605.08,virement,applicationmobile,mad,2025-03-06,enattente,Transfert de fonds entre comptes bancaires.
+468,468,25283.16,frais,distributeur,mad,2024-01-15,enattente,Operation bancaire realisee sur le compte.
+469,469,23628.21,frais,applicationmobile,eur,2022-09-13,refusee,Operation bancaire realisee sur le compte.
+470,470,38248.27,retrait,enligne,usd,2024-12-05,validee,Retrait d'especes depuis un distributeur ou au guichet.
+471,471,45292.58,virement,applicationmobile,mad,2022-11-15,validee,Transfert de fonds entre comptes bancaires.
+472,472,11718.17,paiement,virementauto,eur,2024-07-09,refusee,Paiement effectue par carte ou moyen numerique.
+473,473,4932.13,paiement,applicationmobile,mad,2023-09-22,enattente,Paiement effectue par carte ou moyen numerique.
+474,474,42705.56,retrait,virementauto,eur,2016-04-27,validee,Retrait d'especes depuis un distributeur ou au guichet.
+475,475,11361.87,virement,guichet,mad,2020-06-02,enattente,Transfert de fonds entre comptes bancaires.
+476,476,39340.53,virement,applicationmobile,eur,2023-05-08,enattente,Transfert de fonds entre comptes bancaires.
+477,477,38660.47,virement,enligne,mad,2025-02-08,enattente,Transfert de fonds entre comptes bancaires.
+478,478,3242.25,retrait,guichet,eur,2023-02-28,validee,Retrait d'especes depuis un distributeur ou au guichet.
+479,479,3066.7,frais,distributeur,mad,2019-07-09,enattente,Operation bancaire realisee sur le compte.
+480,480,19219.86,paiement,distributeur,usd,2023-03-22,refusee,Paiement effectue par carte ou moyen numerique.
+481,481,37634.4,virement,guichet,mad,2021-06-18,validee,Transfert de fonds entre comptes bancaires.
+482,482,24338.93,paiement,enligne,usd,2021-10-31,validee,Paiement effectue par carte ou moyen numerique.
+483,483,38818.07,virement,applicationmobile,mad,2023-05-06,enattente,Transfert de fonds entre comptes bancaires.
+484,484,25167.71,paiement,distributeur,usd,2018-11-22,validee,Paiement effectue par carte ou moyen numerique.
+485,485,19172.3,versement,virementauto,mad,2022-04-10,enattente,Depot d'argent liquide sur un compte bancaire.
+486,486,12985.41,virement,virementauto,eur,2024-12-31,validee,Transfert de fonds entre comptes bancaires.
+487,487,44676.21,versement,virementauto,usd,2025-01-02,enattente,Depot d'argent liquide sur un compte bancaire.
+488,488,49851.61,virement,distributeur,eur,2023-06-02,enattente,Transfert de fonds entre comptes bancaires.
+489,489,6813.98,virement,distributeur,usd,2024-03-22,validee,Transfert de fonds entre comptes bancaires.
+490,490,7199.4,retrait,enligne,eur,2023-03-31,validee,Retrait d'especes depuis un distributeur ou au guichet.
+491,491,36334.19,virement,distributeur,eur,2024-01-08,refusee,Transfert de fonds entre comptes bancaires.
+492,492,6926.77,frais,enligne,mad,2025-02-08,refusee,Operation bancaire realisee sur le compte.
+493,493,21567.56,frais,distributeur,usd,2020-12-02,validee,Operation bancaire realisee sur le compte.
+494,494,20327.78,retrait,applicationmobile,usd,2024-10-28,refusee,Retrait d'especes depuis un distributeur ou au guichet.
+495,495,49682.47,frais,enligne,mad,2021-01-28,validee,Operation bancaire realisee sur le compte.
+496,496,34699.15,paiement,enligne,eur,2021-08-01,validee,Paiement effectue par carte ou moyen numerique.
+497,497,17349.19,retrait,virementauto,usd,2018-06-15,validee,Retrait d'especes depuis un distributeur ou au guichet.
+498,498,23718.53,frais,distributeur,usd,2025-04-06,validee,Operation bancaire realisee sur le compte.
+499,499,47850.08,paiement,virementauto,eur,2017-04-18,enattente,Paiement effectue par carte ou moyen numerique.
+500,500,47577.72,retrait,applicationmobile,mad,2020-09-09,refusee,Retrait d'especes depuis un distributeur ou au guichet.

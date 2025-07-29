@@ -1,0 +1,501 @@
+id_paiement,compte_id,destinataire,montant,date_paiement,type_paiement,frequence,statut,moyen_paiement,description
+1,475,onee,1049.09,2024-05-30,salaire,bimensuel,actif,carte,Versement automatique du salaire au beneficiaire.
+2,3,onee,3538.19,2025-02-09,salaire,mensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+3,313,lydec,7067.1,2024-05-02,don,trimestriel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+4,412,ram,2485.52,2024-11-15,prlvement fiscal,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+5,457,marjane,9861.76,2024-12-09,abonnement,bimensuel,suspendu,carte,Paiement regulier pour un abonnement.
+6,135,oncf,5662.18,2024-10-01,salaire,trimestriel,suspendu,prlvement,Versement automatique du salaire au beneficiaire.
+7,290,ministre des finances,7636.08,2024-10-07,don,bimensuel,actif,carte,Paiement automatique effectue depuis votre compte.
+8,376,afriquia,9227.56,2024-08-14,prlvement fiscal,trimestriel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+9,394,afriquia,2208.66,2024-05-24,prlvement fiscal,mensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+10,207,ram,2632.59,2024-10-18,don,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+11,32,total maroc,8909.32,2024-06-25,don,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+12,465,cnss,9271.44,2024-11-19,salaire,mensuel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+13,55,carrefour maroc,5346.4,2025-01-16,prlvement fiscal,bimensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+14,346,ministre des finances,9255.45,2024-11-19,prlvement fiscal,bimensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+15,56,caisse de dpt,9039.63,2024-08-24,abonnement,bimensuel,suspendu,carte,Paiement regulier pour un abonnement.
+16,37,oncf,7167.51,2025-01-12,prlvement fiscal,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+17,238,carrefour maroc,1793.68,2024-09-11,don,mensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+18,371,wafa assurance,7309.05,2025-04-07,prlvement fiscal,bimensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+19,198,inwi,3249.86,2024-05-26,prlvement fiscal,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+20,29,marjane,2118.71,2025-04-17,abonnement,mensuel,annul,prlvement,Paiement regulier pour un abonnement.
+21,126,universit mohammed v,855.43,2024-11-14,loyer,mensuel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+22,414,universit hassan ii,2808.57,2024-11-26,loyer,trimestriel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+23,364,tgr,8329.55,2024-09-10,salaire,mensuel,annul,virement,Versement automatique du salaire au beneficiaire.
+24,109,universit hassan ii,4981.36,2024-12-30,prlvement fiscal,mensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+25,400,axa maroc,2299.13,2024-08-26,prlvement fiscal,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+26,37,onee,4615.01,2024-07-19,abonnement,mensuel,actif,prlvement,Paiement regulier pour un abonnement.
+27,249,maroc telecom,6229.18,2024-12-09,loyer,trimestriel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+28,427,banque populaire,5951.49,2025-03-06,prlvement fiscal,bimensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+29,120,cnss,2239.84,2025-03-17,loyer,bimensuel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+30,230,marjane,6135.21,2024-08-07,don,bimensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+31,44,lydec,260.62,2024-09-02,don,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+32,418,banque populaire,4759.42,2024-07-08,loyer,mensuel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+33,237,lydec,723.59,2024-08-06,abonnement,mensuel,suspendu,prlvement,Paiement regulier pour un abonnement.
+34,346,total maroc,7846.71,2024-09-02,don,trimestriel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+35,5,universit mohammed v,1028.14,2024-06-25,prlvement fiscal,bimensuel,actif,carte,Paiement automatique effectue depuis votre compte.
+36,21,maroc telecom,5046.31,2024-07-10,loyer,mensuel,actif,virement,Paiement mensuel du loyer effectue automatiquement.
+37,385,wafa assurance,1410.84,2025-03-07,loyer,mensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+38,287,inwi,8752.32,2025-03-28,prlvement fiscal,mensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+39,433,axa maroc,454.01,2024-11-10,loyer,trimestriel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+40,194,tgr,2039.72,2025-02-02,salaire,trimestriel,annul,virement,Versement automatique du salaire au beneficiaire.
+41,3,universit mohammed v,9167.35,2024-09-09,don,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+42,432,onee,492.69,2024-06-25,loyer,bimensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+43,41,onee,7935.67,2024-06-02,don,mensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+44,77,axa maroc,1602.91,2024-08-12,loyer,trimestriel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+45,396,wafa assurance,9129.83,2024-09-27,prlvement fiscal,bimensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+46,198,cih bank,4383.1,2025-03-24,abonnement,mensuel,actif,carte,Paiement regulier pour un abonnement.
+47,11,wafa assurance,8146.15,2024-06-08,salaire,bimensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+48,162,carrefour maroc,456.73,2024-05-20,abonnement,trimestriel,suspendu,prlvement,Paiement regulier pour un abonnement.
+49,81,total maroc,927.92,2025-04-12,prlvement fiscal,trimestriel,actif,carte,Paiement automatique effectue depuis votre compte.
+50,427,assurance atlanta,6401.49,2025-01-23,loyer,bimensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+51,486,marjane,6215.12,2024-05-22,salaire,mensuel,actif,carte,Versement automatique du salaire au beneficiaire.
+52,73,assurance atlanta,6543.4,2024-05-13,abonnement,bimensuel,actif,virement,Paiement regulier pour un abonnement.
+53,495,marjane,1876.43,2025-01-26,loyer,trimestriel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+54,165,afriquia,5081.54,2024-09-11,don,mensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+55,79,maroc telecom,1630.26,2024-09-02,don,mensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+56,316,oncf,1389.56,2024-12-07,abonnement,mensuel,annul,carte,Paiement regulier pour un abonnement.
+57,231,universit hassan ii,8333.85,2025-01-24,don,bimensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+58,453,iam,1861.08,2024-10-17,don,trimestriel,actif,carte,Paiement automatique effectue depuis votre compte.
+59,467,inwi,6187.92,2025-01-31,loyer,bimensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+60,118,lydec,7009.89,2024-11-27,don,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+61,388,universit hassan ii,1828.88,2025-02-04,don,mensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+62,486,total maroc,6126.0,2025-01-23,don,trimestriel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+63,307,onee,9078.56,2024-08-08,loyer,bimensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+64,63,universit hassan ii,3048.27,2024-07-01,prlvement fiscal,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+65,327,ram,8502.17,2024-06-26,salaire,bimensuel,suspendu,carte,Versement automatique du salaire au beneficiaire.
+66,237,total maroc,9471.21,2025-04-11,abonnement,trimestriel,annul,carte,Paiement regulier pour un abonnement.
+67,57,marjane,2055.45,2025-02-06,abonnement,bimensuel,annul,prlvement,Paiement regulier pour un abonnement.
+68,298,inwi,6392.56,2024-07-25,abonnement,trimestriel,suspendu,virement,Paiement regulier pour un abonnement.
+69,75,ministre des finances,1817.88,2025-02-21,don,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+70,132,ministre des finances,7362.98,2024-08-06,salaire,mensuel,suspendu,carte,Versement automatique du salaire au beneficiaire.
+71,394,caisse de dpt,7727.4,2024-05-31,salaire,bimensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+72,176,oncf,2823.86,2024-07-25,loyer,mensuel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+73,369,maroc telecom,1637.7,2024-06-16,loyer,bimensuel,actif,carte,Paiement mensuel du loyer effectue automatiquement.
+74,213,carrefour maroc,7592.38,2024-08-17,prlvement fiscal,bimensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+75,284,dgi,1804.79,2024-06-22,abonnement,mensuel,actif,carte,Paiement regulier pour un abonnement.
+76,405,carrefour maroc,7260.12,2024-09-28,abonnement,bimensuel,suspendu,carte,Paiement regulier pour un abonnement.
+77,264,iam,9859.88,2025-01-14,prlvement fiscal,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+78,418,marjane,7726.61,2025-04-09,salaire,bimensuel,annul,prlvement,Versement automatique du salaire au beneficiaire.
+79,77,ministre de lducation,152.44,2024-06-23,abonnement,trimestriel,annul,prlvement,Paiement regulier pour un abonnement.
+80,1,cih bank,2098.16,2024-11-04,don,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+81,406,caisse de dpt,872.09,2024-12-15,salaire,trimestriel,suspendu,carte,Versement automatique du salaire au beneficiaire.
+82,498,maroc telecom,1083.06,2025-01-31,salaire,mensuel,actif,virement,Versement automatique du salaire au beneficiaire.
+83,183,axa maroc,7743.14,2024-11-16,loyer,trimestriel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+84,109,onee,3601.2,2024-12-11,prlvement fiscal,bimensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+85,38,cih bank,3646.08,2025-02-03,don,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+86,20,tgr,7780.24,2024-07-12,don,mensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+87,451,oncf,3706.47,2024-09-13,salaire,bimensuel,annul,prlvement,Versement automatique du salaire au beneficiaire.
+88,386,ministre des finances,1457.36,2024-08-22,salaire,mensuel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+89,481,caisse de dpt,5610.96,2024-06-04,loyer,mensuel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+90,297,assurance atlanta,3019.51,2024-12-15,loyer,mensuel,actif,carte,Paiement mensuel du loyer effectue automatiquement.
+91,250,la marocaine vie,1469.43,2024-09-03,loyer,trimestriel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+92,204,tgr,2962.1,2024-09-28,don,trimestriel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+93,97,dgi,184.36,2024-08-24,prlvement fiscal,mensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+94,479,iam,8726.22,2025-01-24,don,bimensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+95,356,oncf,1094.53,2024-08-06,salaire,mensuel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+96,32,banque populaire,3463.08,2024-09-06,prlvement fiscal,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+97,142,cih bank,2734.74,2025-01-14,abonnement,bimensuel,annul,carte,Paiement regulier pour un abonnement.
+98,69,tgr,2285.34,2025-02-08,don,trimestriel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+99,196,cih bank,2884.75,2024-09-26,abonnement,trimestriel,annul,virement,Paiement regulier pour un abonnement.
+100,427,axa maroc,5111.96,2024-04-23,loyer,bimensuel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+101,363,axa maroc,1430.2,2024-07-17,prlvement fiscal,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+102,466,afriquia,8733.52,2024-09-03,salaire,trimestriel,suspendu,prlvement,Versement automatique du salaire au beneficiaire.
+103,243,assurance atlanta,2536.64,2024-09-24,prlvement fiscal,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+104,69,ram,9491.58,2024-09-16,don,mensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+105,171,caisse de dpt,4636.66,2024-06-07,prlvement fiscal,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+106,92,iam,9265.1,2024-12-18,salaire,bimensuel,suspendu,prlvement,Versement automatique du salaire au beneficiaire.
+107,152,maroc telecom,7308.04,2024-10-29,salaire,mensuel,actif,virement,Versement automatique du salaire au beneficiaire.
+108,5,cih bank,3072.05,2024-07-05,prlvement fiscal,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+109,57,ministre des finances,8313.54,2024-11-30,don,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+110,410,assurance atlanta,3780.47,2025-01-29,prlvement fiscal,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+111,370,marjane,4457.84,2024-12-18,prlvement fiscal,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+112,478,wafa assurance,9767.05,2024-09-14,don,trimestriel,actif,virement,Paiement automatique effectue depuis votre compte.
+113,122,tgr,3450.2,2025-02-28,abonnement,trimestriel,actif,virement,Paiement regulier pour un abonnement.
+114,382,ministre de lducation,6325.47,2024-07-31,abonnement,trimestriel,suspendu,prlvement,Paiement regulier pour un abonnement.
+115,180,inwi,5988.98,2024-05-15,abonnement,trimestriel,suspendu,carte,Paiement regulier pour un abonnement.
+116,355,inwi,4598.86,2024-10-23,don,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+117,55,iam,8189.68,2025-04-19,abonnement,bimensuel,suspendu,prlvement,Paiement regulier pour un abonnement.
+118,369,cnss,8086.35,2025-03-16,loyer,mensuel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+119,417,cih bank,718.86,2025-02-06,salaire,mensuel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+120,342,inwi,3711.91,2024-09-21,abonnement,bimensuel,actif,carte,Paiement regulier pour un abonnement.
+121,427,tgr,6356.59,2025-01-01,loyer,bimensuel,actif,carte,Paiement mensuel du loyer effectue automatiquement.
+122,220,tgr,3159.35,2024-12-20,abonnement,trimestriel,suspendu,prlvement,Paiement regulier pour un abonnement.
+123,244,onee,4630.34,2025-01-30,loyer,mensuel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+124,453,caisse de dpt,2235.94,2025-01-04,prlvement fiscal,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+125,468,lydec,9148.43,2024-08-30,salaire,trimestriel,actif,carte,Versement automatique du salaire au beneficiaire.
+126,222,iam,7243.69,2024-10-19,don,mensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+127,403,assurance atlanta,2071.16,2024-04-22,abonnement,mensuel,suspendu,virement,Paiement regulier pour un abonnement.
+128,393,wafa assurance,101.95,2024-10-25,prlvement fiscal,trimestriel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+129,216,ministre de lducation,5381.98,2024-10-12,don,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+130,342,total maroc,4773.95,2024-12-07,salaire,mensuel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+131,204,ministre de lducation,4453.42,2024-08-02,abonnement,mensuel,annul,prlvement,Paiement regulier pour un abonnement.
+132,226,axa maroc,9453.98,2024-12-02,loyer,bimensuel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+133,304,cih bank,6872.27,2024-05-28,abonnement,trimestriel,annul,carte,Paiement regulier pour un abonnement.
+134,495,axa maroc,4018.26,2024-06-26,salaire,trimestriel,suspendu,carte,Versement automatique du salaire au beneficiaire.
+135,41,universit hassan ii,2927.78,2024-04-21,prlvement fiscal,mensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+136,393,onee,962.79,2024-05-10,don,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+137,163,afriquia,9646.69,2024-07-03,abonnement,bimensuel,annul,virement,Paiement regulier pour un abonnement.
+138,51,ram,508.75,2024-06-10,loyer,trimestriel,actif,carte,Paiement mensuel du loyer effectue automatiquement.
+139,128,iam,2385.87,2024-09-10,salaire,trimestriel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+140,167,iam,1531.68,2025-04-01,loyer,bimensuel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+141,48,inwi,6982.99,2024-11-05,loyer,bimensuel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+142,410,caisse de dpt,5204.05,2024-12-30,don,mensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+143,149,ram,2962.39,2024-09-15,salaire,bimensuel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+144,16,maroc telecom,4695.64,2024-09-14,salaire,bimensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+145,378,cnss,4741.89,2024-07-05,salaire,mensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+146,461,universit hassan ii,8236.11,2024-10-25,salaire,mensuel,annul,virement,Versement automatique du salaire au beneficiaire.
+147,50,universit mohammed v,2520.41,2024-05-03,abonnement,bimensuel,actif,virement,Paiement regulier pour un abonnement.
+148,362,universit hassan ii,2048.84,2024-06-28,salaire,bimensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+149,238,total maroc,5105.9,2024-05-21,don,bimensuel,actif,carte,Paiement automatique effectue depuis votre compte.
+150,30,iam,8290.17,2024-09-28,salaire,mensuel,suspendu,prlvement,Versement automatique du salaire au beneficiaire.
+151,196,universit hassan ii,4324.89,2025-02-13,don,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+152,183,maroc telecom,5204.5,2024-11-26,salaire,trimestriel,actif,carte,Versement automatique du salaire au beneficiaire.
+153,42,lydec,4266.53,2025-01-25,prlvement fiscal,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+154,441,axa maroc,2170.93,2024-11-08,don,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+155,444,cih bank,6520.24,2024-10-23,salaire,mensuel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+156,140,maroc telecom,6776.28,2024-05-01,salaire,mensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+157,267,afriquia,5196.49,2024-11-25,abonnement,bimensuel,annul,carte,Paiement regulier pour un abonnement.
+158,26,maroc telecom,152.92,2024-05-16,loyer,trimestriel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+159,80,maroc telecom,9026.58,2025-04-07,don,mensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+160,111,ram,8885.13,2024-06-18,loyer,trimestriel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+161,347,tgr,6350.91,2025-04-06,abonnement,bimensuel,actif,prlvement,Paiement regulier pour un abonnement.
+162,49,ram,5964.9,2025-01-19,abonnement,trimestriel,actif,prlvement,Paiement regulier pour un abonnement.
+163,274,cnss,8764.96,2024-10-07,abonnement,mensuel,suspendu,carte,Paiement regulier pour un abonnement.
+164,2,cih bank,8491.86,2024-09-30,loyer,bimensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+165,234,universit hassan ii,7470.23,2025-01-17,loyer,trimestriel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+166,221,total maroc,4451.41,2024-10-17,salaire,trimestriel,actif,virement,Versement automatique du salaire au beneficiaire.
+167,211,wafa assurance,3131.51,2024-06-02,loyer,bimensuel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+168,266,caisse de dpt,2325.97,2025-04-15,prlvement fiscal,mensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+169,173,axa maroc,896.21,2025-04-21,don,mensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+170,43,caisse de dpt,7700.76,2024-10-22,don,bimensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+171,60,la marocaine vie,3328.94,2024-07-14,don,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+172,402,marjane,3492.6,2024-11-21,abonnement,bimensuel,suspendu,prlvement,Paiement regulier pour un abonnement.
+173,190,onee,1018.99,2024-06-12,prlvement fiscal,mensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+174,386,universit hassan ii,6297.81,2024-07-13,salaire,mensuel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+175,306,cih bank,4612.04,2024-07-09,don,mensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+176,274,total maroc,2023.5,2024-10-20,abonnement,trimestriel,actif,prlvement,Paiement regulier pour un abonnement.
+177,484,inwi,2944.52,2024-12-11,abonnement,bimensuel,actif,virement,Paiement regulier pour un abonnement.
+178,104,afriquia,4082.29,2024-10-28,don,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+179,433,oncf,9615.92,2024-05-28,don,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+180,331,axa maroc,3028.16,2024-07-12,salaire,bimensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+181,276,wafa assurance,1237.51,2025-03-25,don,mensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+182,338,iam,1146.75,2024-04-30,abonnement,bimensuel,suspendu,prlvement,Paiement regulier pour un abonnement.
+183,279,cnss,9588.19,2025-02-18,salaire,mensuel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+184,112,ministre des finances,744.73,2025-04-13,loyer,mensuel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+185,195,marjane,633.48,2025-02-24,don,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+186,318,tgr,9205.58,2024-06-21,abonnement,trimestriel,suspendu,carte,Paiement regulier pour un abonnement.
+187,151,cnss,8857.4,2024-12-22,loyer,mensuel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+188,85,carrefour maroc,7468.23,2024-10-25,prlvement fiscal,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+189,135,onee,352.56,2024-05-18,salaire,bimensuel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+190,374,axa maroc,9776.96,2025-01-04,prlvement fiscal,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+191,188,universit hassan ii,7667.89,2024-09-05,loyer,bimensuel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+192,26,la marocaine vie,8930.47,2024-05-25,abonnement,mensuel,suspendu,carte,Paiement regulier pour un abonnement.
+193,438,ministre de lducation,4921.23,2024-07-14,salaire,bimensuel,actif,virement,Versement automatique du salaire au beneficiaire.
+194,442,axa maroc,8970.33,2025-03-26,prlvement fiscal,bimensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+195,241,cih bank,7518.53,2025-04-08,loyer,trimestriel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+196,29,maroc telecom,2256.57,2024-07-14,salaire,mensuel,annul,prlvement,Versement automatique du salaire au beneficiaire.
+197,126,carrefour maroc,7396.91,2024-06-16,prlvement fiscal,mensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+198,351,cih bank,9203.14,2024-10-05,don,mensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+199,472,wafa assurance,8173.8,2024-12-04,loyer,mensuel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+200,6,universit hassan ii,4034.08,2024-05-06,salaire,bimensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+201,50,ram,9327.74,2024-05-26,don,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+202,367,oncf,6259.7,2024-11-17,prlvement fiscal,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+203,180,ram,6294.68,2024-10-27,don,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+204,239,total maroc,5851.65,2025-04-13,loyer,mensuel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+205,45,banque populaire,9182.08,2024-12-20,prlvement fiscal,bimensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+206,332,caisse de dpt,636.19,2024-07-04,don,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+207,410,la marocaine vie,6422.31,2025-02-18,prlvement fiscal,bimensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+208,276,oncf,9631.16,2024-10-01,abonnement,mensuel,suspendu,prlvement,Paiement regulier pour un abonnement.
+209,265,universit mohammed v,3985.57,2024-07-25,don,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+210,293,ram,3086.54,2024-10-31,loyer,mensuel,actif,virement,Paiement mensuel du loyer effectue automatiquement.
+211,483,universit mohammed v,9399.26,2024-09-13,salaire,mensuel,annul,virement,Versement automatique du salaire au beneficiaire.
+212,26,carrefour maroc,9167.04,2025-03-08,salaire,mensuel,actif,carte,Versement automatique du salaire au beneficiaire.
+213,387,iam,489.43,2024-06-29,don,bimensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+214,413,la marocaine vie,2238.42,2024-10-25,abonnement,trimestriel,suspendu,prlvement,Paiement regulier pour un abonnement.
+215,192,cnss,4428.7,2025-02-13,abonnement,trimestriel,annul,prlvement,Paiement regulier pour un abonnement.
+216,214,total maroc,799.49,2024-08-14,loyer,trimestriel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+217,349,tgr,1729.41,2024-06-22,prlvement fiscal,bimensuel,actif,carte,Paiement automatique effectue depuis votre compte.
+218,396,carrefour maroc,2139.48,2024-05-09,don,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+219,36,wafa assurance,6978.06,2024-11-16,prlvement fiscal,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+220,193,wafa assurance,1223.99,2025-02-02,abonnement,bimensuel,suspendu,prlvement,Paiement regulier pour un abonnement.
+221,165,universit mohammed v,7531.12,2024-09-23,salaire,trimestriel,actif,virement,Versement automatique du salaire au beneficiaire.
+222,177,axa maroc,2054.05,2024-05-09,prlvement fiscal,trimestriel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+223,451,afriquia,5628.88,2024-05-05,prlvement fiscal,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+224,126,onee,1864.7,2024-06-29,loyer,mensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+225,296,lydec,3186.94,2024-05-30,loyer,mensuel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+226,347,banque populaire,416.92,2024-12-18,don,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+227,453,la marocaine vie,8002.37,2024-06-03,abonnement,mensuel,actif,virement,Paiement regulier pour un abonnement.
+228,154,oncf,1576.13,2025-04-11,loyer,bimensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+229,64,ram,5766.21,2024-06-18,don,bimensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+230,389,cnss,7858.28,2025-01-11,don,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+231,373,afriquia,7303.01,2024-08-15,prlvement fiscal,mensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+232,418,cih bank,5000.62,2025-03-07,don,bimensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+233,42,total maroc,3472.46,2024-05-21,loyer,bimensuel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+234,375,cnss,6870.18,2024-09-24,don,mensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+235,74,assurance atlanta,6905.53,2024-12-26,salaire,trimestriel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+236,319,universit hassan ii,7021.05,2024-08-09,salaire,mensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+237,201,iam,4866.09,2024-08-04,salaire,bimensuel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+238,218,carrefour maroc,9267.57,2024-12-28,prlvement fiscal,trimestriel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+239,224,iam,8375.33,2024-10-15,abonnement,bimensuel,annul,carte,Paiement regulier pour un abonnement.
+240,357,ministre des finances,4540.7,2024-12-17,loyer,trimestriel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+241,92,onee,5794.7,2025-04-21,prlvement fiscal,mensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+242,447,caisse de dpt,7898.54,2024-09-26,don,bimensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+243,245,maroc telecom,6691.99,2025-03-23,don,trimestriel,actif,virement,Paiement automatique effectue depuis votre compte.
+244,66,iam,6502.17,2024-11-09,prlvement fiscal,bimensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+245,142,afriquia,3434.65,2024-11-15,don,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+246,1,total maroc,9696.6,2024-06-20,abonnement,trimestriel,annul,carte,Paiement regulier pour un abonnement.
+247,257,oncf,7571.67,2024-07-29,don,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+248,427,tgr,3144.42,2024-11-18,prlvement fiscal,mensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+249,213,dgi,6490.79,2024-12-10,salaire,trimestriel,annul,prlvement,Versement automatique du salaire au beneficiaire.
+250,250,total maroc,2790.24,2024-07-23,abonnement,trimestriel,actif,virement,Paiement regulier pour un abonnement.
+251,108,axa maroc,5854.95,2024-06-11,abonnement,bimensuel,annul,carte,Paiement regulier pour un abonnement.
+252,257,cnss,353.77,2024-07-06,abonnement,bimensuel,suspendu,carte,Paiement regulier pour un abonnement.
+253,497,axa maroc,7946.11,2024-12-22,prlvement fiscal,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+254,248,total maroc,6967.15,2024-05-22,don,bimensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+255,297,wafa assurance,2680.54,2024-10-11,don,bimensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+256,467,ram,1205.08,2024-12-21,abonnement,mensuel,actif,carte,Paiement regulier pour un abonnement.
+257,236,marjane,288.68,2024-07-31,loyer,mensuel,actif,carte,Paiement mensuel du loyer effectue automatiquement.
+258,202,afriquia,7549.4,2025-03-11,salaire,trimestriel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+259,144,carrefour maroc,3761.7,2024-11-16,don,mensuel,actif,carte,Paiement automatique effectue depuis votre compte.
+260,395,tgr,1591.85,2025-01-20,don,bimensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+261,414,ministre de lducation,2607.04,2024-08-16,don,bimensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+262,285,wafa assurance,8074.09,2025-01-11,prlvement fiscal,mensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+263,32,lydec,1530.43,2024-11-03,salaire,trimestriel,annul,prlvement,Versement automatique du salaire au beneficiaire.
+264,347,ministre des finances,4342.89,2024-10-20,loyer,trimestriel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+265,301,la marocaine vie,6018.39,2025-01-25,don,trimestriel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+266,126,ministre de lducation,8746.4,2024-08-01,abonnement,trimestriel,actif,virement,Paiement regulier pour un abonnement.
+267,259,inwi,7272.02,2024-06-03,prlvement fiscal,bimensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+268,263,inwi,5561.83,2024-09-13,don,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+269,77,marjane,5175.98,2024-06-15,don,mensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+270,223,dgi,1114.71,2025-03-02,don,bimensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+271,73,la marocaine vie,3392.95,2024-04-26,don,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+272,324,caisse de dpt,2432.7,2025-02-17,prlvement fiscal,bimensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+273,324,marjane,1417.39,2024-07-11,prlvement fiscal,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+274,193,ram,2630.95,2024-05-28,prlvement fiscal,bimensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+275,101,inwi,9298.73,2024-08-15,abonnement,trimestriel,annul,prlvement,Paiement regulier pour un abonnement.
+276,180,lydec,5457.71,2024-10-18,don,mensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+277,210,ministre de lducation,6348.66,2024-09-13,abonnement,trimestriel,actif,virement,Paiement regulier pour un abonnement.
+278,231,universit mohammed v,4459.63,2024-08-18,don,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+279,344,total maroc,2366.31,2025-01-09,prlvement fiscal,bimensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+280,35,caisse de dpt,549.53,2024-11-07,prlvement fiscal,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+281,257,tgr,8957.52,2025-02-04,abonnement,mensuel,actif,carte,Paiement regulier pour un abonnement.
+282,111,total maroc,4910.49,2024-11-10,loyer,trimestriel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+283,499,assurance atlanta,1488.83,2024-04-30,loyer,mensuel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+284,124,wafa assurance,2868.58,2025-02-23,prlvement fiscal,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+285,97,universit mohammed v,3566.82,2024-09-15,prlvement fiscal,trimestriel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+286,57,caisse de dpt,5411.56,2024-05-24,don,bimensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+287,73,tgr,3081.34,2025-04-21,don,mensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+288,94,assurance atlanta,4724.36,2024-10-20,abonnement,trimestriel,annul,carte,Paiement regulier pour un abonnement.
+289,244,ministre des finances,1559.49,2024-08-17,don,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+290,166,lydec,211.33,2024-10-28,abonnement,trimestriel,annul,prlvement,Paiement regulier pour un abonnement.
+291,154,la marocaine vie,5130.41,2024-07-25,salaire,trimestriel,actif,virement,Versement automatique du salaire au beneficiaire.
+292,297,caisse de dpt,8136.77,2024-11-06,prlvement fiscal,bimensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+293,478,total maroc,5727.59,2024-07-22,salaire,trimestriel,suspendu,prlvement,Versement automatique du salaire au beneficiaire.
+294,9,carrefour maroc,741.48,2025-02-01,salaire,trimestriel,actif,carte,Versement automatique du salaire au beneficiaire.
+295,258,ministre des finances,4724.94,2024-09-21,abonnement,bimensuel,annul,prlvement,Paiement regulier pour un abonnement.
+296,250,marjane,2804.85,2025-02-19,salaire,bimensuel,actif,carte,Versement automatique du salaire au beneficiaire.
+297,431,afriquia,6224.36,2024-10-02,don,mensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+298,250,cnss,7243.82,2024-12-19,prlvement fiscal,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+299,234,wafa assurance,1580.04,2024-08-09,abonnement,trimestriel,suspendu,carte,Paiement regulier pour un abonnement.
+300,446,universit mohammed v,7331.57,2024-10-27,loyer,bimensuel,actif,virement,Paiement mensuel du loyer effectue automatiquement.
+301,487,lydec,203.73,2024-06-03,don,mensuel,actif,carte,Paiement automatique effectue depuis votre compte.
+302,397,marjane,7447.29,2024-11-06,don,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+303,392,total maroc,4425.28,2025-02-28,prlvement fiscal,mensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+304,20,carrefour maroc,1171.88,2024-07-11,salaire,mensuel,annul,carte,Versement automatique du salaire au beneficiaire.
+305,333,caisse de dpt,6807.17,2025-04-07,loyer,bimensuel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+306,80,ministre des finances,9570.1,2024-08-09,loyer,bimensuel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+307,28,maroc telecom,4085.18,2024-08-08,prlvement fiscal,trimestriel,actif,carte,Paiement automatique effectue depuis votre compte.
+308,188,ram,8857.75,2024-12-16,salaire,trimestriel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+309,458,ministre de lducation,1652.08,2024-12-14,abonnement,bimensuel,suspendu,carte,Paiement regulier pour un abonnement.
+310,183,universit hassan ii,3453.31,2024-11-12,abonnement,mensuel,actif,virement,Paiement regulier pour un abonnement.
+311,156,axa maroc,9728.53,2024-09-05,prlvement fiscal,bimensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+312,98,caisse de dpt,8036.8,2024-09-16,prlvement fiscal,trimestriel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+313,44,banque populaire,4080.06,2025-03-27,prlvement fiscal,mensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+314,123,dgi,883.45,2024-08-13,don,trimestriel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+315,468,lydec,4868.08,2024-10-18,salaire,trimestriel,annul,prlvement,Versement automatique du salaire au beneficiaire.
+316,392,universit hassan ii,6017.6,2024-06-20,loyer,mensuel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+317,211,cih bank,6542.82,2024-09-05,loyer,mensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+318,150,lydec,7078.83,2024-09-10,prlvement fiscal,trimestriel,actif,virement,Paiement automatique effectue depuis votre compte.
+319,233,inwi,9816.87,2024-07-25,don,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+320,427,ram,1538.13,2025-03-04,salaire,bimensuel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+321,226,ram,5871.76,2025-01-28,prlvement fiscal,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+322,259,tgr,9621.54,2024-10-02,abonnement,mensuel,annul,virement,Paiement regulier pour un abonnement.
+323,283,afriquia,658.44,2024-08-21,abonnement,mensuel,annul,carte,Paiement regulier pour un abonnement.
+324,25,carrefour maroc,3894.92,2025-01-11,loyer,trimestriel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+325,55,tgr,1049.88,2025-01-24,don,mensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+326,374,dgi,3603.47,2025-02-26,prlvement fiscal,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+327,135,caisse de dpt,9363.87,2025-03-20,loyer,trimestriel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+328,493,maroc telecom,5982.94,2025-01-11,abonnement,trimestriel,suspendu,carte,Paiement regulier pour un abonnement.
+329,158,banque populaire,786.9,2024-09-11,abonnement,bimensuel,annul,virement,Paiement regulier pour un abonnement.
+330,352,marjane,2609.53,2024-08-20,don,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+331,19,carrefour maroc,4051.19,2024-09-19,abonnement,mensuel,actif,prlvement,Paiement regulier pour un abonnement.
+332,25,marjane,3985.72,2024-04-23,loyer,trimestriel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+333,140,oncf,3974.24,2025-03-16,loyer,bimensuel,actif,virement,Paiement mensuel du loyer effectue automatiquement.
+334,71,ministre des finances,6760.6,2024-08-31,abonnement,bimensuel,actif,carte,Paiement regulier pour un abonnement.
+335,203,oncf,3812.25,2024-12-04,don,bimensuel,actif,carte,Paiement automatique effectue depuis votre compte.
+336,15,marjane,6213.99,2025-02-07,prlvement fiscal,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+337,357,banque populaire,4339.17,2024-06-28,don,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+338,423,cnss,5772.05,2024-07-03,abonnement,trimestriel,actif,prlvement,Paiement regulier pour un abonnement.
+339,158,cnss,2738.87,2024-07-08,don,mensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+340,22,total maroc,1987.88,2024-11-08,abonnement,mensuel,annul,prlvement,Paiement regulier pour un abonnement.
+341,375,universit mohammed v,8099.47,2024-12-02,loyer,trimestriel,actif,virement,Paiement mensuel du loyer effectue automatiquement.
+342,71,banque populaire,4283.61,2025-01-31,salaire,bimensuel,actif,carte,Versement automatique du salaire au beneficiaire.
+343,96,assurance atlanta,6788.21,2024-06-13,abonnement,mensuel,actif,virement,Paiement regulier pour un abonnement.
+344,39,oncf,5850.78,2024-08-23,abonnement,bimensuel,annul,carte,Paiement regulier pour un abonnement.
+345,391,ministre de lducation,1423.22,2024-06-01,don,bimensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+346,478,dgi,1179.76,2024-09-30,abonnement,mensuel,actif,prlvement,Paiement regulier pour un abonnement.
+347,464,dgi,2509.33,2025-04-07,salaire,bimensuel,actif,virement,Versement automatique du salaire au beneficiaire.
+348,252,dgi,9221.56,2025-02-11,loyer,mensuel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+349,112,inwi,7404.28,2024-12-03,abonnement,trimestriel,suspendu,carte,Paiement regulier pour un abonnement.
+350,325,wafa assurance,8050.9,2024-06-07,don,bimensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+351,202,universit hassan ii,7628.08,2025-03-23,loyer,trimestriel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+352,472,dgi,503.28,2024-07-18,loyer,trimestriel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+353,295,ministre de lducation,3561.77,2025-01-19,abonnement,trimestriel,actif,carte,Paiement regulier pour un abonnement.
+354,241,marjane,8665.07,2024-12-21,loyer,mensuel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+355,114,ministre de lducation,5480.63,2025-03-03,salaire,bimensuel,annul,virement,Versement automatique du salaire au beneficiaire.
+356,287,oncf,588.3,2025-04-14,don,bimensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+357,410,assurance atlanta,6230.31,2024-04-30,loyer,bimensuel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+358,447,cih bank,3540.78,2024-09-29,loyer,bimensuel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+359,209,onee,8897.19,2024-11-17,prlvement fiscal,bimensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+360,233,onee,451.78,2024-07-17,don,bimensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+361,467,universit mohammed v,3969.8,2024-05-30,prlvement fiscal,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+362,439,carrefour maroc,6703.76,2025-01-24,abonnement,trimestriel,annul,carte,Paiement regulier pour un abonnement.
+363,113,cnss,9318.49,2025-03-03,don,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+364,310,caisse de dpt,8905.56,2024-12-22,prlvement fiscal,trimestriel,actif,virement,Paiement automatique effectue depuis votre compte.
+365,340,la marocaine vie,2827.77,2024-06-30,abonnement,mensuel,annul,virement,Paiement regulier pour un abonnement.
+366,428,universit hassan ii,1891.95,2024-12-07,don,bimensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+367,434,afriquia,6177.64,2024-06-14,loyer,trimestriel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+368,50,afriquia,3910.78,2025-04-09,abonnement,trimestriel,annul,virement,Paiement regulier pour un abonnement.
+369,207,inwi,7152.06,2024-11-10,prlvement fiscal,mensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+370,385,inwi,2087.56,2024-09-01,salaire,mensuel,annul,virement,Versement automatique du salaire au beneficiaire.
+371,40,ministre de lducation,9786.66,2024-05-04,salaire,bimensuel,actif,virement,Versement automatique du salaire au beneficiaire.
+372,485,banque populaire,8977.29,2024-07-22,abonnement,bimensuel,annul,carte,Paiement regulier pour un abonnement.
+373,244,inwi,3041.33,2024-07-29,don,trimestriel,actif,carte,Paiement automatique effectue depuis votre compte.
+374,88,axa maroc,1839.54,2025-03-03,prlvement fiscal,trimestriel,actif,carte,Paiement automatique effectue depuis votre compte.
+375,391,universit mohammed v,853.82,2024-05-24,don,trimestriel,actif,virement,Paiement automatique effectue depuis votre compte.
+376,178,ram,5508.23,2024-07-04,prlvement fiscal,bimensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+377,62,inwi,6382.44,2025-04-03,salaire,trimestriel,annul,prlvement,Versement automatique du salaire au beneficiaire.
+378,254,afriquia,249.55,2024-08-26,don,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+379,15,banque populaire,2033.53,2024-12-15,don,mensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+380,215,cih bank,7483.97,2024-05-05,salaire,bimensuel,suspendu,carte,Versement automatique du salaire au beneficiaire.
+381,249,tgr,5760.2,2024-11-01,loyer,bimensuel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+382,460,la marocaine vie,7433.66,2025-02-04,salaire,mensuel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+383,45,ram,472.05,2024-05-08,salaire,bimensuel,suspendu,carte,Versement automatique du salaire au beneficiaire.
+384,40,tgr,8989.23,2025-03-21,abonnement,bimensuel,actif,carte,Paiement regulier pour un abonnement.
+385,473,wafa assurance,5187.33,2024-09-19,don,mensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+386,129,maroc telecom,760.06,2024-10-18,don,mensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+387,25,oncf,6708.25,2024-05-24,salaire,trimestriel,actif,carte,Versement automatique du salaire au beneficiaire.
+388,157,carrefour maroc,2202.21,2024-09-06,abonnement,bimensuel,annul,carte,Paiement regulier pour un abonnement.
+389,432,iam,298.7,2024-05-24,salaire,bimensuel,annul,virement,Versement automatique du salaire au beneficiaire.
+390,142,universit hassan ii,9413.75,2024-08-22,loyer,bimensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+391,40,marjane,8822.8,2024-06-21,abonnement,mensuel,suspendu,carte,Paiement regulier pour un abonnement.
+392,459,ram,2774.28,2025-03-21,prlvement fiscal,mensuel,actif,carte,Paiement automatique effectue depuis votre compte.
+393,37,oncf,4964.84,2024-09-09,loyer,mensuel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+394,250,cih bank,5781.07,2025-02-23,don,trimestriel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+395,491,afriquia,9045.78,2025-03-12,loyer,bimensuel,annul,carte,Paiement mensuel du loyer effectue automatiquement.
+396,51,assurance atlanta,5865.96,2025-01-19,salaire,bimensuel,annul,virement,Versement automatique du salaire au beneficiaire.
+397,278,cnss,8589.02,2025-01-21,don,trimestriel,actif,carte,Paiement automatique effectue depuis votre compte.
+398,90,caisse de dpt,4001.03,2025-02-12,loyer,trimestriel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+399,132,la marocaine vie,8958.47,2024-11-20,prlvement fiscal,mensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+400,160,ram,1485.22,2025-01-30,don,trimestriel,actif,virement,Paiement automatique effectue depuis votre compte.
+401,334,maroc telecom,8249.48,2024-09-17,prlvement fiscal,mensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+402,404,afriquia,7262.28,2024-06-30,don,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+403,2,la marocaine vie,316.78,2024-06-03,loyer,bimensuel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+404,134,marjane,7160.75,2025-03-24,loyer,trimestriel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+405,25,ram,928.08,2024-10-27,prlvement fiscal,bimensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+406,28,maroc telecom,1855.77,2025-04-10,don,mensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+407,414,banque populaire,1915.1,2025-03-16,abonnement,bimensuel,actif,carte,Paiement regulier pour un abonnement.
+408,314,carrefour maroc,686.58,2025-04-21,abonnement,mensuel,annul,carte,Paiement regulier pour un abonnement.
+409,456,lydec,3386.31,2024-05-05,loyer,bimensuel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+410,183,inwi,3340.97,2024-04-26,abonnement,mensuel,suspendu,prlvement,Paiement regulier pour un abonnement.
+411,467,marjane,2675.74,2024-11-03,abonnement,mensuel,suspendu,virement,Paiement regulier pour un abonnement.
+412,493,tgr,4735.56,2024-10-20,abonnement,bimensuel,suspendu,virement,Paiement regulier pour un abonnement.
+413,100,ministre de lducation,6620.05,2025-04-15,prlvement fiscal,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+414,75,universit hassan ii,686.44,2025-02-14,don,mensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+415,313,dgi,6259.31,2024-11-03,don,mensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+416,452,maroc telecom,7036.5,2024-05-17,loyer,bimensuel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+417,125,cih bank,9176.94,2024-07-05,don,bimensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+418,312,caisse de dpt,8560.76,2025-02-01,abonnement,bimensuel,suspendu,carte,Paiement regulier pour un abonnement.
+419,159,total maroc,588.88,2024-06-27,abonnement,trimestriel,suspendu,carte,Paiement regulier pour un abonnement.
+420,454,iam,4337.37,2024-12-14,loyer,bimensuel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+421,386,oncf,5794.23,2024-12-04,abonnement,mensuel,actif,prlvement,Paiement regulier pour un abonnement.
+422,133,inwi,3664.0,2025-04-05,don,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+423,276,oncf,6009.36,2024-05-21,prlvement fiscal,bimensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+424,290,iam,1640.53,2024-05-27,loyer,trimestriel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+425,445,cnss,3288.6,2025-03-14,prlvement fiscal,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+426,235,marjane,4041.68,2024-06-02,salaire,mensuel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+427,434,ministre des finances,8121.81,2025-03-10,prlvement fiscal,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+428,104,dgi,1962.56,2024-06-03,don,bimensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+429,396,banque populaire,676.45,2025-02-17,loyer,trimestriel,actif,virement,Paiement mensuel du loyer effectue automatiquement.
+430,86,wafa assurance,6311.34,2024-11-14,abonnement,mensuel,annul,prlvement,Paiement regulier pour un abonnement.
+431,495,ram,4980.83,2025-03-29,abonnement,trimestriel,annul,carte,Paiement regulier pour un abonnement.
+432,92,onee,3082.93,2025-01-15,prlvement fiscal,mensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+433,347,ministre des finances,7602.65,2024-06-29,don,bimensuel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+434,270,total maroc,6324.2,2024-12-26,prlvement fiscal,bimensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+435,288,total maroc,1359.23,2025-02-22,abonnement,bimensuel,suspendu,virement,Paiement regulier pour un abonnement.
+436,19,caisse de dpt,8585.47,2024-10-16,salaire,trimestriel,actif,carte,Versement automatique du salaire au beneficiaire.
+437,89,onee,3584.52,2024-12-12,don,mensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+438,405,universit mohammed v,4257.77,2024-11-18,loyer,bimensuel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+439,294,oncf,5694.24,2025-01-24,abonnement,trimestriel,suspendu,carte,Paiement regulier pour un abonnement.
+440,53,marjane,4810.66,2024-08-17,salaire,bimensuel,actif,virement,Versement automatique du salaire au beneficiaire.
+441,280,lydec,6678.18,2024-05-14,loyer,mensuel,actif,virement,Paiement mensuel du loyer effectue automatiquement.
+442,84,iam,8912.53,2024-09-10,abonnement,mensuel,annul,carte,Paiement regulier pour un abonnement.
+443,493,marjane,1155.43,2024-12-28,loyer,bimensuel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+444,115,wafa assurance,1991.2,2024-11-01,prlvement fiscal,bimensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+445,135,wafa assurance,9361.24,2024-06-14,don,mensuel,annul,virement,Paiement automatique effectue depuis votre compte.
+446,212,axa maroc,9991.46,2024-10-29,abonnement,mensuel,suspendu,carte,Paiement regulier pour un abonnement.
+447,164,inwi,9094.13,2024-07-20,loyer,bimensuel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+448,137,carrefour maroc,1333.9,2024-08-07,prlvement fiscal,bimensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.
+449,442,banque populaire,4988.05,2025-02-10,prlvement fiscal,mensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+450,64,oncf,3594.23,2024-09-10,prlvement fiscal,mensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+451,217,dgi,3055.28,2024-12-10,abonnement,mensuel,annul,prlvement,Paiement regulier pour un abonnement.
+452,202,inwi,3443.16,2024-12-13,salaire,bimensuel,annul,prlvement,Versement automatique du salaire au beneficiaire.
+453,21,inwi,2003.32,2025-04-01,don,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+454,97,onee,447.47,2024-11-10,salaire,bimensuel,actif,prlvement,Versement automatique du salaire au beneficiaire.
+455,233,la marocaine vie,1842.29,2024-09-17,prlvement fiscal,mensuel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+456,175,carrefour maroc,1462.69,2024-09-05,prlvement fiscal,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+457,328,ministre des finances,1700.25,2025-01-21,don,mensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+458,169,universit hassan ii,2913.41,2024-12-18,prlvement fiscal,mensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+459,314,ministre des finances,6197.7,2024-11-20,don,trimestriel,annul,virement,Paiement automatique effectue depuis votre compte.
+460,308,axa maroc,3793.46,2024-12-03,don,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+461,254,tgr,9912.88,2024-11-14,prlvement fiscal,trimestriel,annul,prlvement,Paiement automatique effectue depuis votre compte.
+462,112,ministre de lducation,5293.64,2025-02-05,loyer,trimestriel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+463,455,oncf,5724.72,2025-01-30,prlvement fiscal,trimestriel,suspendu,carte,Paiement automatique effectue depuis votre compte.
+464,200,cih bank,1815.92,2025-03-13,loyer,trimestriel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+465,5,lydec,1506.0,2025-01-30,loyer,bimensuel,suspendu,virement,Paiement mensuel du loyer effectue automatiquement.
+466,254,carrefour maroc,5245.15,2024-12-03,don,mensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+467,171,inwi,2106.73,2025-04-15,don,mensuel,actif,prlvement,Paiement automatique effectue depuis votre compte.
+468,397,tgr,6084.91,2025-03-30,don,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+469,415,dgi,3752.87,2024-06-29,prlvement fiscal,trimestriel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+470,36,onee,3913.57,2025-01-06,loyer,mensuel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+471,356,universit mohammed v,3609.86,2024-05-13,loyer,bimensuel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+472,130,banque populaire,2146.78,2024-11-19,prlvement fiscal,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+473,351,afriquia,7515.61,2024-09-06,loyer,mensuel,suspendu,carte,Paiement mensuel du loyer effectue automatiquement.
+474,225,cnss,757.31,2024-11-10,loyer,mensuel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+475,339,ministre des finances,1524.6,2025-02-23,salaire,trimestriel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+476,286,oncf,5503.35,2024-06-30,prlvement fiscal,bimensuel,annul,carte,Paiement automatique effectue depuis votre compte.
+477,313,banque populaire,6118.24,2024-08-03,salaire,trimestriel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+478,131,iam,1964.57,2025-02-10,salaire,trimestriel,suspendu,carte,Versement automatique du salaire au beneficiaire.
+479,86,axa maroc,1104.07,2025-04-20,salaire,trimestriel,annul,carte,Versement automatique du salaire au beneficiaire.
+480,24,universit hassan ii,1475.58,2024-08-22,loyer,trimestriel,annul,virement,Paiement mensuel du loyer effectue automatiquement.
+481,283,lydec,6853.07,2025-02-24,loyer,trimestriel,annul,prlvement,Paiement mensuel du loyer effectue automatiquement.
+482,374,axa maroc,8300.16,2024-08-28,prlvement fiscal,mensuel,suspendu,virement,Paiement automatique effectue depuis votre compte.
+483,409,afriquia,7477.04,2025-04-08,salaire,mensuel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+484,286,marjane,241.2,2025-02-22,loyer,trimestriel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+485,137,cnss,6329.55,2024-04-26,abonnement,trimestriel,annul,carte,Paiement regulier pour un abonnement.
+486,466,la marocaine vie,7857.62,2025-04-10,salaire,mensuel,actif,virement,Versement automatique du salaire au beneficiaire.
+487,412,universit hassan ii,3101.76,2024-07-03,abonnement,bimensuel,annul,carte,Paiement regulier pour un abonnement.
+488,353,la marocaine vie,7023.68,2024-12-20,abonnement,bimensuel,suspendu,virement,Paiement regulier pour un abonnement.
+489,308,axa maroc,4038.58,2024-05-27,salaire,mensuel,suspendu,virement,Versement automatique du salaire au beneficiaire.
+490,275,onee,4590.14,2024-10-05,salaire,mensuel,suspendu,prlvement,Versement automatique du salaire au beneficiaire.
+491,122,tgr,7023.02,2025-02-22,don,trimestriel,annul,carte,Paiement automatique effectue depuis votre compte.
+492,385,oncf,1938.87,2024-07-21,don,trimestriel,actif,virement,Paiement automatique effectue depuis votre compte.
+493,292,cih bank,5526.03,2025-03-08,prlvement fiscal,mensuel,actif,virement,Paiement automatique effectue depuis votre compte.
+494,158,ministre des finances,3903.31,2024-05-08,loyer,bimensuel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+495,21,caisse de dpt,8061.62,2024-10-25,loyer,mensuel,actif,prlvement,Paiement mensuel du loyer effectue automatiquement.
+496,391,banque populaire,5910.5,2025-01-25,loyer,trimestriel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+497,127,marjane,8681.16,2025-03-10,loyer,trimestriel,suspendu,prlvement,Paiement mensuel du loyer effectue automatiquement.
+498,40,onee,4744.89,2024-07-22,abonnement,mensuel,actif,carte,Paiement regulier pour un abonnement.
+499,29,wafa assurance,6740.05,2024-07-10,salaire,mensuel,actif,carte,Versement automatique du salaire au beneficiaire.
+500,307,cnss,116.87,2024-09-02,don,mensuel,suspendu,prlvement,Paiement automatique effectue depuis votre compte.

@@ -1,0 +1,501 @@
+id_service,nom_service,description,type,canal_disponible,cout_estime,delai_traitement,periodicite,type_service
+1,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,telephone,118.15,immédiat,ponctuel,Transaction
+2,Virement local,Transfert d'argent vers un compte local.,informatif,en agence,110.93,immédiat, la demande,Support
+3,Assistance client,Support et aide apportee au client.,informatif,en agence,88.15,immédiat, la demande,Operation
+4,Demande de cheque,Service pour obtenir un nouveau chequier.,support,en agence,122.19,immédiat,annuel,Information
+5,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en ligne,149.2,72 heures,annuel,Transaction
+6,Souscription produit,Demande de souscription a un produit bancaire.,support,en agence,51.71,5 jours,annuel,Information
+7,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,telephone,117.73,immédiat,trimestriel,Information
+8,Virement local,Transfert d'argent vers un compte local.,informatif,en ligne,104.65,5 jours,mensuel,Operation
+9,Assistance client,Support et aide apportee au client.,transactionnel,mobile,64.02,5 jours,annuel,Support
+10,Assistance client,Support et aide apportee au client.,informatif,en agence,144.62,72 heures,mensuel,Information
+11,Demande de cheque,Service pour obtenir un nouveau chequier.,support,mobile,58.55,5 jours,ponctuel,Information
+12,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en ligne,5.54,immédiat,mensuel,Support
+13,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,en ligne,128.32,5 jours,annuel,Transaction
+14,Depot d'argent,Depot d'especes sur un compte bancaire.,support,en ligne,52.76,immédiat,annuel,Information
+15,Virement local,Transfert d'argent vers un compte local.,transactionnel,telephone,70.05,48h, la demande,Transaction
+16,Paiement de facture,Reglement de factures via compte bancaire.,support,telephone,28.37,5 jours,ponctuel,Transaction
+17,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,73.51,72 heures,trimestriel,Transaction
+18,Souscription produit,Demande de souscription a un produit bancaire.,informatif,mobile,74.87,5 jours,mensuel,Support
+19,Retrait au guichet,Retrait d'argent liquide en agence.,support,mobile,98.19,48h,mensuel,Support
+20,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,mobile,57.99,5 jours, la demande,Information
+21,Virement local,Transfert d'argent vers un compte local.,transactionnel,en ligne,52.6,immédiat,ponctuel,Information
+22,Assistance client,Support et aide apportee au client.,transactionnel,en agence,104.55,48h,annuel,Operation
+23,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,en ligne,57.23,72 heures,ponctuel,Transaction
+24,Virement local,Transfert d'argent vers un compte local.,transactionnel,telephone,144.32,5 jours,mensuel,Support
+25,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,en ligne,101.74,24h,ponctuel,Information
+26,Assistance client,Support et aide apportee au client.,support,telephone,83.52,immédiat,trimestriel,Transaction
+27,Assistance client,Support et aide apportee au client.,support,en ligne,77.34,72 heures,trimestriel,Support
+28,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,mobile,126.47,24h,annuel,Operation
+29,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,en ligne,89.73,48h, la demande,Transaction
+30,Releve bancaire,Fournit l'historique des operations du compte.,informatif,telephone,75.63,immédiat,mensuel,Information
+31,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,telephone,88.63,5 jours,mensuel,Operation
+32,Souscription produit,Demande de souscription a un produit bancaire.,support,mobile,18.33,24h, la demande,Information
+33,Virement local,Transfert d'argent vers un compte local.,transactionnel,en ligne,86.85,immédiat,annuel,Support
+34,Virement local,Transfert d'argent vers un compte local.,support,telephone,50.35,immédiat,mensuel,Support
+35,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,102.85,72 heures,trimestriel,Transaction
+36,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,mobile,144.82,72 heures,annuel,Operation
+37,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,telephone,45.1,immédiat,mensuel,Operation
+38,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,mobile,96.11,24h,trimestriel,Support
+39,Paiement de facture,Reglement de factures via compte bancaire.,support,en agence,10.31,48h,annuel,Transaction
+40,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,en ligne,134.99,72 heures,mensuel,Transaction
+41,Demande de cheque,Service pour obtenir un nouveau chequier.,support,mobile,77.34,24h,annuel,Operation
+42,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,67.61,48h,annuel,Operation
+43,Souscription produit,Demande de souscription a un produit bancaire.,support,mobile,29.56,5 jours,ponctuel,Transaction
+44,Releve bancaire,Fournit l'historique des operations du compte.,support,telephone,133.49,72 heures,ponctuel,Operation
+45,Depot d'argent,Depot d'especes sur un compte bancaire.,support,mobile,48.68,72 heures, la demande,Information
+46,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,mobile,39.9,immédiat,ponctuel,Operation
+47,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,mobile,21.89,72 heures, la demande,Information
+48,Releve bancaire,Fournit l'historique des operations du compte.,informatif,en ligne,52.32,5 jours,mensuel,Support
+49,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,en agence,127.62,immédiat, la demande,Operation
+50,Demande de cheque,Service pour obtenir un nouveau chequier.,support,telephone,91.69,5 jours,ponctuel,Information
+51,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en ligne,55.46,48h,mensuel,Support
+52,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,en agence,15.11,48h,annuel,Operation
+53,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,mobile,68.71,72 heures,ponctuel,Information
+54,Souscription produit,Demande de souscription a un produit bancaire.,informatif,mobile,126.23,24h,annuel,Support
+55,Consultation de compte,Permet de consulter le solde et les operations.,informatif,mobile,136.29,48h,annuel,Operation
+56,Assistance client,Support et aide apportee au client.,transactionnel,en ligne,144.23,24h,trimestriel,Transaction
+57,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en ligne,21.61,24h, la demande,Information
+58,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,telephone,125.48,immédiat,annuel,Operation
+59,Paiement de facture,Reglement de factures via compte bancaire.,support,mobile,34.36,72 heures,annuel,Information
+60,Consultation de compte,Permet de consulter le solde et les operations.,support,mobile,124.98,48h,annuel,Support
+61,Demande de cheque,Service pour obtenir un nouveau chequier.,support,en agence,62.57,24h, la demande,Information
+62,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,en agence,66.22,48h,ponctuel,Information
+63,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,mobile,20.02,48h,ponctuel,Transaction
+64,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en ligne,24.82,immédiat,annuel,Transaction
+65,Assistance client,Support et aide apportee au client.,informatif,en agence,57.45,immédiat, la demande,Operation
+66,Consultation de compte,Permet de consulter le solde et les operations.,informatif,mobile,99.67,immédiat, la demande,Operation
+67,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en agence,28.76,24h,annuel,Support
+68,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,en agence,21.07,48h, la demande,Operation
+69,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,telephone,104.5,48h, la demande,Support
+70,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en agence,100.05,72 heures, la demande,Information
+71,Depot d'argent,Depot d'especes sur un compte bancaire.,support,en agence,105.58,24h,trimestriel,Operation
+72,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,en ligne,12.85,5 jours,ponctuel,Transaction
+73,Depot d'argent,Depot d'especes sur un compte bancaire.,support,mobile,24.0,5 jours, la demande,Operation
+74,Demande de cheque,Service pour obtenir un nouveau chequier.,support,en agence,43.53,48h,ponctuel,Transaction
+75,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,mobile,104.01,72 heures, la demande,Information
+76,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en agence,42.68,24h,annuel,Transaction
+77,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,135.86,24h,ponctuel,Transaction
+78,Assistance client,Support et aide apportee au client.,informatif,mobile,133.5,24h,ponctuel,Transaction
+79,Retrait au guichet,Retrait d'argent liquide en agence.,support,mobile,105.28,72 heures, la demande,Information
+80,Souscription produit,Demande de souscription a un produit bancaire.,support,telephone,60.49,5 jours,trimestriel,Information
+81,Assistance client,Support et aide apportee au client.,transactionnel,en ligne,69.5,5 jours,ponctuel,Information
+82,Virement local,Transfert d'argent vers un compte local.,support,telephone,68.56,48h, la demande,Transaction
+83,Assistance client,Support et aide apportee au client.,informatif,mobile,143.49,5 jours,ponctuel,Support
+84,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en ligne,107.9,5 jours,ponctuel,Information
+85,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en ligne,9.25,48h,mensuel,Support
+86,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,mobile,60.4,5 jours,mensuel,Operation
+87,Releve bancaire,Fournit l'historique des operations du compte.,informatif,en ligne,81.47,immédiat,mensuel,Transaction
+88,Depot d'argent,Depot d'especes sur un compte bancaire.,support,mobile,59.18,72 heures,annuel,Operation
+89,Demande de cheque,Service pour obtenir un nouveau chequier.,support,en ligne,149.86,24h,ponctuel,Support
+90,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en ligne,140.59,48h,mensuel,Information
+91,Releve bancaire,Fournit l'historique des operations du compte.,support,telephone,66.15,immédiat,annuel,Transaction
+92,Virement local,Transfert d'argent vers un compte local.,informatif,en agence,46.64,24h, la demande,Support
+93,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,95.97,72 heures,annuel,Operation
+94,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,145.7,72 heures,annuel,Information
+95,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en agence,67.32,48h,mensuel,Operation
+96,Retrait au guichet,Retrait d'argent liquide en agence.,support,en agence,3.07,24h,ponctuel,Transaction
+97,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,en agence,103.19,5 jours,annuel,Support
+98,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,telephone,120.65,24h,trimestriel,Information
+99,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,telephone,51.95,immédiat,annuel,Information
+100,Consultation de compte,Permet de consulter le solde et les operations.,support,en ligne,89.03,72 heures,annuel,Transaction
+101,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,104.9,24h, la demande,Information
+102,Souscription produit,Demande de souscription a un produit bancaire.,support,en ligne,119.26,5 jours, la demande,Operation
+103,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en ligne,145.54,24h,annuel,Operation
+104,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,77.4,72 heures,ponctuel,Information
+105,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,en ligne,52.84,72 heures,mensuel,Operation
+106,Depot d'argent,Depot d'especes sur un compte bancaire.,support,mobile,86.82,immédiat,ponctuel,Operation
+107,Releve bancaire,Fournit l'historique des operations du compte.,support,en ligne,101.17,24h,trimestriel,Transaction
+108,Consultation de compte,Permet de consulter le solde et les operations.,informatif,telephone,107.99,48h,ponctuel,Information
+109,Consultation de compte,Permet de consulter le solde et les operations.,support,en agence,74.34,48h,ponctuel,Information
+110,Souscription produit,Demande de souscription a un produit bancaire.,support,mobile,84.95,5 jours, la demande,Operation
+111,Virement local,Transfert d'argent vers un compte local.,informatif,en ligne,117.34,72 heures,annuel,Transaction
+112,Releve bancaire,Fournit l'historique des operations du compte.,informatif,telephone,18.79,immédiat,mensuel,Support
+113,Assistance client,Support et aide apportee au client.,transactionnel,mobile,136.79,48h,ponctuel,Transaction
+114,Assistance client,Support et aide apportee au client.,informatif,mobile,110.98,48h,mensuel,Operation
+115,Virement local,Transfert d'argent vers un compte local.,informatif,mobile,50.5,24h,mensuel,Information
+116,Paiement de facture,Reglement de factures via compte bancaire.,support,mobile,91.85,48h,trimestriel,Operation
+117,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,31.23,48h,ponctuel,Transaction
+118,Assistance client,Support et aide apportee au client.,transactionnel,telephone,74.68,48h,ponctuel,Transaction
+119,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en ligne,60.29,48h, la demande,Support
+120,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en agence,37.77,72 heures,mensuel,Transaction
+121,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,en ligne,35.59,24h,annuel,Support
+122,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,130.26,immédiat,mensuel,Information
+123,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en agence,20.99,immédiat,annuel,Support
+124,Consultation de compte,Permet de consulter le solde et les operations.,support,en ligne,53.0,48h,annuel,Information
+125,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,en agence,10.59,24h,annuel,Operation
+126,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,36.63,72 heures,mensuel,Information
+127,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,mobile,90.95,24h,mensuel,Support
+128,Assistance client,Support et aide apportee au client.,transactionnel,telephone,24.3,24h,ponctuel,Information
+129,Demande de cheque,Service pour obtenir un nouveau chequier.,support,mobile,117.22,5 jours,trimestriel,Transaction
+130,Assistance client,Support et aide apportee au client.,transactionnel,en ligne,122.11,5 jours,ponctuel,Information
+131,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,en ligne,105.75,48h, la demande,Transaction
+132,Assistance client,Support et aide apportee au client.,support,en agence,101.63,immédiat,mensuel,Information
+133,Releve bancaire,Fournit l'historique des operations du compte.,support,en ligne,45.68,48h,ponctuel,Support
+134,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,telephone,6.83,5 jours,trimestriel,Transaction
+135,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,telephone,95.16,72 heures, la demande,Support
+136,Retrait au guichet,Retrait d'argent liquide en agence.,support,en ligne,27.56,immédiat,trimestriel,Information
+137,Souscription produit,Demande de souscription a un produit bancaire.,support,telephone,129.28,immédiat,mensuel,Operation
+138,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,mobile,28.16,48h,annuel,Support
+139,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en ligne,46.02,24h,ponctuel,Operation
+140,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,mobile,9.95,immédiat,ponctuel,Support
+141,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en agence,9.85,48h,ponctuel,Support
+142,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en ligne,50.43,48h,annuel,Transaction
+143,Releve bancaire,Fournit l'historique des operations du compte.,informatif,en ligne,7.1,72 heures,mensuel,Support
+144,Consultation de compte,Permet de consulter le solde et les operations.,support,en ligne,89.52,48h,annuel,Support
+145,Virement local,Transfert d'argent vers un compte local.,transactionnel,en agence,73.37,immédiat, la demande,Support
+146,Demande de cheque,Service pour obtenir un nouveau chequier.,support,telephone,107.3,72 heures,annuel,Operation
+147,Consultation de compte,Permet de consulter le solde et les operations.,informatif,telephone,137.67,immédiat,mensuel,Transaction
+148,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,telephone,98.44,24h,mensuel,Transaction
+149,Consultation de compte,Permet de consulter le solde et les operations.,support,en agence,79.95,5 jours,mensuel,Support
+150,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en ligne,6.26,5 jours,annuel,Information
+151,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,mobile,54.19,5 jours,trimestriel,Information
+152,Virement local,Transfert d'argent vers un compte local.,informatif,telephone,139.41,immédiat,annuel,Information
+153,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en agence,80.78,immédiat,annuel,Transaction
+154,Consultation de compte,Permet de consulter le solde et les operations.,support,telephone,116.83,immédiat,mensuel,Transaction
+155,Souscription produit,Demande de souscription a un produit bancaire.,informatif,telephone,120.73,5 jours,trimestriel,Support
+156,Assistance client,Support et aide apportee au client.,transactionnel,en agence,115.08,5 jours,trimestriel,Operation
+157,Demande de cheque,Service pour obtenir un nouveau chequier.,support,telephone,108.04,immédiat,trimestriel,Support
+158,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en ligne,115.08,5 jours,mensuel,Support
+159,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,mobile,37.75,72 heures,mensuel,Operation
+160,Consultation de compte,Permet de consulter le solde et les operations.,informatif,telephone,134.46,immédiat,mensuel,Support
+161,Demande de cheque,Service pour obtenir un nouveau chequier.,support,telephone,144.53,immédiat,trimestriel,Operation
+162,Souscription produit,Demande de souscription a un produit bancaire.,informatif,mobile,27.89,48h,trimestriel,Operation
+163,Retrait au guichet,Retrait d'argent liquide en agence.,support,mobile,113.36,48h,trimestriel,Transaction
+164,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,telephone,113.83,5 jours, la demande,Operation
+165,Souscription produit,Demande de souscription a un produit bancaire.,informatif,telephone,104.78,5 jours, la demande,Operation
+166,Demande de cheque,Service pour obtenir un nouveau chequier.,support,en ligne,96.65,24h,ponctuel,Operation
+167,Assistance client,Support et aide apportee au client.,support,en agence,68.33,24h,ponctuel,Transaction
+168,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,mobile,74.17,immédiat,ponctuel,Operation
+169,Souscription produit,Demande de souscription a un produit bancaire.,informatif,telephone,15.85,72 heures,trimestriel,Support
+170,Consultation de compte,Permet de consulter le solde et les operations.,support,en agence,133.88,48h,ponctuel,Transaction
+171,Depot d'argent,Depot d'especes sur un compte bancaire.,support,mobile,82.79,72 heures,annuel,Support
+172,Demande de cheque,Service pour obtenir un nouveau chequier.,support,telephone,38.57,48h,mensuel,Operation
+173,Virement local,Transfert d'argent vers un compte local.,transactionnel,mobile,45.09,72 heures,ponctuel,Information
+174,Assistance client,Support et aide apportee au client.,support,telephone,70.5,immédiat,ponctuel,Transaction
+175,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,69.93,immédiat,mensuel,Transaction
+176,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,mobile,69.49,immédiat,trimestriel,Transaction
+177,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,69.54,24h,trimestriel,Support
+178,Consultation de compte,Permet de consulter le solde et les operations.,support,telephone,115.9,5 jours, la demande,Information
+179,Paiement de facture,Reglement de factures via compte bancaire.,support,mobile,90.11,immédiat,mensuel,Operation
+180,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,en ligne,77.01,immédiat,annuel,Support
+181,Souscription produit,Demande de souscription a un produit bancaire.,support,en ligne,39.17,5 jours,mensuel,Information
+182,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en agence,42.38,5 jours,ponctuel,Operation
+183,Depot d'argent,Depot d'especes sur un compte bancaire.,support,en ligne,8.88,5 jours,annuel,Transaction
+184,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,en ligne,37.12,48h,trimestriel,Operation
+185,Releve bancaire,Fournit l'historique des operations du compte.,informatif,en agence,76.52,immédiat,mensuel,Operation
+186,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,en agence,134.63,72 heures,ponctuel,Operation
+187,Assistance client,Support et aide apportee au client.,transactionnel,mobile,36.3,72 heures,trimestriel,Support
+188,Virement local,Transfert d'argent vers un compte local.,support,en ligne,53.11,72 heures,annuel,Transaction
+189,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,mobile,31.5,24h,trimestriel,Support
+190,Souscription produit,Demande de souscription a un produit bancaire.,support,en ligne,30.83,immédiat,trimestriel,Transaction
+191,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,17.03,immédiat,mensuel,Operation
+192,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en agence,73.32,24h,annuel,Support
+193,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en agence,117.61,48h,mensuel,Support
+194,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,mobile,39.72,72 heures,annuel,Support
+195,Demande de cheque,Service pour obtenir un nouveau chequier.,support,mobile,122.45,5 jours,trimestriel,Support
+196,Assistance client,Support et aide apportee au client.,informatif,telephone,17.99,72 heures,ponctuel,Information
+197,Virement local,Transfert d'argent vers un compte local.,support,mobile,40.52,24h,annuel,Support
+198,Retrait au guichet,Retrait d'argent liquide en agence.,support,mobile,127.65,48h,trimestriel,Transaction
+199,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,mobile,80.3,24h,annuel,Support
+200,Assistance client,Support et aide apportee au client.,transactionnel,mobile,9.0,immédiat,trimestriel,Information
+201,Assistance client,Support et aide apportee au client.,support,mobile,145.12,24h,mensuel,Support
+202,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,mobile,83.27,5 jours,mensuel,Operation
+203,Consultation de compte,Permet de consulter le solde et les operations.,support,en agence,104.05,48h,mensuel,Support
+204,Virement local,Transfert d'argent vers un compte local.,support,en agence,50.41,72 heures,trimestriel,Information
+205,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,en agence,87.89,72 heures,mensuel,Information
+206,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,mobile,136.81,48h,mensuel,Operation
+207,Souscription produit,Demande de souscription a un produit bancaire.,support,telephone,73.85,72 heures,trimestriel,Transaction
+208,Souscription produit,Demande de souscription a un produit bancaire.,informatif,telephone,39.68,5 jours,mensuel,Transaction
+209,Assistance client,Support et aide apportee au client.,informatif,telephone,42.35,immédiat,ponctuel,Transaction
+210,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,telephone,85.25,5 jours,mensuel,Support
+211,Consultation de compte,Permet de consulter le solde et les operations.,informatif,telephone,18.89,72 heures,trimestriel,Operation
+212,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,telephone,69.4,24h, la demande,Operation
+213,Paiement de facture,Reglement de factures via compte bancaire.,support,mobile,97.98,72 heures,ponctuel,Information
+214,Virement local,Transfert d'argent vers un compte local.,transactionnel,en ligne,18.19,48h,ponctuel,Support
+215,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,mobile,37.99,48h,mensuel,Operation
+216,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,13.89,72 heures,ponctuel,Information
+217,Assistance client,Support et aide apportee au client.,support,en ligne,21.2,48h,annuel,Information
+218,Virement local,Transfert d'argent vers un compte local.,informatif,en ligne,59.57,24h,trimestriel,Transaction
+219,Assistance client,Support et aide apportee au client.,support,telephone,44.5,immédiat,annuel,Transaction
+220,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en ligne,55.76,24h, la demande,Information
+221,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,mobile,142.16,24h,annuel,Transaction
+222,Depot d'argent,Depot d'especes sur un compte bancaire.,support,mobile,23.29,24h,annuel,Information
+223,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,mobile,85.49,48h,trimestriel,Transaction
+224,Retrait au guichet,Retrait d'argent liquide en agence.,support,mobile,106.69,48h,annuel,Information
+225,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en ligne,67.29,24h,ponctuel,Operation
+226,Paiement de facture,Reglement de factures via compte bancaire.,support,mobile,102.16,24h,annuel,Support
+227,Demande de cheque,Service pour obtenir un nouveau chequier.,support,en ligne,19.91,24h,trimestriel,Information
+228,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en ligne,89.96,24h,annuel,Operation
+229,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,telephone,15.35,72 heures,trimestriel,Support
+230,Virement local,Transfert d'argent vers un compte local.,support,mobile,146.77,48h,annuel,Support
+231,Consultation de compte,Permet de consulter le solde et les operations.,support,mobile,14.89,24h, la demande,Information
+232,Virement local,Transfert d'argent vers un compte local.,transactionnel,en agence,143.55,immédiat,trimestriel,Transaction
+233,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,en ligne,79.78,5 jours,mensuel,Information
+234,Souscription produit,Demande de souscription a un produit bancaire.,informatif,mobile,101.88,48h, la demande,Operation
+235,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,en ligne,66.35,72 heures,annuel,Transaction
+236,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,en ligne,30.94,24h,trimestriel,Information
+237,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en ligne,122.99,72 heures,mensuel,Support
+238,Virement local,Transfert d'argent vers un compte local.,support,telephone,78.0,24h, la demande,Information
+239,Souscription produit,Demande de souscription a un produit bancaire.,support,en ligne,11.97,48h,ponctuel,Information
+240,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,en ligne,56.9,72 heures,annuel,Information
+241,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,mobile,29.06,48h, la demande,Transaction
+242,Releve bancaire,Fournit l'historique des operations du compte.,support,telephone,145.69,48h,mensuel,Information
+243,Virement local,Transfert d'argent vers un compte local.,transactionnel,mobile,135.39,72 heures,mensuel,Transaction
+244,Virement local,Transfert d'argent vers un compte local.,transactionnel,mobile,27.23,5 jours, la demande,Support
+245,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en agence,83.42,24h,ponctuel,Support
+246,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,71.45,24h,mensuel,Information
+247,Consultation de compte,Permet de consulter le solde et les operations.,informatif,en ligne,15.82,24h, la demande,Information
+248,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,mobile,141.2,48h, la demande,Support
+249,Virement local,Transfert d'argent vers un compte local.,transactionnel,en ligne,102.65,72 heures,trimestriel,Operation
+250,Retrait au guichet,Retrait d'argent liquide en agence.,support,en agence,78.82,72 heures, la demande,Information
+251,Assistance client,Support et aide apportee au client.,transactionnel,en agence,70.81,24h,ponctuel,Operation
+252,Releve bancaire,Fournit l'historique des operations du compte.,support,telephone,12.81,24h,ponctuel,Transaction
+253,Consultation de compte,Permet de consulter le solde et les operations.,support,mobile,52.08,24h, la demande,Support
+254,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,115.86,24h,mensuel,Information
+255,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,mobile,121.6,5 jours, la demande,Transaction
+256,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en agence,69.04,72 heures, la demande,Support
+257,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en ligne,29.49,5 jours, la demande,Information
+258,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,telephone,129.56,5 jours,trimestriel,Support
+259,Souscription produit,Demande de souscription a un produit bancaire.,informatif,mobile,1.77,48h,ponctuel,Operation
+260,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en agence,66.56,5 jours,annuel,Support
+261,Paiement de facture,Reglement de factures via compte bancaire.,support,mobile,77.35,72 heures,trimestriel,Operation
+262,Virement local,Transfert d'argent vers un compte local.,support,mobile,142.42,immédiat, la demande,Information
+263,Assistance client,Support et aide apportee au client.,support,en agence,45.55,immédiat,trimestriel,Information
+264,Assistance client,Support et aide apportee au client.,informatif,en ligne,135.19,72 heures,annuel,Support
+265,Virement local,Transfert d'argent vers un compte local.,informatif,telephone,19.19,24h, la demande,Information
+266,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en agence,81.03,immédiat,trimestriel,Operation
+267,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,mobile,118.98,24h, la demande,Information
+268,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,137.0,48h,annuel,Information
+269,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,telephone,131.51,48h,mensuel,Support
+270,Assistance client,Support et aide apportee au client.,support,en ligne,128.75,48h,ponctuel,Operation
+271,Consultation de compte,Permet de consulter le solde et les operations.,support,telephone,67.37,immédiat,annuel,Transaction
+272,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,84.55,48h, la demande,Operation
+273,Assistance client,Support et aide apportee au client.,informatif,mobile,93.09,immédiat,ponctuel,Transaction
+274,Demande de cheque,Service pour obtenir un nouveau chequier.,support,telephone,68.66,24h,annuel,Support
+275,Virement local,Transfert d'argent vers un compte local.,transactionnel,telephone,93.72,5 jours,annuel,Information
+276,Virement local,Transfert d'argent vers un compte local.,support,mobile,32.49,72 heures,ponctuel,Information
+277,Assistance client,Support et aide apportee au client.,transactionnel,mobile,86.25,immédiat,annuel,Information
+278,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en ligne,138.95,48h,mensuel,Transaction
+279,Souscription produit,Demande de souscription a un produit bancaire.,support,en agence,40.56,immédiat,trimestriel,Support
+280,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en ligne,58.35,immédiat, la demande,Transaction
+281,Paiement de facture,Reglement de factures via compte bancaire.,informatif,telephone,117.96,24h,annuel,Support
+282,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,125.05,24h,mensuel,Support
+283,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,mobile,116.45,immédiat,mensuel,Transaction
+284,Virement local,Transfert d'argent vers un compte local.,informatif,telephone,148.53,immédiat,mensuel,Operation
+285,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,en agence,82.88,48h,annuel,Operation
+286,Souscription produit,Demande de souscription a un produit bancaire.,support,mobile,118.15,immédiat,trimestriel,Support
+287,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,mobile,27.24,72 heures,annuel,Support
+288,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,en agence,131.32,48h,annuel,Transaction
+289,Assistance client,Support et aide apportee au client.,transactionnel,telephone,98.0,immédiat,mensuel,Transaction
+290,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,mobile,10.98,24h,annuel,Transaction
+291,Releve bancaire,Fournit l'historique des operations du compte.,support,en ligne,18.75,5 jours,trimestriel,Operation
+292,Virement local,Transfert d'argent vers un compte local.,support,mobile,92.48,5 jours,annuel,Transaction
+293,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,telephone,120.19,72 heures,ponctuel,Transaction
+294,Virement local,Transfert d'argent vers un compte local.,informatif,mobile,140.8,immédiat,trimestriel,Operation
+295,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,telephone,4.71,immédiat,trimestriel,Operation
+296,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,telephone,148.77,48h,mensuel,Information
+297,Paiement de facture,Reglement de factures via compte bancaire.,support,telephone,12.37,72 heures,mensuel,Transaction
+298,Assistance client,Support et aide apportee au client.,support,telephone,65.5,immédiat,trimestriel,Information
+299,Consultation de compte,Permet de consulter le solde et les operations.,support,telephone,120.0,immédiat,trimestriel,Operation
+300,Virement local,Transfert d'argent vers un compte local.,informatif,telephone,64.36,5 jours,mensuel,Support
+301,Releve bancaire,Fournit l'historique des operations du compte.,support,telephone,46.14,48h,mensuel,Information
+302,Demande de cheque,Service pour obtenir un nouveau chequier.,support,mobile,132.36,immédiat,trimestriel,Information
+303,Paiement de facture,Reglement de factures via compte bancaire.,support,telephone,25.97,24h,trimestriel,Support
+304,Assistance client,Support et aide apportee au client.,transactionnel,en agence,94.95,24h,mensuel,Support
+305,Souscription produit,Demande de souscription a un produit bancaire.,support,en ligne,18.4,5 jours,ponctuel,Transaction
+306,Virement local,Transfert d'argent vers un compte local.,informatif,en agence,31.74,24h,ponctuel,Information
+307,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,142.21,48h,trimestriel,Information
+308,Assistance client,Support et aide apportee au client.,informatif,telephone,10.66,48h,ponctuel,Transaction
+309,Releve bancaire,Fournit l'historique des operations du compte.,support,telephone,58.59,48h,trimestriel,Support
+310,Consultation de compte,Permet de consulter le solde et les operations.,support,en ligne,86.51,immédiat,annuel,Transaction
+311,Souscription produit,Demande de souscription a un produit bancaire.,informatif,telephone,97.94,72 heures,annuel,Transaction
+312,Assistance client,Support et aide apportee au client.,informatif,telephone,107.94,72 heures,annuel,Transaction
+313,Virement local,Transfert d'argent vers un compte local.,informatif,telephone,7.03,48h,mensuel,Support
+314,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,127.48,24h, la demande,Transaction
+315,Consultation de compte,Permet de consulter le solde et les operations.,informatif,mobile,132.07,24h,ponctuel,Information
+316,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,43.13,5 jours, la demande,Support
+317,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en ligne,88.99,5 jours,annuel,Operation
+318,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,mobile,44.86,48h,mensuel,Transaction
+319,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,telephone,11.55,5 jours,trimestriel,Information
+320,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en ligne,89.24,5 jours,annuel,Support
+321,Releve bancaire,Fournit l'historique des operations du compte.,support,telephone,117.77,48h,ponctuel,Transaction
+322,Paiement de facture,Reglement de factures via compte bancaire.,informatif,telephone,20.95,72 heures,annuel,Support
+323,Assistance client,Support et aide apportee au client.,support,en agence,36.86,immédiat,trimestriel,Transaction
+324,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en ligne,13.34,24h, la demande,Transaction
+325,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,en agence,134.53,immédiat,ponctuel,Support
+326,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,60.07,48h, la demande,Transaction
+327,Releve bancaire,Fournit l'historique des operations du compte.,informatif,mobile,78.46,48h,trimestriel,Operation
+328,Assistance client,Support et aide apportee au client.,support,mobile,53.32,5 jours,annuel,Transaction
+329,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,41.47,72 heures, la demande,Support
+330,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,mobile,68.22,5 jours,mensuel,Operation
+331,Assistance client,Support et aide apportee au client.,transactionnel,telephone,143.65,5 jours,mensuel,Operation
+332,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en agence,98.51,48h,trimestriel,Support
+333,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,telephone,146.01,24h,mensuel,Transaction
+334,Paiement de facture,Reglement de factures via compte bancaire.,support,mobile,106.59,5 jours,annuel,Support
+335,Assistance client,Support et aide apportee au client.,transactionnel,telephone,98.0,24h,trimestriel,Information
+336,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,en agence,90.0,5 jours,ponctuel,Operation
+337,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,mobile,129.11,5 jours,trimestriel,Transaction
+338,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en ligne,88.79,72 heures, la demande,Support
+339,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,telephone,78.78,48h,ponctuel,Support
+340,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,28.69,72 heures, la demande,Transaction
+341,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,121.9,immédiat,mensuel,Transaction
+342,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en agence,101.95,5 jours,trimestriel,Transaction
+343,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en ligne,81.0,72 heures,mensuel,Operation
+344,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,116.38,48h,ponctuel,Transaction
+345,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,mobile,134.86,72 heures,mensuel,Transaction
+346,Assistance client,Support et aide apportee au client.,support,mobile,62.56,24h,mensuel,Operation
+347,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,telephone,50.49,72 heures,mensuel,Operation
+348,Assistance client,Support et aide apportee au client.,support,en ligne,147.81,48h,ponctuel,Support
+349,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,mobile,28.29,24h,annuel,Support
+350,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en ligne,101.04,immédiat,trimestriel,Transaction
+351,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en agence,96.48,48h,trimestriel,Operation
+352,Depot d'argent,Depot d'especes sur un compte bancaire.,support,mobile,9.83,48h,mensuel,Information
+353,Assistance client,Support et aide apportee au client.,transactionnel,mobile,79.38,24h,trimestriel,Support
+354,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,mobile,55.36,5 jours,mensuel,Information
+355,Assistance client,Support et aide apportee au client.,transactionnel,en agence,128.25,5 jours, la demande,Support
+356,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,en ligne,39.75,immédiat,trimestriel,Operation
+357,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en agence,136.09,immédiat,annuel,Support
+358,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en ligne,35.34,48h,mensuel,Operation
+359,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,telephone,94.44,24h,annuel,Operation
+360,Releve bancaire,Fournit l'historique des operations du compte.,informatif,mobile,38.59,72 heures,ponctuel,Information
+361,Assistance client,Support et aide apportee au client.,transactionnel,telephone,53.55,24h,trimestriel,Operation
+362,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en agence,43.22,immédiat,mensuel,Operation
+363,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,telephone,15.86,24h, la demande,Support
+364,Souscription produit,Demande de souscription a un produit bancaire.,support,en ligne,91.08,24h,annuel,Support
+365,Virement local,Transfert d'argent vers un compte local.,transactionnel,en agence,51.86,immédiat,mensuel,Operation
+366,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en ligne,85.41,72 heures,mensuel,Operation
+367,Paiement de facture,Reglement de factures via compte bancaire.,support,mobile,75.64,48h,annuel,Transaction
+368,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en ligne,105.73,5 jours,ponctuel,Transaction
+369,Paiement de facture,Reglement de factures via compte bancaire.,support,en agence,33.16,immédiat, la demande,Information
+370,Virement local,Transfert d'argent vers un compte local.,transactionnel,telephone,52.0,24h, la demande,Operation
+371,Paiement de facture,Reglement de factures via compte bancaire.,informatif,telephone,100.19,immédiat,trimestriel,Support
+372,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,en agence,63.21,24h,mensuel,Information
+373,Paiement de facture,Reglement de factures via compte bancaire.,support,telephone,128.46,48h, la demande,Operation
+374,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,en agence,107.57,48h,mensuel,Information
+375,Consultation de compte,Permet de consulter le solde et les operations.,informatif,en ligne,58.84,48h,trimestriel,Operation
+376,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,telephone,88.24,48h,mensuel,Support
+377,Paiement de facture,Reglement de factures via compte bancaire.,support,en agence,94.73,72 heures,mensuel,Support
+378,Consultation de compte,Permet de consulter le solde et les operations.,informatif,telephone,107.67,24h,trimestriel,Operation
+379,Releve bancaire,Fournit l'historique des operations du compte.,informatif,en agence,127.08,5 jours,annuel,Information
+380,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,telephone,15.96,5 jours,mensuel,Transaction
+381,Demande de cheque,Service pour obtenir un nouveau chequier.,support,mobile,32.71,immédiat,ponctuel,Information
+382,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,en agence,99.84,24h,mensuel,Transaction
+383,Consultation de compte,Permet de consulter le solde et les operations.,support,telephone,96.81,72 heures,annuel,Support
+384,Assistance client,Support et aide apportee au client.,informatif,telephone,55.45,72 heures,ponctuel,Operation
+385,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,mobile,144.59,immédiat,mensuel,Information
+386,Souscription produit,Demande de souscription a un produit bancaire.,informatif,telephone,95.66,24h,mensuel,Transaction
+387,Virement local,Transfert d'argent vers un compte local.,informatif,mobile,97.28,72 heures, la demande,Transaction
+388,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,mobile,44.5,72 heures,mensuel,Operation
+389,Virement local,Transfert d'argent vers un compte local.,transactionnel,telephone,46.89,24h,trimestriel,Information
+390,Assistance client,Support et aide apportee au client.,support,mobile,16.23,72 heures,annuel,Operation
+391,Demande de cheque,Service pour obtenir un nouveau chequier.,support,telephone,53.85,5 jours,trimestriel,Operation
+392,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,mobile,118.36,immédiat,ponctuel,Transaction
+393,Releve bancaire,Fournit l'historique des operations du compte.,support,en ligne,67.16,48h,mensuel,Operation
+394,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,110.51,5 jours,trimestriel,Transaction
+395,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,en agence,84.59,24h,mensuel,Operation
+396,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,mobile,50.78,72 heures, la demande,Support
+397,Virement local,Transfert d'argent vers un compte local.,support,en ligne,67.97,24h,mensuel,Support
+398,Consultation de compte,Permet de consulter le solde et les operations.,informatif,telephone,6.76,immédiat,trimestriel,Transaction
+399,Consultation de compte,Permet de consulter le solde et les operations.,informatif,mobile,32.1,24h, la demande,Information
+400,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en agence,33.1,72 heures,mensuel,Transaction
+401,Releve bancaire,Fournit l'historique des operations du compte.,support,en ligne,18.28,5 jours,mensuel,Transaction
+402,Assistance client,Support et aide apportee au client.,support,en ligne,46.71,24h, la demande,Information
+403,Assistance client,Support et aide apportee au client.,transactionnel,mobile,4.94,48h, la demande,Information
+404,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,mobile,3.84,72 heures, la demande,Operation
+405,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,en agence,138.17,72 heures, la demande,Support
+406,Depot d'argent,Depot d'especes sur un compte bancaire.,support,mobile,112.73,72 heures,annuel,Support
+407,Virement local,Transfert d'argent vers un compte local.,transactionnel,en agence,142.63,72 heures, la demande,Information
+408,Paiement de facture,Reglement de factures via compte bancaire.,informatif,mobile,59.89,72 heures,annuel,Support
+409,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,en ligne,64.71,immédiat, la demande,Support
+410,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,telephone,75.83,48h,ponctuel,Support
+411,Releve bancaire,Fournit l'historique des operations du compte.,informatif,mobile,86.89,48h,annuel,Operation
+412,Paiement de facture,Reglement de factures via compte bancaire.,support,telephone,118.91,72 heures,annuel,Operation
+413,Virement local,Transfert d'argent vers un compte local.,transactionnel,en ligne,121.08,24h,trimestriel,Information
+414,Souscription produit,Demande de souscription a un produit bancaire.,support,en ligne,73.18,48h,annuel,Transaction
+415,Depot d'argent,Depot d'especes sur un compte bancaire.,support,en ligne,71.04,immédiat,trimestriel,Information
+416,Assistance client,Support et aide apportee au client.,transactionnel,en ligne,117.14,24h,trimestriel,Support
+417,Souscription produit,Demande de souscription a un produit bancaire.,informatif,telephone,59.66,immédiat,trimestriel,Support
+418,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,telephone,13.04,immédiat,annuel,Operation
+419,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en ligne,75.32,5 jours,annuel,Transaction
+420,Souscription produit,Demande de souscription a un produit bancaire.,support,telephone,141.4,5 jours,mensuel,Information
+421,Paiement de facture,Reglement de factures via compte bancaire.,informatif,mobile,133.42,24h, la demande,Operation
+422,Assistance client,Support et aide apportee au client.,transactionnel,telephone,93.24,48h,annuel,Information
+423,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,mobile,40.96,5 jours, la demande,Operation
+424,Depot d'argent,Depot d'especes sur un compte bancaire.,support,en ligne,130.32,5 jours,mensuel,Operation
+425,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,59.26,24h,trimestriel,Information
+426,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,120.68,24h,annuel,Support
+427,Retrait au guichet,Retrait d'argent liquide en agence.,support,en ligne,94.75,5 jours, la demande,Transaction
+428,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en ligne,23.99,immédiat,ponctuel,Support
+429,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,75.18,48h,mensuel,Transaction
+430,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,en ligne,36.07,immédiat,trimestriel,Operation
+431,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,139.23,24h,annuel,Transaction
+432,Assistance client,Support et aide apportee au client.,support,en agence,43.66,immédiat, la demande,Operation
+433,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,en agence,25.19,immédiat,mensuel,Operation
+434,Releve bancaire,Fournit l'historique des operations du compte.,transactionnel,telephone,72.59,immédiat,ponctuel,Information
+435,Virement local,Transfert d'argent vers un compte local.,support,mobile,90.66,24h,ponctuel,Information
+436,Consultation de compte,Permet de consulter le solde et les operations.,informatif,mobile,59.83,5 jours,ponctuel,Operation
+437,Virement local,Transfert d'argent vers un compte local.,support,en agence,103.54,5 jours,ponctuel,Support
+438,Souscription produit,Demande de souscription a un produit bancaire.,informatif,mobile,126.43,24h,mensuel,Transaction
+439,Consultation de compte,Permet de consulter le solde et les operations.,informatif,en ligne,38.58,24h, la demande,Operation
+440,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,mobile,136.97,48h,trimestriel,Information
+441,Assistance client,Support et aide apportee au client.,informatif,telephone,92.82,immédiat,annuel,Support
+442,Retrait au guichet,Retrait d'argent liquide en agence.,support,telephone,1.62,72 heures,mensuel,Support
+443,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,en agence,126.56,immédiat,ponctuel,Operation
+444,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,129.16,5 jours,mensuel,Transaction
+445,Retrait au guichet,Retrait d'argent liquide en agence.,support,en agence,26.81,24h,mensuel,Operation
+446,Virement local,Transfert d'argent vers un compte local.,informatif,en agence,3.75,5 jours,mensuel,Information
+447,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,81.96,24h,trimestriel,Information
+448,Assistance client,Support et aide apportee au client.,support,telephone,57.66,48h,mensuel,Operation
+449,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en agence,33.04,immédiat,annuel,Operation
+450,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,108.83,24h, la demande,Operation
+451,Retrait au guichet,Retrait d'argent liquide en agence.,transactionnel,telephone,74.12,immédiat,ponctuel,Transaction
+452,Assistance client,Support et aide apportee au client.,informatif,telephone,75.83,immédiat,annuel,Operation
+453,Depot d'argent,Depot d'especes sur un compte bancaire.,support,telephone,110.53,5 jours,ponctuel,Support
+454,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,49.96,5 jours,annuel,Support
+455,Virement local,Transfert d'argent vers un compte local.,transactionnel,telephone,66.36,immédiat,mensuel,Information
+456,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,mobile,12.55,48h,mensuel,Transaction
+457,Virement local,Transfert d'argent vers un compte local.,informatif,en agence,54.15,24h,ponctuel,Operation
+458,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,116.9,immédiat,trimestriel,Operation
+459,Releve bancaire,Fournit l'historique des operations du compte.,informatif,mobile,119.3,immédiat, la demande,Transaction
+460,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,24.57,48h,annuel,Transaction
+461,Souscription produit,Demande de souscription a un produit bancaire.,informatif,en agence,34.9,72 heures, la demande,Transaction
+462,Souscription produit,Demande de souscription a un produit bancaire.,informatif,telephone,91.5,immédiat,ponctuel,Transaction
+463,Releve bancaire,Fournit l'historique des operations du compte.,support,en ligne,149.43,72 heures,annuel,Support
+464,Assistance client,Support et aide apportee au client.,support,mobile,124.62,48h, la demande,Information
+465,Releve bancaire,Fournit l'historique des operations du compte.,informatif,mobile,107.68,immédiat,ponctuel,Transaction
+466,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,telephone,25.05,5 jours,annuel,Operation
+467,Depot d'argent,Depot d'especes sur un compte bancaire.,support,en ligne,82.27,5 jours,ponctuel,Support
+468,Virement local,Transfert d'argent vers un compte local.,support,en ligne,19.57,48h,ponctuel,Operation
+469,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,en agence,123.96,48h,ponctuel,Transaction
+470,Virement local,Transfert d'argent vers un compte local.,transactionnel,telephone,80.12,immédiat, la demande,Operation
+471,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,mobile,4.42,48h,ponctuel,Operation
+472,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en agence,9.92,72 heures,trimestriel,Information
+473,Demande de cheque,Service pour obtenir un nouveau chequier.,transactionnel,en agence,69.13,72 heures,trimestriel,Information
+474,Virement local,Transfert d'argent vers un compte local.,informatif,telephone,85.01,5 jours, la demande,Transaction
+475,Consultation de compte,Permet de consulter le solde et les operations.,transactionnel,en agence,24.53,48h,ponctuel,Support
+476,Virement local,Transfert d'argent vers un compte local.,support,en agence,46.19,48h, la demande,Support
+477,Paiement de facture,Reglement de factures via compte bancaire.,transactionnel,en agence,86.63,immédiat,ponctuel,Support
+478,Paiement de facture,Reglement de factures via compte bancaire.,informatif,telephone,74.98,72 heures,annuel,Transaction
+479,Depot d'argent,Depot d'especes sur un compte bancaire.,informatif,en agence,87.67,48h,mensuel,Operation
+480,Releve bancaire,Fournit l'historique des operations du compte.,support,telephone,110.67,immédiat,annuel,Support
+481,Demande de cheque,Service pour obtenir un nouveau chequier.,support,en ligne,118.52,72 heures,annuel,Support
+482,Demande de cheque,Service pour obtenir un nouveau chequier.,informatif,en agence,139.8,72 heures,annuel,Support
+483,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,en ligne,99.82,5 jours,ponctuel,Transaction
+484,Releve bancaire,Fournit l'historique des operations du compte.,support,mobile,143.59,48h,annuel,Support
+485,Depot d'argent,Depot d'especes sur un compte bancaire.,transactionnel,telephone,69.07,24h,trimestriel,Operation
+486,Paiement de facture,Reglement de factures via compte bancaire.,support,en ligne,8.9,48h, la demande,Transaction
+487,Retrait au guichet,Retrait d'argent liquide en agence.,support,mobile,78.62,5 jours,annuel,Support
+488,Paiement de facture,Reglement de factures via compte bancaire.,informatif,telephone,26.2,72 heures,mensuel,Transaction
+489,Paiement de facture,Reglement de factures via compte bancaire.,support,en ligne,32.24,48h,annuel,Information
+490,Souscription produit,Demande de souscription a un produit bancaire.,transactionnel,mobile,4.5,5 jours,mensuel,Operation
+491,Virement local,Transfert d'argent vers un compte local.,support,telephone,99.9,24h, la demande,Support
+492,Consultation de compte,Permet de consulter le solde et les operations.,informatif,telephone,42.93,48h,trimestriel,Transaction
+493,Consultation de compte,Permet de consulter le solde et les operations.,support,telephone,37.27,5 jours,mensuel,Operation
+494,Souscription produit,Demande de souscription a un produit bancaire.,support,telephone,119.41,48h,mensuel,Information
+495,Releve bancaire,Fournit l'historique des operations du compte.,support,en agence,82.96,5 jours,annuel,Operation
+496,Paiement de facture,Reglement de factures via compte bancaire.,informatif,en ligne,118.36,24h,annuel,Support
+497,Retrait au guichet,Retrait d'argent liquide en agence.,informatif,en ligne,124.57,48h,ponctuel,Transaction
+498,Demande de cheque,Service pour obtenir un nouveau chequier.,support,en ligne,8.48,immédiat,annuel,Transaction
+499,Assistance client,Support et aide apportee au client.,transactionnel,en ligne,40.53,immédiat,ponctuel,Operation
+500,Assistance client,Support et aide apportee au client.,support,en ligne,13.78,72 heures,mensuel,Support

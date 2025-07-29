@@ -1,0 +1,45 @@
+{
+    "tables": {
+        "clients": "",
+        "produits": "",
+        "dab": "",
+        "comptes": "",
+        "utilisateurs": "",
+        "services": "",
+        "prest": ""
+    },
+    "columns": {
+        "clients": {
+            "cin": {
+                "commentaire": "la cin dois avoir le niveau 3",
+                "niveau": 3
+            }
+        },
+        "produits": {},
+        "dab": {},
+        "comptes": {
+            "numero_compte": {
+                "commentaire": "l'attribut suivant dois etre niveau 3\n",
+                "niveau": 3
+            }
+        },
+        "utilisateurs": {
+            "statut_compte": {
+                "commentaire": "le statut dois etre de niveau 2",
+                "niveau": 2
+            }
+        },
+        "services": {
+            "cout_estime": {
+                "commentaire": "l'attribut suivant dois etre niveau 2\n",
+                "niveau": 2
+            }
+        },
+        "prest": {
+            "montant_pret": {
+                "commentaire": "le niveau est insatisfaisant ",
+                "niveau": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,501 @@
+id_produit,nom_produit,type_produit,tarif,description,niveau_risque,rendement_moyen,duree_engagement,conditions_admission,age_minimum,age_maximum
+1,produit 1,Service bancaire,9606.8,Produit ou service financier propose par la banque.,moyen,1.43,120,ainsi as deviner dont tendre seuil scne,21,65
+2,produit 2,Service bancaire,3612.32,Produit ou service financier propose par la banque.,faible,6.37,60,calme ensemble monsieur saint miser mois aider conversation amener,22,54
+3,produit 3,Service bancaire,7599.4,Produit ou service financier propose par la banque.,lev,5.72,12,sueur douter visage convenir remonter dcider inspirer tombe terre,21,50
+4,produit 4,Service bancaire,4167.78,Produit ou service financier propose par la banque.,moyen,8.39,24,pencher miser loi mer animal journal exister soldat traner hasard tendre et raconter,26,63
+5,produit 5,Service bancaire,8311.93,Produit ou service financier propose par la banque.,lev,6.84,60,beaut ternel connaissance magnifique vieux couvrir bruit mriter jeune fond diffrent parcourir,23,50
+6,produit 6,Service bancaire,9748.51,Produit ou service financier propose par la banque.,moyen,9.44,60,convenir maintenir haut remonter yeux ruine lettre,25,53
+7,produit 7,Service bancaire,5887.06,Produit ou service financier propose par la banque.,moyen,2.06,12,pied selon intrieur vert franais charger autant,21,64
+8,produit 8,Service bancaire,1786.91,Produit ou service financier propose par la banque.,faible,6.53,36,clater autour silence prter cela o passion joue,22,59
+9,produit 9,Service bancaire,4758.15,Produit ou service financier propose par la banque.,lev,3.08,6,har fuir arriver rsistance le runir quant  mon oreille indiquer briser,29,52
+10,produit 10,Service bancaire,1336.25,Produit ou service financier propose par la banque.,moyen,8.69,6,expression jour ici reste trace thtre calmer meilleur changement traverser condition retour indiquer ceci croix avoir,18,56
+11,produit 11,Service bancaire,3629.79,Produit ou service financier propose par la banque.,lev,7.12,60,deux vieillard enfin si expliquer politique dsert port curieux minute dcouvrir oeuvre consulter vouloir prsence,29,58
+12,produit 12,Service bancaire,4021.67,Produit ou service financier propose par la banque.,lev,9.4,12,lune existence lorsque accuser doigt obir rle lequel champ visage ide enfoncer donc esprer chanter briser,25,59
+13,produit 13,Service bancaire,6028.87,Produit ou service financier propose par la banque.,moyen,4.39,6,promettre obliger feuille tout me effet mais vieillard rose chaud sens chapper prochain prouver supporter toi,25,54
+14,produit 14,Service bancaire,3998.2,Produit ou service financier propose par la banque.,lev,1.52,24,importance nez pont sang noire beaux aventure champ confiance,30,65
+15,produit 15,Service bancaire,1125.02,Produit ou service financier propose par la banque.,faible,6.02,60,doute entre seigneur prier plaire colline dfaut accord rflexion silencieux humide jambe avec art aprs,18,56
+16,produit 16,Service bancaire,5215.9,Produit ou service financier propose par la banque.,faible,5.51,12,instinct deviner manquer gloire voyager danger remplacer rouge voisin changer vivre mme pice,23,54
+17,produit 17,Service bancaire,6815.97,Produit ou service financier propose par la banque.,lev,6.63,6,reconnatre observer or mme champ court temps poids souffrance cher un,22,56
+18,produit 18,Service bancaire,2545.96,Produit ou service financier propose par la banque.,moyen,2.05,6,instinct phrase huit assurer leur page plonger vie pense paysan selon eh,20,62
+19,produit 19,Service bancaire,7764.14,Produit ou service financier propose par la banque.,moyen,5.35,36,russir science cri pleurer certain ci rver enlever promener grave dfendre troisime vers,23,54
+20,produit 20,Service bancaire,4245.48,Produit ou service financier propose par la banque.,moyen,9.52,6,pourtant inutile angoisse considrer parti oeil flamme connatre queue,21,53
+21,produit 21,Service bancaire,2043.36,Produit ou service financier propose par la banque.,moyen,5.71,36,tracer sueur prvenir emporter vritable appeler peine saison natre pain proposer poitrine car,23,54
+22,produit 22,Service bancaire,8358.85,Produit ou service financier propose par la banque.,lev,1.6,24,source voir intrieur port veiller appartement sommeil conclure voir,21,65
+23,produit 23,Service bancaire,8875.42,Produit ou service financier propose par la banque.,faible,6.49,60,fil serrer capable serrer soi du socit confiance rire saison sr oreille boire,21,69
+24,produit 24,Service bancaire,213.1,Produit ou service financier propose par la banque.,lev,7.87,24,propos faon principe rencontrer confondre troubler ct gouvernement demi voile arriver portier surveiller tage fond verser,21,69
+25,produit 25,Service bancaire,1442.93,Produit ou service financier propose par la banque.,lev,8.94,36,peu trsor oh deviner rflexion quelque groupe eh,18,66
+26,produit 26,Service bancaire,9818.68,Produit ou service financier propose par la banque.,faible,2.63,60,seconde bureau recherche ventre direction honte doigt,25,57
+27,produit 27,Service bancaire,7077.68,Produit ou service financier propose par la banque.,faible,1.84,24,position davantage grand rejeter colre prouver somme crainte demain pais campagne double intrieur franchir impression,27,69
+28,produit 28,Service bancaire,8374.1,Produit ou service financier propose par la banque.,moyen,5.1,24,lever ramener papier paratre court lever pied bas asseoir force noire,22,65
+29,produit 29,Service bancaire,6752.43,Produit ou service financier propose par la banque.,lev,5.05,36,relever imposer blond position bureau tourner davantage projet chair contre article que douze devenir,18,58
+30,produit 30,Service bancaire,9532.37,Produit ou service financier propose par la banque.,faible,6.18,36,dbut type quartier voix ignorer aujourdhui situation vaste vendre dsirer sein journe apercevoir argent expression frais,25,67
+31,produit 31,Service bancaire,6071.23,Produit ou service financier propose par la banque.,moyen,8.41,36,intelligence genou remercier propos oeil oreille  pourtant lment lire o fixer on exprience,23,68
+32,produit 32,Service bancaire,9463.5,Produit ou service financier propose par la banque.,faible,6.49,6,exposer rire aile larme davantage couche fermer calme dimanche soin,30,51
+33,produit 33,Service bancaire,7755.82,Produit ou service financier propose par la banque.,moyen,1.19,36,mme dabord table petit retourner vaste trait placer comme me risquer regard sueur,21,62
+34,produit 34,Service bancaire,9048.99,Produit ou service financier propose par la banque.,lev,6.23,6,deux eaux blanc signe apparence lune semblable carter million mme,26,50
+35,produit 35,Service bancaire,8122.54,Produit ou service financier propose par la banque.,lev,7.07,24,lisser crer arbre ncessaire pont robe chambre vaincre avenir mille fine inutile surprendre,24,69
+36,produit 36,Service bancaire,8915.03,Produit ou service financier propose par la banque.,faible,5.26,120,inutile ordre libre pas accepter respirer me affirmer,20,53
+37,produit 37,Service bancaire,6636.34,Produit ou service financier propose par la banque.,lev,5.11,36,devant accord bte sable dsespoir reprendre patron,30,52
+38,produit 38,Service bancaire,9533.59,Produit ou service financier propose par la banque.,lev,6.29,36,durer payer prt tuer entourer avancer public que thtre grain mourir,23,66
+39,produit 39,Service bancaire,1892.28,Produit ou service financier propose par la banque.,moyen,3.23,6,en sourire tout parfois nombreux clairer impossible voyage caresser conscience plein rapidement soir,19,51
+40,produit 40,Service bancaire,5426.48,Produit ou service financier propose par la banque.,moyen,4.96,60,feu souvenir chair franais police nature fin sentiment sembler sommet propre vin soleil pleurer plonger lien,29,63
+41,produit 41,Service bancaire,9337.14,Produit ou service financier propose par la banque.,faible,9.47,36,justice joie poste respirer parcourir affirmer tache norme puis fumer cesse permettre dsigner inviter,23,65
+42,produit 42,Service bancaire,5537.25,Produit ou service financier propose par la banque.,faible,5.98,12,rose hors honneur pauvre mme travailler dimanche franc quelque rapport chose vieil vous,30,68
+43,produit 43,Service bancaire,1745.84,Produit ou service financier propose par la banque.,moyen,7.82,60,maison affirmer colre prvoir plus chute personnage toile remplir sombre lever ouvrage dabord lors marier,28,67
+44,produit 44,Service bancaire,3733.61,Produit ou service financier propose par la banque.,lev,2.48,60,de employer par moindre large suivant ignorer pas vide drle quel,28,68
+45,produit 45,Service bancaire,6282.75,Produit ou service financier propose par la banque.,moyen,1.23,60,victime dessiner gnral chant pousser pourquoi fois,22,53
+46,produit 46,Service bancaire,6806.13,Produit ou service financier propose par la banque.,lev,8.01,24,hors attitude soir avant inquitude inquitude accomplir repousser prire mort nuit prince appuyer,21,64
+47,produit 47,Service bancaire,710.95,Produit ou service financier propose par la banque.,moyen,2.93,36,ne former enfance contenter nergie brusquement tombe beau demeurer beau village surtout deviner battre froid,21,53
+48,produit 48,Service bancaire,3276.56,Produit ou service financier propose par la banque.,lev,4.63,36,queue bataille permettre frapper aimer ct couleur lorsque prier loin escalier,18,65
+49,produit 49,Service bancaire,4408.55,Produit ou service financier propose par la banque.,lev,8.51,24,aucun mon garon dfendre diffrent agiter fonction,26,53
+50,produit 50,Service bancaire,7522.37,Produit ou service financier propose par la banque.,faible,1.04,120,menacer habiller rejoindre aucun ruine cuisine terreur morceau plaine ct tre,29,58
+51,produit 51,Service bancaire,7865.0,Produit ou service financier propose par la banque.,moyen,4.69,12,parvenir franais bleu taire chasse image arme galement permettre bouche commun,21,53
+52,produit 52,Service bancaire,7293.19,Produit ou service financier propose par la banque.,moyen,9.72,6,exprimer tout bien fille cri mon puissance,25,69
+53,produit 53,Service bancaire,1673.18,Produit ou service financier propose par la banque.,moyen,5.72,12,expression qui cas visite social offrir prsenter vingt quelque changement rgle tmoin crier,20,67
+54,produit 54,Service bancaire,6651.06,Produit ou service financier propose par la banque.,moyen,7.74,24,commencement facile garde morceau le fortune pointe mot accord page bas interroger ordre terminer cher dclarer,20,64
+55,produit 55,Service bancaire,7452.14,Produit ou service financier propose par la banque.,moyen,9.95,120,prison vision pouvoir parti rejoindre prison vraiment poste mouvement,25,68
+56,produit 56,Service bancaire,1577.1,Produit ou service financier propose par la banque.,moyen,2.03,120,compagnie mari cependant drle menacer rle blanc corde certain juge crier groupe patron pauvre poussire,27,65
+57,produit 57,Service bancaire,8143.23,Produit ou service financier propose par la banque.,moyen,6.68,24,lorsque avec tage bout etc chaise magnifique jouer roman doux tonner accomplir devoir,22,64
+58,produit 58,Service bancaire,5136.42,Produit ou service financier propose par la banque.,moyen,8.53,120,confier tranger comprendre dsert cependant galement distinguer marier dehors prononcer caresser tuer,28,57
+59,produit 59,Service bancaire,9106.88,Produit ou service financier propose par la banque.,faible,8.56,24,plaine alors grand compter respecter  prsence travail considrer lment petit horizon,21,68
+60,produit 60,Service bancaire,3610.6,Produit ou service financier propose par la banque.,lev,6.31,36,car comment lutte rapporter vin demeurer entourer grce cesser arrire visible sige loi,29,65
+61,produit 61,Service bancaire,1291.68,Produit ou service financier propose par la banque.,moyen,2.76,36,nature certain comprendre camarade paysage rve dont,18,70
+62,produit 62,Service bancaire,4807.09,Produit ou service financier propose par la banque.,faible,7.31,24,certainement sentiment nature combien bataille affirmer plein commander jeter miser retour sembler secours mort rsister sans,18,55
+63,produit 63,Service bancaire,3832.5,Produit ou service financier propose par la banque.,faible,1.42,6,inutile an dehors relation bout bras tonner supposer mdecin chemin figure lit sueur mode,21,53
+64,produit 64,Service bancaire,6852.57,Produit ou service financier propose par la banque.,moyen,5.18,12,ncessaire prison vers eaux douze bureau rendre bureau voler sur demain crire titre prochain dsigner,25,50
+65,produit 65,Service bancaire,1193.94,Produit ou service financier propose par la banque.,faible,8.93,60,lisser madame courant recherche prcder voie tout porter mauvais petit parfaitement autrement nergie,29,64
+66,produit 66,Service bancaire,4446.88,Produit ou service financier propose par la banque.,faible,7.67,24,revenir avouer naturellement haut solitude lequel appuyer vivre obir bande pauvre quelquun,18,63
+67,produit 67,Service bancaire,1866.63,Produit ou service financier propose par la banque.,lev,5.13,60,trace condamner discuter valeur rapide bas ensuite venir tout pays habitant dsespoir tourner vite peine place,29,69
+68,produit 68,Service bancaire,6906.79,Produit ou service financier propose par la banque.,faible,5.61,120,presque calmer chemin presque entrer nature car course fond flot empcher cas davantage dabord huit diriger,19,65
+69,produit 69,Service bancaire,4672.36,Produit ou service financier propose par la banque.,faible,9.4,12,mieux conduire secours demain fin religion verre montagne puissance avis,25,51
+70,produit 70,Service bancaire,7408.6,Produit ou service financier propose par la banque.,moyen,3.22,6,million rsoudre suite surprendre dix observer deviner user cours vieux droit donc mais oh autant vague,24,70
+71,produit 71,Service bancaire,5788.08,Produit ou service financier propose par la banque.,moyen,5.59,36,fleur fin ge terminer prcipiter prsent honneur absence moins,22,65
+72,produit 72,Service bancaire,3421.09,Produit ou service financier propose par la banque.,faible,8.44,36,clef secret matin environ profondment eau doigt possder preuve cte consulter maison sol public fin prince,30,64
+73,produit 73,Service bancaire,1659.99,Produit ou service financier propose par la banque.,lev,1.4,12,accomplir pareil retomber que son votre prs planche composer,24,69
+74,produit 74,Service bancaire,3968.73,Produit ou service financier propose par la banque.,faible,3.88,120,cependant vrit commun espoir manier calme paysage prince palais capable quant  indiquer blond,23,51
+75,produit 75,Service bancaire,3989.42,Produit ou service financier propose par la banque.,faible,3.14,6,deux perte chance violence oh soumettre enfoncer besoin,29,69
+76,produit 76,Service bancaire,2341.71,Produit ou service financier propose par la banque.,faible,2.39,120,agent sentier voil peser discours pour noir aider embrasser pauvre endroit mort commencement quelque femme sans,18,63
+77,produit 77,Service bancaire,4446.62,Produit ou service financier propose par la banque.,moyen,9.73,24,flot franc exemple cheveu deviner effet adresser semblable bouche ville ensuite nom le,28,50
+78,produit 78,Service bancaire,2419.69,Produit ou service financier propose par la banque.,lev,2.61,12,glisser longtemps songer montagne voler important reculer genou comment signe officier dcouvrir condition gens bas vraiment,28,70
+79,produit 79,Service bancaire,6946.9,Produit ou service financier propose par la banque.,moyen,9.8,24,tirer soumettre baisser voile vide mriter croiser pays sept pauvre tard arrire entre terreur,21,60
+80,produit 80,Service bancaire,7042.62,Produit ou service financier propose par la banque.,lev,7.71,6,dangereux calme avec franais pouvoir dangereux service compte seigneur quarante soumettre tablir,25,67
+81,produit 81,Service bancaire,3720.36,Produit ou service financier propose par la banque.,faible,3.16,60,chercher prendre train garder face madame ramasser fte conversation or prison couvrir,18,60
+82,produit 82,Service bancaire,2321.08,Produit ou service financier propose par la banque.,faible,3.01,36,soleil bande prcis sur sant esprit direction roi plein,26,70
+83,produit 83,Service bancaire,3910.01,Produit ou service financier propose par la banque.,moyen,3.99,24,affirmer pntrer intention preuve nord emmener votre prsident parfois source supporter,20,63
+84,produit 84,Service bancaire,3221.5,Produit ou service financier propose par la banque.,faible,4.96,120,position jeu distinguer part vert taler tendre social ouvrage triste craindre accepter,23,61
+85,produit 85,Service bancaire,183.15,Produit ou service financier propose par la banque.,faible,6.61,24,voir peuple contre retrouver vague examiner barbe nul page parcourir,18,67
+86,produit 86,Service bancaire,5362.87,Produit ou service financier propose par la banque.,moyen,3.6,12,tout naissance promener glisser intrieur parler cela particulier prvenir rsistance propos bte tirer se social descendre,30,56
+87,produit 87,Service bancaire,9291.02,Produit ou service financier propose par la banque.,lev,6.24,120,ruine conseil tombe endroit tage finir gnral,26,68
+88,produit 88,Service bancaire,6592.42,Produit ou service financier propose par la banque.,moyen,6.05,60,tantt quant  accord tage croix emporter malgr membre tour l vraiment nuit promener haine inconnu,20,62
+89,produit 89,Service bancaire,3205.05,Produit ou service financier propose par la banque.,faible,1.31,120,police dieu dimanche prendre victime soit trouver frapper prononcer discussion riche membre,20,60
+90,produit 90,Service bancaire,722.8,Produit ou service financier propose par la banque.,faible,5.34,60,ignorer rver retirer mari maison rponse force ouvrir sommeil encore vide,30,64
+91,produit 91,Service bancaire,848.01,Produit ou service financier propose par la banque.,lev,2.81,60,printemps jeu danger rsistance bas del mari hauteur reposer phrase camarade rflexion,22,68
+92,produit 92,Service bancaire,2257.01,Produit ou service financier propose par la banque.,faible,5.09,12,second herbe secret acheter garon intention pas placer,22,58
+93,produit 93,Service bancaire,5346.61,Produit ou service financier propose par la banque.,faible,7.02,60,devant mine claire prvoir teindre trop crise campagne nul rclamer,25,63
+94,produit 94,Service bancaire,1208.79,Produit ou service financier propose par la banque.,moyen,4.75,6,tablir face foi caresser bien bas garder imposer lien force visage froid,24,58
+95,produit 95,Service bancaire,861.76,Produit ou service financier propose par la banque.,faible,9.45,36,en rouge sans valoir motion sommeil fruit saluer tre,30,60
+96,produit 96,Service bancaire,1596.57,Produit ou service financier propose par la banque.,faible,2.15,120,espace absence cder chaque autrefois oui porte magnifique veille effet bois,30,58
+97,produit 97,Service bancaire,487.35,Produit ou service financier propose par la banque.,lev,5.59,6,aimer moment chez toile cheveu apparence principe toit sou risquer,19,58
+98,produit 98,Service bancaire,6940.78,Produit ou service financier propose par la banque.,faible,6.25,36,horizon atteindre tout place nuage voisin jeune danser possder cole perte conscience piti,19,69
+99,produit 99,Service bancaire,5398.92,Produit ou service financier propose par la banque.,faible,7.97,60,dautres attendre jamais environ habiter carter creuser bas lueur connaissance autrement propos tmoin poque user pouvoir,27,58
+100,produit 100,Service bancaire,4529.63,Produit ou service financier propose par la banque.,moyen,5.98,120,secrtaire souffrance troit abandonner fixe tomber droite fait tude maintenant craindre fois inconnu chemise minute,29,53
+101,produit 101,Service bancaire,8952.99,Produit ou service financier propose par la banque.,lev,1.99,60,sortir lire maladie bleu fortune poche traverser subir profondment manger droite endroit cte,21,50
+102,produit 102,Service bancaire,5259.84,Produit ou service financier propose par la banque.,faible,3.91,60,agent pas lequel digne chance amener sonner peser route sicle arriver pendant cole,30,68
+103,produit 103,Service bancaire,8738.97,Produit ou service financier propose par la banque.,moyen,8.67,60,lorsque banc tout livrer nez transformer relever air exister discussion soumettre crire rare maintenant partager,18,67
+104,produit 104,Service bancaire,2750.93,Produit ou service financier propose par la banque.,faible,2.95,120,recevoir sparer avec pouvoir fou noire clair nommer train couler parole ne parent former maintenir,18,60
+105,produit 105,Service bancaire,5573.38,Produit ou service financier propose par la banque.,lev,2.01,120,encore remercier nouveau motion taire perdu robe conseil usage libert champ souffrance yeux juste selon douleur,18,60
+106,produit 106,Service bancaire,9811.19,Produit ou service financier propose par la banque.,lev,2.99,120,forme penser prsence bien franchir lune noir faute souffler endormir,26,63
+107,produit 107,Service bancaire,5943.96,Produit ou service financier propose par la banque.,lev,2.66,6,perte rver militaire courage car distance placer auquel avant,30,57
+108,produit 108,Service bancaire,1062.41,Produit ou service financier propose par la banque.,lev,4.73,24,voyage port montagne blanc noir roche soutenir contenir,24,50
+109,produit 109,Service bancaire,9611.94,Produit ou service financier propose par la banque.,faible,2.45,24,impossible pauvre extraordinaire divers convenir pourquoi coin dormir plusieurs,24,64
+110,produit 110,Service bancaire,7780.22,Produit ou service financier propose par la banque.,faible,5.55,12,remettre compagnon important certes rapidement demain campagne tout peau village loi fuir pour craindre,29,61
+111,produit 111,Service bancaire,5284.49,Produit ou service financier propose par la banque.,faible,4.57,12,usage prix entourer prcis nous aprs champ embrasser abattre toit,18,64
+112,produit 112,Service bancaire,6256.75,Produit ou service financier propose par la banque.,lev,8.05,24,nul diriger image avouer del justice oeil fou pas second groupe supporter rejeter soi,27,60
+113,produit 113,Service bancaire,841.03,Produit ou service financier propose par la banque.,faible,4.5,60,chance distance enfermer enfant absolument chef conduire commencement centre menacer fort aide rsultat ensuite mariage,20,50
+114,produit 114,Service bancaire,2318.51,Produit ou service financier propose par la banque.,lev,8.59,120,surprendre souhaiter service lumire militaire tracer placer deux,24,61
+115,produit 115,Service bancaire,9689.32,Produit ou service financier propose par la banque.,moyen,5.46,6,carte nerveux histoire aprs prsent rflexion fortune chaud terminer a paupire homme rang,30,63
+116,produit 116,Service bancaire,3608.79,Produit ou service financier propose par la banque.,lev,6.69,12,son voix te terrible parvenir voix rveiller,18,59
+117,produit 117,Service bancaire,6273.85,Produit ou service financier propose par la banque.,faible,3.73,60,maison rpter haut divers dautres puissance ramener,27,62
+118,produit 118,Service bancaire,6527.53,Produit ou service financier propose par la banque.,moyen,3.44,6,dernier habiter pied joindre face livrer naturellement herbe journal bte puisque puissant instinct del,26,62
+119,produit 119,Service bancaire,8768.82,Produit ou service financier propose par la banque.,lev,9.39,24,terme chapper plonger envelopper notre eaux sauver fidle branche or indiquer quarante mais chiffre plusieurs approcher,21,54
+120,produit 120,Service bancaire,8485.5,Produit ou service financier propose par la banque.,faible,5.25,12,cheveu avenir seuil pourquoi trs au homme pas escalier fois important couter dsigner cabinet,22,67
+121,produit 121,Service bancaire,3916.93,Produit ou service financier propose par la banque.,faible,9.25,36,pareil lutter sembler prtendre arrive agent colon du ramasser srieux danger plus abattre thtre,19,56
+122,produit 122,Service bancaire,3704.34,Produit ou service financier propose par la banque.,moyen,5.41,24,loin sien accuser ramasser divers bras toi hauteur dangereux cheval,26,62
+123,produit 123,Service bancaire,5089.46,Produit ou service financier propose par la banque.,faible,7.19,60,inconnu chambre compte ncessaire songer jeune apparence nombreux tard demain rve phrase sembler fort songer,21,68
+124,produit 124,Service bancaire,3191.69,Produit ou service financier propose par la banque.,faible,5.66,24,regarder meilleur seul natre tenir rappeler mme,22,70
+125,produit 125,Service bancaire,8419.95,Produit ou service financier propose par la banque.,lev,6.75,60,t plaine haute vide entraner souvent dcouvrir qualit,26,61
+126,produit 126,Service bancaire,5502.68,Produit ou service financier propose par la banque.,lev,2.12,12,cinq porte semaine commander rencontrer protger trace place dposer soir prcis danser,18,63
+127,produit 127,Service bancaire,3892.43,Produit ou service financier propose par la banque.,moyen,6.52,12,rester haut inspirer installer perdre loin dos aller consulter ton un terrible,23,69
+128,produit 128,Service bancaire,8121.33,Produit ou service financier propose par la banque.,moyen,4.92,12,nous juste grand carter ville rserver oser mois recueillir jeune convenir regarder entretenir rapporter nouveau tenter,20,57
+129,produit 129,Service bancaire,5434.84,Produit ou service financier propose par la banque.,faible,8.26,36,jambe dsormais ni joue question couvrir connaissance ennemi puis beau,23,57
+130,produit 130,Service bancaire,1315.38,Produit ou service financier propose par la banque.,faible,6.52,60,prononcer droit droit jeunesse clair lutte le nul complet droit haut plusieurs,29,61
+131,produit 131,Service bancaire,6384.33,Produit ou service financier propose par la banque.,moyen,8.52,120,casser interroger oiseau manquer colline ici bas minute enlever prochain signe secrtaire,30,51
+132,produit 132,Service bancaire,9060.34,Produit ou service financier propose par la banque.,faible,9.05,6,tromper trs surprendre curiosit retour vritable reprsenter cabinet habitant,19,64
+133,produit 133,Service bancaire,898.59,Produit ou service financier propose par la banque.,faible,4.78,60,offrir contraire gens retomber relever soin carter journe,22,61
+134,produit 134,Service bancaire,1421.84,Produit ou service financier propose par la banque.,moyen,6.94,60,assurer discussion consentir moi autant ci recommencer caractre clairer,22,58
+135,produit 135,Service bancaire,2309.78,Produit ou service financier propose par la banque.,moyen,7.0,24,avis journal souvenir pointe troisime devoir cacher quand bon nous fier moindre,19,70
+136,produit 136,Service bancaire,6995.52,Produit ou service financier propose par la banque.,lev,1.66,120,tre rsister esprit tapis dire faux franais carter police parti tenir sept pourquoi,21,55
+137,produit 137,Service bancaire,7385.96,Produit ou service financier propose par la banque.,faible,8.44,36,oui colre socit spectacle interroger propre prsent argent tellement esprit dsir printemps caractre chute rel valoir,28,63
+138,produit 138,Service bancaire,8581.78,Produit ou service financier propose par la banque.,lev,1.45,36,muet mme paule renverser intresser haute demeurer fentre placer machine moindre veille ensemble avis,24,70
+139,produit 139,Service bancaire,9601.05,Produit ou service financier propose par la banque.,moyen,5.24,120,important instant chaise oui profondment lever dont,28,54
+140,produit 140,Service bancaire,7153.06,Produit ou service financier propose par la banque.,faible,1.72,6,nous tendre oncle figurer agiter sant quinze douze lment,22,50
+141,produit 141,Service bancaire,2381.57,Produit ou service financier propose par la banque.,moyen,3.22,36,tache avouer journe eh travail longtemps frapper gauche depuis matin aprs masse,26,55
+142,produit 142,Service bancaire,276.65,Produit ou service financier propose par la banque.,faible,6.78,36,souffrir anglais plein direction forme tomber avant sourire,25,65
+143,produit 143,Service bancaire,7554.06,Produit ou service financier propose par la banque.,lev,3.0,120,souvenir nombreux place vouloir trace secret grce genre partie paquet,22,54
+144,produit 144,Service bancaire,3312.57,Produit ou service financier propose par la banque.,lev,3.03,60,vouloir rel clater impossible supporter tombe impression forme madame pas tat tablir professeur plaisir,20,54
+145,produit 145,Service bancaire,1368.67,Produit ou service financier propose par la banque.,moyen,5.29,12,promettre entier face interrompre arrter barbe patron rose,25,64
+146,produit 146,Service bancaire,3684.91,Produit ou service financier propose par la banque.,lev,4.05,12,mince devant demi bonheur prix rejeter toute,19,66
+147,produit 147,Service bancaire,8784.91,Produit ou service financier propose par la banque.,faible,1.84,24,promener de perdu diriger dsirer choix seuil longtemps tout pont,26,59
+148,produit 148,Service bancaire,9953.28,Produit ou service financier propose par la banque.,faible,7.4,12,aider cheveu mariage baisser apparence course commander genou fruit beau minute livrer longtemps frapper deviner,26,57
+149,produit 149,Service bancaire,8288.34,Produit ou service financier propose par la banque.,lev,7.89,36,attirer bas cesse sortir capable vague fait imaginer voil visage chute jeune,26,66
+150,produit 150,Service bancaire,1845.83,Produit ou service financier propose par la banque.,faible,7.82,120,camarade imposer terreur cole fort matire crire,22,64
+151,produit 151,Service bancaire,9012.13,Produit ou service financier propose par la banque.,lev,7.23,60,donc leur compagnie seconde dur pas secrtaire vers danser trange,30,67
+152,produit 152,Service bancaire,3748.21,Produit ou service financier propose par la banque.,lev,8.12,24,pleurer soudain un certainement malgr an roi eaux paquet semblable voici cruel expliquer toi,25,65
+153,produit 153,Service bancaire,8816.55,Produit ou service financier propose par la banque.,lev,7.31,120,prier touffer entier sourire essayer faible trsor bande mort faon monter juge essayer ventre simple vide,21,68
+154,produit 154,Service bancaire,5309.62,Produit ou service financier propose par la banque.,faible,2.18,120,abattre humide dsert queue grave sept trente auprs vague boire soudain anglais froid jouer,18,54
+155,produit 155,Service bancaire,3173.82,Produit ou service financier propose par la banque.,faible,8.67,120,confondre oui un paupire rideau droit bien beau tonner,28,70
+156,produit 156,Service bancaire,5961.32,Produit ou service financier propose par la banque.,moyen,4.7,36,dessus lumire large prier espce mais remplir rencontre propre trop partager moyen,28,64
+157,produit 157,Service bancaire,6678.61,Produit ou service financier propose par la banque.,faible,5.68,60,certain sonner soudain exprimer croire ciel semaine employer mince chute route reconnatre claire,26,63
+158,produit 158,Service bancaire,7204.04,Produit ou service financier propose par la banque.,lev,9.28,12,supporter dehors absence difficile trouver deviner joie toucher trouver,27,60
+159,produit 159,Service bancaire,7214.6,Produit ou service financier propose par la banque.,lev,3.95,60,branche apprendre tche poste agiter rapport curieux animer reculer nerveux art naturel suprieur dposer,20,52
+160,produit 160,Service bancaire,7152.19,Produit ou service financier propose par la banque.,moyen,7.73,12,folie envie plan chose tre service haute main instinct faim habiter regarder clater vtement naturel,21,70
+161,produit 161,Service bancaire,9616.21,Produit ou service financier propose par la banque.,faible,1.79,24,fin ordre suffire complet loin bonheur dormir menacer avancer durant qui public prcis,25,56
+162,produit 162,Service bancaire,4925.42,Produit ou service financier propose par la banque.,moyen,2.24,120,vous thtre est tre dabord instant parole tendre visite pendant,21,66
+163,produit 163,Service bancaire,3852.82,Produit ou service financier propose par la banque.,moyen,3.63,60,eh roche rsultat signe tel ni aussi plus souhaiter montrer danger me,27,65
+164,produit 164,Service bancaire,5744.9,Produit ou service financier propose par la banque.,lev,5.31,120,pas cent mon si couler manquer fuir paquet importer aimer forcer,28,54
+165,produit 165,Service bancaire,301.22,Produit ou service financier propose par la banque.,lev,7.46,6,paratre ce madame rsultat oeil figure bout fauteuil malade alors juge puissance haut celui imaginer accord,18,50
+166,produit 166,Service bancaire,7449.31,Produit ou service financier propose par la banque.,faible,5.54,36,consentir flot femme sortir autant blanc par voici gnral acheter discuter,28,63
+167,produit 167,Service bancaire,671.32,Produit ou service financier propose par la banque.,faible,3.88,24,pour piti compagnie prsence ancien rose inutile,25,60
+168,produit 168,Service bancaire,3467.93,Produit ou service financier propose par la banque.,moyen,8.8,6,loi moins saint attendre fruit dessus runir vouloir sonner heure remettre,27,62
+169,produit 169,Service bancaire,1071.73,Produit ou service financier propose par la banque.,lev,8.06,6,poste recommencer prouver sommeil pense mon lger travailler crainte ah ensemble toile expression content menacer,28,66
+170,produit 170,Service bancaire,115.49,Produit ou service financier propose par la banque.,moyen,6.68,24,demain pntrer rve toute douleur accompagner surprendre fusil,26,65
+171,produit 171,Service bancaire,2801.68,Produit ou service financier propose par la banque.,lev,2.57,120,rapide drame pendant rencontrer sauvage rentrer rouler hauteur manquer dsormais,28,59
+172,produit 172,Service bancaire,9590.19,Produit ou service financier propose par la banque.,moyen,4.15,120,vite goutte habitant joue espoir hors contraire prononcer rouge deux doigt spectacle ce revoir apercevoir,20,69
+173,produit 173,Service bancaire,8179.51,Produit ou service financier propose par la banque.,faible,8.68,24,bord poitrine lutte combien hier prononcer ternel dix rocher importer demi cri devoir si,19,64
+174,produit 174,Service bancaire,5904.6,Produit ou service financier propose par la banque.,faible,7.69,6,colon sur srieux soldat danser aller vaincre confier tracer dimanche,20,70
+175,produit 175,Service bancaire,8659.99,Produit ou service financier propose par la banque.,moyen,2.85,12,proposer changer confier baisser poitrine parcourir clair profond appuyer puissance acte chercher peuple drame,23,57
+176,produit 176,Service bancaire,4686.63,Produit ou service financier propose par la banque.,lev,5.03,36,exister anglais article blanc phrase fumer meilleur franais gauche doux,25,64
+177,produit 177,Service bancaire,2581.84,Produit ou service financier propose par la banque.,lev,8.08,12,seul calme dangereux paupire en rve promettre dsigner classe fleur lettre l,24,60
+178,produit 178,Service bancaire,8556.65,Produit ou service financier propose par la banque.,moyen,1.43,120,roman conscience lors angoisse avouer et public feuille comment oeil,19,50
+179,produit 179,Service bancaire,7117.71,Produit ou service financier propose par la banque.,lev,4.94,6,voile forme bientt confiance vrai joie pass peine donner nu ge,22,50
+180,produit 180,Service bancaire,9133.37,Produit ou service financier propose par la banque.,faible,6.67,120,sentiment brler pour chiffre prs sous sentiment notre voir journal anne monde honte,28,55
+181,produit 181,Service bancaire,395.48,Produit ou service financier propose par la banque.,moyen,1.77,120,semblable naturellement quarante cours noir faute colline ou rien patron de inutile croire et pense circonstance,27,69
+182,produit 182,Service bancaire,4865.56,Produit ou service financier propose par la banque.,moyen,9.97,36,honte diriger saluer rencontrer honte voil scne terre couler absence attitude bas blanc,29,63
+183,produit 183,Service bancaire,7653.16,Produit ou service financier propose par la banque.,lev,3.46,12,militaire impression un aide ramasser avant aucun riche recommencer ncessaire printemps pouvoir marcher norme rserver,30,52
+184,produit 184,Service bancaire,1285.1,Produit ou service financier propose par la banque.,faible,3.61,12,avouer commander combat pote seul sentir libre paupire tel pencher ami camarade,23,62
+185,produit 185,Service bancaire,5054.47,Produit ou service financier propose par la banque.,faible,8.04,120,devant anne rassurer spectacle ventre mdecin exister placer monter,18,56
+186,produit 186,Service bancaire,3547.82,Produit ou service financier propose par la banque.,faible,4.48,60,quand exister porte nuit vie entourer plan sauter fixe,23,54
+187,produit 187,Service bancaire,3326.65,Produit ou service financier propose par la banque.,moyen,7.55,36,fort papa avenir printemps genre vers type pourquoi dresser voix avis demeurer monter animal,25,56
+188,produit 188,Service bancaire,7320.02,Produit ou service financier propose par la banque.,moyen,9.73,6,rsultat marche assister ensuite bord sens classe pain doux puis terrain lieu vritable quarante arriver,29,51
+189,produit 189,Service bancaire,1840.99,Produit ou service financier propose par la banque.,lev,3.02,60,riche lier midi rclamer il rponse mal escalier puisque employer huit esprit cruel,22,64
+190,produit 190,Service bancaire,2753.49,Produit ou service financier propose par la banque.,lev,4.74,120,ton porter forme cabinet fatiguer haut passion vouloir vivant sol secrtaire quartier soin mari htel,19,55
+191,produit 191,Service bancaire,972.86,Produit ou service financier propose par la banque.,lev,7.28,60,essuyer envelopper ennemi fleur possder race crer corps prsence placer calme terrain charge,21,62
+192,produit 192,Service bancaire,1162.44,Produit ou service financier propose par la banque.,lev,4.55,36,race verser mensonge conseil amour patron homme transformer quand leur aprs rare complet coup relation scne,23,62
+193,produit 193,Service bancaire,2631.1,Produit ou service financier propose par la banque.,lev,8.81,6,del hier quelquun entendre inventer disposer accomplir mtier,27,60
+194,produit 194,Service bancaire,6332.52,Produit ou service financier propose par la banque.,moyen,4.54,36,nation quoi papier mme chemin guerre de demi adresser agiter politique travailler mode,21,50
+195,produit 195,Service bancaire,6554.26,Produit ou service financier propose par la banque.,faible,4.51,120,plein avant durer faon tche bataille plaire ensemble bruit a avance former vague observer,19,51
+196,produit 196,Service bancaire,6820.34,Produit ou service financier propose par la banque.,moyen,3.33,36,nation temps t plusieurs voiture creuser pencher appeler tapis apparatre pote nuit lune avance,26,64
+197,produit 197,Service bancaire,8723.84,Produit ou service financier propose par la banque.,lev,1.97,12,eh quatre lutte russir beaucoup succs en ce loin mari employer travers dessiner tablir,29,70
+198,produit 198,Service bancaire,7674.96,Produit ou service financier propose par la banque.,faible,8.86,120,avouer obtenir femme tendre nu bien clat dpart nord rgle,29,65
+199,produit 199,Service bancaire,6083.09,Produit ou service financier propose par la banque.,moyen,9.38,36,aprs officier flot briller terre reconnatre goutte minute drame aujourdhui mener ressembler,28,55
+200,produit 200,Service bancaire,3237.34,Produit ou service financier propose par la banque.,lev,5.9,36,lever regarder large ressembler mme battre trouver,25,65
+201,produit 201,Service bancaire,3412.93,Produit ou service financier propose par la banque.,moyen,5.65,60,je million sentier entrer caresser souvenir suite sauver,29,51
+202,produit 202,Service bancaire,982.8,Produit ou service financier propose par la banque.,faible,7.24,60,perte bataille quitter affaire diffrent rien recevoir jeter secrtaire subir sant mine,24,69
+203,produit 203,Service bancaire,9311.44,Produit ou service financier propose par la banque.,moyen,3.63,60,police autrement cuisine quitter affirmer chanter salle ennemi chance,20,65
+204,produit 204,Service bancaire,591.3,Produit ou service financier propose par la banque.,faible,6.16,12,couper livre fonction animer bientt bois de secret dangereux preuve neuf cacher ramener prs mort,30,53
+205,produit 205,Service bancaire,9808.03,Produit ou service financier propose par la banque.,moyen,5.58,12,curiosit souffrir place semaine premier menacer avoir,25,58
+206,produit 206,Service bancaire,295.14,Produit ou service financier propose par la banque.,faible,3.25,60,type mari anglais race rver double attitude monter seulement dessus dpasser train,26,59
+207,produit 207,Service bancaire,3661.09,Produit ou service financier propose par la banque.,moyen,1.75,12,taler personne sige suffire accuser manier femme membre effet lentement rouge pluie sorte chien notre,29,69
+208,produit 208,Service bancaire,5310.38,Produit ou service financier propose par la banque.,faible,7.3,120,souffler notre devant calme combien calmer discussion propre nombre lit dbut agent,23,52
+209,produit 209,Service bancaire,3596.62,Produit ou service financier propose par la banque.,moyen,7.78,36,rvolution en officier mois courage bientt exprience pendre dposer oublier inquiter tt cour,24,61
+210,produit 210,Service bancaire,5623.95,Produit ou service financier propose par la banque.,faible,2.4,120,enfance cou secret espce matin march teindre passage conscience,23,61
+211,produit 211,Service bancaire,6938.95,Produit ou service financier propose par la banque.,moyen,6.01,120,tranquille apercevoir science revoir endormir but lever chance marchand long autre professeur travers presque sonner,18,63
+212,produit 212,Service bancaire,156.85,Produit ou service financier propose par la banque.,lev,2.36,12,sec russir que inspirer rsoudre rle sol consulter,26,55
+213,produit 213,Service bancaire,9291.02,Produit ou service financier propose par la banque.,faible,4.21,12,lun clat dans plein tapis court vieux parmi achever oiseau dcider ah mme,26,64
+214,produit 214,Service bancaire,6163.42,Produit ou service financier propose par la banque.,faible,4.37,12,intelligence respirer commander seul tantt dtacher empcher qualit durant travail espace lever digne rang taille,23,69
+215,produit 215,Service bancaire,3073.18,Produit ou service financier propose par la banque.,faible,4.69,120,penser naturel envie lui signe amener dbut sauter charge joue emporter davantage t chaque,22,65
+216,produit 216,Service bancaire,4182.37,Produit ou service financier propose par la banque.,lev,4.24,6,couler dautres choix cent atteindre ombre dent soulever jardin,25,54
+217,produit 217,Service bancaire,2529.36,Produit ou service financier propose par la banque.,faible,9.31,6,casser livrer ligne paysan prochain protger rouge qui reprendre dtruire,26,61
+218,produit 218,Service bancaire,5310.72,Produit ou service financier propose par la banque.,faible,9.41,36,professeur salut charger recevoir frre sourd professeur vtir,23,62
+219,produit 219,Service bancaire,8206.37,Produit ou service financier propose par la banque.,moyen,7.75,120,entier rappeler raconter foi chapper mentir table calmer souffler tudier vin pice,28,60
+220,produit 220,Service bancaire,1200.03,Produit ou service financier propose par la banque.,faible,3.88,6,briller  rassurer tirer regard honte enlever ici faux tranger subir,19,50
+221,produit 221,Service bancaire,9054.35,Produit ou service financier propose par la banque.,lev,9.01,36,bleu fonder arriver attaquer soi offrir envoyer court aide,25,69
+222,produit 222,Service bancaire,8056.78,Produit ou service financier propose par la banque.,moyen,3.28,36,trs lequel jardin poitrine obtenir forcer justice entretenir charger fortune machine effort,19,68
+223,produit 223,Service bancaire,4520.71,Produit ou service financier propose par la banque.,lev,5.93,36,tmoin ordre sorte foi jamais rsistance traiter face pain rire esprit,24,56
+224,produit 224,Service bancaire,7879.48,Produit ou service financier propose par la banque.,moyen,4.5,24,tout puissant attendre craindre aucun beaux fixe dame respecter,21,57
+225,produit 225,Service bancaire,3073.45,Produit ou service financier propose par la banque.,moyen,4.98,120,discussion jeter compter regard tat suffire vieux hsiter reposer noire trop,27,63
+226,produit 226,Service bancaire,2066.46,Produit ou service financier propose par la banque.,moyen,6.19,12,couvrir curieux rejoindre propos naturellement avant lvre rappeler pied,20,63
+227,produit 227,Service bancaire,5069.79,Produit ou service financier propose par la banque.,lev,9.32,24,matre haut envoyer plante tour tudier pont roi par crise eh surveiller maintenir rvolution abattre,18,55
+228,produit 228,Service bancaire,4900.74,Produit ou service financier propose par la banque.,faible,5.94,120,te premier ombre appartenir histoire souvenir cesse fond voix,25,57
+229,produit 229,Service bancaire,9870.74,Produit ou service financier propose par la banque.,faible,3.91,12,franais agir rveiller expression achever accrocher mine calmer cte long,19,69
+230,produit 230,Service bancaire,185.86,Produit ou service financier propose par la banque.,lev,1.04,36,personne promettre marier frais terre compagnon garde aussitt grain appartement comment pass certainement toit aller commencer,20,63
+231,produit 231,Service bancaire,6280.71,Produit ou service financier propose par la banque.,lev,6.07,12,guerre fruit confondre franais vieillard rompre gal dame roi couper rapidement compltement voici plein main,27,52
+232,produit 232,Service bancaire,3618.49,Produit ou service financier propose par la banque.,lev,5.38,12,muet faible hier soumettre combien crer enfin mettre dimanche as pointe,24,62
+233,produit 233,Service bancaire,5764.19,Produit ou service financier propose par la banque.,lev,9.42,60,important notre dessus intrieur libert sein avec grave mauvais juste souffrir calmer triste,19,69
+234,produit 234,Service bancaire,1022.03,Produit ou service financier propose par la banque.,moyen,5.36,120,conclure adresser peau dsormais prcipiter en certainement,21,62
+235,produit 235,Service bancaire,3711.9,Produit ou service financier propose par la banque.,lev,4.97,60,comme devoir rle ruine mur bras sourire,26,61
+236,produit 236,Service bancaire,4558.97,Produit ou service financier propose par la banque.,moyen,5.55,60,pre comprendre chef toujours rire fatiguer vieil chien vert pice contraire surtout dur ct accuser bon,28,61
+237,produit 237,Service bancaire,4581.56,Produit ou service financier propose par la banque.,faible,2.02,120,garder moyen que calme moment davantage semblable,27,67
+238,produit 238,Service bancaire,9595.98,Produit ou service financier propose par la banque.,moyen,9.62,120,goutte vague art veille presser surtout instant enfermer toujours contenir bois,27,62
+239,produit 239,Service bancaire,9196.31,Produit ou service financier propose par la banque.,faible,8.6,24,prouver dessus condition seconde humide un dfaut quelque inconnu recommencer,20,60
+240,produit 240,Service bancaire,2584.65,Produit ou service financier propose par la banque.,moyen,5.35,12,souvenir partir ce accord discours cesse course chant adresser suivre poussire poitrine violence facile fentre poussire,25,70
+241,produit 241,Service bancaire,885.65,Produit ou service financier propose par la banque.,faible,5.57,60,haut droit intention signifier journal comme enlever prsenter dsormais espace gens,25,64
+242,produit 242,Service bancaire,3896.53,Produit ou service financier propose par la banque.,faible,8.07,60,inconnu arme envie prter prsent apparence erreur fille,19,67
+243,produit 243,Service bancaire,8342.8,Produit ou service financier propose par la banque.,moyen,3.99,36,fils prison accepter si plaindre bord rsister ensemble as,27,67
+244,produit 244,Service bancaire,1355.65,Produit ou service financier propose par la banque.,faible,8.33,6,peau lourd vide lentement ouvrir conversation fuir lieu construire dormir,28,50
+245,produit 245,Service bancaire,3304.5,Produit ou service financier propose par la banque.,faible,3.88,24,meilleur leur prochain carte taire apparence trois interrompre grce vtir prince marcher,29,53
+246,produit 246,Service bancaire,2378.14,Produit ou service financier propose par la banque.,moyen,5.95,24,tout rpondre ciel cder animer saint recevoir crise former bureau figurer foi,18,60
+247,produit 247,Service bancaire,764.86,Produit ou service financier propose par la banque.,faible,3.5,12,mriter plan parcourir dtruire page ensemble science eaux examiner riche,22,63
+248,produit 248,Service bancaire,8611.32,Produit ou service financier propose par la banque.,lev,8.83,6,empire nation mensonge lueur matin oeuvre naissance,20,56
+249,produit 249,Service bancaire,2419.5,Produit ou service financier propose par la banque.,faible,7.97,36,branche moment mourir agir terme rsultat lequel leur arrter,23,57
+250,produit 250,Service bancaire,3781.41,Produit ou service financier propose par la banque.,faible,8.89,24,del emporter prs charger secret hors part reprsenter charge dans dsir premier,27,65
+251,produit 251,Service bancaire,9333.75,Produit ou service financier propose par la banque.,lev,7.03,6,beau seigneur sec entretenir pntrer encore tirer rang,27,62
+252,produit 252,Service bancaire,5087.31,Produit ou service financier propose par la banque.,lev,7.34,60,bte absolu bonheur succs joue nature quelque dgager travers particulier esprer bientt embrasser tu fond,24,50
+253,produit 253,Service bancaire,4951.86,Produit ou service financier propose par la banque.,moyen,7.88,24,milieu usage vent volont sourire course personnage encore fortune dont faon ancien chute,28,65
+254,produit 254,Service bancaire,6551.24,Produit ou service financier propose par la banque.,lev,2.32,120,haut fille fort on rire libre plan fil court vue angoisse dresser quelque frre,30,65
+255,produit 255,Service bancaire,4704.19,Produit ou service financier propose par la banque.,moyen,3.23,60,toujours intresser ventre rpondre prs jambe sac succs,25,64
+256,produit 256,Service bancaire,5852.34,Produit ou service financier propose par la banque.,lev,7.52,36,espce amener risquer puissance demeurer remarquer part paquet science,24,63
+257,produit 257,Service bancaire,5735.27,Produit ou service financier propose par la banque.,lev,6.12,36,occuper pencher dsespoir champ troubler tt autre franais oser,26,60
+258,produit 258,Service bancaire,9763.21,Produit ou service financier propose par la banque.,faible,7.18,24,oui place commander bande sien grave ncessaire couler vers parfaitement main ramener chute,22,61
+259,produit 259,Service bancaire,4492.53,Produit ou service financier propose par la banque.,faible,6.41,12,disparatre durer pourquoi gauche fentre gloire somme as franais,27,50
+260,produit 260,Service bancaire,270.46,Produit ou service financier propose par la banque.,moyen,6.51,120,autour dabord premier rare crer droite ferme ressembler obtenir de,20,54
+261,produit 261,Service bancaire,3621.35,Produit ou service financier propose par la banque.,moyen,5.65,24,rejeter vert bras rapidement ligne grain bras douter prvenir or secret impossible oiseau,22,62
+262,produit 262,Service bancaire,255.43,Produit ou service financier propose par la banque.,lev,3.74,6,tendre mine interroger vivre charge respect traiter lier disparatre autour feu,29,61
+263,produit 263,Service bancaire,5048.76,Produit ou service financier propose par la banque.,faible,5.13,24,quart suite autant confier esprit a respecter lien protger libert souhaiter galement rflexion accord geste,21,68
+264,produit 264,Service bancaire,8417.65,Produit ou service financier propose par la banque.,lev,9.51,36,nord trois position tranquille environ social faible tout clef vision endroit mme moment gauche prsent,20,58
+265,produit 265,Service bancaire,5580.8,Produit ou service financier propose par la banque.,lev,8.91,60,puis patron rduire action militaire approcher enfoncer,25,51
+266,produit 266,Service bancaire,6745.44,Produit ou service financier propose par la banque.,moyen,1.06,24,trop salut aspect but fumer race franc pied apprendre,29,60
+267,produit 267,Service bancaire,6937.76,Produit ou service financier propose par la banque.,faible,4.28,120,mesure usage train toi vol pluie mtier construire fils bas rentrer enfoncer million dautres,24,60
+268,produit 268,Service bancaire,6303.89,Produit ou service financier propose par la banque.,faible,4.94,12,menacer remplacer roi rve habitant vert aucun regard trace fort payer sujet tirer nouveau,27,61
+269,produit 269,Service bancaire,7717.29,Produit ou service financier propose par la banque.,lev,7.28,6,fier billet signe race intrieur g clat me me imaginer leur prter cesser vendre lentement action,23,52
+270,produit 270,Service bancaire,8535.35,Produit ou service financier propose par la banque.,moyen,6.45,36,mari corps mettre mode salut semaine portier aile fois main briller embrasser installer moyen vue,20,52
+271,produit 271,Service bancaire,5393.82,Produit ou service financier propose par la banque.,moyen,4.49,12,peine cder rsister dchirer claire jeune vritable cuisine suprieur fonder,26,64
+272,produit 272,Service bancaire,8296.65,Produit ou service financier propose par la banque.,faible,5.35,60,pleurer joie vide disparatre naturel bruit parti tandis que,23,57
+273,produit 273,Service bancaire,5734.71,Produit ou service financier propose par la banque.,lev,7.94,6,roman soire habiller gauche vendre tombe clef remettre rserver ligne science violent croix,22,68
+274,produit 274,Service bancaire,3170.78,Produit ou service financier propose par la banque.,faible,5.26,36,troisime rapidement souvenir appuyer interrompre portier hors gloire casser fatigue glisser bas elle prvenir,21,50
+275,produit 275,Service bancaire,6916.05,Produit ou service financier propose par la banque.,lev,1.32,60,pont clat souffler figurer finir journe bruit appeler groupe pourtant fond,23,66
+276,produit 276,Service bancaire,430.06,Produit ou service financier propose par la banque.,lev,3.35,60,ouvrage chercher six soir village agent fin rester produire paquet je humide,21,63
+277,produit 277,Service bancaire,9295.76,Produit ou service financier propose par la banque.,moyen,4.99,12,abandonner feu puisque mentir sept commun tomber alors se,26,62
+278,produit 278,Service bancaire,3426.12,Produit ou service financier propose par la banque.,moyen,1.41,36,joindre chaud appartenir fleur t dbut soumettre rideau occasion matire quitter pleurer professeur,25,65
+279,produit 279,Service bancaire,9957.25,Produit ou service financier propose par la banque.,moyen,6.08,36,mler socit politique chance demeurer aide pouvoir,30,57
+280,produit 280,Service bancaire,2977.05,Produit ou service financier propose par la banque.,faible,3.87,120,malheur autre disparatre accompagner plante rapide chasser pousser elle voix intelligence,30,70
+281,produit 281,Service bancaire,4865.77,Produit ou service financier propose par la banque.,lev,2.18,6,fort battre commencement vin nerveux conduire faveur calmer pluie servir joindre fin appartement corde rvler folie,22,51
+282,produit 282,Service bancaire,3349.27,Produit ou service financier propose par la banque.,lev,5.8,60,obtenir docteur parcourir bataille pierre intrt consentir simple,29,66
+283,produit 283,Service bancaire,740.45,Produit ou service financier propose par la banque.,lev,5.87,24,soleil l conseil dormir chute fleur espoir aimer dsir sentir nergie article,30,60
+284,produit 284,Service bancaire,4530.79,Produit ou service financier propose par la banque.,faible,4.08,60,seul mourir comprendre cependant arriver nombreux salut prcis,22,61
+285,produit 285,Service bancaire,6329.91,Produit ou service financier propose par la banque.,faible,5.74,12,comprendre autrement calmer joie douter fermer atteindre tendre lors aspect,22,53
+286,produit 286,Service bancaire,7950.41,Produit ou service financier propose par la banque.,faible,4.33,36,couler de lune employer six cher discussion tantt,29,59
+287,produit 287,Service bancaire,2522.48,Produit ou service financier propose par la banque.,moyen,4.41,60,ci abattre dimanche gros muet question marquer sourire tard supposer spectacle autant hasard tenter pencher,28,53
+288,produit 288,Service bancaire,7688.61,Produit ou service financier propose par la banque.,faible,1.77,120,art chasse clat apercevoir colon classe g court mentir science agir rponse thtre bas,23,70
+289,produit 289,Service bancaire,9695.15,Produit ou service financier propose par la banque.,faible,3.08,24,voisin plutt prsent lumire combien art sac aventure noir chaque,18,58
+290,produit 290,Service bancaire,6669.29,Produit ou service financier propose par la banque.,moyen,1.41,6,que accomplir que joli pleurer importance grand,22,60
+291,produit 291,Service bancaire,3078.6,Produit ou service financier propose par la banque.,lev,5.98,12,ouvert aucun terminer entourer en aussi ce prier parcourir digne marier pauvre rire cause ne dtail,20,70
+292,produit 292,Service bancaire,328.73,Produit ou service financier propose par la banque.,lev,6.61,6,accrocher maison chez rose heureux vrai suite pied,28,62
+293,produit 293,Service bancaire,6109.12,Produit ou service financier propose par la banque.,moyen,6.61,24,mine horizon chacun rue dessiner soi vieil,24,70
+294,produit 294,Service bancaire,7417.11,Produit ou service financier propose par la banque.,lev,8.42,6,achever tirer trait ressembler cheval vieux machine sombre,28,57
+295,produit 295,Service bancaire,2190.54,Produit ou service financier propose par la banque.,faible,4.63,36,durant calmer oser le part taire taler nul ferme savoir sommet dent air,20,55
+296,produit 296,Service bancaire,3691.92,Produit ou service financier propose par la banque.,lev,9.25,6,semblable toile carte dabord fil tenir pendre effacer vue tendre porter ainsi malgr,25,51
+297,produit 297,Service bancaire,7322.54,Produit ou service financier propose par la banque.,faible,4.15,24,terminer vif calme contenter autant prire front nu tard ct derrire double,28,55
+298,produit 298,Service bancaire,2794.25,Produit ou service financier propose par la banque.,lev,8.85,60,sien libre mensonge donner inspirer a fer par engager dresser examiner puisque rsister silence,28,63
+299,produit 299,Service bancaire,7053.25,Produit ou service financier propose par la banque.,lev,6.47,6,tout empire gnral lune notre propos cher curieux lui forme dehors,29,51
+300,produit 300,Service bancaire,3633.96,Produit ou service financier propose par la banque.,lev,9.16,120,parcourir tat soutenir colre courage grandir ce puisque avant sable auteur bruit seulement,26,50
+301,produit 301,Service bancaire,7044.61,Produit ou service financier propose par la banque.,lev,5.95,60,te dposer animer rien lorsque malgr noir sauver au de colline mal viter signer,30,63
+302,produit 302,Service bancaire,6356.47,Produit ou service financier propose par la banque.,moyen,1.94,6,sommeil propos besoin parler personne yeux bras si compagnon,28,68
+303,produit 303,Service bancaire,1183.95,Produit ou service financier propose par la banque.,moyen,1.46,60,gens arrter escalier changer ville curiosit nombreux importance que prsent huit trouver mal promettre cou,26,64
+304,produit 304,Service bancaire,827.81,Produit ou service financier propose par la banque.,faible,9.57,60,appeler propre donc blond plaindre roi cheveu,19,62
+305,produit 305,Service bancaire,9596.55,Produit ou service financier propose par la banque.,lev,1.92,6,nord acte absolu beau noir chacun juge profiter,21,70
+306,produit 306,Service bancaire,3011.17,Produit ou service financier propose par la banque.,lev,1.98,12,approcher annoncer digne possder pass inviter rflchir image fait devant faveur dent entendre que,26,53
+307,produit 307,Service bancaire,641.03,Produit ou service financier propose par la banque.,moyen,3.27,24,abattre tu terreur paysage fier oeuvre faveur bleu bon blanc repousser fatiguer salle effet assister,24,62
+308,produit 308,Service bancaire,3759.96,Produit ou service financier propose par la banque.,faible,2.01,24,vaincre exposer grandir soudain auprs descendre ge vivant rappeler environ conclure aller cole parfaitement,21,63
+309,produit 309,Service bancaire,1359.58,Produit ou service financier propose par la banque.,moyen,6.34,36,dautres compagnon ainsi tomber effet soin barbe nuit perdu indiquer propos,24,55
+310,produit 310,Service bancaire,7887.66,Produit ou service financier propose par la banque.,lev,4.19,36,installer musique lourd sentir expliquer quelque soleil face tout entendre ensemble dsert norme,30,70
+311,produit 311,Service bancaire,9424.0,Produit ou service financier propose par la banque.,moyen,3.52,6,public grain direction caresser trente eh choisir qui sous armer soit figurer contraire,26,51
+312,produit 312,Service bancaire,6510.87,Produit ou service financier propose par la banque.,lev,8.05,6,accompagner ensuite prsence payer vtement obtenir teindre joie sentir tirer inventer promener,25,57
+313,produit 313,Service bancaire,986.56,Produit ou service financier propose par la banque.,moyen,7.97,6,saisir demander en amour immobile extraordinaire particulier plusieurs,24,51
+314,produit 314,Service bancaire,1807.65,Produit ou service financier propose par la banque.,faible,3.39,24,membre galement choix bord amener ternel ramener lutter parent science rencontrer durant,25,52
+315,produit 315,Service bancaire,3396.39,Produit ou service financier propose par la banque.,moyen,3.36,6,tendre cou occasion gauche soire faveur entraner htel contenter produire appartement exister pas,23,55
+316,produit 316,Service bancaire,2686.23,Produit ou service financier propose par la banque.,moyen,7.14,60,prison mieux car vritable appartenir meilleur intrieur tour,29,70
+317,produit 317,Service bancaire,6035.99,Produit ou service financier propose par la banque.,moyen,7.65,24,six trembler loin livre tout saint transformer habiller ancien meilleur debout marchand pice,29,61
+318,produit 318,Service bancaire,954.48,Produit ou service financier propose par la banque.,lev,8.55,6,je ds sorte dsigner engager croix journe violent professeur action route,21,64
+319,produit 319,Service bancaire,540.91,Produit ou service financier propose par la banque.,lev,5.55,36,tendre oh fidle mari tant fort sentier l,20,50
+320,produit 320,Service bancaire,1974.57,Produit ou service financier propose par la banque.,lev,8.27,36,cinquante respect champ empcher fusil jaune prsence sang parfois prcieux bas,21,69
+321,produit 321,Service bancaire,9315.99,Produit ou service financier propose par la banque.,lev,2.48,12,triste discuter faute l quelquun beau juge neuf auteur extraordinaire dfendre complet,25,63
+322,produit 322,Service bancaire,7079.83,Produit ou service financier propose par la banque.,moyen,3.53,120,tomber comme comprendre tenir autre cerveau impression,19,59
+323,produit 323,Service bancaire,2689.14,Produit ou service financier propose par la banque.,moyen,1.03,12,membre crire a certain lier libert complet joli puissant voyage jour rgle vue chemise,24,53
+324,produit 324,Service bancaire,3587.81,Produit ou service financier propose par la banque.,moyen,2.39,24,recevoir plaine lieu race mon paupire partager fils demain manier rocher,23,62
+325,produit 325,Service bancaire,5614.17,Produit ou service financier propose par la banque.,faible,8.36,36,jambe dautres titre classe dont commencement nord expliquer chose attacher ou parcourir dgager empire empire,29,54
+326,produit 326,Service bancaire,2157.44,Produit ou service financier propose par la banque.,moyen,9.45,120,cent colline autrement socit manier tre rapport examiner mauvais autre corps retour,23,61
+327,produit 327,Service bancaire,8440.41,Produit ou service financier propose par la banque.,lev,7.0,24,pointe du htel crainte intresser mme bord rouler rue votre perdre sauvage douleur art jeune,20,70
+328,produit 328,Service bancaire,7750.04,Produit ou service financier propose par la banque.,moyen,4.05,24,prsenter point vol rayon socit ce travail recevoir dgager passer accent,24,67
+329,produit 329,Service bancaire,6422.27,Produit ou service financier propose par la banque.,lev,9.14,120,espoir plein besoin haut repas finir choisir regarder habitant sueur jeune bte,26,55
+330,produit 330,Service bancaire,4442.16,Produit ou service financier propose par la banque.,moyen,1.65,36,avoir dresser carter sang menacer affirmer espace sien alors entrer de pur,21,56
+331,produit 331,Service bancaire,422.93,Produit ou service financier propose par la banque.,lev,2.66,60,former briser ordre annoncer parfois inconnu mdecin nommer pais muet aventure bon milieu lever village pice,21,65
+332,produit 332,Service bancaire,9369.35,Produit ou service financier propose par la banque.,lev,8.05,12,matre gris large sauter mari caractre grce compter couper militaire tout fait pre faible or,24,65
+333,produit 333,Service bancaire,4567.89,Produit ou service financier propose par la banque.,faible,2.39,36,fort rponse million beau mler passer avis,20,64
+334,produit 334,Service bancaire,9167.31,Produit ou service financier propose par la banque.,moyen,4.95,36,pousser fier engager ainsi contraire voir vieillard rclamer,27,60
+335,produit 335,Service bancaire,7955.58,Produit ou service financier propose par la banque.,faible,6.23,24,route inquiter aprs gloire violence touffer paratre comme doigt parler attention danser recherche rire mari plusieurs,30,62
+336,produit 336,Service bancaire,9698.36,Produit ou service financier propose par la banque.,lev,7.36,24,quant  gloire tandis que vendre cheval rentrer monsieur vrai exemple,27,54
+337,produit 337,Service bancaire,2966.33,Produit ou service financier propose par la banque.,lev,6.5,6,inconnu victime souhaiter paysan face musique croiser g imaginer piti interrompre devant visite,21,63
+338,produit 338,Service bancaire,3531.12,Produit ou service financier propose par la banque.,moyen,2.41,120,difficile ce hsiter souvenir douleur natre gens chemise gal hiver page barbe neuf auteur te,30,62
+339,produit 339,Service bancaire,5095.87,Produit ou service financier propose par la banque.,lev,8.33,6,tranquille militaire comme croiser heure tte retirer abri miser sorte jambe situation enfoncer commander quelquun,28,60
+340,produit 340,Service bancaire,4102.94,Produit ou service financier propose par la banque.,moyen,9.08,120,voyager intrieur si rouge animal connatre prouver saint place diriger,26,56
+341,produit 341,Service bancaire,414.31,Produit ou service financier propose par la banque.,faible,4.57,120,rpandre passion soulever toute qui emporter air soi mentir tomber parvenir pont nuit risquer fort,29,56
+342,produit 342,Service bancaire,4888.27,Produit ou service financier propose par la banque.,lev,1.13,12,content respect fort vous colline esprer loigner doute impression,22,51
+343,produit 343,Service bancaire,5590.32,Produit ou service financier propose par la banque.,lev,2.99,12,auteur plaine robe ci parvenir prparer vol science,19,70
+344,produit 344,Service bancaire,7975.34,Produit ou service financier propose par la banque.,lev,9.47,120,pencher prochain front conduire ferme doigt conduire agir arbre corde rpter aussi angoisse nommer drame croix,19,66
+345,produit 345,Service bancaire,1143.46,Produit ou service financier propose par la banque.,moyen,3.52,6,respect recevoir tard chambre large crainte maison milieu justice habitant argent,20,57
+346,produit 346,Service bancaire,1438.2,Produit ou service financier propose par la banque.,faible,8.82,60,couleur pouvoir si autrement chasse beaut doute indiquer mince avec dfendre har fier nergie,21,66
+347,produit 347,Service bancaire,8381.84,Produit ou service financier propose par la banque.,lev,9.23,120,servir dangereux discussion effort asseoir placer effet plaindre,23,56
+348,produit 348,Service bancaire,1192.45,Produit ou service financier propose par la banque.,moyen,7.97,120,reste doux libert type mort saint diriger,21,68
+349,produit 349,Service bancaire,5487.36,Produit ou service financier propose par la banque.,faible,4.24,12,roman appeler beau puis appuyer couvrir vnement troubler,22,52
+350,produit 350,Service bancaire,5840.04,Produit ou service financier propose par la banque.,faible,1.19,36,forme hauteur devant moyen besoin loigner long fonction neuf voici promettre douleur,30,63
+351,produit 351,Service bancaire,5051.07,Produit ou service financier propose par la banque.,faible,3.12,36,couler chair pote produire dur particulier cas fort admettre droite lourd enfoncer,23,51
+352,produit 352,Service bancaire,4032.06,Produit ou service financier propose par la banque.,faible,4.69,120,jeune tudier ouvrir mur anglais entendre voix curieux devant g,20,54
+353,produit 353,Service bancaire,8641.96,Produit ou service financier propose par la banque.,moyen,5.97,60,donc venir cacher tempte ville annoncer promener offrir gal vtement cher rouge,20,54
+354,produit 354,Service bancaire,1137.18,Produit ou service financier propose par la banque.,lev,9.94,12,remettre tendre auteur poursuivre a fois entourer rve feuille aprs mme brusquement intrt  certain,24,70
+355,produit 355,Service bancaire,9433.37,Produit ou service financier propose par la banque.,faible,4.04,36,vieux pourtant palais intresser chute autorit genou autrefois science voile casser,20,52
+356,produit 356,Service bancaire,5340.73,Produit ou service financier propose par la banque.,faible,1.7,36,camarade le je commun fentre mme reculer devoir appel courir entretenir nerveux,27,68
+357,produit 357,Service bancaire,9239.97,Produit ou service financier propose par la banque.,faible,4.55,120,prsenter figure pouvoir cependant occuper veille toile rvolution vieil avec dchirer,27,66
+358,produit 358,Service bancaire,467.99,Produit ou service financier propose par la banque.,lev,5.3,24,dos million devoir humide dangereux couleur tard alors effacer brusquement cour politique famille cri pourquoi,20,63
+359,produit 359,Service bancaire,4017.04,Produit ou service financier propose par la banque.,moyen,1.45,60,long dent grce queue tel silence fer changer suffire pote refuser,21,63
+360,produit 360,Service bancaire,1020.13,Produit ou service financier propose par la banque.,moyen,6.01,120,finir franais conversation tendre croiser obliger franchir compter lutte dsespoir,20,53
+361,produit 361,Service bancaire,515.52,Produit ou service financier propose par la banque.,faible,5.24,12,diffrent surtout voie lors question chemise rsultat souvenir casser tre gnral quelque recevoir figurer cole,18,66
+362,produit 362,Service bancaire,919.29,Produit ou service financier propose par la banque.,moyen,7.79,60,main tracer ouvert noire choix soin droite certainement succs remercier frapper lun cruel non,18,56
+363,produit 363,Service bancaire,199.12,Produit ou service financier propose par la banque.,faible,1.24,6,toile question porter intrieur viter devenir expliquer prince presque affaire contraire causer partir tomber,23,62
+364,produit 364,Service bancaire,4038.26,Produit ou service financier propose par la banque.,faible,5.34,120,entier tellement lutter voir certain lendemain moment prononcer occuper un cause,20,70
+365,produit 365,Service bancaire,4975.13,Produit ou service financier propose par la banque.,lev,8.43,120,honneur poussire militaire vert battre nommer fermer intrieur charge lors mme,25,69
+366,produit 366,Service bancaire,7191.05,Produit ou service financier propose par la banque.,lev,6.54,6,soit offrir fauteuil claire partir pleurer jardin empire tendre temps roche tout valeur raison quelque,21,55
+367,produit 367,Service bancaire,2361.28,Produit ou service financier propose par la banque.,faible,9.01,12,ailleurs repousser conscience puis chaleur toujours danger signer fait cas dpasser rejeter,20,69
+368,produit 368,Service bancaire,1811.92,Produit ou service financier propose par la banque.,lev,5.08,120,lit installer dehors rflchir nous rsoudre monsieur place lorsque lune enfermer tout,20,60
+369,produit 369,Service bancaire,468.01,Produit ou service financier propose par la banque.,moyen,6.33,120,minute ensemble enfermer droite ciel apercevoir couter ville promener ici compte rponse,21,67
+370,produit 370,Service bancaire,4944.1,Produit ou service financier propose par la banque.,moyen,3.62,120,court absolu autrement bas vieux puissant vers excuter satisfaire,19,66
+371,produit 371,Service bancaire,4078.0,Produit ou service financier propose par la banque.,moyen,4.25,24,quart cours droit l demander afin de garde dernier silence grand prs centre parce que le capable,25,67
+372,produit 372,Service bancaire,668.56,Produit ou service financier propose par la banque.,lev,8.48,60,pas flot ce ci donc gnral acheter soudain beau reconnatre soir trente mille rver humain,20,58
+373,produit 373,Service bancaire,2245.18,Produit ou service financier propose par la banque.,moyen,9.88,60,occasion armer disposer peu devoir rveiller poste,21,65
+374,produit 374,Service bancaire,3658.81,Produit ou service financier propose par la banque.,lev,6.85,120,parce que confier souffrir parfois respect trou ministre pote connatre calme mtier calmer,18,58
+375,produit 375,Service bancaire,5487.13,Produit ou service financier propose par la banque.,lev,5.44,6,pas entraner porte risquer tude centre sourire violent cours envie regretter sauver mer,18,65
+376,produit 376,Service bancaire,9696.13,Produit ou service financier propose par la banque.,lev,6.23,120,sonner fils accuser arriver teindre sorte prtendre eaux viter battre dcouvrir mesure dos sans question,21,53
+377,produit 377,Service bancaire,7916.49,Produit ou service financier propose par la banque.,faible,6.67,6,il quarante soi habiller tre plaire chute carter,30,57
+378,produit 378,Service bancaire,9914.63,Produit ou service financier propose par la banque.,lev,5.5,24,moment son fin matire danger tromper complet dpart cours ventre pendant oublier reprsenter mme froid,21,56
+379,produit 379,Service bancaire,1188.91,Produit ou service financier propose par la banque.,moyen,7.06,60,monde nombre poque bouche verre dernier quinze sombre rouler violent remarquer offrir oublier accent,24,58
+380,produit 380,Service bancaire,1243.76,Produit ou service financier propose par la banque.,faible,3.81,6,permettre saisir titre an y tout militaire admettre avance avant dsormais,19,69
+381,produit 381,Service bancaire,9890.94,Produit ou service financier propose par la banque.,faible,3.94,6,a droite absence pre distance pouvoir dtail enfoncer,24,55
+382,produit 382,Service bancaire,8113.58,Produit ou service financier propose par la banque.,moyen,1.49,60,avancer soulever accord donc prononcer posie certes tudier rapporter pass cesse frre,21,52
+383,produit 383,Service bancaire,7458.09,Produit ou service financier propose par la banque.,faible,7.84,36,passion gal reprendre en immobile hiver clair livre entretenir type rsistance vrit politique avec,21,57
+384,produit 384,Service bancaire,3853.49,Produit ou service financier propose par la banque.,moyen,1.47,60,nombreux visible professeur demander vaincre humain beau accrocher,20,56
+385,produit 385,Service bancaire,177.24,Produit ou service financier propose par la banque.,moyen,1.77,36,travailler enfant poursuivre tonner aussi crire dont pied lger toit groupe servir,19,69
+386,produit 386,Service bancaire,3021.52,Produit ou service financier propose par la banque.,moyen,9.29,24,vert chasse rare quoi arbre fte relever point entre violent musique face norme perte porte,18,60
+387,produit 387,Service bancaire,6076.86,Produit ou service financier propose par la banque.,lev,6.15,6,noir figurer surveiller ton rponse composer particulier croix rang lendemain cent,26,52
+388,produit 388,Service bancaire,8970.27,Produit ou service financier propose par la banque.,faible,1.05,24,jaune discussion maintenir soleil perdre discuter forme entre port,24,64
+389,produit 389,Service bancaire,6413.11,Produit ou service financier propose par la banque.,faible,8.22,12,oh son vivant auteur avant sans quatre consulter an douleur celui je entrer creuser vaincre manquer,23,69
+390,produit 390,Service bancaire,961.58,Produit ou service financier propose par la banque.,moyen,3.15,12,vrai blanc tout beaux projet prince ramasser regard durant bientt as,22,53
+391,produit 391,Service bancaire,6556.39,Produit ou service financier propose par la banque.,faible,2.35,12,capable quoi apparence revenir plein aider sommet rare aller,30,66
+392,produit 392,Service bancaire,4841.48,Produit ou service financier propose par la banque.,faible,1.49,36,chercher attention pais agent rappeler travers histoire impression cheveu se goutte,23,63
+393,produit 393,Service bancaire,1768.46,Produit ou service financier propose par la banque.,lev,2.51,12,rserver entourer doigt auquel chapper flamme auquel supposer reprsenter neuf vaste charge,23,64
+394,produit 394,Service bancaire,4493.57,Produit ou service financier propose par la banque.,faible,6.98,60,attaquer neuf lire signifier preuve runir changer allumer auquel har me sortir traverser inconnu,18,61
+395,produit 395,Service bancaire,945.96,Produit ou service financier propose par la banque.,moyen,2.72,12,emmener vert depuis fils charge faute tirer,29,65
+396,produit 396,Service bancaire,9306.68,Produit ou service financier propose par la banque.,moyen,7.25,120,douze grandir besoin secrtaire animal vtement temps,30,61
+397,produit 397,Service bancaire,3998.27,Produit ou service financier propose par la banque.,faible,3.84,36,mouvement mdecin entre vraiment voix religion galement ge avant,26,69
+398,produit 398,Service bancaire,5988.28,Produit ou service financier propose par la banque.,lev,2.04,120,fin avance tablir droite rayon petit prince sonner vritable tirer,26,57
+399,produit 399,Service bancaire,4825.77,Produit ou service financier propose par la banque.,faible,3.86,6,apparatre demain circonstance tout lisser heureux rpandre pourquoi trop dcider quel impossible habitude,19,52
+400,produit 400,Service bancaire,1708.57,Produit ou service financier propose par la banque.,moyen,2.04,24,convenir demande aimer note soi vieux puis exposer,29,66
+401,produit 401,Service bancaire,9940.61,Produit ou service financier propose par la banque.,moyen,9.7,36,diffrent suivant ramener qualit chemin souhaiter malade groupe,21,52
+402,produit 402,Service bancaire,4492.32,Produit ou service financier propose par la banque.,lev,5.23,120,bruit ceci personnage dernier changement coter voici sauvage intresser portier,22,52
+403,produit 403,Service bancaire,8924.42,Produit ou service financier propose par la banque.,faible,7.14,36,quartier cheveu roman avant lun ami mort cuisine public,27,60
+404,produit 404,Service bancaire,9056.49,Produit ou service financier propose par la banque.,moyen,6.89,60,sac aide agent rayon taille chiffre moins personne pice lit caractre carte demande,23,65
+405,produit 405,Service bancaire,2001.36,Produit ou service financier propose par la banque.,faible,9.04,120,maison religion jour type nord lvre immense militaire montagne compter droit digne cinq couler tendre,30,52
+406,produit 406,Service bancaire,4092.84,Produit ou service financier propose par la banque.,faible,5.15,36,devant chasse sant chien supposer diriger ncessaire annoncer lever finir muet remettre,19,56
+407,produit 407,Service bancaire,1222.22,Produit ou service financier propose par la banque.,lev,2.13,12,plusieurs prochain briller article dsert doigt servir souvenir ventre entre glisser mon sourire,26,57
+408,produit 408,Service bancaire,6680.2,Produit ou service financier propose par la banque.,lev,6.68,120,exprience savoir note froid bataille prendre empire goutte faux placer train assurer pourquoi russir,19,64
+409,produit 409,Service bancaire,393.17,Produit ou service financier propose par la banque.,faible,9.68,36,gnral fermer tre esprer troit compte recherche renverser violence ailleurs plante eau habiter rveiller doigt lourd,27,62
+410,produit 410,Service bancaire,9554.68,Produit ou service financier propose par la banque.,moyen,3.34,6,maintenir certain pntrer retenir nuage pote partie temps naturel jambe traverser del repousser,19,68
+411,produit 411,Service bancaire,6690.47,Produit ou service financier propose par la banque.,lev,9.37,24,corps trace mon pointe art est rsister but vieux sac,22,54
+412,produit 412,Service bancaire,7255.7,Produit ou service financier propose par la banque.,lev,9.05,36,vieux journal eau trembler pourtant blanc violent excuter question,26,54
+413,produit 413,Service bancaire,843.69,Produit ou service financier propose par la banque.,moyen,8.83,12,verser chez couvrir comme thtre aprs premier respect srieux parcourir esprit inutile,22,55
+414,produit 414,Service bancaire,9607.9,Produit ou service financier propose par la banque.,lev,9.88,6,aventure loin beaux moiti robe haute devenir,19,58
+415,produit 415,Service bancaire,3239.33,Produit ou service financier propose par la banque.,moyen,6.93,36,minute changement garder danger crer nouveau gure fatiguer puisque manquer pour maladie partout ralit enlever,20,58
+416,produit 416,Service bancaire,1543.97,Produit ou service financier propose par la banque.,faible,9.57,6,nous cour sorte pendre obir ajouter autrement dsigner goutte lorsque police profondment prouver docteur,28,63
+417,produit 417,Service bancaire,1350.33,Produit ou service financier propose par la banque.,faible,8.17,36,savoir esprit veiller march garon curieux dix cheval fait ramener tirer,26,58
+418,produit 418,Service bancaire,642.66,Produit ou service financier propose par la banque.,lev,8.26,60,du semblable droit aussi absolu type politique mur nombreux lutter espce froid absolument posie,30,61
+419,produit 419,Service bancaire,6316.34,Produit ou service financier propose par la banque.,moyen,6.52,12,soldat prparer surveiller naturellement nu prvoir mon,22,63
+420,produit 420,Service bancaire,3254.16,Produit ou service financier propose par la banque.,faible,8.61,36,franais certain accent quelque avouer espce poids prire prsent digne,22,63
+421,produit 421,Service bancaire,3315.04,Produit ou service financier propose par la banque.,faible,1.89,36,peine installer main madame petit libert milieu seconde achever sauter femme,30,58
+422,produit 422,Service bancaire,7945.85,Produit ou service financier propose par la banque.,faible,4.87,24,vtement soi servir droite plus petit attaquer ce,28,59
+423,produit 423,Service bancaire,1051.67,Produit ou service financier propose par la banque.,faible,5.28,120,dautres porte essayer pareil enfin travailler composer cheval joue bas sige retirer pote parti,19,57
+424,produit 424,Service bancaire,6443.6,Produit ou service financier propose par la banque.,lev,8.96,12,pass vrai bande renverser propre contenter marcher souvent attaquer,28,53
+425,produit 425,Service bancaire,9470.14,Produit ou service financier propose par la banque.,lev,6.39,120,apercevoir prsent manger perte rve eh point,18,70
+426,produit 426,Service bancaire,5401.73,Produit ou service financier propose par la banque.,lev,8.52,120,ville femme brusquement spectacle loin confiance durant de prter colline puisque,23,64
+427,produit 427,Service bancaire,629.78,Produit ou service financier propose par la banque.,lev,8.21,60,tt matin tt secours sujet droit consentir dj animer,21,50
+428,produit 428,Service bancaire,1154.13,Produit ou service financier propose par la banque.,lev,3.9,24,nul sparer tablir pointe vritable  on lien,28,59
+429,produit 429,Service bancaire,3133.77,Produit ou service financier propose par la banque.,moyen,3.16,24,sein prtendre ouvrir motion prsence par morceau trsor rserver soleil jouer depuis,29,57
+430,produit 430,Service bancaire,9858.72,Produit ou service financier propose par la banque.,lev,8.71,36,roman possible yeux avec clat trsor abandonner ton,21,63
+431,produit 431,Service bancaire,4830.37,Produit ou service financier propose par la banque.,faible,6.98,60,parfois o consulter composer lger habiller fait,30,61
+432,produit 432,Service bancaire,8377.4,Produit ou service financier propose par la banque.,moyen,8.53,6,histoire seigneur suivre chaque rouge un oublier rver prs blanc aider ville huit,28,65
+433,produit 433,Service bancaire,582.94,Produit ou service financier propose par la banque.,faible,8.16,12,loin vritable secrtaire sang mouvement trente salle prtendre un chaise poursuivre mler tendre appuyer adresser,25,50
+434,produit 434,Service bancaire,9128.17,Produit ou service financier propose par la banque.,faible,5.67,60,dimanche camarade rapporter froid carter sant quoi mler prsence mentir droit inutile animer pice habiter,24,67
+435,produit 435,Service bancaire,6995.66,Produit ou service financier propose par la banque.,moyen,6.8,120,aide parvenir gnral ignorer long cou caractre visible composer regarder,27,61
+436,produit 436,Service bancaire,5690.13,Produit ou service financier propose par la banque.,moyen,7.52,120,vision devoir arrire marier existence exemple o,23,51
+437,produit 437,Service bancaire,3566.0,Produit ou service financier propose par la banque.,lev,2.38,6,soit prs prcipiter puis rester rappeler ge faute ensuite docteur observer,26,58
+438,produit 438,Service bancaire,7326.22,Produit ou service financier propose par la banque.,moyen,4.58,6,taire tellement connaissance loup changer partir esprer libert important son chose,24,56
+439,produit 439,Service bancaire,6095.47,Produit ou service financier propose par la banque.,faible,3.59,36,auquel habitant mme savoir lit terrible admettre produire esprit seconde ralit,28,53
+440,produit 440,Service bancaire,6008.59,Produit ou service financier propose par la banque.,moyen,1.32,120,falloir sur falloir dautres parfaitement sol  train craser posie convenir ensemble,29,70
+441,produit 441,Service bancaire,1857.27,Produit ou service financier propose par la banque.,moyen,5.62,60,prison mon serrer discours flot proposer heure creuser ouvrir violence position corps,18,66
+442,produit 442,Service bancaire,9969.25,Produit ou service financier propose par la banque.,lev,6.91,36,frais admettre crise fil tage folie honte barbe gloire saisir important flot debout sous,26,56
+443,produit 443,Service bancaire,7645.17,Produit ou service financier propose par la banque.,faible,9.64,6,bande gauche preuve court lequel regretter hier parmi autant quand davantage dsespoir,25,68
+444,produit 444,Service bancaire,6066.49,Produit ou service financier propose par la banque.,lev,2.34,12,fait droit vue anne environ menacer possible,21,57
+445,produit 445,Service bancaire,1935.23,Produit ou service financier propose par la banque.,moyen,5.37,12,pareil fonction longtemps endroit lever rserver le accompagner,23,50
+446,produit 446,Service bancaire,5239.12,Produit ou service financier propose par la banque.,moyen,9.49,36,franchir charger bleu paix pareil bataille de fixe trou violent genre dgager offrir,19,63
+447,produit 447,Service bancaire,6921.76,Produit ou service financier propose par la banque.,lev,2.05,24,fusil trs important guerre tude rveiller voiture intresser caractre devant sur ciel bureau preuve,19,56
+448,produit 448,Service bancaire,7932.46,Produit ou service financier propose par la banque.,moyen,6.87,36,poser nourrir bataille gros marquer tel gloire lever matre autre naissance,21,54
+449,produit 449,Service bancaire,3223.93,Produit ou service financier propose par la banque.,moyen,3.09,36,tre rduire vtir accrocher convenir dsir vision plaire,22,55
+450,produit 450,Service bancaire,6794.72,Produit ou service financier propose par la banque.,moyen,7.5,6,bas apporter corde trsor sauver noire songer malade croire pour reculer trace as effacer distance,27,58
+451,produit 451,Service bancaire,443.39,Produit ou service financier propose par la banque.,lev,3.15,36,battre rire rpandre trace chapper lueur ah mode accepter sentier je dire solitude,22,53
+452,produit 452,Service bancaire,6529.88,Produit ou service financier propose par la banque.,moyen,1.59,120,importance portier est drame socit direction distinguer reprsenter me,27,59
+453,produit 453,Service bancaire,3489.56,Produit ou service financier propose par la banque.,lev,3.96,60,commencer craser puisque frais dclarer croix exister champ terre fumer sauvage oui habitude souffrance vieillard,20,60
+454,produit 454,Service bancaire,9528.0,Produit ou service financier propose par la banque.,lev,8.26,6,apparence propre surveiller ressembler pais anglais prs docteur carte srieux chiffre compte prononcer franois,30,68
+455,produit 455,Service bancaire,3653.05,Produit ou service financier propose par la banque.,lev,7.15,36,journe oublier ruine danger marcher abri ligne manger humain cesse placer longtemps,25,69
+456,produit 456,Service bancaire,2315.0,Produit ou service financier propose par la banque.,moyen,7.04,12,pluie arracher fort neuf aspect ami rflchir plein fin,25,56
+457,produit 457,Service bancaire,5891.21,Produit ou service financier propose par la banque.,moyen,2.34,60,souffler paupire grce descendre agir posie avoir raison plein sembler politique croire,29,70
+458,produit 458,Service bancaire,4280.53,Produit ou service financier propose par la banque.,lev,8.06,6,fume vingt couche me projet dominer cependant fou,20,68
+459,produit 459,Service bancaire,942.17,Produit ou service financier propose par la banque.,moyen,1.93,120,puissant neuf autre aucun nergie dsert fermer mer maladie dj vieil quelque vif finir traiter,28,52
+460,produit 460,Service bancaire,6590.47,Produit ou service financier propose par la banque.,faible,1.96,36,serrer distinguer livrer tat maison seulement faute humain dresser surveiller rare rentrer dtruire,23,56
+461,produit 461,Service bancaire,9460.84,Produit ou service financier propose par la banque.,lev,1.4,24,peine diriger long longtemps accompagner cas rclamer grce armer mari rejoindre intention rsoudre travailler yeux dcrire,24,68
+462,produit 462,Service bancaire,9551.32,Produit ou service financier propose par la banque.,moyen,7.4,6,raconter espoir qualit sige sou neuf ton parole point curieux reculer payer accorder,20,56
+463,produit 463,Service bancaire,8245.48,Produit ou service financier propose par la banque.,faible,2.63,12,pense revenir mien tendre politique premier dessiner reprendre nez fatigue consentir dire bruit,18,67
+464,produit 464,Service bancaire,7874.99,Produit ou service financier propose par la banque.,lev,7.77,120,protger rvler aucun trace sentiment fils puis attirer bouche leur mesure ici nergie traverser plan caresser,30,65
+465,produit 465,Service bancaire,9417.18,Produit ou service financier propose par la banque.,lev,6.18,12,meilleur garder sparer espoir mesure genre importer croiser secret me titre soir a plus,27,53
+466,produit 466,Service bancaire,4852.38,Produit ou service financier propose par la banque.,lev,9.77,60,poser bon poche aujourdhui notre lorsque possder jeune genre chant satisfaire,25,66
+467,produit 467,Service bancaire,4849.28,Produit ou service financier propose par la banque.,faible,2.12,6,chez justice veille cercle content tmoin jusque enfoncer mauvais preuve,24,67
+468,produit 468,Service bancaire,1491.53,Produit ou service financier propose par la banque.,lev,1.49,6,lieu autorit distinguer tard herbe inspirer carte courage,27,69
+469,produit 469,Service bancaire,4519.1,Produit ou service financier propose par la banque.,moyen,1.96,12,quinze aucun colre dfendre prier relever traverser politique anne certain passer sable plaindre souvenir de,19,64
+470,produit 470,Service bancaire,3085.8,Produit ou service financier propose par la banque.,lev,6.39,60,galement recommencer parent tombe conclure lendemain ton,30,57
+471,produit 471,Service bancaire,130.82,Produit ou service financier propose par la banque.,moyen,6.74,120,plein rose voici voyager couleur souvenir juger consulter compagnie,25,57
+472,produit 472,Service bancaire,1320.68,Produit ou service financier propose par la banque.,faible,8.14,36,dj on brusquement usage bte jambe plaindre grand ton prs prtendre sang coeur trois,18,58
+473,produit 473,Service bancaire,2739.17,Produit ou service financier propose par la banque.,faible,3.76,24,argent ciel du vraiment fauteuil tandis que aujourdhui pied celui cheveu franois dtail danger garder chiffre,23,59
+474,produit 474,Service bancaire,4452.25,Produit ou service financier propose par la banque.,moyen,8.94,6,haute auquel arrter tantt vieux titre vide,18,60
+475,produit 475,Service bancaire,9190.36,Produit ou service financier propose par la banque.,moyen,6.85,60,importance vif jamais rejeter semaine portier usage tre trace patron,26,54
+476,produit 476,Service bancaire,9180.47,Produit ou service financier propose par la banque.,lev,7.51,120,taille chance observer instant disposer lieu inconnu moyen jardin tendre franc satisfaire comprendre briller un sant,19,66
+477,produit 477,Service bancaire,6710.72,Produit ou service financier propose par la banque.,faible,6.08,120,apparatre as table toi spectacle trace vouloir sorte tt loigner sentir nom article rsoudre importer clater,21,66
+478,produit 478,Service bancaire,673.79,Produit ou service financier propose par la banque.,faible,7.56,60,intrieur yeux vide fond agent fatigue frre prs tapis ci paquet,22,65
+479,produit 479,Service bancaire,5956.44,Produit ou service financier propose par la banque.,lev,7.87,24,dcrire chef non fonder certainement lien avoir agent carte foi madame paule faon,26,65
+480,produit 480,Service bancaire,2269.9,Produit ou service financier propose par la banque.,faible,9.93,36,homme terrible situation malheur chant prouver ouvrir cder madame marche profondment,30,59
+481,produit 481,Service bancaire,3279.16,Produit ou service financier propose par la banque.,faible,2.95,6,ensemble besoin courant malheur armer toit drle drame retomber espoir effet entraner contraire craser,25,50
+482,produit 482,Service bancaire,4168.56,Produit ou service financier propose par la banque.,lev,9.03,6,nerveux trouver douceur branche position soin interroger mriter lourd glace raison,28,62
+483,produit 483,Service bancaire,7678.95,Produit ou service financier propose par la banque.,faible,1.82,60,changement situation dfaut croix couvrir tache serrer portier son couper chef,30,52
+484,produit 484,Service bancaire,6999.92,Produit ou service financier propose par la banque.,faible,9.9,60,gauche clef sonner attaquer billet charger ternel rideau faveur socit,23,60
+485,produit 485,Service bancaire,353.06,Produit ou service financier propose par la banque.,faible,5.41,120,interroger travail pice animal course situation dix moyen scne militaire certain seconde tant fidle celui former,19,56
+486,produit 486,Service bancaire,6883.27,Produit ou service financier propose par la banque.,faible,5.39,60,placer remplacer oiseau voil envie retomber voisin environ bouche neuf odeur,19,64
+487,produit 487,Service bancaire,7762.17,Produit ou service financier propose par la banque.,faible,5.37,120,blond riche vieillard page face hauteur milieu billet joindre queue accepter ou mais inutile herbe personne,28,56
+488,produit 488,Service bancaire,4200.27,Produit ou service financier propose par la banque.,lev,6.23,6,glace croix dernier passer maladie lutter demain sens,18,59
+489,produit 489,Service bancaire,5221.86,Produit ou service financier propose par la banque.,faible,5.29,6,prouver jusque billet pleurer mdecin importer considrer remarquer convenir porte taler tomber sauter sant,24,55
+490,produit 490,Service bancaire,4542.78,Produit ou service financier propose par la banque.,lev,3.69,24,froid frais aider pendre juge o libert,24,67
+491,produit 491,Service bancaire,9323.61,Produit ou service financier propose par la banque.,faible,2.33,24,porte comprendre nergie nouveau perdu chiffre soudain mine dfendre toile parent claire quelque enfoncer repas,18,63
+492,produit 492,Service bancaire,8361.33,Produit ou service financier propose par la banque.,lev,6.95,6,del gauche briser dautres entrer dangereux selon champ arme aussitt beau pas spectacle,23,57
+493,produit 493,Service bancaire,8089.98,Produit ou service financier propose par la banque.,moyen,6.62,6,chaise paratre qui rassurer respecter gauche triste tu,20,50
+494,produit 494,Service bancaire,9867.46,Produit ou service financier propose par la banque.,lev,7.55,60,angoisse terrible aventure offrir profondment capable ligne,23,65
+495,produit 495,Service bancaire,8145.77,Produit ou service financier propose par la banque.,lev,1.2,12,attaquer avancer village tant image rel prouver voisin confiance instinct appel moment,23,60
+496,produit 496,Service bancaire,9211.89,Produit ou service financier propose par la banque.,lev,1.89,60,prparer libre yeux reprsenter norme fruit appeler tranger dcider vtir matire dpart,30,63
+497,produit 497,Service bancaire,8611.02,Produit ou service financier propose par la banque.,lev,3.37,24,jambe admettre religion roman servir suivre mriter excuter glisser tte fermer,24,60
+498,produit 498,Service bancaire,9989.09,Produit ou service financier propose par la banque.,lev,7.27,60,inviter intrieur aimer sembler exposer grain sr tellement voil impression assurer rocher flot troisime,30,52
+499,produit 499,Service bancaire,2709.05,Produit ou service financier propose par la banque.,faible,1.3,24,aucun papa valoir mariage accrocher instant social seulement fils capable sourire odeur attention madame,22,51
+500,produit 500,Service bancaire,9051.42,Produit ou service financier propose par la banque.,moyen,9.31,120,dire fume observer fortune complet rejoindre nouveau teindre neuf poussire bruit saison marcher tombe consulter tenter,23,63

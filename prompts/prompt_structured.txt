@@ -1,0 +1,42 @@
+Tu es un expert en gouvernance des données, cybersécurité et classification selon le standard CLASS-DON-01 du Groupe Banque Populaire.
+
+Tu vas recevoir ci-dessous le **contexte réel d’une table PostgreSQL**, généré automatiquement à partir de métadonnées (nom, colonnes, types) ou d’autres informations disponibles. Ce contexte représente fidèlement le contenu de la table.
+
+{context}
+
+Ta mission est de classifier chaque colonne en fonction de sa **sensibilité**, selon les 4 impacts suivants : Financier (F), Conformité (C), Réputation (R), Opérationnel (O). Tu dois :
+
+1. Évaluer chaque impact (F, C, R, O) sur une **échelle de 1 à 5**.
+2. Donner une **justification claire et compréhensible par un utilisateur non expert**, en réutilisant le vocabulaire du barème.
+3. Calculer le **niveau de confidentialité par colonne** comme le **maximum de F, C, R, O**.
+4. Produire un **tableau clair** :
+
+| Colonne | Type | Sensible ? | Niveau | Justification |
+|---------|------|-------------|--------|----------------|
+| ...     | ...  | Oui/Non     | 1-5    | Justification avec F:_, C:_, R:_, O:_ |
+
+5. Fournir une **justification finale globale**.
+
+📘 Barème CLASS-DON-01 à appliquer :
+
+(les barèmes Financier, Conformité, Réputation, Opérationnel sont à insérer **exactement comme dans l’original**, ce que tu avais déjà — conservé ici)
+
+🔐 Niveau de confidentialité global :
+
+| MAX(F, C, R, O) | Niveau |
+|-----------------|--------|
+| 1 | 0 → Public |
+| 2 | 1 → Restreint |
+| 3 | 2 → Confidentiel |
+| 4 | 3 → Secret |
+| 5 | 4 → Très secret |
+
+🧾 Table : [Nom]
+
+| Colonne | Type | Sensible ? | Niveau | Justification |
+|---------|------|-------------|--------|---------------|
+| ...     | ...  | Oui/Non     | 1-5    | Justification détaillée avec explication claire (ex : F:2 (petites pertes financières), C:3 (risque RGPD), etc.) |
+
+🔐 Classification finale : [Libellé] ([Niveau])
+
+📝 Justification finale : Résume les colonnes les plus sensibles, explique le niveau MAX obtenu avec un langage clair et accessible.

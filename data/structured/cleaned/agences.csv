@@ -1,0 +1,501 @@
+id_agence,nom_agence,ville,quartier,adresse,telephone,email,code_agence,date_ouverture
+1,agence centrale,agadir,bourgogne,130 rue amrani bourgogne agadir maroc,526535309,contact1banquema,ag0001,2021-07-21
+2,agence oasis,rabat,oasis,201 rue boukhriss oasis rabat maroc,527789791,contact2banquema,ag0002,2014-03-31
+3,agence agdal,casablanca,maarif,280 rue jebari maarif casablanca maroc,525558087,contact3banquema,ag0003,2006-10-21
+4,agence hay riad,temara,maarif,52 rue bakkali maarif temara maroc,528217504,contact4banquema,ag0004,2013-07-11
+5,agence mabella,oujda,belvdre,74 rue ouzzani belvdre oujda maroc,522851395,contact5banquema,ag0005,2021-08-08
+6,agence hay riad,temara,maarif,67 rue jebari maarif temara maroc,521996745,contact6banquema,ag0006,2022-05-08
+7,agence centrale,tanger,maarif,163 rue zerouali maarif tanger maroc,526844188,contact7banquema,ag0007,2014-05-23
+8,agence gueliz,ttouan,sidi moumen,213 rue fassi sidi moumen ttouan maroc,522049656,contact8banquema,ag0008,2009-07-27
+9,agence sidi maarouf,tanger,sidi marouf,84 rue lahlou sidi marouf tanger maroc,526249141,contact9banquema,ag0009,2012-09-18
+10,agence maarif,fes,mabella,126 rue lahlou mabella fes maroc,522234039,contact10banquema,ag0010,2011-11-26
+11,agence oulfa,temara,bourgogne,25 rue bakkali bourgogne temara maroc,529198077,contact11banquema,ag0011,2024-09-16
+12,agence agdal,marrakech,yacoub el mansour,228 rue baroudi yacoub el mansour marrakech maroc,523942841,contact12banquema,ag0012,2015-02-20
+13,agence centrale,tanger,bourgogne,139 rue tahiri bourgogne tanger maroc,525134876,contact13banquema,ag0013,2015-09-29
+14,agence gueliz,kenitra,oasis,90 rue bakkali oasis kenitra maroc,529996106,contact14banquema,ag0014,2025-01-28
+15,agence hay riad,tanger,maarif,55 rue amrani maarif tanger maroc,525529972,contact15banquema,ag0015,2018-01-23
+16,agence oulfa,fes,sidi marouf,167 rue bakkali sidi marouf fes maroc,527304832,contact16banquema,ag0016,2012-12-17
+17,agence oulfa,fes,yacoub el mansour,229 rue lahlou yacoub el mansour fes maroc,529263762,contact17banquema,ag0017,2006-01-01
+18,agence gueliz,temara,gueliz,206 rue bennani gueliz temara maroc,521383382,contact18banquema,ag0018,2005-05-26
+19,agence centrale,kenitra,belvdre,273 rue ouzzani belvdre kenitra maroc,523992303,contact19banquema,ag0019,2018-08-31
+20,agence oulfa,casablanca,belvdre,184 rue naciri belvdre casablanca maroc,528514417,contact20banquema,ag0020,2022-01-02
+21,agence oulfa,casablanca,mabella,242 rue fassi mabella casablanca maroc,527243838,contact21banquema,ag0021,2020-11-26
+22,agence maarif,rabat,tabriquet,159 rue zerouali tabriquet rabat maroc,522987869,contact22banquema,ag0022,2018-02-17
+23,agence sidi maarouf,ttouan,bourgogne,113 rue moutawakil bourgogne ttouan maroc,524949557,contact23banquema,ag0023,2010-08-27
+24,agence sidi maarouf,tanger,sidi moumen,93 rue bennani sidi moumen tanger maroc,525916056,contact24banquema,ag0024,2016-09-03
+25,agence tabriquet,ttouan,oasis,227 rue bakkali oasis ttouan maroc,528320247,contact25banquema,ag0025,2016-06-20
+26,agence gueliz,ttouan,sidi moumen,46 rue fassi sidi moumen ttouan maroc,527536542,contact26banquema,ag0026,2005-07-31
+27,agence centrale,ttouan,tabriquet,281 rue maaroufi tabriquet ttouan maroc,525124603,contact27banquema,ag0027,2012-09-20
+28,agence tabriquet,tanger,yacoub el mansour,211 rue chakiri yacoub el mansour tanger maroc,524196218,contact28banquema,ag0028,2010-10-09
+29,agence mabella,tanger,tabriquet,54 rue amrani tabriquet tanger maroc,520009434,contact29banquema,ag0029,2017-02-22
+30,agence oasis,temara,sidi moumen,183 rue elmansouri sidi moumen temara maroc,527797291,contact30banquema,ag0030,2005-09-06
+31,agence sidi maarouf,casablanca,tabriquet,56 rue fadili tabriquet casablanca maroc,522816672,contact31banquema,ag0031,2007-10-14
+32,agence mabella,fes,agdal,106 rue touil agdal fes maroc,528752470,contact32banquema,ag0032,2022-02-01
+33,agence centrale,ttouan,tabriquet,193 rue bennani tabriquet ttouan maroc,528623789,contact33banquema,ag0033,2012-07-15
+34,agence hay riad,marrakech,belvdre,235 rue rguig belvdre marrakech maroc,522179439,contact34banquema,ag0034,2018-03-21
+35,agence oulfa,temara,tachfine,296 rue fadili tachfine temara maroc,529843386,contact35banquema,ag0035,2015-12-17
+36,agence tabriquet,ttouan,mabella,117 rue elkhatib mabella ttouan maroc,524710426,contact36banquema,ag0036,2013-12-26
+37,agence hay riad,oujda,bourgogne,55 rue tahiri bourgogne oujda maroc,524134187,contact37banquema,ag0037,2009-09-23
+38,agence oasis,ttouan,sidi moumen,246 rue ouzzani sidi moumen ttouan maroc,522124764,contact38banquema,ag0038,2018-08-13
+39,agence mabella,kenitra,agdal,169 rue lahlou agdal kenitra maroc,520816020,contact39banquema,ag0039,2011-07-22
+40,agence tabriquet,marrakech,hay riad,267 rue hariri hay riad marrakech maroc,529076526,contact40banquema,ag0040,2015-01-12
+41,agence maarif,temara,tachfine,181 rue fadili tachfine temara maroc,528612818,contact41banquema,ag0041,2008-11-26
+42,agence oasis,tanger,mabella,288 rue sekkat mabella tanger maroc,528591642,contact42banquema,ag0042,2020-12-07
+43,agence agdal,oujda,ain sebaa,54 rue elidrissi ain sebaa oujda maroc,523940163,contact43banquema,ag0043,2023-08-02
+44,agence gueliz,ttouan,yacoub el mansour,203 rue lahlou yacoub el mansour ttouan maroc,520858147,contact44banquema,ag0044,2013-12-22
+45,agence gueliz,ttouan,maarif,3 rue bensaid maarif ttouan maroc,528328905,contact45banquema,ag0045,2011-07-23
+46,agence agdal,ttouan,belvdre,299 rue bennis belvdre ttouan maroc,524642138,contact46banquema,ag0046,2025-02-10
+47,agence agdal,tanger,yacoub el mansour,130 rue sekkat yacoub el mansour tanger maroc,524649030,contact47banquema,ag0047,2007-05-21
+48,agence mabella,rabat,sidi marouf,23 rue chouaib sidi marouf rabat maroc,529756461,contact48banquema,ag0048,2011-08-30
+49,agence mabella,fes,mabella,219 rue chakiri mabella fes maroc,525760621,contact49banquema,ag0049,2024-10-16
+50,agence tabriquet,agadir,tachfine,119 rue jebari tachfine agadir maroc,525950148,contact50banquema,ag0050,2010-05-23
+51,agence agdal,ttouan,agdal,201 rue elkhatib agdal ttouan maroc,524185674,contact51banquema,ag0051,2012-10-01
+52,agence oasis,tanger,sidi moumen,264 rue touil sidi moumen tanger maroc,528652424,contact52banquema,ag0052,2012-11-01
+53,agence centrale,tanger,tachfine,291 rue tahiri tachfine tanger maroc,527752101,contact53banquema,ag0053,2015-10-11
+54,agence sidi maarouf,ttouan,mabella,294 rue rguig mabella ttouan maroc,528493995,contact54banquema,ag0054,2016-07-26
+55,agence gueliz,tanger,yacoub el mansour,260 rue chraibi yacoub el mansour tanger maroc,528336250,contact55banquema,ag0055,2008-07-18
+56,agence mabella,tanger,oasis,283 rue amrani oasis tanger maroc,528001915,contact56banquema,ag0056,2007-09-05
+57,agence centrale,temara,belvdre,112 rue jebari belvdre temara maroc,528200798,contact57banquema,ag0057,2005-10-28
+58,agence hay riad,marrakech,maarif,227 rue baroudi maarif marrakech maroc,527817694,contact58banquema,ag0058,2006-05-24
+59,agence gueliz,kenitra,oasis,49 rue fadili oasis kenitra maroc,525306682,contact59banquema,ag0059,2024-09-29
+60,agence oulfa,casablanca,tachfine,2 rue bensaid tachfine casablanca maroc,528969124,contact60banquema,ag0060,2006-08-30
+61,agence maarif,marrakech,oasis,299 rue zahiri oasis marrakech maroc,523200209,contact61banquema,ag0061,2019-08-28
+62,agence agdal,marrakech,mabella,257 rue bakkali mabella marrakech maroc,520229076,contact62banquema,ag0062,2006-11-19
+63,agence oasis,marrakech,bourgogne,97 rue rguig bourgogne marrakech maroc,529862798,contact63banquema,ag0063,2017-06-04
+64,agence sidi maarouf,ttouan,mdina,67 rue elidrissi mdina ttouan maroc,520725078,contact64banquema,ag0064,2013-08-13
+65,agence maarif,fes,hay riad,45 rue chraibi hay riad fes maroc,526586532,contact65banquema,ag0065,2005-06-30
+66,agence gueliz,tanger,hay riad,82 rue chouaib hay riad tanger maroc,525260696,contact66banquema,ag0066,2023-09-18
+67,agence oasis,tanger,tabriquet,61 rue jebari tabriquet tanger maroc,527557973,contact67banquema,ag0067,2024-03-20
+68,agence maarif,fes,belvdre,28 rue touil belvdre fes maroc,522146794,contact68banquema,ag0068,2019-05-24
+69,agence hay riad,marrakech,belvdre,247 rue bensaid belvdre marrakech maroc,524899269,contact69banquema,ag0069,2022-09-03
+70,agence centrale,oujda,tabriquet,169 rue fadili tabriquet oujda maroc,529817356,contact70banquema,ag0070,2013-12-03
+71,agence sidi maarouf,marrakech,mabella,183 rue bakkali mabella marrakech maroc,525782711,contact71banquema,ag0071,2013-07-28
+72,agence centrale,kenitra,maarif,77 rue bennani maarif kenitra maroc,526896665,contact72banquema,ag0072,2005-10-12
+73,agence gueliz,rabat,yacoub el mansour,129 rue amrani yacoub el mansour rabat maroc,527014497,contact73banquema,ag0073,2010-06-17
+74,agence agdal,agadir,belvdre,185 rue ouzzani belvdre agadir maroc,527887091,contact74banquema,ag0074,2009-04-10
+75,agence oulfa,oujda,agdal,82 rue fassi agdal oujda maroc,529457626,contact75banquema,ag0075,2008-04-24
+76,agence maarif,marrakech,bourgogne,48 rue baroudi bourgogne marrakech maroc,528012950,contact76banquema,ag0076,2018-05-16
+77,agence centrale,casablanca,sidi marouf,215 rue bakkali sidi marouf casablanca maroc,527341700,contact77banquema,ag0077,2018-08-30
+78,agence maarif,oujda,agdal,79 rue zahiri agdal oujda maroc,529076815,contact78banquema,ag0078,2020-05-31
+79,agence mabella,marrakech,tachfine,14 rue moutawakil tachfine marrakech maroc,524966720,contact79banquema,ag0079,2012-10-15
+80,agence sidi maarouf,agadir,oasis,286 rue lahlou oasis agadir maroc,524166325,contact80banquema,ag0080,2009-12-08
+81,agence sidi maarouf,casablanca,bourgogne,132 rue moutawakil bourgogne casablanca maroc,525433167,contact81banquema,ag0081,2005-07-11
+82,agence maarif,tanger,sidi moumen,171 rue bennani sidi moumen tanger maroc,526843257,contact82banquema,ag0082,2014-11-20
+83,agence centrale,marrakech,mabella,171 rue rguig mabella marrakech maroc,528383950,contact83banquema,ag0083,2016-09-08
+84,agence agdal,kenitra,yacoub el mansour,276 rue bennis yacoub el mansour kenitra maroc,523630379,contact84banquema,ag0084,2020-11-02
+85,agence mabella,marrakech,tachfine,71 rue bensaid tachfine marrakech maroc,523215960,contact85banquema,ag0085,2016-09-02
+86,agence mabella,ttouan,mabella,32 rue boukhriss mabella ttouan maroc,520593337,contact86banquema,ag0086,2024-06-12
+87,agence gueliz,casablanca,ain sebaa,92 rue lahlou ain sebaa casablanca maroc,526716043,contact87banquema,ag0087,2024-03-28
+88,agence oasis,ttouan,oasis,73 rue rguig oasis ttouan maroc,520291453,contact88banquema,ag0088,2023-10-13
+89,agence centrale,fes,tachfine,95 rue chakiri tachfine fes maroc,529466271,contact89banquema,ag0089,2020-08-27
+90,agence centrale,kenitra,mdina,173 rue hariri mdina kenitra maroc,526717783,contact90banquema,ag0090,2016-04-21
+91,agence tabriquet,rabat,yacoub el mansour,20 rue rguig yacoub el mansour rabat maroc,520398576,contact91banquema,ag0091,2024-07-19
+92,agence centrale,rabat,mdina,56 rue zahiri mdina rabat maroc,520936452,contact92banquema,ag0092,2011-08-21
+93,agence agdal,marrakech,sidi moumen,107 rue boukhriss sidi moumen marrakech maroc,520556409,contact93banquema,ag0093,2008-04-16
+94,agence maarif,kenitra,oasis,244 rue fadili oasis kenitra maroc,521921078,contact94banquema,ag0094,2011-02-15
+95,agence gueliz,oujda,gueliz,38 rue elidrissi gueliz oujda maroc,523987452,contact95banquema,ag0095,2019-09-19
+96,agence oasis,marrakech,sidi moumen,38 rue tahiri sidi moumen marrakech maroc,522643272,contact96banquema,ag0096,2015-11-29
+97,agence oasis,ttouan,bourgogne,194 rue naciri bourgogne ttouan maroc,522461317,contact97banquema,ag0097,2011-01-02
+98,agence centrale,rabat,maarif,173 rue maaroufi maarif rabat maroc,528059505,contact98banquema,ag0098,2018-10-02
+99,agence mabella,rabat,gueliz,89 rue alaoui gueliz rabat maroc,520706718,contact99banquema,ag0099,2006-11-19
+100,agence maarif,casablanca,bourgogne,287 rue chakiri bourgogne casablanca maroc,528571611,contact100banquema,ag0100,2013-03-01
+101,agence agdal,marrakech,tachfine,238 rue chouaib tachfine marrakech maroc,523050619,contact101banquema,ag0101,2013-06-24
+102,agence agdal,kenitra,tabriquet,28 rue bakkali tabriquet kenitra maroc,529389533,contact102banquema,ag0102,2019-07-26
+103,agence tabriquet,tanger,yacoub el mansour,278 rue elidrissi yacoub el mansour tanger maroc,522793657,contact103banquema,ag0103,2011-05-27
+104,agence mabella,temara,bourgogne,75 rue bennani bourgogne temara maroc,523246654,contact104banquema,ag0104,2005-08-05
+105,agence centrale,fes,gueliz,266 rue zerouali gueliz fes maroc,521327921,contact105banquema,ag0105,2010-02-13
+106,agence centrale,fes,oasis,296 rue elidrissi oasis fes maroc,524884456,contact106banquema,ag0106,2020-11-15
+107,agence oulfa,agadir,oasis,215 rue moutawakil oasis agadir maroc,529723904,contact107banquema,ag0107,2017-11-23
+108,agence mabella,tanger,gueliz,139 rue bensaid gueliz tanger maroc,520220468,contact108banquema,ag0108,2017-05-04
+109,agence mabella,ttouan,oasis,10 rue baroudi oasis ttouan maroc,524450482,contact109banquema,ag0109,2023-01-08
+110,agence sidi maarouf,kenitra,gueliz,132 rue alaoui gueliz kenitra maroc,522967621,contact110banquema,ag0110,2011-08-27
+111,agence oulfa,tanger,yacoub el mansour,112 rue chouaib yacoub el mansour tanger maroc,527814431,contact111banquema,ag0111,2007-12-14
+112,agence oulfa,agadir,yacoub el mansour,254 rue elidrissi yacoub el mansour agadir maroc,524376692,contact112banquema,ag0112,2014-01-04
+113,agence oasis,casablanca,yacoub el mansour,2 rue naciri yacoub el mansour casablanca maroc,524573210,contact113banquema,ag0113,2021-01-08
+114,agence tabriquet,oujda,mdina,246 rue chouaib mdina oujda maroc,520886805,contact114banquema,ag0114,2021-01-26
+115,agence oasis,oujda,agdal,73 rue fadili agdal oujda maroc,528622635,contact115banquema,ag0115,2006-02-22
+116,agence maarif,temara,sidi moumen,233 rue alaoui sidi moumen temara maroc,529156264,contact116banquema,ag0116,2009-08-05
+117,agence centrale,agadir,gueliz,205 rue elmansouri gueliz agadir maroc,522287252,contact117banquema,ag0117,2005-05-05
+118,agence mabella,temara,tabriquet,76 rue fadili tabriquet temara maroc,521194551,contact118banquema,ag0118,2020-06-11
+119,agence centrale,oujda,belvdre,62 rue chouaib belvdre oujda maroc,520021974,contact119banquema,ag0119,2009-03-15
+120,agence oulfa,tanger,hay riad,253 rue amrani hay riad tanger maroc,527117654,contact120banquema,ag0120,2008-05-24
+121,agence mabella,casablanca,mdina,199 rue tahiri mdina casablanca maroc,529105812,contact121banquema,ag0121,2017-01-07
+122,agence mabella,temara,maarif,104 rue amrani maarif temara maroc,526341769,contact122banquema,ag0122,2010-10-27
+123,agence sidi maarouf,agadir,yacoub el mansour,296 rue zerouali yacoub el mansour agadir maroc,521075486,contact123banquema,ag0123,2012-12-25
+124,agence gueliz,fes,yacoub el mansour,299 rue elmansouri yacoub el mansour fes maroc,522067132,contact124banquema,ag0124,2024-01-17
+125,agence oulfa,fes,tabriquet,135 rue chakiri tabriquet fes maroc,526055966,contact125banquema,ag0125,2005-07-07
+126,agence mabella,marrakech,mdina,139 rue amrani mdina marrakech maroc,520302086,contact126banquema,ag0126,2011-06-18
+127,agence oulfa,rabat,sidi moumen,44 rue bennis sidi moumen rabat maroc,524390450,contact127banquema,ag0127,2011-09-27
+128,agence centrale,temara,maarif,268 rue chouaib maarif temara maroc,521988097,contact128banquema,ag0128,2019-12-26
+129,agence mabella,kenitra,maarif,264 rue chraibi maarif kenitra maroc,528152030,contact129banquema,ag0129,2011-01-11
+130,agence tabriquet,rabat,mdina,88 rue bennani mdina rabat maroc,527840652,contact130banquema,ag0130,2008-09-03
+131,agence agdal,rabat,mabella,29 rue bensaid mabella rabat maroc,520976688,contact131banquema,ag0131,2011-02-14
+132,agence oulfa,agadir,hay riad,116 rue rguig hay riad agadir maroc,529713691,contact132banquema,ag0132,2007-08-09
+133,agence mabella,tanger,mabella,227 rue bennis mabella tanger maroc,527600275,contact133banquema,ag0133,2017-04-20
+134,agence hay riad,fes,tachfine,151 rue rguig tachfine fes maroc,520901080,contact134banquema,ag0134,2023-02-24
+135,agence oasis,tanger,agdal,47 rue bennani agdal tanger maroc,520008452,contact135banquema,ag0135,2009-07-17
+136,agence hay riad,casablanca,tachfine,241 rue bennani tachfine casablanca maroc,528327575,contact136banquema,ag0136,2023-01-28
+137,agence maarif,temara,mabella,186 rue elkhatib mabella temara maroc,520198317,contact137banquema,ag0137,2024-10-18
+138,agence agdal,tanger,maarif,77 rue moutawakil maarif tanger maroc,529484932,contact138banquema,ag0138,2021-12-09
+139,agence oasis,kenitra,gueliz,118 rue lahlou gueliz kenitra maroc,522946501,contact139banquema,ag0139,2005-06-14
+140,agence maarif,casablanca,agdal,7 rue hariri agdal casablanca maroc,527896498,contact140banquema,ag0140,2017-10-05
+141,agence tabriquet,tanger,bourgogne,243 rue boukhriss bourgogne tanger maroc,525599609,contact141banquema,ag0141,2024-07-19
+142,agence oasis,marrakech,sidi marouf,217 rue bakkali sidi marouf marrakech maroc,527571641,contact142banquema,ag0142,2008-07-08
+143,agence maarif,agadir,belvdre,86 rue moutawakil belvdre agadir maroc,526435368,contact143banquema,ag0143,2020-01-24
+144,agence maarif,ttouan,tabriquet,133 rue hariri tabriquet ttouan maroc,520942146,contact144banquema,ag0144,2008-12-04
+145,agence hay riad,agadir,agdal,208 rue jebari agdal agadir maroc,525858971,contact145banquema,ag0145,2009-02-12
+146,agence sidi maarouf,marrakech,yacoub el mansour,150 rue bennani yacoub el mansour marrakech maroc,521558866,contact146banquema,ag0146,2022-06-04
+147,agence oasis,marrakech,hay riad,235 rue alaoui hay riad marrakech maroc,523854891,contact147banquema,ag0147,2020-02-28
+148,agence mabella,kenitra,tabriquet,217 rue naciri tabriquet kenitra maroc,529620537,contact148banquema,ag0148,2012-07-01
+149,agence hay riad,ttouan,yacoub el mansour,195 rue elidrissi yacoub el mansour ttouan maroc,526320381,contact149banquema,ag0149,2023-07-12
+150,agence sidi maarouf,casablanca,sidi marouf,272 rue bakkali sidi marouf casablanca maroc,528328285,contact150banquema,ag0150,2017-12-10
+151,agence oasis,rabat,tabriquet,235 rue jebari tabriquet rabat maroc,520778906,contact151banquema,ag0151,2016-08-11
+152,agence mabella,tanger,ain sebaa,153 rue bennis ain sebaa tanger maroc,528660586,contact152banquema,ag0152,2024-01-11
+153,agence oasis,temara,agdal,141 rue boukhriss agdal temara maroc,520584855,contact153banquema,ag0153,2024-01-15
+154,agence sidi maarouf,temara,maarif,109 rue zerouali maarif temara maroc,528444237,contact154banquema,ag0154,2008-01-30
+155,agence centrale,oujda,gueliz,146 rue tahiri gueliz oujda maroc,525964044,contact155banquema,ag0155,2015-12-15
+156,agence centrale,kenitra,belvdre,136 rue bakkali belvdre kenitra maroc,529478077,contact156banquema,ag0156,2024-08-30
+157,agence gueliz,ttouan,sidi moumen,286 rue rguig sidi moumen ttouan maroc,523064481,contact157banquema,ag0157,2021-01-31
+158,agence maarif,agadir,mdina,125 rue bakkali mdina agadir maroc,527404992,contact158banquema,ag0158,2021-04-24
+159,agence hay riad,ttouan,agdal,50 rue fadili agdal ttouan maroc,521518827,contact159banquema,ag0159,2011-01-02
+160,agence hay riad,casablanca,bourgogne,266 rue moutawakil bourgogne casablanca maroc,528962927,contact160banquema,ag0160,2008-07-05
+161,agence oulfa,agadir,oasis,218 rue fadili oasis agadir maroc,529292950,contact161banquema,ag0161,2018-04-17
+162,agence maarif,tanger,sidi moumen,114 rue zerouali sidi moumen tanger maroc,521281345,contact162banquema,ag0162,2024-03-22
+163,agence hay riad,marrakech,mdina,296 rue rguig mdina marrakech maroc,528389951,contact163banquema,ag0163,2022-11-21
+164,agence gueliz,marrakech,maarif,233 rue tahiri maarif marrakech maroc,524613705,contact164banquema,ag0164,2006-10-26
+165,agence maarif,temara,maarif,21 rue fadili maarif temara maroc,522479617,contact165banquema,ag0165,2007-01-07
+166,agence oasis,oujda,belvdre,80 rue moutawakil belvdre oujda maroc,528310427,contact166banquema,ag0166,2016-11-11
+167,agence sidi maarouf,fes,maarif,172 rue sekkat maarif fes maroc,524974557,contact167banquema,ag0167,2013-05-07
+168,agence oasis,temara,sidi marouf,84 rue zerouali sidi marouf temara maroc,528674519,contact168banquema,ag0168,2021-08-05
+169,agence hay riad,kenitra,bourgogne,281 rue sekkat bourgogne kenitra maroc,522364015,contact169banquema,ag0169,2023-07-05
+170,agence agdal,rabat,sidi marouf,145 rue bensaid sidi marouf rabat maroc,529056884,contact170banquema,ag0170,2012-08-26
+171,agence centrale,agadir,yacoub el mansour,157 rue elalami yacoub el mansour agadir maroc,524944034,contact171banquema,ag0171,2007-08-04
+172,agence tabriquet,fes,sidi moumen,127 rue alaoui sidi moumen fes maroc,521739690,contact172banquema,ag0172,2023-12-07
+173,agence agdal,kenitra,mabella,281 rue alaoui mabella kenitra maroc,527959777,contact173banquema,ag0173,2018-01-29
+174,agence hay riad,fes,agdal,135 rue rguig agdal fes maroc,527684152,contact174banquema,ag0174,2010-07-25
+175,agence centrale,fes,yacoub el mansour,173 rue elidrissi yacoub el mansour fes maroc,524553736,contact175banquema,ag0175,2022-08-10
+176,agence maarif,tanger,tabriquet,74 rue bennis tabriquet tanger maroc,527110574,contact176banquema,ag0176,2025-02-07
+177,agence oulfa,kenitra,sidi marouf,220 rue bennis sidi marouf kenitra maroc,528698482,contact177banquema,ag0177,2021-08-16
+178,agence tabriquet,ttouan,yacoub el mansour,278 rue elmansouri yacoub el mansour ttouan maroc,527895980,contact178banquema,ag0178,2011-03-04
+179,agence oulfa,tanger,belvdre,143 rue bakkali belvdre tanger maroc,524328226,contact179banquema,ag0179,2022-08-17
+180,agence gueliz,kenitra,tabriquet,151 rue amrani tabriquet kenitra maroc,524657941,contact180banquema,ag0180,2014-09-13
+181,agence oasis,casablanca,agdal,70 rue tahiri agdal casablanca maroc,523574029,contact181banquema,ag0181,2016-08-04
+182,agence sidi maarouf,oujda,bourgogne,2 rue lahlou bourgogne oujda maroc,527297488,contact182banquema,ag0182,2015-11-20
+183,agence hay riad,fes,mabella,233 rue bakkali mabella fes maroc,529754723,contact183banquema,ag0183,2007-02-14
+184,agence gueliz,marrakech,belvdre,193 rue fadili belvdre marrakech maroc,528655910,contact184banquema,ag0184,2008-07-27
+185,agence agdal,ttouan,maarif,57 rue chakiri maarif ttouan maroc,528858132,contact185banquema,ag0185,2022-10-16
+186,agence oasis,agadir,tabriquet,151 rue bensaid tabriquet agadir maroc,524066816,contact186banquema,ag0186,2010-01-02
+187,agence hay riad,oujda,mabella,179 rue rguig mabella oujda maroc,521172819,contact187banquema,ag0187,2011-01-10
+188,agence mabella,tanger,oasis,284 rue naciri oasis tanger maroc,522283431,contact188banquema,ag0188,2021-07-12
+189,agence centrale,fes,mabella,123 rue sekkat mabella fes maroc,527807008,contact189banquema,ag0189,2010-11-01
+190,agence oasis,casablanca,tachfine,215 rue bakkali tachfine casablanca maroc,524233280,contact190banquema,ag0190,2005-05-07
+191,agence hay riad,temara,maarif,162 rue maaroufi maarif temara maroc,526354661,contact191banquema,ag0191,2007-02-21
+192,agence agdal,casablanca,gueliz,67 rue chouaib gueliz casablanca maroc,524047880,contact192banquema,ag0192,2011-05-08
+193,agence tabriquet,marrakech,maarif,110 rue zerouali maarif marrakech maroc,522957166,contact193banquema,ag0193,2024-01-23
+194,agence maarif,kenitra,agdal,275 rue rguig agdal kenitra maroc,524769239,contact194banquema,ag0194,2012-07-30
+195,agence gueliz,agadir,yacoub el mansour,181 rue rguig yacoub el mansour agadir maroc,521050707,contact195banquema,ag0195,2015-04-30
+196,agence oulfa,rabat,gueliz,40 rue touil gueliz rabat maroc,520240522,contact196banquema,ag0196,2023-07-26
+197,agence tabriquet,kenitra,ain sebaa,96 rue elidrissi ain sebaa kenitra maroc,529052755,contact197banquema,ag0197,2009-08-23
+198,agence hay riad,casablanca,bourgogne,203 rue rguig bourgogne casablanca maroc,525351092,contact198banquema,ag0198,2013-01-31
+199,agence oulfa,agadir,mdina,262 rue bakkali mdina agadir maroc,526733365,contact199banquema,ag0199,2009-11-28
+200,agence sidi maarouf,oujda,hay riad,182 rue rguig hay riad oujda maroc,524973635,contact200banquema,ag0200,2010-08-06
+201,agence oulfa,rabat,ain sebaa,15 rue zahiri ain sebaa rabat maroc,528761958,contact201banquema,ag0201,2007-04-27
+202,agence maarif,fes,mdina,72 rue amrani mdina fes maroc,528779711,contact202banquema,ag0202,2013-11-17
+203,agence centrale,temara,oasis,222 rue ouzzani oasis temara maroc,525303258,contact203banquema,ag0203,2008-04-28
+204,agence oasis,ttouan,belvdre,200 rue ouzzani belvdre ttouan maroc,528824348,contact204banquema,ag0204,2014-09-29
+205,agence maarif,agadir,gueliz,275 rue elmansouri gueliz agadir maroc,528935807,contact205banquema,ag0205,2014-10-16
+206,agence maarif,agadir,yacoub el mansour,19 rue bakkali yacoub el mansour agadir maroc,520745848,contact206banquema,ag0206,2021-11-19
+207,agence maarif,marrakech,agdal,113 rue zerouali agdal marrakech maroc,529066307,contact207banquema,ag0207,2014-10-16
+208,agence maarif,temara,sidi marouf,236 rue amrani sidi marouf temara maroc,523516641,contact208banquema,ag0208,2012-07-01
+209,agence mabella,fes,bourgogne,9 rue touil bourgogne fes maroc,526402777,contact209banquema,ag0209,2009-10-14
+210,agence tabriquet,temara,oasis,151 rue chakiri oasis temara maroc,528061958,contact210banquema,ag0210,2023-03-02
+211,agence oulfa,temara,oasis,70 rue rguig oasis temara maroc,525669426,contact211banquema,ag0211,2009-01-14
+212,agence tabriquet,fes,yacoub el mansour,74 rue elmansouri yacoub el mansour fes maroc,526353851,contact212banquema,ag0212,2007-07-21
+213,agence centrale,casablanca,mabella,125 rue chakiri mabella casablanca maroc,528486234,contact213banquema,ag0213,2019-08-24
+214,agence agdal,kenitra,yacoub el mansour,288 rue maaroufi yacoub el mansour kenitra maroc,527342238,contact214banquema,ag0214,2017-07-20
+215,agence maarif,rabat,mabella,4 rue rguig mabella rabat maroc,529008425,contact215banquema,ag0215,2024-12-12
+216,agence sidi maarouf,marrakech,sidi marouf,114 rue boukhriss sidi marouf marrakech maroc,526178762,contact216banquema,ag0216,2011-12-26
+217,agence mabella,kenitra,hay riad,176 rue fadili hay riad kenitra maroc,522910582,contact217banquema,ag0217,2005-08-26
+218,agence tabriquet,marrakech,tachfine,67 rue sekkat tachfine marrakech maroc,528383671,contact218banquema,ag0218,2009-08-11
+219,agence gueliz,casablanca,maarif,131 rue bakkali maarif casablanca maroc,525698496,contact219banquema,ag0219,2005-10-01
+220,agence gueliz,temara,mdina,300 rue bensaid mdina temara maroc,521021659,contact220banquema,ag0220,2009-08-24
+221,agence maarif,fes,tabriquet,237 rue maaroufi tabriquet fes maroc,522855738,contact221banquema,ag0221,2006-07-14
+222,agence centrale,temara,mdina,230 rue alaoui mdina temara maroc,525237384,contact222banquema,ag0222,2012-05-18
+223,agence maarif,fes,tabriquet,131 rue bennani tabriquet fes maroc,525554388,contact223banquema,ag0223,2007-01-12
+224,agence mabella,tanger,mdina,149 rue alaoui mdina tanger maroc,528744411,contact224banquema,ag0224,2014-09-24
+225,agence tabriquet,ttouan,mabella,115 rue ouzzani mabella ttouan maroc,527686537,contact225banquema,ag0225,2010-05-21
+226,agence mabella,casablanca,belvdre,54 rue fassi belvdre casablanca maroc,527997298,contact226banquema,ag0226,2012-10-03
+227,agence oasis,temara,ain sebaa,36 rue moutawakil ain sebaa temara maroc,527068673,contact227banquema,ag0227,2009-10-08
+228,agence oulfa,agadir,oasis,236 rue maaroufi oasis agadir maroc,526559458,contact228banquema,ag0228,2009-09-30
+229,agence agdal,tanger,oasis,6 rue jebari oasis tanger maroc,528638576,contact229banquema,ag0229,2020-03-28
+230,agence gueliz,agadir,mabella,221 rue bensaid mabella agadir maroc,523476727,contact230banquema,ag0230,2022-04-02
+231,agence hay riad,fes,mabella,92 rue bennis mabella fes maroc,522735270,contact231banquema,ag0231,2017-07-11
+232,agence oulfa,agadir,ain sebaa,170 rue moutawakil ain sebaa agadir maroc,527805514,contact232banquema,ag0232,2009-08-19
+233,agence mabella,kenitra,maarif,6 rue hariri maarif kenitra maroc,522712555,contact233banquema,ag0233,2008-10-25
+234,agence oasis,marrakech,tachfine,135 rue bakkali tachfine marrakech maroc,529945946,contact234banquema,ag0234,2013-08-06
+235,agence centrale,agadir,gueliz,216 rue boukhriss gueliz agadir maroc,528190464,contact235banquema,ag0235,2017-12-29
+236,agence sidi maarouf,oujda,maarif,285 rue bennis maarif oujda maroc,523461625,contact236banquema,ag0236,2011-11-27
+237,agence centrale,casablanca,agdal,66 rue lahlou agdal casablanca maroc,523781398,contact237banquema,ag0237,2006-09-18
+238,agence hay riad,marrakech,sidi moumen,262 rue elkhatib sidi moumen marrakech maroc,524048742,contact238banquema,ag0238,2009-10-01
+239,agence mabella,temara,yacoub el mansour,47 rue sekkat yacoub el mansour temara maroc,522412240,contact239banquema,ag0239,2022-06-07
+240,agence mabella,temara,hay riad,127 rue moutawakil hay riad temara maroc,529222834,contact240banquema,ag0240,2008-06-27
+241,agence oulfa,ttouan,maarif,165 rue fadili maarif ttouan maroc,521269974,contact241banquema,ag0241,2019-07-11
+242,agence sidi maarouf,casablanca,ain sebaa,9 rue fassi ain sebaa casablanca maroc,523665145,contact242banquema,ag0242,2016-09-20
+243,agence gueliz,marrakech,yacoub el mansour,144 rue zerouali yacoub el mansour marrakech maroc,525470670,contact243banquema,ag0243,2006-11-27
+244,agence tabriquet,oujda,yacoub el mansour,11 rue chakiri yacoub el mansour oujda maroc,528237649,contact244banquema,ag0244,2019-02-27
+245,agence sidi maarouf,fes,ain sebaa,236 rue amrani ain sebaa fes maroc,526391642,contact245banquema,ag0245,2013-12-05
+246,agence oasis,tanger,sidi moumen,221 rue hariri sidi moumen tanger maroc,526175540,contact246banquema,ag0246,2018-10-10
+247,agence agdal,kenitra,mabella,298 rue hariri mabella kenitra maroc,525929961,contact247banquema,ag0247,2012-01-04
+248,agence oasis,kenitra,mdina,291 rue bakkali mdina kenitra maroc,529563723,contact248banquema,ag0248,2005-05-27
+249,agence sidi maarouf,tanger,mdina,14 rue fadili mdina tanger maroc,525439343,contact249banquema,ag0249,2007-04-05
+250,agence oasis,marrakech,mabella,199 rue chakiri mabella marrakech maroc,521392154,contact250banquema,ag0250,2017-01-09
+251,agence sidi maarouf,kenitra,agdal,154 rue elmansouri agdal kenitra maroc,524802058,contact251banquema,ag0251,2013-02-27
+252,agence sidi maarouf,rabat,ain sebaa,115 rue bennis ain sebaa rabat maroc,522691965,contact252banquema,ag0252,2020-04-10
+253,agence centrale,tanger,gueliz,188 rue chakiri gueliz tanger maroc,527602276,contact253banquema,ag0253,2020-11-07
+254,agence hay riad,temara,tachfine,257 rue zahiri tachfine temara maroc,526616222,contact254banquema,ag0254,2020-12-10
+255,agence maarif,tanger,agdal,35 rue bennis agdal tanger maroc,521552418,contact255banquema,ag0255,2017-05-31
+256,agence agdal,agadir,sidi marouf,192 rue bensaid sidi marouf agadir maroc,524963565,contact256banquema,ag0256,2018-11-04
+257,agence gueliz,tanger,gueliz,31 rue naciri gueliz tanger maroc,520677131,contact257banquema,ag0257,2025-03-12
+258,agence oasis,fes,yacoub el mansour,198 rue chraibi yacoub el mansour fes maroc,524396923,contact258banquema,ag0258,2008-07-27
+259,agence oulfa,kenitra,hay riad,14 rue elmansouri hay riad kenitra maroc,522373918,contact259banquema,ag0259,2023-08-02
+260,agence sidi maarouf,agadir,maarif,97 rue zerouali maarif agadir maroc,524059623,contact260banquema,ag0260,2012-12-07
+261,agence maarif,fes,mabella,47 rue naciri mabella fes maroc,524773342,contact261banquema,ag0261,2009-10-18
+262,agence gueliz,agadir,maarif,89 rue ouzzani maarif agadir maroc,527323389,contact262banquema,ag0262,2007-09-21
+263,agence agdal,marrakech,belvdre,12 rue ouzzani belvdre marrakech maroc,521514213,contact263banquema,ag0263,2006-01-31
+264,agence oulfa,fes,tabriquet,46 rue zerouali tabriquet fes maroc,520650707,contact264banquema,ag0264,2010-10-25
+265,agence tabriquet,tanger,mabella,85 rue moutawakil mabella tanger maroc,529591100,contact265banquema,ag0265,2008-05-10
+266,agence centrale,tanger,sidi moumen,291 rue bennani sidi moumen tanger maroc,524736428,contact266banquema,ag0266,2019-06-14
+267,agence maarif,kenitra,sidi moumen,130 rue amrani sidi moumen kenitra maroc,523970610,contact267banquema,ag0267,2007-10-28
+268,agence centrale,fes,mdina,155 rue rguig mdina fes maroc,521448610,contact268banquema,ag0268,2021-04-14
+269,agence hay riad,temara,bourgogne,45 rue naciri bourgogne temara maroc,523421652,contact269banquema,ag0269,2015-06-19
+270,agence oulfa,agadir,mabella,120 rue boukhriss mabella agadir maroc,526155388,contact270banquema,ag0270,2018-03-04
+271,agence oasis,kenitra,agdal,104 rue touil agdal kenitra maroc,527254557,contact271banquema,ag0271,2006-09-11
+272,agence oulfa,fes,bourgogne,237 rue rguig bourgogne fes maroc,526979502,contact272banquema,ag0272,2010-09-20
+273,agence agdal,rabat,gueliz,253 rue maaroufi gueliz rabat maroc,522154566,contact273banquema,ag0273,2025-02-09
+274,agence centrale,rabat,tabriquet,60 rue chakiri tabriquet rabat maroc,522775358,contact274banquema,ag0274,2023-05-15
+275,agence hay riad,ttouan,agdal,105 rue elmansouri agdal ttouan maroc,523754545,contact275banquema,ag0275,2012-09-23
+276,agence agdal,casablanca,agdal,149 rue ouzzani agdal casablanca maroc,529403352,contact276banquema,ag0276,2009-05-14
+277,agence centrale,casablanca,gueliz,270 rue bennis gueliz casablanca maroc,529329105,contact277banquema,ag0277,2006-04-19
+278,agence hay riad,temara,tachfine,271 rue lahlou tachfine temara maroc,529703869,contact278banquema,ag0278,2014-04-11
+279,agence sidi maarouf,oujda,tachfine,212 rue jebari tachfine oujda maroc,522647164,contact279banquema,ag0279,2013-09-28
+280,agence oasis,marrakech,agdal,294 rue fassi agdal marrakech maroc,529900054,contact280banquema,ag0280,2023-09-20
+281,agence gueliz,casablanca,ain sebaa,79 rue amrani ain sebaa casablanca maroc,523224468,contact281banquema,ag0281,2014-09-10
+282,agence gueliz,tanger,oasis,288 rue tahiri oasis tanger maroc,521578739,contact282banquema,ag0282,2007-08-01
+283,agence mabella,kenitra,gueliz,120 rue chraibi gueliz kenitra maroc,526688948,contact283banquema,ag0283,2018-06-23
+284,agence hay riad,kenitra,maarif,154 rue alaoui maarif kenitra maroc,528124419,contact284banquema,ag0284,2018-08-22
+285,agence oulfa,rabat,maarif,112 rue lahlou maarif rabat maroc,529448673,contact285banquema,ag0285,2010-10-28
+286,agence oulfa,rabat,sidi moumen,59 rue fadili sidi moumen rabat maroc,528038528,contact286banquema,ag0286,2010-06-09
+287,agence centrale,agadir,maarif,165 rue zerouali maarif agadir maroc,521879291,contact287banquema,ag0287,2024-08-12
+288,agence maarif,marrakech,mabella,106 rue naciri mabella marrakech maroc,520384638,contact288banquema,ag0288,2008-01-25
+289,agence sidi maarouf,marrakech,belvdre,135 rue ouzzani belvdre marrakech maroc,527211809,contact289banquema,ag0289,2012-03-19
+290,agence oulfa,casablanca,yacoub el mansour,40 rue boukhriss yacoub el mansour casablanca maroc,527964970,contact290banquema,ag0290,2009-05-03
+291,agence tabriquet,oujda,mdina,30 rue zerouali mdina oujda maroc,527613197,contact291banquema,ag0291,2019-08-04
+292,agence tabriquet,tanger,tabriquet,79 rue moutawakil tabriquet tanger maroc,522550536,contact292banquema,ag0292,2021-11-14
+293,agence gueliz,marrakech,agdal,194 rue chraibi agdal marrakech maroc,521974207,contact293banquema,ag0293,2005-10-12
+294,agence tabriquet,oujda,maarif,101 rue hariri maarif oujda maroc,528452839,contact294banquema,ag0294,2022-05-10
+295,agence tabriquet,rabat,agdal,29 rue bakkali agdal rabat maroc,520519706,contact295banquema,ag0295,2007-03-17
+296,agence mabella,marrakech,tabriquet,294 rue bennis tabriquet marrakech maroc,523452319,contact296banquema,ag0296,2017-10-15
+297,agence tabriquet,casablanca,oasis,205 rue sekkat oasis casablanca maroc,520381009,contact297banquema,ag0297,2019-02-11
+298,agence oasis,casablanca,mdina,144 rue elalami mdina casablanca maroc,526658917,contact298banquema,ag0298,2024-04-06
+299,agence maarif,oujda,tachfine,126 rue sekkat tachfine oujda maroc,524157706,contact299banquema,ag0299,2017-11-05
+300,agence centrale,marrakech,mabella,237 rue bennani mabella marrakech maroc,528273722,contact300banquema,ag0300,2019-07-08
+301,agence centrale,rabat,mabella,163 rue elmansouri mabella rabat maroc,520443388,contact301banquema,ag0301,2018-09-08
+302,agence centrale,ttouan,yacoub el mansour,34 rue boukhriss yacoub el mansour ttouan maroc,529385729,contact302banquema,ag0302,2020-12-21
+303,agence gueliz,oujda,hay riad,128 rue zahiri hay riad oujda maroc,525003712,contact303banquema,ag0303,2006-09-08
+304,agence mabella,marrakech,sidi marouf,16 rue naciri sidi marouf marrakech maroc,525664747,contact304banquema,ag0304,2018-05-05
+305,agence agdal,temara,tabriquet,252 rue jebari tabriquet temara maroc,529088408,contact305banquema,ag0305,2013-04-06
+306,agence maarif,temara,ain sebaa,99 rue bennis ain sebaa temara maroc,524083672,contact306banquema,ag0306,2018-09-17
+307,agence oasis,kenitra,mdina,3 rue zerouali mdina kenitra maroc,528269280,contact307banquema,ag0307,2010-07-06
+308,agence sidi maarouf,fes,gueliz,269 rue sekkat gueliz fes maroc,529088876,contact308banquema,ag0308,2008-03-02
+309,agence sidi maarouf,fes,tachfine,192 rue elidrissi tachfine fes maroc,524602790,contact309banquema,ag0309,2024-09-16
+310,agence oasis,tanger,mdina,58 rue touil mdina tanger maroc,521918105,contact310banquema,ag0310,2022-09-24
+311,agence agdal,ttouan,oasis,13 rue touil oasis ttouan maroc,528713754,contact311banquema,ag0311,2018-09-13
+312,agence tabriquet,fes,tabriquet,121 rue rguig tabriquet fes maroc,529104340,contact312banquema,ag0312,2017-08-16
+313,agence tabriquet,temara,bourgogne,106 rue elidrissi bourgogne temara maroc,523279141,contact313banquema,ag0313,2017-08-11
+314,agence gueliz,oujda,bourgogne,289 rue zerouali bourgogne oujda maroc,522438906,contact314banquema,ag0314,2007-05-13
+315,agence agdal,marrakech,ain sebaa,9 rue bennani ain sebaa marrakech maroc,523949116,contact315banquema,ag0315,2015-08-15
+316,agence oulfa,oujda,belvdre,225 rue moutawakil belvdre oujda maroc,525221085,contact316banquema,ag0316,2025-01-30
+317,agence mabella,oujda,oasis,141 rue elmansouri oasis oujda maroc,528046487,contact317banquema,ag0317,2015-01-25
+318,agence tabriquet,agadir,agdal,202 rue maaroufi agdal agadir maroc,521482041,contact318banquema,ag0318,2013-12-21
+319,agence hay riad,fes,maarif,205 rue maaroufi maarif fes maroc,527673369,contact319banquema,ag0319,2015-07-13
+320,agence tabriquet,tanger,mdina,87 rue ouzzani mdina tanger maroc,528066248,contact320banquema,ag0320,2006-07-15
+321,agence sidi maarouf,oujda,maarif,63 rue boukhriss maarif oujda maroc,528613180,contact321banquema,ag0321,2020-04-23
+322,agence hay riad,agadir,maarif,263 rue fassi maarif agadir maroc,524519022,contact322banquema,ag0322,2019-12-27
+323,agence tabriquet,agadir,tabriquet,41 rue moutawakil tabriquet agadir maroc,522990750,contact323banquema,ag0323,2018-08-17
+324,agence gueliz,temara,agdal,160 rue lahlou agdal temara maroc,526362669,contact324banquema,ag0324,2011-12-27
+325,agence mabella,rabat,agdal,213 rue elidrissi agdal rabat maroc,521984119,contact325banquema,ag0325,2015-09-21
+326,agence centrale,rabat,belvdre,198 rue alaoui belvdre rabat maroc,523325969,contact326banquema,ag0326,2011-09-21
+327,agence oasis,oujda,agdal,46 rue elmansouri agdal oujda maroc,522791492,contact327banquema,ag0327,2012-12-13
+328,agence sidi maarouf,oujda,mabella,12 rue naciri mabella oujda maroc,525732692,contact328banquema,ag0328,2024-08-13
+329,agence sidi maarouf,tanger,mabella,139 rue elalami mabella tanger maroc,524331950,contact329banquema,ag0329,2019-06-28
+330,agence gueliz,fes,mabella,204 rue elmansouri mabella fes maroc,526371564,contact330banquema,ag0330,2017-01-01
+331,agence gueliz,temara,tabriquet,131 rue alaoui tabriquet temara maroc,528385787,contact331banquema,ag0331,2005-08-06
+332,agence centrale,kenitra,agdal,137 rue naciri agdal kenitra maroc,523328676,contact332banquema,ag0332,2015-08-04
+333,agence sidi maarouf,agadir,bourgogne,140 rue baroudi bourgogne agadir maroc,524711206,contact333banquema,ag0333,2018-02-17
+334,agence mabella,tanger,sidi marouf,291 rue moutawakil sidi marouf tanger maroc,527113394,contact334banquema,ag0334,2010-12-30
+335,agence hay riad,casablanca,maarif,119 rue elkhatib maarif casablanca maroc,521555513,contact335banquema,ag0335,2020-09-27
+336,agence tabriquet,ttouan,oasis,71 rue chakiri oasis ttouan maroc,522513827,contact336banquema,ag0336,2011-10-06
+337,agence oasis,marrakech,ain sebaa,193 rue naciri ain sebaa marrakech maroc,527911742,contact337banquema,ag0337,2009-09-17
+338,agence hay riad,agadir,tachfine,65 rue lahlou tachfine agadir maroc,527466209,contact338banquema,ag0338,2011-01-20
+339,agence oulfa,marrakech,oasis,272 rue maaroufi oasis marrakech maroc,526168151,contact339banquema,ag0339,2018-06-01
+340,agence tabriquet,casablanca,sidi moumen,167 rue zerouali sidi moumen casablanca maroc,520360308,contact340banquema,ag0340,2009-11-20
+341,agence oasis,ttouan,hay riad,133 rue elkhatib hay riad ttouan maroc,529623188,contact341banquema,ag0341,2020-01-25
+342,agence oulfa,rabat,oasis,185 rue bennani oasis rabat maroc,521904247,contact342banquema,ag0342,2009-04-20
+343,agence agdal,rabat,hay riad,211 rue naciri hay riad rabat maroc,520323137,contact343banquema,ag0343,2008-04-25
+344,agence agdal,marrakech,belvdre,271 rue baroudi belvdre marrakech maroc,529428341,contact344banquema,ag0344,2015-05-12
+345,agence tabriquet,agadir,hay riad,243 rue zerouali hay riad agadir maroc,520569186,contact345banquema,ag0345,2010-04-21
+346,agence tabriquet,casablanca,mabella,216 rue zahiri mabella casablanca maroc,529569933,contact346banquema,ag0346,2014-01-03
+347,agence hay riad,tanger,mabella,296 rue bakkali mabella tanger maroc,525115053,contact347banquema,ag0347,2012-09-01
+348,agence agdal,fes,sidi moumen,182 rue boukhriss sidi moumen fes maroc,526496103,contact348banquema,ag0348,2019-04-15
+349,agence maarif,oujda,sidi moumen,169 rue jebari sidi moumen oujda maroc,521418404,contact349banquema,ag0349,2009-12-25
+350,agence mabella,kenitra,sidi marouf,182 rue sekkat sidi marouf kenitra maroc,522188262,contact350banquema,ag0350,2016-12-29
+351,agence centrale,kenitra,mdina,87 rue elmansouri mdina kenitra maroc,520201005,contact351banquema,ag0351,2024-03-07
+352,agence tabriquet,rabat,oasis,35 rue baroudi oasis rabat maroc,523434189,contact352banquema,ag0352,2016-03-18
+353,agence agdal,agadir,belvdre,237 rue ouzzani belvdre agadir maroc,525350660,contact353banquema,ag0353,2014-05-17
+354,agence hay riad,ttouan,gueliz,120 rue bakkali gueliz ttouan maroc,526866902,contact354banquema,ag0354,2010-06-15
+355,agence maarif,marrakech,ain sebaa,117 rue zerouali ain sebaa marrakech maroc,527089424,contact355banquema,ag0355,2008-10-03
+356,agence tabriquet,agadir,bourgogne,264 rue bennis bourgogne agadir maroc,521528343,contact356banquema,ag0356,2022-10-26
+357,agence centrale,casablanca,maarif,47 rue chouaib maarif casablanca maroc,527803474,contact357banquema,ag0357,2022-10-08
+358,agence oasis,temara,agdal,65 rue hariri agdal temara maroc,524762545,contact358banquema,ag0358,2006-08-23
+359,agence gueliz,tanger,yacoub el mansour,208 rue amrani yacoub el mansour tanger maroc,520687095,contact359banquema,ag0359,2023-06-20
+360,agence oulfa,agadir,sidi marouf,290 rue jebari sidi marouf agadir maroc,524728518,contact360banquema,ag0360,2022-01-29
+361,agence gueliz,rabat,mabella,148 rue zahiri mabella rabat maroc,525257631,contact361banquema,ag0361,2008-08-22
+362,agence oulfa,tanger,tabriquet,77 rue naciri tabriquet tanger maroc,523388883,contact362banquema,ag0362,2019-03-05
+363,agence oulfa,marrakech,yacoub el mansour,87 rue hariri yacoub el mansour marrakech maroc,527916697,contact363banquema,ag0363,2010-04-29
+364,agence tabriquet,tanger,sidi marouf,208 rue hariri sidi marouf tanger maroc,529626402,contact364banquema,ag0364,2013-06-22
+365,agence maarif,temara,agdal,107 rue bennani agdal temara maroc,526955095,contact365banquema,ag0365,2015-11-22
+366,agence tabriquet,tanger,oasis,141 rue baroudi oasis tanger maroc,527924770,contact366banquema,ag0366,2008-03-08
+367,agence oulfa,rabat,sidi marouf,43 rue bakkali sidi marouf rabat maroc,529401408,contact367banquema,ag0367,2024-09-23
+368,agence oulfa,fes,bourgogne,34 rue zerouali bourgogne fes maroc,527864216,contact368banquema,ag0368,2018-03-30
+369,agence oasis,casablanca,tachfine,268 rue naciri tachfine casablanca maroc,524657275,contact369banquema,ag0369,2014-04-11
+370,agence oasis,rabat,bourgogne,2 rue bensaid bourgogne rabat maroc,522027043,contact370banquema,ag0370,2012-10-23
+371,agence agdal,rabat,oasis,62 rue amrani oasis rabat maroc,526733179,contact371banquema,ag0371,2012-02-23
+372,agence hay riad,agadir,belvdre,196 rue lahlou belvdre agadir maroc,521729246,contact372banquema,ag0372,2024-05-07
+373,agence centrale,ttouan,sidi marouf,259 rue maaroufi sidi marouf ttouan maroc,529673111,contact373banquema,ag0373,2016-10-31
+374,agence agdal,kenitra,mdina,156 rue zahiri mdina kenitra maroc,528211989,contact374banquema,ag0374,2013-06-14
+375,agence oulfa,marrakech,mabella,265 rue alaoui mabella marrakech maroc,525645229,contact375banquema,ag0375,2009-11-12
+376,agence tabriquet,fes,hay riad,255 rue tahiri hay riad fes maroc,524905521,contact376banquema,ag0376,2014-11-22
+377,agence centrale,temara,tachfine,254 rue chouaib tachfine temara maroc,520948015,contact377banquema,ag0377,2020-12-27
+378,agence hay riad,kenitra,ain sebaa,287 rue fadili ain sebaa kenitra maroc,522466780,contact378banquema,ag0378,2011-08-28
+379,agence hay riad,tanger,hay riad,89 rue bakkali hay riad tanger maroc,522631072,contact379banquema,ag0379,2017-09-29
+380,agence centrale,rabat,tabriquet,285 rue zerouali tabriquet rabat maroc,529237558,contact380banquema,ag0380,2007-04-07
+381,agence tabriquet,fes,tabriquet,85 rue elalami tabriquet fes maroc,529592394,contact381banquema,ag0381,2017-09-17
+382,agence mabella,ttouan,maarif,210 rue hariri maarif ttouan maroc,526911118,contact382banquema,ag0382,2023-05-24
+383,agence sidi maarouf,casablanca,gueliz,278 rue rguig gueliz casablanca maroc,523410278,contact383banquema,ag0383,2013-05-01
+384,agence sidi maarouf,temara,hay riad,293 rue baroudi hay riad temara maroc,527707020,contact384banquema,ag0384,2012-12-16
+385,agence oulfa,rabat,oasis,158 rue elalami oasis rabat maroc,522241389,contact385banquema,ag0385,2013-08-29
+386,agence centrale,rabat,tabriquet,1 rue zerouali tabriquet rabat maroc,523169415,contact386banquema,ag0386,2014-03-06
+387,agence centrale,kenitra,maarif,11 rue chouaib maarif kenitra maroc,524126647,contact387banquema,ag0387,2012-03-10
+388,agence oulfa,kenitra,ain sebaa,32 rue elmansouri ain sebaa kenitra maroc,526994671,contact388banquema,ag0388,2006-06-27
+389,agence maarif,oujda,tabriquet,297 rue maaroufi tabriquet oujda maroc,520613785,contact389banquema,ag0389,2013-07-02
+390,agence oulfa,kenitra,tabriquet,18 rue ouzzani tabriquet kenitra maroc,523935572,contact390banquema,ag0390,2007-12-11
+391,agence maarif,agadir,ain sebaa,139 rue bennis ain sebaa agadir maroc,527301344,contact391banquema,ag0391,2007-12-25
+392,agence tabriquet,kenitra,mabella,156 rue elidrissi mabella kenitra maroc,526868021,contact392banquema,ag0392,2017-10-02
+393,agence centrale,fes,sidi moumen,210 rue moutawakil sidi moumen fes maroc,527965351,contact393banquema,ag0393,2023-04-22
+394,agence sidi maarouf,agadir,tachfine,138 rue naciri tachfine agadir maroc,526626456,contact394banquema,ag0394,2022-04-20
+395,agence tabriquet,tanger,yacoub el mansour,69 rue rguig yacoub el mansour tanger maroc,526629805,contact395banquema,ag0395,2019-02-09
+396,agence oasis,tanger,tachfine,142 rue amrani tachfine tanger maroc,528553548,contact396banquema,ag0396,2006-04-04
+397,agence oasis,fes,ain sebaa,53 rue chouaib ain sebaa fes maroc,524554112,contact397banquema,ag0397,2018-01-10
+398,agence centrale,kenitra,yacoub el mansour,296 rue moutawakil yacoub el mansour kenitra maroc,520677097,contact398banquema,ag0398,2014-05-24
+399,agence maarif,marrakech,belvdre,171 rue chraibi belvdre marrakech maroc,522502581,contact399banquema,ag0399,2017-11-20
+400,agence mabella,casablanca,gueliz,224 rue zahiri gueliz casablanca maroc,523787760,contact400banquema,ag0400,2021-03-11
+401,agence mabella,casablanca,hay riad,65 rue sekkat hay riad casablanca maroc,524289751,contact401banquema,ag0401,2018-08-03
+402,agence gueliz,tanger,gueliz,191 rue chouaib gueliz tanger maroc,524052068,contact402banquema,ag0402,2024-06-26
+403,agence agdal,casablanca,sidi moumen,17 rue chouaib sidi moumen casablanca maroc,520658042,contact403banquema,ag0403,2014-06-11
+404,agence mabella,oujda,hay riad,172 rue amrani hay riad oujda maroc,528639267,contact404banquema,ag0404,2022-04-19
+405,agence tabriquet,tanger,gueliz,77 rue boukhriss gueliz tanger maroc,526706055,contact405banquema,ag0405,2016-07-24
+406,agence sidi maarouf,kenitra,mdina,63 rue chakiri mdina kenitra maroc,529361350,contact406banquema,ag0406,2020-09-26
+407,agence centrale,marrakech,yacoub el mansour,295 rue ouzzani yacoub el mansour marrakech maroc,521037650,contact407banquema,ag0407,2018-12-18
+408,agence mabella,tanger,sidi marouf,108 rue elalami sidi marouf tanger maroc,523504190,contact408banquema,ag0408,2025-04-09
+409,agence gueliz,marrakech,gueliz,253 rue rguig gueliz marrakech maroc,523642322,contact409banquema,ag0409,2014-06-07
+410,agence sidi maarouf,agadir,gueliz,77 rue elidrissi gueliz agadir maroc,526715027,contact410banquema,ag0410,2016-09-20
+411,agence tabriquet,fes,tabriquet,267 rue maaroufi tabriquet fes maroc,522345670,contact411banquema,ag0411,2012-02-02
+412,agence sidi maarouf,marrakech,yacoub el mansour,91 rue zahiri yacoub el mansour marrakech maroc,529726256,contact412banquema,ag0412,2017-07-28
+413,agence gueliz,marrakech,agdal,19 rue maaroufi agdal marrakech maroc,527911046,contact413banquema,ag0413,2013-06-20
+414,agence oasis,casablanca,maarif,279 rue lahlou maarif casablanca maroc,525237747,contact414banquema,ag0414,2020-02-28
+415,agence centrale,fes,tachfine,107 rue boukhriss tachfine fes maroc,523429497,contact415banquema,ag0415,2017-12-02
+416,agence gueliz,kenitra,maarif,137 rue touil maarif kenitra maroc,523912808,contact416banquema,ag0416,2024-07-04
+417,agence oulfa,marrakech,tachfine,64 rue baroudi tachfine marrakech maroc,528634200,contact417banquema,ag0417,2021-05-16
+418,agence mabella,marrakech,ain sebaa,144 rue moutawakil ain sebaa marrakech maroc,521383944,contact418banquema,ag0418,2014-07-10
+419,agence oulfa,fes,mdina,250 rue fadili mdina fes maroc,520212086,contact419banquema,ag0419,2018-09-05
+420,agence hay riad,agadir,yacoub el mansour,113 rue chouaib yacoub el mansour agadir maroc,529939524,contact420banquema,ag0420,2018-06-18
+421,agence hay riad,temara,tabriquet,191 rue chraibi tabriquet temara maroc,528011431,contact421banquema,ag0421,2022-05-31
+422,agence centrale,oujda,sidi moumen,198 rue elidrissi sidi moumen oujda maroc,526478733,contact422banquema,ag0422,2018-04-25
+423,agence agdal,agadir,mdina,183 rue jebari mdina agadir maroc,522417252,contact423banquema,ag0423,2007-06-21
+424,agence oulfa,rabat,mdina,251 rue hariri mdina rabat maroc,523732223,contact424banquema,ag0424,2019-12-20
+425,agence agdal,kenitra,sidi moumen,81 rue rguig sidi moumen kenitra maroc,520505286,contact425banquema,ag0425,2012-05-27
+426,agence tabriquet,tanger,hay riad,75 rue baroudi hay riad tanger maroc,523325563,contact426banquema,ag0426,2014-11-05
+427,agence sidi maarouf,ttouan,oasis,268 rue elmansouri oasis ttouan maroc,523425542,contact427banquema,ag0427,2009-08-10
+428,agence oulfa,agadir,mabella,68 rue elmansouri mabella agadir maroc,523580001,contact428banquema,ag0428,2007-12-30
+429,agence tabriquet,ttouan,maarif,114 rue bennis maarif ttouan maroc,527864304,contact429banquema,ag0429,2011-05-01
+430,agence gueliz,temara,sidi marouf,112 rue hariri sidi marouf temara maroc,521347255,contact430banquema,ag0430,2016-12-25
+431,agence hay riad,tanger,maarif,122 rue zahiri maarif tanger maroc,529963366,contact431banquema,ag0431,2015-01-08
+432,agence mabella,temara,mdina,298 rue zerouali mdina temara maroc,525795611,contact432banquema,ag0432,2017-11-22
+433,agence centrale,tanger,tabriquet,42 rue hariri tabriquet tanger maroc,522143570,contact433banquema,ag0433,2006-01-21
+434,agence mabella,tanger,maarif,203 rue rguig maarif tanger maroc,528791397,contact434banquema,ag0434,2023-07-11
+435,agence tabriquet,oujda,tachfine,19 rue elalami tachfine oujda maroc,523743902,contact435banquema,ag0435,2005-07-29
+436,agence hay riad,agadir,yacoub el mansour,214 rue bensaid yacoub el mansour agadir maroc,524996975,contact436banquema,ag0436,2024-10-16
+437,agence gueliz,ttouan,sidi moumen,273 rue rguig sidi moumen ttouan maroc,522387832,contact437banquema,ag0437,2016-08-08
+438,agence oasis,temara,sidi moumen,184 rue tahiri sidi moumen temara maroc,521493623,contact438banquema,ag0438,2015-09-24
+439,agence maarif,casablanca,hay riad,271 rue bakkali hay riad casablanca maroc,525207975,contact439banquema,ag0439,2022-08-04
+440,agence maarif,fes,sidi marouf,241 rue elalami sidi marouf fes maroc,522561947,contact440banquema,ag0440,2008-04-13
+441,agence mabella,rabat,mdina,181 rue ouzzani mdina rabat maroc,524060311,contact441banquema,ag0441,2016-12-06
+442,agence mabella,kenitra,belvdre,106 rue ouzzani belvdre kenitra maroc,523822724,contact442banquema,ag0442,2011-08-12
+443,agence sidi maarouf,ttouan,sidi moumen,132 rue bennis sidi moumen ttouan maroc,524849125,contact443banquema,ag0443,2018-11-19
+444,agence sidi maarouf,casablanca,hay riad,285 rue ouzzani hay riad casablanca maroc,525375169,contact444banquema,ag0444,2010-02-27
+445,agence sidi maarouf,agadir,oasis,186 rue rguig oasis agadir maroc,523328371,contact445banquema,ag0445,2016-04-19
+446,agence tabriquet,rabat,yacoub el mansour,30 rue elmansouri yacoub el mansour rabat maroc,523644018,contact446banquema,ag0446,2017-12-08
+447,agence hay riad,casablanca,maarif,77 rue tahiri maarif casablanca maroc,520263405,contact447banquema,ag0447,2024-11-22
+448,agence mabella,fes,mabella,240 rue touil mabella fes maroc,526308956,contact448banquema,ag0448,2018-04-12
+449,agence mabella,marrakech,tachfine,86 rue moutawakil tachfine marrakech maroc,527737724,contact449banquema,ag0449,2018-10-25
+450,agence gueliz,marrakech,mabella,96 rue zahiri mabella marrakech maroc,524782865,contact450banquema,ag0450,2015-08-02
+451,agence gueliz,temara,yacoub el mansour,138 rue ouzzani yacoub el mansour temara maroc,521095751,contact451banquema,ag0451,2020-07-03
+452,agence hay riad,oujda,tachfine,201 rue elkhatib tachfine oujda maroc,529735152,contact452banquema,ag0452,2011-06-28
+453,agence oulfa,rabat,maarif,6 rue jebari maarif rabat maroc,528714040,contact453banquema,ag0453,2009-02-22
+454,agence tabriquet,oujda,oasis,12 rue tahiri oasis oujda maroc,523487525,contact454banquema,ag0454,2013-06-15
+455,agence tabriquet,fes,oasis,159 rue jebari oasis fes maroc,529355319,contact455banquema,ag0455,2005-10-07
+456,agence tabriquet,ttouan,tachfine,102 rue hariri tachfine ttouan maroc,528625133,contact456banquema,ag0456,2020-09-22
+457,agence agdal,tanger,sidi moumen,186 rue baroudi sidi moumen tanger maroc,521532862,contact457banquema,ag0457,2014-09-14
+458,agence oasis,kenitra,oasis,30 rue naciri oasis kenitra maroc,520389380,contact458banquema,ag0458,2009-12-15
+459,agence mabella,ttouan,hay riad,254 rue fassi hay riad ttouan maroc,524909612,contact459banquema,ag0459,2013-06-16
+460,agence centrale,tanger,tachfine,287 rue fassi tachfine tanger maroc,524790971,contact460banquema,ag0460,2017-10-28
+461,agence gueliz,tanger,tabriquet,252 rue zerouali tabriquet tanger maroc,524561727,contact461banquema,ag0461,2009-05-05
+462,agence agdal,oujda,oasis,295 rue zerouali oasis oujda maroc,524277210,contact462banquema,ag0462,2014-05-06
+463,agence gueliz,kenitra,tabriquet,110 rue lahlou tabriquet kenitra maroc,529052346,contact463banquema,ag0463,2011-06-26
+464,agence centrale,kenitra,tabriquet,282 rue fadili tabriquet kenitra maroc,525462358,contact464banquema,ag0464,2018-05-26
+465,agence sidi maarouf,fes,ain sebaa,294 rue elkhatib ain sebaa fes maroc,526526187,contact465banquema,ag0465,2009-06-22
+466,agence gueliz,oujda,mdina,45 rue elidrissi mdina oujda maroc,527423952,contact466banquema,ag0466,2015-01-13
+467,agence tabriquet,temara,tabriquet,156 rue tahiri tabriquet temara maroc,527424633,contact467banquema,ag0467,2007-02-05
+468,agence oulfa,rabat,sidi moumen,271 rue alaoui sidi moumen rabat maroc,528429827,contact468banquema,ag0468,2014-04-25
+469,agence agdal,marrakech,yacoub el mansour,141 rue maaroufi yacoub el mansour marrakech maroc,525951888,contact469banquema,ag0469,2023-10-31
+470,agence sidi maarouf,casablanca,sidi moumen,207 rue elmansouri sidi moumen casablanca maroc,523595723,contact470banquema,ag0470,2025-02-27
+471,agence sidi maarouf,temara,maarif,203 rue zahiri maarif temara maroc,520969015,contact471banquema,ag0471,2011-12-15
+472,agence oasis,fes,hay riad,24 rue elmansouri hay riad fes maroc,529926955,contact472banquema,ag0472,2013-09-26
+473,agence oasis,oujda,belvdre,202 rue naciri belvdre oujda maroc,522774944,contact473banquema,ag0473,2010-08-30
+474,agence gueliz,agadir,bourgogne,114 rue jebari bourgogne agadir maroc,526011730,contact474banquema,ag0474,2019-06-11
+475,agence sidi maarouf,agadir,ain sebaa,208 rue bennis ain sebaa agadir maroc,522966280,contact475banquema,ag0475,2009-04-06
+476,agence sidi maarouf,rabat,gueliz,53 rue hariri gueliz rabat maroc,526524254,contact476banquema,ag0476,2015-07-19
+477,agence tabriquet,casablanca,sidi marouf,121 rue elmansouri sidi marouf casablanca maroc,521065314,contact477banquema,ag0477,2016-01-31
+478,agence gueliz,casablanca,ain sebaa,280 rue bennani ain sebaa casablanca maroc,525538452,contact478banquema,ag0478,2015-10-26
+479,agence mabella,agadir,oasis,149 rue elalami oasis agadir maroc,520011605,contact479banquema,ag0479,2012-07-27
+480,agence tabriquet,agadir,sidi moumen,31 rue touil sidi moumen agadir maroc,526750500,contact480banquema,ag0480,2007-03-16
+481,agence mabella,agadir,yacoub el mansour,142 rue chouaib yacoub el mansour agadir maroc,529778414,contact481banquema,ag0481,2020-09-17
+482,agence hay riad,rabat,tachfine,42 rue rguig tachfine rabat maroc,523124969,contact482banquema,ag0482,2024-08-01
+483,agence gueliz,fes,agdal,174 rue bennani agdal fes maroc,529639398,contact483banquema,ag0483,2019-05-07
+484,agence oulfa,oujda,mabella,161 rue moutawakil mabella oujda maroc,526858111,contact484banquema,ag0484,2012-10-16
+485,agence oasis,temara,mabella,36 rue baroudi mabella temara maroc,520745151,contact485banquema,ag0485,2020-11-19
+486,agence sidi maarouf,casablanca,tabriquet,155 rue fassi tabriquet casablanca maroc,528743174,contact486banquema,ag0486,2012-12-29
+487,agence sidi maarouf,ttouan,hay riad,111 rue touil hay riad ttouan maroc,522198186,contact487banquema,ag0487,2008-11-07
+488,agence hay riad,temara,oasis,206 rue elkhatib oasis temara maroc,523748441,contact488banquema,ag0488,2005-12-02
+489,agence centrale,temara,mdina,162 rue tahiri mdina temara maroc,520434732,contact489banquema,ag0489,2006-04-29
+490,agence tabriquet,fes,sidi moumen,174 rue naciri sidi moumen fes maroc,523238386,contact490banquema,ag0490,2023-06-25
+491,agence centrale,temara,maarif,55 rue fadili maarif temara maroc,521150580,contact491banquema,ag0491,2009-06-15
+492,agence sidi maarouf,fes,sidi marouf,151 rue naciri sidi marouf fes maroc,527813111,contact492banquema,ag0492,2022-03-04
+493,agence sidi maarouf,rabat,ain sebaa,48 rue alaoui ain sebaa rabat maroc,529377399,contact493banquema,ag0493,2023-05-14
+494,agence agdal,casablanca,oasis,47 rue bennis oasis casablanca maroc,529532887,contact494banquema,ag0494,2017-06-05
+495,agence mabella,ttouan,agdal,98 rue alaoui agdal ttouan maroc,526269263,contact495banquema,ag0495,2010-12-27
+496,agence hay riad,casablanca,bourgogne,183 rue bakkali bourgogne casablanca maroc,529656744,contact496banquema,ag0496,2010-02-20
+497,agence oasis,rabat,tachfine,114 rue zerouali tachfine rabat maroc,526908592,contact497banquema,ag0497,2009-05-25
+498,agence mabella,temara,yacoub el mansour,42 rue elmansouri yacoub el mansour temara maroc,528262026,contact498banquema,ag0498,2008-01-03
+499,agence centrale,rabat,yacoub el mansour,4 rue elidrissi yacoub el mansour rabat maroc,525220882,contact499banquema,ag0499,2017-11-02
+500,agence maarif,ttouan,gueliz,105 rue lahlou gueliz ttouan maroc,529370068,contact500banquema,ag0500,2023-12-26

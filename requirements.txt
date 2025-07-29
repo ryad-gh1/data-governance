@@ -1,0 +1,30 @@
+# LLM & LangChain
+langchain>=0.1.17
+langchain-community>=0.0.34
+langchain-core>=0.1.34
+google-generativeai>=0.3.2
+transformers
+llama-cpp-python
+
+# Embeddings & Vecteurs
+faiss-cpu
+sentence-transformers
+
+# Backend Web API
+fastapi
+uvicorn[standard]
+httpx
+
+# Bases de données
+psycopg2-binary
+pymongo
+
+# Tests
+pytest
+
+# Outils & Utilitaires
+python-dotenv
+PyYAML
+tqdm
+rich
+streamlit

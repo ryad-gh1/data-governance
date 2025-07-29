@@ -1,0 +1,21 @@
+# Ignorer les environnements virtuels
+llama_env/
+.venv/
+env/
+venv/
+
+# Ignorer les gros fichiers binaires
+*.dll
+*.lib
+*.gguf
+*.pt
+*.bin
+
+# Dossiers inutiles
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Logs
+*.log

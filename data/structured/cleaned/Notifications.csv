@@ -1,0 +1,501 @@
+id_notification,client_id,titre,contenu,date_envoi,type_notification,canal,lu
+1,131,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-10,nouveau produit,email,False
+2,109,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-14,mise  jour,email,False
+3,94,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-09-11,mouvement compte,email,False
+4,236,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-03,alerte scurit,sms,False
+5,137,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-17,nouveau produit,sms,True
+6,379,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-06,nouveau produit,email,False
+7,447,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-12,nouveau produit,email,True
+8,40,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-08-06,alerte scurit,sms,False
+9,136,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-04-22,info prt,sms,False
+10,291,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-12-06,nouveau produit,sms,False
+11,86,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-02-10,alerte scurit,notificationapp,False
+12,92,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-05-16,nouveau produit,sms,True
+13,259,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-22,alerte scurit,sms,True
+14,83,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-10,info prt,email,True
+15,466,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-12-28,mise  jour,sms,False
+16,329,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-10-10,info prt,email,False
+17,339,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-04-30,mise  jour,sms,True
+18,301,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-01-19,info prt,notificationapp,False
+19,89,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-10-09,nouveau produit,sms,True
+20,166,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-01-15,mouvement compte,notificationapp,False
+21,192,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-06,info prt,email,False
+22,123,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-21,alerte scurit,email,False
+23,162,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-20,alerte scurit,sms,False
+24,484,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-05-19,alerte scurit,notificationapp,True
+25,439,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-19,nouveau produit,sms,True
+26,470,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-28,mouvement compte,email,False
+27,491,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-03-18,mise  jour,notificationapp,True
+28,134,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-23,nouveau produit,notificationapp,True
+29,40,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-26,alerte scurit,notificationapp,True
+30,72,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-10-06,nouveau produit,sms,False
+31,463,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-03,mouvement compte,notificationapp,False
+32,274,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-10-30,mise  jour,email,False
+33,106,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-04,alerte scurit,notificationapp,True
+34,472,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-12-08,nouveau produit,notificationapp,False
+35,7,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-15,mise  jour,sms,False
+36,59,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-17,alerte scurit,sms,False
+37,125,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-03-05,mise  jour,sms,True
+38,452,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-01-26,mouvement compte,email,False
+39,307,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-03,alerte scurit,sms,False
+40,5,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-02-07,mise  jour,email,False
+41,225,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-24,alerte scurit,sms,True
+42,53,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-14,alerte scurit,email,False
+43,2,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-11-26,mouvement compte,notificationapp,True
+44,42,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-03-11,mise  jour,email,True
+45,466,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-08-13,nouveau produit,email,True
+46,467,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-03-10,mise  jour,email,False
+47,405,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-01-02,info prt,email,True
+48,58,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-01-20,mouvement compte,email,False
+49,455,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-02-07,alerte scurit,sms,False
+50,73,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-27,nouveau produit,email,False
+51,317,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-05-28,mise  jour,sms,False
+52,259,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-10,nouveau produit,email,True
+53,477,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-20,alerte scurit,notificationapp,True
+54,147,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-05-31,alerte scurit,sms,False
+55,70,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-03,nouveau produit,sms,True
+56,329,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-07-24,mise  jour,email,False
+57,87,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-02-05,mouvement compte,notificationapp,False
+58,35,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-10-02,nouveau produit,notificationapp,False
+59,87,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-12,info prt,notificationapp,False
+60,379,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-05-31,info prt,notificationapp,False
+61,234,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-30,nouveau produit,notificationapp,False
+62,358,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-09,mise  jour,email,False
+63,360,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-14,info prt,notificationapp,True
+64,304,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-22,mouvement compte,email,False
+65,161,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-15,mise  jour,sms,False
+66,338,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-09,info prt,notificationapp,True
+67,200,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-06-08,mise  jour,sms,True
+68,241,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-04-09,nouveau produit,notificationapp,True
+69,21,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-05-07,nouveau produit,notificationapp,True
+70,310,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-27,nouveau produit,notificationapp,True
+71,163,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-09,alerte scurit,sms,True
+72,292,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-14,alerte scurit,email,False
+73,499,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-19,mise  jour,notificationapp,True
+74,448,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-13,mouvement compte,notificationapp,False
+75,393,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-04-14,info prt,notificationapp,False
+76,317,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-02-27,mise  jour,sms,True
+77,438,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-18,info prt,sms,True
+78,183,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-10-22,nouveau produit,notificationapp,False
+79,465,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-07-30,mise  jour,email,False
+80,168,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-02-17,alerte scurit,email,True
+81,30,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-29,alerte scurit,notificationapp,False
+82,67,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-05-28,mise  jour,email,True
+83,195,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-10-16,nouveau produit,notificationapp,False
+84,469,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-21,alerte scurit,notificationapp,True
+85,449,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-01-22,mouvement compte,sms,False
+86,299,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-01-15,nouveau produit,email,False
+87,403,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-26,info prt,notificationapp,True
+88,165,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-07-19,mise  jour,sms,True
+89,173,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-28,mouvement compte,sms,True
+90,241,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-06-20,mise  jour,notificationapp,False
+91,20,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-10-03,mise  jour,notificationapp,False
+92,472,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-11,nouveau produit,sms,False
+93,459,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-13,mouvement compte,sms,False
+94,287,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-04-08,nouveau produit,notificationapp,True
+95,170,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-11,alerte scurit,email,True
+96,483,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-12-23,nouveau produit,notificationapp,False
+97,215,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-12-15,mise  jour,notificationapp,True
+98,43,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-04-15,mise  jour,sms,True
+99,437,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-04-10,mouvement compte,sms,True
+100,319,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-05,nouveau produit,notificationapp,False
+101,168,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-03-19,mouvement compte,email,False
+102,255,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-12,nouveau produit,notificationapp,True
+103,73,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-24,alerte scurit,email,False
+104,138,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-25,alerte scurit,sms,True
+105,31,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-10-15,info prt,sms,True
+106,176,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-19,info prt,notificationapp,True
+107,482,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-15,mouvement compte,sms,True
+108,213,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-14,info prt,notificationapp,False
+109,241,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-28,nouveau produit,email,False
+110,36,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-04-09,mouvement compte,notificationapp,False
+111,193,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-04-26,mouvement compte,sms,True
+112,315,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-12-03,nouveau produit,sms,True
+113,160,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-01,mouvement compte,notificationapp,False
+114,383,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-01,mouvement compte,email,False
+115,31,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-02-22,info prt,sms,True
+116,12,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-04-21,mise  jour,email,True
+117,135,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-12-02,mise  jour,email,True
+118,270,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-04-21,info prt,sms,False
+119,97,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-06-28,mise  jour,email,True
+120,334,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-03,mise  jour,sms,True
+121,338,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-01-06,mouvement compte,notificationapp,True
+122,147,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-13,alerte scurit,notificationapp,True
+123,247,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-10,alerte scurit,sms,True
+124,126,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-03-10,mouvement compte,notificationapp,True
+125,32,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-04-24,info prt,sms,False
+126,145,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-04-05,alerte scurit,notificationapp,False
+127,128,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-06,mise  jour,notificationapp,False
+128,28,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-21,mouvement compte,notificationapp,True
+129,323,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-30,info prt,email,True
+130,114,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-04-29,mise  jour,notificationapp,True
+131,375,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-07-19,mouvement compte,notificationapp,True
+132,17,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-25,info prt,email,False
+133,249,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-04-09,mise  jour,sms,False
+134,401,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-10-29,mise  jour,sms,True
+135,437,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-03-08,mise  jour,sms,False
+136,194,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-05-14,nouveau produit,sms,False
+137,153,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-28,nouveau produit,notificationapp,True
+138,107,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-12-31,nouveau produit,notificationapp,True
+139,315,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-08,nouveau produit,notificationapp,False
+140,104,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-03,nouveau produit,notificationapp,True
+141,56,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-04,alerte scurit,email,False
+142,320,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-25,mouvement compte,notificationapp,False
+143,191,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-05-25,mouvement compte,email,True
+144,276,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-05,info prt,notificationapp,True
+145,99,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-23,mouvement compte,email,True
+146,106,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-11,nouveau produit,notificationapp,True
+147,160,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-08,info prt,sms,False
+148,383,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-08-17,alerte scurit,sms,True
+149,74,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-20,mise  jour,sms,True
+150,222,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-07-07,mouvement compte,sms,True
+151,198,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-04-18,mise  jour,sms,True
+152,164,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-02,alerte scurit,notificationapp,False
+153,157,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-07-14,info prt,sms,False
+154,81,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-02-26,alerte scurit,sms,False
+155,288,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-02-20,mouvement compte,notificationapp,False
+156,339,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-24,mouvement compte,sms,False
+157,128,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-07,alerte scurit,email,False
+158,28,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-22,mise  jour,notificationapp,False
+159,423,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-15,mise  jour,email,False
+160,86,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-04-04,alerte scurit,email,True
+161,380,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-28,nouveau produit,notificationapp,True
+162,233,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-05-07,mise  jour,email,True
+163,192,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-06,info prt,email,False
+164,272,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-14,info prt,notificationapp,True
+165,303,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-01-26,info prt,sms,False
+166,488,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-10,alerte scurit,sms,False
+167,320,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-06-05,info prt,email,False
+168,161,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-01-31,mise  jour,notificationapp,False
+169,153,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-06-16,mise  jour,sms,False
+170,74,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-09-13,mouvement compte,notificationapp,True
+171,16,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-08-06,nouveau produit,email,False
+172,87,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-11,nouveau produit,email,False
+173,254,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-07-18,info prt,sms,False
+174,131,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-04-23,mise  jour,email,True
+175,258,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-17,info prt,sms,False
+176,307,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-21,nouveau produit,email,True
+177,458,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-12-12,nouveau produit,sms,False
+178,481,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-07,alerte scurit,notificationapp,True
+179,217,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-10-02,mise  jour,email,False
+180,463,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-26,alerte scurit,notificationapp,True
+181,465,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-10-31,info prt,notificationapp,True
+182,30,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-06,nouveau produit,notificationapp,True
+183,237,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-01-23,mise  jour,notificationapp,True
+184,425,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-05,mise  jour,email,False
+185,359,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-04-29,mise  jour,email,True
+186,55,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-10,mise  jour,email,True
+187,340,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-02-27,nouveau produit,email,False
+188,301,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-15,info prt,email,True
+189,198,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-10-22,nouveau produit,sms,False
+190,166,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-03,mouvement compte,sms,False
+191,148,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-06-09,mouvement compte,notificationapp,True
+192,446,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-09-30,mouvement compte,notificationapp,False
+193,251,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-07-01,info prt,sms,True
+194,492,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-15,nouveau produit,notificationapp,True
+195,217,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-06,mise  jour,notificationapp,True
+196,178,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-27,nouveau produit,notificationapp,False
+197,57,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-08-02,nouveau produit,sms,False
+198,347,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-01-16,mise  jour,email,False
+199,213,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-29,info prt,notificationapp,False
+200,23,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-12-31,info prt,email,False
+201,479,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-13,mouvement compte,sms,False
+202,209,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-29,alerte scurit,sms,False
+203,161,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-07-24,alerte scurit,notificationapp,False
+204,60,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-17,alerte scurit,email,True
+205,301,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-05,nouveau produit,sms,True
+206,96,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-02-17,mouvement compte,sms,False
+207,477,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-11-03,alerte scurit,notificationapp,True
+208,192,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-12-24,mise  jour,notificationapp,False
+209,35,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-17,info prt,email,True
+210,486,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-04-16,mouvement compte,notificationapp,False
+211,463,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-07-14,info prt,sms,False
+212,286,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-04-01,mise  jour,notificationapp,False
+213,284,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-04-18,nouveau produit,notificationapp,False
+214,293,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-05-02,info prt,notificationapp,False
+215,379,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-06-19,mouvement compte,email,False
+216,477,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-30,mouvement compte,email,False
+217,83,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-01-02,mise  jour,notificationapp,True
+218,134,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-06-30,mouvement compte,sms,True
+219,93,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-22,nouveau produit,notificationapp,True
+220,217,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-26,nouveau produit,email,True
+221,3,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-19,alerte scurit,email,False
+222,145,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-02-04,mise  jour,notificationapp,True
+223,57,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-07-25,mise  jour,sms,True
+224,499,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-26,alerte scurit,notificationapp,True
+225,293,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-26,info prt,sms,True
+226,239,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-22,alerte scurit,notificationapp,False
+227,342,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-23,nouveau produit,email,False
+228,3,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-06-24,mise  jour,email,True
+229,99,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-14,alerte scurit,sms,True
+230,179,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-12-10,mise  jour,sms,True
+231,329,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-02,nouveau produit,sms,False
+232,192,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-07-23,mise  jour,notificationapp,False
+233,86,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-19,info prt,notificationapp,False
+234,410,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-05-18,alerte scurit,email,False
+235,451,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-26,alerte scurit,notificationapp,True
+236,112,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-05-31,mouvement compte,sms,True
+237,10,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-04-11,mouvement compte,email,False
+238,393,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-01-10,info prt,email,False
+239,156,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-04-10,mise  jour,email,False
+240,66,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-28,mouvement compte,sms,False
+241,42,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-13,alerte scurit,notificationapp,True
+242,7,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-06-24,mouvement compte,notificationapp,True
+243,352,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-07-23,mise  jour,notificationapp,False
+244,259,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-10-30,mise  jour,email,True
+245,288,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-01-09,nouveau produit,email,True
+246,364,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-27,alerte scurit,email,True
+247,258,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-04,alerte scurit,sms,False
+248,408,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-05-28,info prt,email,True
+249,327,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-25,mise  jour,sms,False
+250,202,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-23,mouvement compte,sms,False
+251,246,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-01-20,mouvement compte,notificationapp,True
+252,333,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-08,mouvement compte,email,False
+253,488,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-24,nouveau produit,notificationapp,False
+254,173,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-07-25,alerte scurit,email,True
+255,351,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-12-06,mise  jour,notificationapp,True
+256,368,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-01-23,mouvement compte,notificationapp,False
+257,16,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-04,mouvement compte,sms,False
+258,112,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-08-10,nouveau produit,notificationapp,True
+259,342,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-03,alerte scurit,notificationapp,True
+260,80,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-02-05,nouveau produit,notificationapp,False
+261,65,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-02,mise  jour,notificationapp,False
+262,213,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-05-26,mise  jour,email,False
+263,25,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-04-20,mouvement compte,email,False
+264,207,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-01-29,info prt,sms,True
+265,234,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-27,alerte scurit,email,False
+266,169,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-01,mouvement compte,sms,False
+267,408,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-01-10,info prt,notificationapp,True
+268,257,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-02,nouveau produit,email,True
+269,260,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-23,info prt,email,True
+270,465,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-02-26,alerte scurit,sms,True
+271,142,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-12-29,info prt,sms,False
+272,255,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-02-01,mise  jour,sms,True
+273,126,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-23,mise  jour,notificationapp,True
+274,210,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-12,nouveau produit,sms,False
+275,430,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-09-27,nouveau produit,email,True
+276,491,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-29,mouvement compte,notificationapp,False
+277,56,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-01-30,info prt,notificationapp,False
+278,337,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-09-16,nouveau produit,notificationapp,True
+279,456,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-07-23,mouvement compte,notificationapp,False
+280,288,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-09-18,nouveau produit,notificationapp,False
+281,98,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-08-04,nouveau produit,notificationapp,False
+282,235,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-05-28,mise  jour,sms,False
+283,40,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-02-12,mouvement compte,notificationapp,False
+284,176,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-02,nouveau produit,email,True
+285,363,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-06-07,info prt,email,False
+286,305,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-16,nouveau produit,notificationapp,False
+287,382,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-06-03,mise  jour,notificationapp,True
+288,73,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-17,mouvement compte,notificationapp,False
+289,492,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-07-15,info prt,email,False
+290,414,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-19,alerte scurit,email,False
+291,45,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-04-30,mouvement compte,notificationapp,False
+292,16,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-02-22,mise  jour,sms,True
+293,288,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-22,nouveau produit,notificationapp,True
+294,210,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-15,alerte scurit,notificationapp,False
+295,274,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-31,alerte scurit,sms,True
+296,1,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-11-16,mouvement compte,email,True
+297,475,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-25,mouvement compte,notificationapp,True
+298,484,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-04,alerte scurit,email,True
+299,389,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-10-24,info prt,notificationapp,False
+300,203,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-04-24,mise  jour,sms,True
+301,227,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-11-01,mouvement compte,email,True
+302,332,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-05-11,mise  jour,email,False
+303,397,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-04-15,nouveau produit,notificationapp,True
+304,459,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-11,mise  jour,sms,False
+305,248,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-21,alerte scurit,sms,True
+306,297,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-29,alerte scurit,sms,False
+307,338,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-01,nouveau produit,sms,False
+308,430,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-04-26,mouvement compte,notificationapp,False
+309,251,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-07-08,mise  jour,email,False
+310,134,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-06-20,mise  jour,sms,True
+311,308,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-01-06,mouvement compte,email,False
+312,129,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-04-29,info prt,email,False
+313,139,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-06-17,mise  jour,notificationapp,False
+314,383,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-04-12,mouvement compte,notificationapp,True
+315,387,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-23,nouveau produit,notificationapp,False
+316,274,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-05,alerte scurit,email,True
+317,170,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-11,mouvement compte,email,True
+318,496,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-16,info prt,email,False
+319,430,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-12-22,mise  jour,email,False
+320,140,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-12-31,mise  jour,notificationapp,True
+321,352,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-12,alerte scurit,notificationapp,False
+322,265,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-11-05,alerte scurit,sms,True
+323,435,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-30,alerte scurit,sms,False
+324,63,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-01-10,nouveau produit,notificationapp,False
+325,394,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-28,alerte scurit,email,True
+326,37,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-17,info prt,notificationapp,True
+327,495,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-05-25,alerte scurit,sms,True
+328,266,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-14,info prt,sms,False
+329,201,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-28,mise  jour,notificationapp,True
+330,323,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-08-07,nouveau produit,notificationapp,False
+331,145,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-09-21,mouvement compte,sms,True
+332,420,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-24,info prt,notificationapp,True
+333,284,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-04,info prt,sms,True
+334,108,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-05,alerte scurit,notificationapp,False
+335,485,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-01,info prt,sms,False
+336,35,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-10-12,info prt,email,True
+337,56,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-30,mouvement compte,email,False
+338,151,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-05-24,mouvement compte,notificationapp,False
+339,336,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-04-15,mouvement compte,sms,True
+340,54,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-02-16,alerte scurit,notificationapp,True
+341,101,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-04-26,nouveau produit,notificationapp,False
+342,441,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-05-29,alerte scurit,notificationapp,False
+343,86,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-25,info prt,sms,True
+344,423,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-07-25,mouvement compte,sms,False
+345,319,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-01-29,info prt,notificationapp,True
+346,374,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-30,mouvement compte,email,True
+347,286,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-23,info prt,notificationapp,False
+348,348,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-30,mise  jour,sms,False
+349,437,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-23,mise  jour,email,False
+350,426,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-07-14,mouvement compte,notificationapp,False
+351,459,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-13,alerte scurit,email,False
+352,9,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-04,mouvement compte,notificationapp,False
+353,282,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-09-20,mouvement compte,notificationapp,False
+354,147,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-13,nouveau produit,notificationapp,True
+355,11,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-12-16,info prt,email,True
+356,209,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-30,mouvement compte,email,True
+357,325,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-17,info prt,notificationapp,False
+358,362,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-09-14,alerte scurit,email,False
+359,386,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-02-28,mise  jour,email,True
+360,450,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-21,alerte scurit,sms,True
+361,179,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-05-25,nouveau produit,notificationapp,True
+362,283,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-01,nouveau produit,email,True
+363,115,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-25,alerte scurit,email,False
+364,261,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-27,mise  jour,email,False
+365,225,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-24,mise  jour,sms,False
+366,253,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-11-03,alerte scurit,notificationapp,True
+367,361,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-24,info prt,notificationapp,True
+368,391,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-28,alerte scurit,email,True
+369,472,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-25,mouvement compte,notificationapp,False
+370,164,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-07-27,mise  jour,sms,True
+371,184,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-07,info prt,notificationapp,True
+372,122,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-24,alerte scurit,email,False
+373,7,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-15,mise  jour,sms,False
+374,272,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-04-18,mise  jour,email,True
+375,137,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-05-07,info prt,sms,True
+376,194,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-08,nouveau produit,sms,False
+377,33,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-27,mouvement compte,sms,False
+378,296,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-13,mise  jour,sms,False
+379,358,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-30,nouveau produit,email,False
+380,162,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-02-11,mouvement compte,sms,False
+381,392,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-11-04,mouvement compte,sms,False
+382,369,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-05-13,nouveau produit,sms,True
+383,439,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-09-28,nouveau produit,email,False
+384,336,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-29,info prt,notificationapp,True
+385,363,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-18,alerte scurit,notificationapp,False
+386,486,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-05-11,alerte scurit,email,True
+387,162,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-04,mise  jour,sms,True
+388,404,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-09-22,mouvement compte,notificationapp,False
+389,39,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-10-10,nouveau produit,sms,False
+390,147,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-12-04,mise  jour,sms,True
+391,333,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-05-07,nouveau produit,email,False
+392,385,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-02,info prt,email,True
+393,259,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-03-07,mouvement compte,email,True
+394,133,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-14,mise  jour,sms,True
+395,91,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-01-18,mise  jour,sms,False
+396,27,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-04-06,mouvement compte,notificationapp,False
+397,383,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-16,nouveau produit,sms,True
+398,353,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-06-14,mouvement compte,email,True
+399,126,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-09-03,nouveau produit,notificationapp,False
+400,71,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-11-30,nouveau produit,sms,False
+401,28,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-03-17,nouveau produit,email,False
+402,443,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-12-05,nouveau produit,notificationapp,False
+403,437,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-02-25,info prt,notificationapp,True
+404,207,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-16,mouvement compte,notificationapp,True
+405,422,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-07-14,mouvement compte,email,False
+406,347,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-06-29,mouvement compte,sms,True
+407,194,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-05,alerte scurit,notificationapp,False
+408,396,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-02-28,mouvement compte,notificationapp,False
+409,297,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-07-30,mise  jour,notificationapp,False
+410,247,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-28,mise  jour,notificationapp,True
+411,488,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-25,mouvement compte,notificationapp,False
+412,13,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-02-03,mouvement compte,notificationapp,False
+413,334,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-05-03,nouveau produit,sms,False
+414,386,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-07-16,mouvement compte,sms,True
+415,293,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-10-07,mouvement compte,email,True
+416,92,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-11-27,info prt,sms,True
+417,396,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-09-09,mouvement compte,notificationapp,True
+418,72,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-14,info prt,notificationapp,True
+419,444,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-01-07,mise  jour,email,False
+420,124,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-16,info prt,sms,True
+421,467,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-12,info prt,sms,False
+422,175,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-05,nouveau produit,sms,True
+423,432,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-28,info prt,notificationapp,True
+424,163,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-01-22,info prt,notificationapp,True
+425,44,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-09-16,nouveau produit,email,True
+426,456,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-06-15,mouvement compte,sms,False
+427,116,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-04-06,alerte scurit,email,True
+428,259,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-09-30,mouvement compte,sms,False
+429,98,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-02-11,nouveau produit,notificationapp,False
+430,446,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-05-25,info prt,email,False
+431,229,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-12-21,info prt,notificationapp,False
+432,185,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-08-13,mise  jour,email,False
+433,425,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-10,info prt,notificationapp,False
+434,335,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-07-29,mouvement compte,email,True
+435,76,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-01-15,nouveau produit,email,False
+436,89,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-08-22,info prt,sms,False
+437,198,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-10-28,nouveau produit,notificationapp,True
+438,153,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-07,mise  jour,sms,True
+439,351,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-10-21,info prt,notificationapp,True
+440,108,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-09,alerte scurit,notificationapp,True
+441,436,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-17,nouveau produit,notificationapp,False
+442,91,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-07-12,info prt,notificationapp,False
+443,203,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-09-28,mise  jour,notificationapp,True
+444,202,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-03-10,mouvement compte,email,False
+445,104,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-06-20,mouvement compte,email,False
+446,199,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-20,alerte scurit,email,False
+447,81,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-04-02,mise  jour,email,True
+448,121,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-01-06,mouvement compte,notificationapp,False
+449,160,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-12-10,info prt,email,False
+450,401,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-03-25,mise  jour,sms,True
+451,324,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-07-11,alerte scurit,sms,True
+452,131,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-05-24,mouvement compte,notificationapp,True
+453,118,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-03-06,alerte scurit,email,True
+454,199,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-11-07,mise  jour,email,False
+455,221,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2025-03-08,mouvement compte,email,False
+456,186,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-06-09,nouveau produit,sms,True
+457,149,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-04-20,alerte scurit,notificationapp,False
+458,233,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-04-04,info prt,sms,True
+459,84,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-12-28,info prt,sms,True
+460,392,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-23,alerte scurit,notificationapp,True
+461,262,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-07-21,nouveau produit,notificationapp,False
+462,41,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-05-24,alerte scurit,sms,False
+463,383,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-08,alerte scurit,notificationapp,True
+464,94,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-01-08,mise  jour,email,False
+465,215,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-18,info prt,email,True
+466,227,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-01-22,nouveau produit,notificationapp,False
+467,103,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-12-15,info prt,notificationapp,True
+468,466,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2024-05-01,mise  jour,email,False
+469,143,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-10-15,alerte scurit,email,False
+470,200,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-02-05,mise  jour,notificationapp,False
+471,164,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-01-09,mise  jour,email,True
+472,466,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-01-10,alerte scurit,sms,False
+473,29,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-12,mouvement compte,notificationapp,False
+474,79,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-04-27,mouvement compte,notificationapp,True
+475,178,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2024-10-30,nouveau produit,notificationapp,False
+476,434,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-31,alerte scurit,sms,True
+477,410,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-06-28,alerte scurit,notificationapp,True
+478,352,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-01-10,mise  jour,email,False
+479,13,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-29,mouvement compte,email,True
+480,178,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-04-26,alerte scurit,sms,False
+481,228,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-12,alerte scurit,sms,False
+482,120,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-09-02,mouvement compte,notificationapp,True
+483,398,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-07-12,alerte scurit,sms,True
+484,131,Notification client,Votre profil a ete mis a jour avec les nouvelles informations.,2025-03-09,mise  jour,notificationapp,False
+485,183,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-02-15,nouveau produit,notificationapp,True
+486,88,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-09-16,info prt,notificationapp,True
+487,150,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-14,info prt,email,True
+488,3,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-05,mouvement compte,notificationapp,True
+489,183,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-06-26,mouvement compte,email,False
+490,72,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2025-02-24,alerte scurit,sms,False
+491,281,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-05-11,alerte scurit,email,True
+492,214,Notification client,Vous avez recu une nouvelle notification de votre banque.,2024-12-22,info prt,sms,True
+493,172,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-12-21,alerte scurit,sms,True
+494,245,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-12-25,mouvement compte,notificationapp,True
+495,143,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-03-22,info prt,email,True
+496,455,Notification client,Vous avez recu une nouvelle notification de votre banque.,2025-04-04,info prt,sms,True
+497,28,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-07-01,mouvement compte,notificationapp,True
+498,188,Alerte de securite,Une activite inhabituelle a ete detectee sur votre compte.,2024-07-17,alerte scurit,notificationapp,True
+499,250,Notification client,Decouvrez les fonctionnalites de notre nouveau produit bancaire.,2025-01-03,nouveau produit,notificationapp,False
+500,417,Notification client,Une nouvelle transaction a ete effectuee sur votre compte.,2024-08-22,mouvement compte,email,True

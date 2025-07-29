@@ -1,0 +1,501 @@
+id_reclamation,id_compte,objet,description,date_reclamation,statut,canal_reclamation
+1,1,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2018-06-18,fermee,Application mobile
+2,2,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2021-07-07,ouverte,Email
+3,3,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2022-11-28,ouverte,Chatbot
+4,4,Retard virement,Virement non recu ou en attente prolongee.,2021-03-21,fermee,Agence
+5,5,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-04-13,encours,Telephone
+6,6,Frais injustifies,Frais preleves sans justification sur le compte.,2023-11-04,encours,Application mobile
+7,7,Frais injustifies,Frais preleves sans justification sur le compte.,2016-03-20,resolue,Chatbot
+8,8,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2019-05-18,resolue,Telephone
+9,9,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-01-02,ouverte,Chatbot
+10,10,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-05-29,ouverte,Email
+11,11,Frais injustifies,Frais preleves sans justification sur le compte.,2022-11-24,resolue,Chatbot
+12,12,Retard virement,Virement non recu ou en attente prolongee.,2024-11-18,ouverte,Telephone
+13,13,Frais injustifies,Frais preleves sans justification sur le compte.,2020-07-23,encours,Agence
+14,14,Demande remboursement,Requete de remboursement d'une operation.,2023-08-19,resolue,Agence
+15,15,Demande remboursement,Requete de remboursement d'une operation.,2025-03-09,ouverte,Telephone
+16,16,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-05-27,resolue,Chatbot
+17,17,Retard virement,Virement non recu ou en attente prolongee.,2021-08-03,ouverte,Chatbot
+18,18,Retard virement,Virement non recu ou en attente prolongee.,2019-12-24,fermee,Chatbot
+19,19,Probleme connexion application,Erreur technique sur l'application mobile.,2021-12-16,ouverte,Telephone
+20,20,Demande remboursement,Requete de remboursement d'une operation.,2018-12-09,resolue,Application mobile
+21,21,Demande remboursement,Requete de remboursement d'une operation.,2019-08-26,encours,Email
+22,22,Demande remboursement,Requete de remboursement d'une operation.,2022-08-23,fermee,Agence
+23,23,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-07-15,ouverte,Chatbot
+24,24,Retard virement,Virement non recu ou en attente prolongee.,2023-09-23,resolue,Telephone
+25,25,Probleme connexion application,Erreur technique sur l'application mobile.,2018-04-23,fermee,Telephone
+26,26,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2017-03-29,resolue,Agence
+27,27,Probleme connexion application,Erreur technique sur l'application mobile.,2024-06-18,resolue,Application mobile
+28,28,Frais injustifies,Frais preleves sans justification sur le compte.,2023-02-09,ouverte,Email
+29,29,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-03-07,resolue,Application mobile
+30,30,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-03-07,resolue,Application mobile
+31,31,Frais injustifies,Frais preleves sans justification sur le compte.,2024-10-15,resolue,Email
+32,32,Demande remboursement,Requete de remboursement d'une operation.,2023-09-25,resolue,Chatbot
+33,33,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-12-08,fermee,Chatbot
+34,34,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-08-31,encours,Agence
+35,35,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-04-10,encours,Email
+36,36,Probleme connexion application,Erreur technique sur l'application mobile.,2022-02-23,resolue,Agence
+37,37,Probleme connexion application,Erreur technique sur l'application mobile.,2023-01-16,fermee,Email
+38,38,Demande remboursement,Requete de remboursement d'une operation.,2023-05-24,ouverte,Email
+39,39,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2020-03-06,resolue,Telephone
+40,40,Probleme connexion application,Erreur technique sur l'application mobile.,2022-09-06,encours,Chatbot
+41,41,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2018-10-20,fermee,Chatbot
+42,42,Probleme connexion application,Erreur technique sur l'application mobile.,2025-02-27,ouverte,Chatbot
+43,43,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-04-09,ouverte,Email
+44,44,Frais injustifies,Frais preleves sans justification sur le compte.,2022-01-17,fermee,Telephone
+45,45,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-02-14,ouverte,Chatbot
+46,46,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2021-07-03,encours,Chatbot
+47,47,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-09-20,fermee,Email
+48,48,Demande remboursement,Requete de remboursement d'une operation.,2021-09-01,ouverte,Agence
+49,49,Retard virement,Virement non recu ou en attente prolongee.,2024-12-25,encours,Email
+50,50,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2018-08-13,encours,Telephone
+51,51,Frais injustifies,Frais preleves sans justification sur le compte.,2024-12-30,encours,Email
+52,52,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2021-12-26,ouverte,Agence
+53,53,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-12-21,resolue,Agence
+54,54,Demande remboursement,Requete de remboursement d'une operation.,2023-06-13,encours,Chatbot
+55,55,Frais injustifies,Frais preleves sans justification sur le compte.,2024-11-03,resolue,Agence
+56,56,Demande remboursement,Requete de remboursement d'une operation.,2024-02-09,resolue,Email
+57,57,Demande remboursement,Requete de remboursement d'une operation.,2025-03-04,resolue,Application mobile
+58,58,Probleme connexion application,Erreur technique sur l'application mobile.,2021-11-29,ouverte,Email
+59,59,Demande remboursement,Requete de remboursement d'une operation.,2025-04-02,ouverte,Agence
+60,60,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-04-06,resolue,Agence
+61,61,Probleme connexion application,Erreur technique sur l'application mobile.,2023-12-17,encours,Application mobile
+62,62,Demande remboursement,Requete de remboursement d'une operation.,2021-01-31,encours,Agence
+63,63,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-01-16,encours,Telephone
+64,64,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2019-03-26,resolue,Chatbot
+65,65,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2020-06-26,fermee,Agence
+66,66,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2020-10-10,fermee,Application mobile
+67,67,Retard virement,Virement non recu ou en attente prolongee.,2023-10-22,encours,Application mobile
+68,68,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-06-24,ouverte,Agence
+69,69,Probleme connexion application,Erreur technique sur l'application mobile.,2025-02-21,resolue,Agence
+70,70,Probleme connexion application,Erreur technique sur l'application mobile.,2025-03-15,resolue,Chatbot
+71,71,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2020-05-23,resolue,Application mobile
+72,72,Demande remboursement,Requete de remboursement d'une operation.,2023-02-23,ouverte,Agence
+73,73,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2020-01-13,fermee,Application mobile
+74,74,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-04-19,resolue,Chatbot
+75,75,Probleme connexion application,Erreur technique sur l'application mobile.,2024-02-17,ouverte,Email
+76,76,Retard virement,Virement non recu ou en attente prolongee.,2021-03-18,encours,Email
+77,77,Probleme connexion application,Erreur technique sur l'application mobile.,2022-08-15,encours,Chatbot
+78,78,Retard virement,Virement non recu ou en attente prolongee.,2021-02-16,ouverte,Application mobile
+79,79,Frais injustifies,Frais preleves sans justification sur le compte.,2020-11-30,ouverte,Telephone
+80,80,Demande remboursement,Requete de remboursement d'une operation.,2021-01-26,encours,Chatbot
+81,81,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2021-03-21,encours,Agence
+82,82,Demande remboursement,Requete de remboursement d'une operation.,2022-07-29,ouverte,Agence
+83,83,Probleme connexion application,Erreur technique sur l'application mobile.,2020-11-10,resolue,Agence
+84,84,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-10-05,resolue,Agence
+85,85,Probleme connexion application,Erreur technique sur l'application mobile.,2020-06-17,resolue,Telephone
+86,86,Frais injustifies,Frais preleves sans justification sur le compte.,2022-07-27,ouverte,Email
+87,87,Probleme connexion application,Erreur technique sur l'application mobile.,2019-05-30,fermee,Application mobile
+88,88,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-10-21,resolue,Email
+89,89,Retard virement,Virement non recu ou en attente prolongee.,2021-10-11,fermee,Telephone
+90,90,Demande remboursement,Requete de remboursement d'une operation.,2020-09-18,ouverte,Email
+91,91,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-03-28,resolue,Telephone
+92,92,Probleme connexion application,Erreur technique sur l'application mobile.,2022-09-06,encours,Chatbot
+93,93,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2021-07-07,resolue,Chatbot
+94,94,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2021-04-23,ouverte,Agence
+95,95,Frais injustifies,Frais preleves sans justification sur le compte.,2023-09-07,resolue,Agence
+96,96,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-06-29,fermee,Agence
+97,97,Retard virement,Virement non recu ou en attente prolongee.,2023-03-30,fermee,Chatbot
+98,98,Probleme connexion application,Erreur technique sur l'application mobile.,2024-05-10,ouverte,Chatbot
+99,99,Frais injustifies,Frais preleves sans justification sur le compte.,2021-10-16,encours,Application mobile
+100,100,Probleme connexion application,Erreur technique sur l'application mobile.,2025-02-17,resolue,Agence
+101,101,Demande remboursement,Requete de remboursement d'une operation.,2024-11-23,fermee,Chatbot
+102,102,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-01-21,fermee,Chatbot
+103,103,Probleme connexion application,Erreur technique sur l'application mobile.,2022-03-09,resolue,Agence
+104,104,Probleme connexion application,Erreur technique sur l'application mobile.,2024-10-23,encours,Chatbot
+105,105,Demande remboursement,Requete de remboursement d'une operation.,2021-11-02,resolue,Agence
+106,106,Retard virement,Virement non recu ou en attente prolongee.,2024-05-28,encours,Chatbot
+107,107,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2021-10-12,encours,Agence
+108,108,Retard virement,Virement non recu ou en attente prolongee.,2024-12-11,ouverte,Chatbot
+109,109,Retard virement,Virement non recu ou en attente prolongee.,2022-07-19,ouverte,Chatbot
+110,110,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-04-05,resolue,Chatbot
+111,111,Retard virement,Virement non recu ou en attente prolongee.,2021-08-16,resolue,Telephone
+112,112,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2019-09-02,ouverte,Application mobile
+113,113,Demande remboursement,Requete de remboursement d'une operation.,2016-06-25,resolue,Email
+114,114,Frais injustifies,Frais preleves sans justification sur le compte.,2021-11-20,resolue,Telephone
+115,115,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2023-11-29,encours,Agence
+116,116,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-04-01,fermee,Chatbot
+117,117,Retard virement,Virement non recu ou en attente prolongee.,2020-11-06,resolue,Agence
+118,118,Demande remboursement,Requete de remboursement d'une operation.,2024-08-21,fermee,Agence
+119,119,Frais injustifies,Frais preleves sans justification sur le compte.,2025-01-09,encours,Agence
+120,120,Frais injustifies,Frais preleves sans justification sur le compte.,2025-04-10,resolue,Application mobile
+121,121,Demande remboursement,Requete de remboursement d'une operation.,2024-08-02,encours,Email
+122,122,Retard virement,Virement non recu ou en attente prolongee.,2024-04-12,resolue,Agence
+123,123,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-04-14,fermee,Agence
+124,124,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2017-02-26,resolue,Telephone
+125,125,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-09-01,fermee,Chatbot
+126,126,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-05-16,ouverte,Application mobile
+127,127,Demande remboursement,Requete de remboursement d'une operation.,2024-05-12,ouverte,Chatbot
+128,128,Probleme connexion application,Erreur technique sur l'application mobile.,2019-06-08,encours,Chatbot
+129,129,Frais injustifies,Frais preleves sans justification sur le compte.,2018-03-19,ouverte,Email
+130,130,Frais injustifies,Frais preleves sans justification sur le compte.,2023-11-29,fermee,Application mobile
+131,131,Retard virement,Virement non recu ou en attente prolongee.,2023-08-28,encours,Chatbot
+132,132,Probleme connexion application,Erreur technique sur l'application mobile.,2020-11-14,encours,Application mobile
+133,133,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-02-23,fermee,Email
+134,134,Demande remboursement,Requete de remboursement d'une operation.,2024-05-21,ouverte,Telephone
+135,135,Frais injustifies,Frais preleves sans justification sur le compte.,2024-12-26,encours,Telephone
+136,136,Probleme connexion application,Erreur technique sur l'application mobile.,2022-03-07,encours,Agence
+137,137,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-12-16,encours,Telephone
+138,138,Frais injustifies,Frais preleves sans justification sur le compte.,2023-08-26,resolue,Email
+139,139,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2019-01-26,encours,Agence
+140,140,Retard virement,Virement non recu ou en attente prolongee.,2024-12-01,ouverte,Chatbot
+141,141,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2020-03-26,encours,Application mobile
+142,142,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-01-03,resolue,Application mobile
+143,143,Retard virement,Virement non recu ou en attente prolongee.,2022-10-24,fermee,Telephone
+144,144,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-08-18,ouverte,Agence
+145,145,Frais injustifies,Frais preleves sans justification sur le compte.,2022-08-07,ouverte,Email
+146,146,Demande remboursement,Requete de remboursement d'une operation.,2021-02-10,resolue,Telephone
+147,147,Probleme connexion application,Erreur technique sur l'application mobile.,2015-08-21,fermee,Agence
+148,148,Demande remboursement,Requete de remboursement d'une operation.,2023-04-09,resolue,Agence
+149,149,Retard virement,Virement non recu ou en attente prolongee.,2023-11-10,fermee,Email
+150,150,Probleme connexion application,Erreur technique sur l'application mobile.,2025-02-28,resolue,Agence
+151,151,Retard virement,Virement non recu ou en attente prolongee.,2025-04-06,resolue,Email
+152,152,Demande remboursement,Requete de remboursement d'une operation.,2019-12-19,encours,Chatbot
+153,153,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2019-03-19,resolue,Application mobile
+154,154,Retard virement,Virement non recu ou en attente prolongee.,2025-03-06,encours,Chatbot
+155,155,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-09-26,fermee,Chatbot
+156,156,Probleme connexion application,Erreur technique sur l'application mobile.,2021-06-04,ouverte,Application mobile
+157,157,Probleme connexion application,Erreur technique sur l'application mobile.,2025-01-04,fermee,Telephone
+158,158,Demande remboursement,Requete de remboursement d'une operation.,2025-04-04,resolue,Telephone
+159,159,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-12-24,ouverte,Agence
+160,160,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-02-21,resolue,Application mobile
+161,161,Probleme connexion application,Erreur technique sur l'application mobile.,2025-03-31,ouverte,Agence
+162,162,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2022-09-18,fermee,Chatbot
+163,163,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2021-05-06,fermee,Agence
+164,164,Frais injustifies,Frais preleves sans justification sur le compte.,2024-06-15,resolue,Email
+165,165,Retard virement,Virement non recu ou en attente prolongee.,2020-06-19,fermee,Application mobile
+166,166,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2021-04-28,ouverte,Agence
+167,167,Retard virement,Virement non recu ou en attente prolongee.,2019-11-03,ouverte,Agence
+168,168,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2018-06-03,ouverte,Agence
+169,169,Probleme connexion application,Erreur technique sur l'application mobile.,2025-04-19,ouverte,Telephone
+170,170,Retard virement,Virement non recu ou en attente prolongee.,2024-10-08,encours,Email
+171,171,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-12-14,fermee,Agence
+172,172,Demande remboursement,Requete de remboursement d'une operation.,2024-12-13,fermee,Email
+173,173,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-03-23,fermee,Telephone
+174,174,Demande remboursement,Requete de remboursement d'une operation.,2017-08-19,resolue,Telephone
+175,175,Retard virement,Virement non recu ou en attente prolongee.,2022-07-30,encours,Application mobile
+176,176,Probleme connexion application,Erreur technique sur l'application mobile.,2024-08-30,ouverte,Application mobile
+177,177,Probleme connexion application,Erreur technique sur l'application mobile.,2022-11-13,encours,Agence
+178,178,Probleme connexion application,Erreur technique sur l'application mobile.,2024-04-14,fermee,Chatbot
+179,179,Demande remboursement,Requete de remboursement d'une operation.,2025-03-12,resolue,Agence
+180,180,Probleme connexion application,Erreur technique sur l'application mobile.,2024-06-13,fermee,Chatbot
+181,181,Retard virement,Virement non recu ou en attente prolongee.,2021-06-22,resolue,Application mobile
+182,182,Demande remboursement,Requete de remboursement d'une operation.,2020-04-18,resolue,Application mobile
+183,183,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-03-09,ouverte,Agence
+184,184,Frais injustifies,Frais preleves sans justification sur le compte.,2022-08-30,fermee,Agence
+185,185,Retard virement,Virement non recu ou en attente prolongee.,2020-12-07,encours,Telephone
+186,186,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-04-10,encours,Application mobile
+187,187,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-10-10,fermee,Application mobile
+188,188,Frais injustifies,Frais preleves sans justification sur le compte.,2024-12-25,fermee,Agence
+189,189,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-01-19,encours,Application mobile
+190,190,Probleme connexion application,Erreur technique sur l'application mobile.,2017-05-18,resolue,Email
+191,191,Demande remboursement,Requete de remboursement d'une operation.,2020-06-05,encours,Email
+192,192,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-02-21,resolue,Email
+193,193,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-12-24,encours,Application mobile
+194,194,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-07-13,ouverte,Application mobile
+195,195,Frais injustifies,Frais preleves sans justification sur le compte.,2021-09-24,ouverte,Email
+196,196,Frais injustifies,Frais preleves sans justification sur le compte.,2021-11-26,encours,Agence
+197,197,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2021-07-05,resolue,Agence
+198,198,Probleme connexion application,Erreur technique sur l'application mobile.,2024-09-26,fermee,Chatbot
+199,199,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2016-12-03,ouverte,Agence
+200,200,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-02-05,encours,Email
+201,201,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2020-07-25,resolue,Agence
+202,202,Retard virement,Virement non recu ou en attente prolongee.,2024-05-09,fermee,Email
+203,203,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-06-15,resolue,Agence
+204,204,Frais injustifies,Frais preleves sans justification sur le compte.,2024-04-20,fermee,Email
+205,205,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-11-12,fermee,Email
+206,206,Frais injustifies,Frais preleves sans justification sur le compte.,2023-04-11,fermee,Agence
+207,207,Demande remboursement,Requete de remboursement d'une operation.,2015-07-11,resolue,Application mobile
+208,208,Demande remboursement,Requete de remboursement d'une operation.,2025-02-04,ouverte,Email
+209,209,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-01-04,fermee,Email
+210,210,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2016-12-29,ouverte,Agence
+211,211,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-04-18,encours,Email
+212,212,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2023-02-08,fermee,Telephone
+213,213,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2020-10-06,encours,Agence
+214,214,Demande remboursement,Requete de remboursement d'une operation.,2023-06-06,encours,Email
+215,215,Probleme connexion application,Erreur technique sur l'application mobile.,2024-01-13,fermee,Chatbot
+216,216,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-07-01,encours,Application mobile
+217,217,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2020-11-06,fermee,Application mobile
+218,218,Probleme connexion application,Erreur technique sur l'application mobile.,2017-03-30,resolue,Agence
+219,219,Retard virement,Virement non recu ou en attente prolongee.,2025-02-23,encours,Application mobile
+220,220,Retard virement,Virement non recu ou en attente prolongee.,2020-04-14,fermee,Telephone
+221,221,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-12-10,encours,Agence
+222,222,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2022-07-15,resolue,Application mobile
+223,223,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2021-06-04,ouverte,Chatbot
+224,224,Frais injustifies,Frais preleves sans justification sur le compte.,2021-11-02,fermee,Email
+225,225,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-06-06,resolue,Agence
+226,226,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2020-07-02,resolue,Telephone
+227,227,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2019-04-24,ouverte,Chatbot
+228,228,Probleme connexion application,Erreur technique sur l'application mobile.,2018-03-20,encours,Telephone
+229,229,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2020-12-10,fermee,Chatbot
+230,230,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-01-05,encours,Agence
+231,231,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-03-18,ouverte,Email
+232,232,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2021-06-04,ouverte,Agence
+233,233,Probleme connexion application,Erreur technique sur l'application mobile.,2021-01-12,fermee,Chatbot
+234,234,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-10-01,fermee,Telephone
+235,235,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-12-09,encours,Telephone
+236,236,Retard virement,Virement non recu ou en attente prolongee.,2021-04-13,fermee,Agence
+237,237,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-01-25,ouverte,Application mobile
+238,238,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-03-25,encours,Chatbot
+239,239,Demande remboursement,Requete de remboursement d'une operation.,2025-03-12,resolue,Application mobile
+240,240,Frais injustifies,Frais preleves sans justification sur le compte.,2025-02-04,fermee,Telephone
+241,241,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-04-17,encours,Telephone
+242,242,Retard virement,Virement non recu ou en attente prolongee.,2018-04-14,fermee,Agence
+243,243,Retard virement,Virement non recu ou en attente prolongee.,2025-01-11,fermee,Application mobile
+244,244,Probleme connexion application,Erreur technique sur l'application mobile.,2024-06-19,encours,Chatbot
+245,245,Frais injustifies,Frais preleves sans justification sur le compte.,2024-07-07,ouverte,Email
+246,246,Demande remboursement,Requete de remboursement d'une operation.,2023-12-09,ouverte,Chatbot
+247,247,Probleme connexion application,Erreur technique sur l'application mobile.,2018-07-16,resolue,Email
+248,248,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2019-05-02,encours,Chatbot
+249,249,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2023-12-23,resolue,Email
+250,250,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-01-24,ouverte,Telephone
+251,251,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2020-02-23,encours,Agence
+252,252,Retard virement,Virement non recu ou en attente prolongee.,2024-12-31,resolue,Agence
+253,253,Probleme connexion application,Erreur technique sur l'application mobile.,2024-09-27,encours,Application mobile
+254,254,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-02-27,ouverte,Agence
+255,255,Demande remboursement,Requete de remboursement d'une operation.,2021-12-17,resolue,Email
+256,256,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2020-11-11,ouverte,Email
+257,257,Probleme connexion application,Erreur technique sur l'application mobile.,2025-01-11,ouverte,Telephone
+258,258,Retard virement,Virement non recu ou en attente prolongee.,2022-08-18,ouverte,Chatbot
+259,259,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-04-16,ouverte,Agence
+260,260,Retard virement,Virement non recu ou en attente prolongee.,2020-08-04,ouverte,Telephone
+261,261,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2019-02-01,ouverte,Email
+262,262,Demande remboursement,Requete de remboursement d'une operation.,2023-12-16,fermee,Email
+263,263,Probleme connexion application,Erreur technique sur l'application mobile.,2024-04-21,encours,Telephone
+264,264,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2018-08-10,ouverte,Application mobile
+265,265,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-04-05,encours,Chatbot
+266,266,Retard virement,Virement non recu ou en attente prolongee.,2023-07-31,fermee,Agence
+267,267,Probleme connexion application,Erreur technique sur l'application mobile.,2016-03-18,ouverte,Telephone
+268,268,Demande remboursement,Requete de remboursement d'une operation.,2024-08-27,ouverte,Agence
+269,269,Frais injustifies,Frais preleves sans justification sur le compte.,2024-11-12,resolue,Application mobile
+270,270,Probleme connexion application,Erreur technique sur l'application mobile.,2022-04-18,fermee,Chatbot
+271,271,Demande remboursement,Requete de remboursement d'une operation.,2023-02-05,fermee,Telephone
+272,272,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-02-24,ouverte,Application mobile
+273,273,Probleme connexion application,Erreur technique sur l'application mobile.,2024-06-23,fermee,Application mobile
+274,274,Retard virement,Virement non recu ou en attente prolongee.,2021-03-16,encours,Telephone
+275,275,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2021-09-28,fermee,Agence
+276,276,Retard virement,Virement non recu ou en attente prolongee.,2024-08-31,resolue,Telephone
+277,277,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-01-22,fermee,Application mobile
+278,278,Demande remboursement,Requete de remboursement d'une operation.,2021-10-06,fermee,Application mobile
+279,279,Retard virement,Virement non recu ou en attente prolongee.,2023-08-09,resolue,Chatbot
+280,280,Demande remboursement,Requete de remboursement d'une operation.,2019-11-23,encours,Chatbot
+281,281,Demande remboursement,Requete de remboursement d'une operation.,2017-10-28,fermee,Application mobile
+282,282,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2022-12-05,ouverte,Email
+283,283,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2022-02-10,encours,Chatbot
+284,284,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-03-30,resolue,Agence
+285,285,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-02-17,ouverte,Chatbot
+286,286,Probleme connexion application,Erreur technique sur l'application mobile.,2023-08-08,resolue,Telephone
+287,287,Demande remboursement,Requete de remboursement d'une operation.,2023-07-29,resolue,Telephone
+288,288,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-09-14,encours,Application mobile
+289,289,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2022-04-29,encours,Telephone
+290,290,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2020-12-15,fermee,Telephone
+291,291,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-09-29,ouverte,Agence
+292,292,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2018-09-09,resolue,Chatbot
+293,293,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-12-11,resolue,Agence
+294,294,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2017-11-10,fermee,Application mobile
+295,295,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-04-03,encours,Agence
+296,296,Frais injustifies,Frais preleves sans justification sur le compte.,2023-03-29,ouverte,Agence
+297,297,Demande remboursement,Requete de remboursement d'une operation.,2023-08-15,resolue,Agence
+298,298,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-09-26,fermee,Telephone
+299,299,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-02-17,fermee,Agence
+300,300,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-04-08,encours,Agence
+301,301,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-11-10,ouverte,Telephone
+302,302,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-03-24,encours,Application mobile
+303,303,Frais injustifies,Frais preleves sans justification sur le compte.,2025-04-19,resolue,Application mobile
+304,304,Retard virement,Virement non recu ou en attente prolongee.,2025-01-14,ouverte,Email
+305,305,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2019-11-28,fermee,Chatbot
+306,306,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2021-06-13,fermee,Application mobile
+307,307,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2022-06-11,fermee,Email
+308,308,Demande remboursement,Requete de remboursement d'une operation.,2024-06-22,encours,Telephone
+309,309,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-01-21,fermee,Application mobile
+310,310,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-05-29,ouverte,Chatbot
+311,311,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-06-08,resolue,Telephone
+312,312,Retard virement,Virement non recu ou en attente prolongee.,2021-04-28,fermee,Application mobile
+313,313,Frais injustifies,Frais preleves sans justification sur le compte.,2024-01-13,ouverte,Telephone
+314,314,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2017-08-16,ouverte,Email
+315,315,Frais injustifies,Frais preleves sans justification sur le compte.,2021-08-22,ouverte,Telephone
+316,316,Probleme connexion application,Erreur technique sur l'application mobile.,2023-06-25,encours,Chatbot
+317,317,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2019-01-03,resolue,Email
+318,318,Probleme connexion application,Erreur technique sur l'application mobile.,2024-11-21,ouverte,Telephone
+319,319,Probleme connexion application,Erreur technique sur l'application mobile.,2022-12-04,fermee,Email
+320,320,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-09-04,fermee,Agence
+321,321,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-12-25,fermee,Telephone
+322,322,Probleme connexion application,Erreur technique sur l'application mobile.,2021-08-02,resolue,Email
+323,323,Frais injustifies,Frais preleves sans justification sur le compte.,2022-08-19,fermee,Chatbot
+324,324,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-04-18,fermee,Agence
+325,325,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-02-19,fermee,Application mobile
+326,326,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2025-03-02,resolue,Email
+327,327,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-11-28,ouverte,Application mobile
+328,328,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-05-20,encours,Agence
+329,329,Probleme connexion application,Erreur technique sur l'application mobile.,2024-02-22,fermee,Agence
+330,330,Probleme connexion application,Erreur technique sur l'application mobile.,2024-08-22,fermee,Telephone
+331,331,Frais injustifies,Frais preleves sans justification sur le compte.,2024-12-25,encours,Application mobile
+332,332,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2021-04-23,ouverte,Chatbot
+333,333,Frais injustifies,Frais preleves sans justification sur le compte.,2022-12-02,ouverte,Telephone
+334,334,Retard virement,Virement non recu ou en attente prolongee.,2023-04-05,resolue,Application mobile
+335,335,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-01-08,encours,Telephone
+336,336,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2021-08-01,ouverte,Email
+337,337,Retard virement,Virement non recu ou en attente prolongee.,2022-05-02,ouverte,Chatbot
+338,338,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-05-07,ouverte,Email
+339,339,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2018-10-01,ouverte,Agence
+340,340,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-09-22,fermee,Telephone
+341,341,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-09-01,ouverte,Chatbot
+342,342,Probleme connexion application,Erreur technique sur l'application mobile.,2025-04-20,resolue,Telephone
+343,343,Demande remboursement,Requete de remboursement d'une operation.,2020-10-07,fermee,Telephone
+344,344,Retard virement,Virement non recu ou en attente prolongee.,2024-04-04,fermee,Agence
+345,345,Frais injustifies,Frais preleves sans justification sur le compte.,2023-06-30,resolue,Telephone
+346,346,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2019-01-30,encours,Application mobile
+347,347,Probleme connexion application,Erreur technique sur l'application mobile.,2023-11-24,ouverte,Agence
+348,348,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2021-02-20,resolue,Chatbot
+349,349,Demande remboursement,Requete de remboursement d'une operation.,2022-07-07,ouverte,Chatbot
+350,350,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-10-19,encours,Telephone
+351,351,Demande remboursement,Requete de remboursement d'une operation.,2023-11-10,resolue,Email
+352,352,Demande remboursement,Requete de remboursement d'une operation.,2023-10-31,ouverte,Application mobile
+353,353,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2018-03-07,fermee,Application mobile
+354,354,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-11-19,fermee,Telephone
+355,355,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2023-06-11,encours,Agence
+356,356,Frais injustifies,Frais preleves sans justification sur le compte.,2025-01-31,resolue,Email
+357,357,Probleme connexion application,Erreur technique sur l'application mobile.,2020-09-29,encours,Telephone
+358,358,Retard virement,Virement non recu ou en attente prolongee.,2017-11-06,resolue,Application mobile
+359,359,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2019-01-11,ouverte,Telephone
+360,360,Retard virement,Virement non recu ou en attente prolongee.,2018-07-07,fermee,Chatbot
+361,361,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2017-07-01,resolue,Application mobile
+362,362,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-06-27,resolue,Telephone
+363,363,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-06-07,ouverte,Agence
+364,364,Demande remboursement,Requete de remboursement d'une operation.,2022-02-10,encours,Chatbot
+365,365,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2022-01-11,ouverte,Agence
+366,366,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2019-11-05,ouverte,Chatbot
+367,367,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2022-02-06,resolue,Application mobile
+368,368,Retard virement,Virement non recu ou en attente prolongee.,2020-03-25,fermee,Email
+369,369,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-06-16,ouverte,Application mobile
+370,370,Retard virement,Virement non recu ou en attente prolongee.,2025-03-22,ouverte,Chatbot
+371,371,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-06-23,encours,Agence
+372,372,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2019-07-15,fermee,Agence
+373,373,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2021-07-07,resolue,Email
+374,374,Probleme connexion application,Erreur technique sur l'application mobile.,2021-10-21,encours,Application mobile
+375,375,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2023-07-13,ouverte,Chatbot
+376,376,Probleme connexion application,Erreur technique sur l'application mobile.,2019-03-07,encours,Telephone
+377,377,Retard virement,Virement non recu ou en attente prolongee.,2025-03-27,encours,Email
+378,378,Frais injustifies,Frais preleves sans justification sur le compte.,2022-03-07,encours,Chatbot
+379,379,Frais injustifies,Frais preleves sans justification sur le compte.,2025-03-14,fermee,Telephone
+380,380,Probleme connexion application,Erreur technique sur l'application mobile.,2021-11-22,fermee,Agence
+381,381,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2023-04-23,ouverte,Chatbot
+382,382,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-01-11,encours,Agence
+383,383,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2021-07-24,ouverte,Telephone
+384,384,Frais injustifies,Frais preleves sans justification sur le compte.,2023-07-08,resolue,Application mobile
+385,385,Probleme connexion application,Erreur technique sur l'application mobile.,2022-10-23,fermee,Agence
+386,386,Demande remboursement,Requete de remboursement d'une operation.,2019-04-14,encours,Email
+387,387,Frais injustifies,Frais preleves sans justification sur le compte.,2024-06-23,ouverte,Telephone
+388,388,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2020-10-14,encours,Telephone
+389,389,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-04-01,fermee,Chatbot
+390,390,Probleme connexion application,Erreur technique sur l'application mobile.,2024-12-06,fermee,Email
+391,391,Demande remboursement,Requete de remboursement d'une operation.,2023-11-30,ouverte,Chatbot
+392,392,Retard virement,Virement non recu ou en attente prolongee.,2022-09-26,encours,Application mobile
+393,393,Frais injustifies,Frais preleves sans justification sur le compte.,2022-09-03,encours,Email
+394,394,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-04-15,resolue,Chatbot
+395,395,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-04-16,fermee,Application mobile
+396,396,Demande remboursement,Requete de remboursement d'une operation.,2024-05-17,fermee,Application mobile
+397,397,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-05-31,fermee,Agence
+398,398,Retard virement,Virement non recu ou en attente prolongee.,2023-12-12,encours,Telephone
+399,399,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-06-16,encours,Chatbot
+400,400,Retard virement,Virement non recu ou en attente prolongee.,2025-01-19,resolue,Chatbot
+401,401,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-01-22,fermee,Telephone
+402,402,Demande remboursement,Requete de remboursement d'une operation.,2021-10-28,fermee,Agence
+403,403,Retard virement,Virement non recu ou en attente prolongee.,2020-07-04,encours,Agence
+404,404,Frais injustifies,Frais preleves sans justification sur le compte.,2024-11-24,fermee,Chatbot
+405,405,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2022-12-13,ouverte,Telephone
+406,406,Frais injustifies,Frais preleves sans justification sur le compte.,2020-04-30,fermee,Chatbot
+407,407,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2022-07-22,resolue,Email
+408,408,Probleme connexion application,Erreur technique sur l'application mobile.,2024-12-16,ouverte,Chatbot
+409,409,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-01-06,encours,Application mobile
+410,410,Probleme connexion application,Erreur technique sur l'application mobile.,2023-09-26,ouverte,Application mobile
+411,411,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-08-29,resolue,Email
+412,412,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2020-11-18,fermee,Chatbot
+413,413,Frais injustifies,Frais preleves sans justification sur le compte.,2020-08-17,resolue,Email
+414,414,Frais injustifies,Frais preleves sans justification sur le compte.,2024-07-12,resolue,Telephone
+415,415,Retard virement,Virement non recu ou en attente prolongee.,2024-04-28,encours,Email
+416,416,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-03-21,ouverte,Email
+417,417,Demande remboursement,Requete de remboursement d'une operation.,2024-08-16,ouverte,Application mobile
+418,418,Demande remboursement,Requete de remboursement d'une operation.,2025-03-14,fermee,Chatbot
+419,419,Probleme connexion application,Erreur technique sur l'application mobile.,2024-07-31,resolue,Chatbot
+420,420,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-10-14,encours,Chatbot
+421,421,Demande remboursement,Requete de remboursement d'une operation.,2024-10-10,resolue,Email
+422,422,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2023-05-19,ouverte,Chatbot
+423,423,Probleme connexion application,Erreur technique sur l'application mobile.,2021-10-07,ouverte,Agence
+424,424,Probleme connexion application,Erreur technique sur l'application mobile.,2024-03-22,fermee,Email
+425,425,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2021-03-01,resolue,Telephone
+426,426,Retard virement,Virement non recu ou en attente prolongee.,2021-01-21,encours,Chatbot
+427,427,Retard virement,Virement non recu ou en attente prolongee.,2024-11-11,encours,Telephone
+428,428,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-02-19,fermee,Agence
+429,429,Probleme connexion application,Erreur technique sur l'application mobile.,2020-05-22,ouverte,Chatbot
+430,430,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-02-09,encours,Application mobile
+431,431,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-02-15,ouverte,Telephone
+432,432,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2022-07-14,resolue,Telephone
+433,433,Retard virement,Virement non recu ou en attente prolongee.,2024-01-19,fermee,Email
+434,434,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2022-06-09,resolue,Application mobile
+435,435,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2019-07-27,ouverte,Telephone
+436,436,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2017-09-02,resolue,Agence
+437,437,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-12-15,encours,Telephone
+438,438,Frais injustifies,Frais preleves sans justification sur le compte.,2024-06-14,fermee,Chatbot
+439,439,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2020-06-14,ouverte,Application mobile
+440,440,Probleme connexion application,Erreur technique sur l'application mobile.,2024-04-25,ouverte,Agence
+441,441,Frais injustifies,Frais preleves sans justification sur le compte.,2024-07-05,encours,Application mobile
+442,442,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-09-15,resolue,Telephone
+443,443,Retard virement,Virement non recu ou en attente prolongee.,2020-03-02,fermee,Chatbot
+444,444,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2020-09-10,fermee,Telephone
+445,445,Demande remboursement,Requete de remboursement d'une operation.,2024-08-14,fermee,Email
+446,446,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2024-09-02,resolue,Agence
+447,447,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2020-05-31,resolue,Telephone
+448,448,Retard virement,Virement non recu ou en attente prolongee.,2024-02-05,resolue,Email
+449,449,Retard virement,Virement non recu ou en attente prolongee.,2024-07-17,resolue,Chatbot
+450,450,Retard virement,Virement non recu ou en attente prolongee.,2024-02-25,fermee,Chatbot
+451,451,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-03-21,resolue,Telephone
+452,452,Probleme connexion application,Erreur technique sur l'application mobile.,2021-03-16,encours,Agence
+453,453,Probleme connexion application,Erreur technique sur l'application mobile.,2020-08-15,ouverte,Email
+454,454,Frais injustifies,Frais preleves sans justification sur le compte.,2024-04-21,fermee,Chatbot
+455,455,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2022-09-02,encours,Telephone
+456,456,Frais injustifies,Frais preleves sans justification sur le compte.,2024-10-28,encours,Telephone
+457,457,Retard virement,Virement non recu ou en attente prolongee.,2025-04-03,encours,Telephone
+458,458,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-03-05,fermee,Telephone
+459,459,Probleme connexion application,Erreur technique sur l'application mobile.,2024-05-28,fermee,Application mobile
+460,460,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-03-02,fermee,Telephone
+461,461,Retard virement,Virement non recu ou en attente prolongee.,2024-07-26,resolue,Telephone
+462,462,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-05-02,ouverte,Chatbot
+463,463,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-02-09,resolue,Email
+464,464,Frais injustifies,Frais preleves sans justification sur le compte.,2017-02-22,resolue,Application mobile
+465,465,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-05-19,fermee,Chatbot
+466,466,Retard virement,Virement non recu ou en attente prolongee.,2022-06-28,resolue,Chatbot
+467,467,Retard virement,Virement non recu ou en attente prolongee.,2019-11-04,resolue,Application mobile
+468,468,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-01-15,ouverte,Application mobile
+469,469,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2021-01-05,ouverte,Email
+470,470,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-12-14,encours,Telephone
+471,471,Frais injustifies,Frais preleves sans justification sur le compte.,2019-12-02,fermee,Agence
+472,472,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2025-03-25,ouverte,Chatbot
+473,473,Probleme connexion application,Erreur technique sur l'application mobile.,2025-03-21,resolue,Agence
+474,474,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2021-12-21,encours,Agence
+475,475,Probleme connexion application,Erreur technique sur l'application mobile.,2022-01-20,fermee,Chatbot
+476,476,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2021-05-12,encours,Email
+477,477,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2023-09-08,resolue,Application mobile
+478,478,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2019-08-02,ouverte,Application mobile
+479,479,Retard virement,Virement non recu ou en attente prolongee.,2020-02-27,encours,Application mobile
+480,480,Probleme connexion application,Erreur technique sur l'application mobile.,2023-12-30,resolue,Chatbot
+481,481,Probleme connexion application,Erreur technique sur l'application mobile.,2020-06-18,ouverte,Email
+482,482,Retard virement,Virement non recu ou en attente prolongee.,2019-05-31,resolue,Agence
+483,483,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2017-12-22,encours,Telephone
+484,484,Demande remboursement,Requete de remboursement d'une operation.,2022-11-05,encours,Application mobile
+485,485,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2022-08-11,ouverte,Agence
+486,486,Demande remboursement,Requete de remboursement d'une operation.,2025-04-11,resolue,Email
+487,487,Demande remboursement,Requete de remboursement d'une operation.,2022-12-03,fermee,Email
+488,488,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-02-20,ouverte,Chatbot
+489,489,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2021-02-09,encours,Application mobile
+490,490,Probleme carte bancaire,Carte avalee ou bloquee lors d'une transaction.,2024-11-26,ouverte,Telephone
+491,491,Frais injustifies,Frais preleves sans justification sur le compte.,2024-10-07,fermee,Agence
+492,492,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2024-02-13,fermee,Telephone
+493,493,Frais injustifies,Frais preleves sans justification sur le compte.,2016-12-06,fermee,Agence
+494,494,Demande remboursement,Requete de remboursement d'une operation.,2022-03-05,resolue,Email
+495,495,Frais injustifies,Frais preleves sans justification sur le compte.,2024-08-25,resolue,Email
+496,496,Probleme connexion application,Erreur technique sur l'application mobile.,2024-12-05,encours,Email
+497,497,Frais injustifies,Frais preleves sans justification sur le compte.,2018-01-15,resolue,Agence
+498,498,Probleme connexion application,Erreur technique sur l'application mobile.,2025-03-21,resolue,Application mobile
+499,499,Erreur sur transaction,Montant incorrect ou operation non reconnue.,2025-01-13,ouverte,Agence
+500,500,Acces compte bloque,Impossibilite d'acceder a l'espace client.,2021-01-31,ouverte,Agence

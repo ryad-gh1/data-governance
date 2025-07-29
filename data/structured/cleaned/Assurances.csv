@@ -1,0 +1,101 @@
+id_assurance,type_assurance,prime_mensuelle,montant_couvert,conditions,fournisseur
+1,Vie,1498.27,447175.67,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",axa maroc
+2,Habitation,57.34,412411.13,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",rma
+3,Voyage,710.56,375181.21,"Prise en charge medicale, annulation, perte de bagages.",atlantasanad
+4,Vie,1439.69,377848.41,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",atlantasanad
+5,Vie,660.02,932376.17,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",rma
+6,Automobile,972.18,929104.87,"Assurance obligatoire, couvre responsabilite civile et dommages.",saham
+7,Habitation,1185.55,393021.91,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",axa maroc
+8,Vie,1164.12,439830.71,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",wafa assurance
+9,Sant,1308.97,310969.07,,saham
+10,Habitation,1325.91,181815.95,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",axa maroc
+11,Voyage,1446.05,797086.96,"Prise en charge medicale, annulation, perte de bagages.",rma
+12,Automobile,340.64,107821.71,"Assurance obligatoire, couvre responsabilite civile et dommages.",saham
+13,Automobile,167.95,289228.48,"Assurance obligatoire, couvre responsabilite civile et dommages.",rma
+14,Vie,843.49,25441.12,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",rma
+15,Automobile,1290.79,37620.49,"Assurance obligatoire, couvre responsabilite civile et dommages.",rma
+16,Habitation,800.71,810021.21,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",wafa assurance
+17,Voyage,446.15,167908.88,"Prise en charge medicale, annulation, perte de bagages.",saham
+18,Voyage,626.92,115941.17,"Prise en charge medicale, annulation, perte de bagages.",atlantasanad
+19,Voyage,104.08,633148.29,"Prise en charge medicale, annulation, perte de bagages.",saham
+20,Voyage,835.81,595642.97,"Prise en charge medicale, annulation, perte de bagages.",rma
+21,Voyage,1058.37,233897.68,"Prise en charge medicale, annulation, perte de bagages.",wafa assurance
+22,Voyage,1332.56,31816.58,"Prise en charge medicale, annulation, perte de bagages.",atlantasanad
+23,Sant,803.02,85729.36,,saham
+24,Automobile,1056.42,931266.66,"Assurance obligatoire, couvre responsabilite civile et dommages.",wafa assurance
+25,Sant,1279.0,76667.22,,rma
+26,Sant,734.58,678757.69,,atlantasanad
+27,Sant,674.1,813950.55,,atlantasanad
+28,Voyage,528.29,734158.77,"Prise en charge medicale, annulation, perte de bagages.",atlantasanad
+29,Habitation,83.52,965675.45,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",rma
+30,Habitation,999.38,372249.79,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",atlantasanad
+31,Automobile,1222.06,75327.64,"Assurance obligatoire, couvre responsabilite civile et dommages.",rma
+32,Automobile,1403.69,92553.9,"Assurance obligatoire, couvre responsabilite civile et dommages.",rma
+33,Vie,628.5,787297.04,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",atlantasanad
+34,Automobile,179.69,547784.58,"Assurance obligatoire, couvre responsabilite civile et dommages.",wafa assurance
+35,Vie,601.75,785602.97,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",saham
+36,Voyage,760.39,279117.41,"Prise en charge medicale, annulation, perte de bagages.",wafa assurance
+37,Voyage,1173.28,125564.93,"Prise en charge medicale, annulation, perte de bagages.",rma
+38,Voyage,1348.31,865734.61,"Prise en charge medicale, annulation, perte de bagages.",saham
+39,Automobile,714.14,109128.42,"Assurance obligatoire, couvre responsabilite civile et dommages.",saham
+40,Voyage,508.87,34043.74,"Prise en charge medicale, annulation, perte de bagages.",axa maroc
+41,Vie,1482.22,973839.54,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",rma
+42,Habitation,1045.22,564580.61,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",atlantasanad
+43,Sant,902.33,350647.61,,wafa assurance
+44,Habitation,1229.09,638728.05,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",atlantasanad
+45,Automobile,722.77,54982.24,"Assurance obligatoire, couvre responsabilite civile et dommages.",saham
+46,Voyage,1469.46,354165.33,"Prise en charge medicale, annulation, perte de bagages.",axa maroc
+47,Habitation,1111.89,885682.57,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",wafa assurance
+48,Habitation,370.71,762649.23,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",atlantasanad
+49,Voyage,1031.5,197208.95,"Prise en charge medicale, annulation, perte de bagages.",axa maroc
+50,Voyage,217.17,302539.14,"Prise en charge medicale, annulation, perte de bagages.",saham
+51,Sant,1423.78,60823.48,,wafa assurance
+52,Voyage,624.39,702132.67,"Prise en charge medicale, annulation, perte de bagages.",axa maroc
+53,Sant,259.11,567619.99,,axa maroc
+54,Habitation,556.84,949748.03,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",rma
+55,Habitation,691.17,176469.54,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",wafa assurance
+56,Voyage,847.16,366072.44,"Prise en charge medicale, annulation, perte de bagages.",axa maroc
+57,Sant,237.65,803913.66,,wafa assurance
+58,Sant,625.51,374915.77,,rma
+59,Voyage,988.87,370177.83,"Prise en charge medicale, annulation, perte de bagages.",atlantasanad
+60,Sant,360.14,26379.07,,saham
+61,Automobile,1015.9,477916.84,"Assurance obligatoire, couvre responsabilite civile et dommages.",rma
+62,Automobile,1474.98,827759.56,"Assurance obligatoire, couvre responsabilite civile et dommages.",wafa assurance
+63,Voyage,1163.57,521341.18,"Prise en charge medicale, annulation, perte de bagages.",wafa assurance
+64,Sant,863.05,147359.65,,rma
+65,Voyage,228.37,447712.81,"Prise en charge medicale, annulation, perte de bagages.",wafa assurance
+66,Automobile,1417.57,692211.02,"Assurance obligatoire, couvre responsabilite civile et dommages.",saham
+67,Habitation,896.56,144269.61,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",atlantasanad
+68,Vie,1369.65,937591.81,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",saham
+69,Habitation,705.37,619628.51,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",wafa assurance
+70,Vie,440.63,911222.2,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",axa maroc
+71,Vie,291.57,731949.9,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",atlantasanad
+72,Voyage,1080.1,989189.87,"Prise en charge medicale, annulation, perte de bagages.",atlantasanad
+73,Sant,865.63,866473.7,,saham
+74,Vie,1162.25,941985.92,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",saham
+75,Sant,106.58,78401.08,,axa maroc
+76,Automobile,1044.87,984706.38,"Assurance obligatoire, couvre responsabilite civile et dommages.",rma
+77,Habitation,176.54,924232.02,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",axa maroc
+78,Voyage,881.6,813137.62,"Prise en charge medicale, annulation, perte de bagages.",wafa assurance
+79,Vie,1348.22,996580.75,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",saham
+80,Automobile,1234.44,45181.37,"Assurance obligatoire, couvre responsabilite civile et dommages.",axa maroc
+81,Automobile,1243.29,669865.29,"Assurance obligatoire, couvre responsabilite civile et dommages.",rma
+82,Habitation,770.52,795483.27,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",atlantasanad
+83,Habitation,206.4,863997.23,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",wafa assurance
+84,Voyage,137.93,778616.77,"Prise en charge medicale, annulation, perte de bagages.",axa maroc
+85,Vie,1376.27,113591.62,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",atlantasanad
+86,Voyage,981.16,882466.75,"Prise en charge medicale, annulation, perte de bagages.",rma
+87,Automobile,550.64,791944.92,"Assurance obligatoire, couvre responsabilite civile et dommages.",atlantasanad
+88,Habitation,1390.46,640576.92,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",atlantasanad
+89,Voyage,1223.47,402625.21,"Prise en charge medicale, annulation, perte de bagages.",rma
+90,Voyage,190.38,960345.94,"Prise en charge medicale, annulation, perte de bagages.",rma
+91,Voyage,849.87,704179.07,"Prise en charge medicale, annulation, perte de bagages.",rma
+92,Sant,1000.46,265692.59,,axa maroc
+93,Habitation,325.44,792989.67,"Couvre incendie, vol, degats des eaux, catastrophes naturelles.",saham
+94,Automobile,289.37,341348.48,"Assurance obligatoire, couvre responsabilite civile et dommages.",rma
+95,Sant,454.06,467137.14,,saham
+96,Automobile,251.1,368201.6,"Assurance obligatoire, couvre responsabilite civile et dommages.",atlantasanad
+97,Voyage,1351.91,305451.05,"Prise en charge medicale, annulation, perte de bagages.",wafa assurance
+98,Sant,681.44,94018.67,,axa maroc
+99,Automobile,550.19,92577.81,"Assurance obligatoire, couvre responsabilite civile et dommages.",saham
+100,Vie,1225.18,165399.4,"Garantie en cas de deces ou invalidite, versement au beneficiaire.",rma

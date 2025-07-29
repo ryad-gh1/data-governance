@@ -1,0 +1,11 @@
+id_role,nom_role,description
+1,Administrateur,"Gere les utilisateurs, les acces et la configuration du systeme."
+2,Client,Utilisateur final accedant aux services bancaires.
+3,Conseiller,Accompagne les clients dans la gestion de leurs produits et services.
+4,Analyste,Analyse les donnees financieres et propose des rapports strategiques.
+5,Responsable Agence,Supervise les operations au sein d'une agence bancaire.
+6,Controleur,Verifie la conformite et l'integrite des donnees et des operations.
+7,Auditeur,Realise des audits internes pour garantir la conformite reglementaire.
+8,Charge De Conformite,S'assure du respect des normes legales et internes.
+9,Support Technique,Fournit un support technique aux utilisateurs.
+10,Developpeur,Cree et maintient des applications et outils logiciels.
